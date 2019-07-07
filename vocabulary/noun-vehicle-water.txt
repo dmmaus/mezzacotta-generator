@@ -2,6 +2,7 @@
 Barge
 Boat
 Caravel
+Cog
 Galleon
 Galley
 Longboat

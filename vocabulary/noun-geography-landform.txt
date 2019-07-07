@@ -1,0 +1,16 @@
+# Natural landforms
+@format ~
+Brook
+Cavern
+Coast
+Cove
+Den
+Falls
+Forest
+Hill
+Mountain
+Ocean
+Pit
+River
+Sea
+Stream

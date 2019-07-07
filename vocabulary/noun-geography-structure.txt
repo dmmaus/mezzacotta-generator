@@ -1,0 +1,25 @@
+# Man-made or animal-made objects in the landscape.
+@format ~
+Barn
+Bridge
+Campfire
+Castle
+Citadel
+City
+Dam
+Dock
+Farm
+Farmhouse
+Fort
+Fortress
+Haystack
+House
+Labyrinth
+Maze
+Nest
+Port
+Road
+Sign
+Tower
+Town
+Village

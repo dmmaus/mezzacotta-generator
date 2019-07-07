@@ -1,0 +1,12 @@
+@format ~
+Flower
+Juniper
+Magnolia
+Oak_Tree
+Pine_Tree
+Rose
+Shamrock
+Stump
+Thistle
+Tree
+Willow
