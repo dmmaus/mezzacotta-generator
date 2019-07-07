@@ -4,9 +4,9 @@
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 </head>
 <body>
-<h1>Test</h1>
+<h1>Test generator</h1>
 <p>
-Testing calling python from PHP:
+10 random silly sentences with a small custom vocabulary, for test purposes. Reload for more.
 </p>
 <ul>
 <li>
