@@ -27,6 +27,13 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 * Core shareable vocabulary files are in the directory *vocabulary*.
 * Other directories contain specific generators with PHP index file, base grammar file, and context-dependent vocabulary files (of limited use to other generators).
 
+To run the generators from a web browser, place the code into your web server directory, then point your browser at the top level index.php file.
+
+To run a generator from the command line, change to the generator subdirectory and run either:
+
+* `python ../generique.py test/base`
+* `php index.php`
+
 ## Grammar and vocabulary file specification
 
 (to be written)
