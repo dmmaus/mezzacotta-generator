@@ -1,0 +1,17 @@
+@format ~
+Arrow
+Axe
+Bow
+Crossbow
+Cudgel
+Dagger
+Flail
+Halberd
+Hammer
+Knife
+Lance
+Mace
+Spear
+Staff
+Sword
+Whip

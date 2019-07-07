@@ -1,0 +1,20 @@
+@format ~
+Barrel
+Bottle
+Bowl
+Bucket
+Cauldron
+Chalice
+Chest
+Cup
+Flagon
+Flask
+Glass
+Keg
+Kettle
+Mug
+Pan
+Plate
+Sack
+Stein
+Tun
