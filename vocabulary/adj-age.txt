@@ -1,0 +1,17 @@
+@format ~
+Adolescent
+Aged
+Ancient
+Antique
+Decrepit
+Elderly
+Fledgling
+Infant
+Junior
+Mature
+New
+Old
+Senior
+Venerable
+Young
+Youthful

@@ -1,0 +1,14 @@
+@format ~
+Dwarf
+Elf
+Fairy
+Giant
+Gnome
+Goblin
+Halfling
+Hobbit
+Hobgoblin
+Leprechaun
+Nymph
+Ogre
+Orc

@@ -1,0 +1,15 @@
+# Nouns
+# singluar | plural
+@format ~|S
+cat|cats
+dog|dogs
+elephant|elephants
+octupus|octopi
+dish washer|washers
+turtle|turtles
+fan|fans
+witch|witches
+television|televisions
+table|tables
+donut|donuts
+porcupine|porcupines

@@ -1,0 +1,16 @@
+# Generic adjectives
+@format ~|ER|EST
+blue|more_blue|bluest
+pink|more_pink|pinkest
+silly|sillier|silliest
+happy|happier|happiest
+old|older|oldest
+new|newer|newest
+weird|weirder|weirdest
+special|more_special|most_special
+crazy|crazier|craziest
+smelly|smellier|smelliest
+big|bigger|biggest
+little|littler|littlest
+bad|worse|worst
+fat|fatter|fattest

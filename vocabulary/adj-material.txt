@@ -1,0 +1,25 @@
+@format ~
+Brass
+Bronze
+Copper
+Cotton
+Crystal
+Ebony
+Flax
+Glass
+Gold
+Ice
+Iron
+Ivory
+Lead
+Leather
+Linen
+Metal
+Metallic
+Paper
+Silver
+Stone
+Tin
+Wood
+Wooden
+Woollen

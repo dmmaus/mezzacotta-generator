@@ -1,0 +1,13 @@
+# Transitive Verbs (ie, is done to another object)
+@format ~|S|ED|ING
+eat|eats|ate|eating
+want|wants|wanted|wanting
+lick|licks|licked|licking
+have|has|had|having
+look|looks|looked|looking at
+find|finds|found|finding
+love|loves|loved|loving
+wish|wishes|wished|wishing for
+kill|kills|killed|killing
+watch|watches|watched|watching
+talk|talks|talked|talking to
