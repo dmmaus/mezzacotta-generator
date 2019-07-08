@@ -136,6 +136,13 @@ class MezzaGenerator:
 if __name__ == '__main__':
 
     gen = MezzaGenerator()
+    # Read base file name from command line.
     basefilename = sys.argv[1]
-    for i in range(10):
+    # Read number of lines to generate; default to 1.
+    if (len(sys.argv) > 2):
+        num = int(sys.argv[2])
+    else:
+        num = 1
+    # Generate lines!
+    for i in range(num):
         print gen.Generate(basefilename)

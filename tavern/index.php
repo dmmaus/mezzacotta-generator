@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title>Random Tavern Names - mezzacotta</title>
 </head>
 <body>
 <h1>Random Tavern names</h1>
@@ -11,9 +12,9 @@
 <ul>
 <li>
 <?php
-$command = escapeshellcmd('/usr/bin/python ../generique.py tavern/base');
+$command = escapeshellcmd('/usr/bin/python ../generique.py tavern/base 10');
 $output = shell_exec($command);
-$output = preg_replace('/\n/', "</li>\n<li>", $output);
+$output = preg_replace('/\n/', "</li>\n<li>", rtrim($output));
 echo $output;
 ?>
 </li>

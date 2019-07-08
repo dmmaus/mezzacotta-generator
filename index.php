@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title>Random Generator Test - mezzacotta</title>
 </head>
 <body>
 <h1>mezzacotta Generator</h1>
