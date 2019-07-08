@@ -1,4 +1,8 @@
 @format ~
+$noun-animal Baiter
+$noun-animal Herder
+$noun-animal Trainer
+$noun-animal Wrestler
 Abbess
 Abbott
 Acolyte
@@ -54,7 +58,9 @@ Cantor
 Captain
 Cardinal
 Carpenter
+Cartographer
 Cartwright
+Catchpole
 Cavalier
 Chamberlain
 Champion
@@ -63,6 +69,7 @@ Chandler
 Chaplain
 Chapman
 Charcoal-burner
+Charioteer
 Charlatan
 Cheesemaker
 Chef
@@ -140,6 +147,7 @@ Gamekeeper
 Gaoler
 Gardener
 Gemcutter
+Gladiator
 Glassblower
 Glazier
 Glover
@@ -150,6 +158,7 @@ Granger
 Gravedigger
 Greengrocer
 Grocer
+Guardsman
 Guide
 Guildmaster
 Gypsy
@@ -161,6 +170,7 @@ Harlequin
 Harlot
 Harper
 Hatter
+Healer
 Hedge-warden
 Herald
 Herbalist
@@ -189,6 +199,7 @@ Knifesmith
 Knight
 Lacemaker
 Lady
+Lady-in-waiting
 Lamplighter
 Lancer
 Landlady
@@ -215,6 +226,7 @@ Marksman
 Mason
 Matriarch
 Meistersinger
+Mercenary
 Merchant
 Messenger
 Midwife
@@ -233,6 +245,7 @@ Nomad
 Nun
 Nurse
 Nursemaid
+Orchardist
 Ostler
 Outcast
 Outlaw
@@ -287,6 +300,7 @@ Saddler
 Sage
 Sailmaker
 Sailor
+Sapper
 Scout
 Scribe
 Scrivener
@@ -367,6 +381,7 @@ Weaver
 Wench
 Wetnurse
 Wheelwright
+Wise_Woman
 Witch
 Wizard
 Woodcarver
