@@ -1,0 +1,25 @@
+# Abstract or non-material nouns
+@format ~
+Anger
+Beauty
+Breath
+Courage
+Danger
+Darkness
+Death
+Freedom
+Harvest
+Joy
+Laughter
+Life
+Music
+Prayer
+Pride
+Puzzle
+Sleep
+Slumber
+Song
+Strength
+Tale
+Truth
+Wisdom

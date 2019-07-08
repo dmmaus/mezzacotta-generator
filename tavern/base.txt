@@ -1,32 +1,24 @@
 # Top level random tavern names
 @format ~
 $adjective $noun $noun-tavern
+$noun $noun-tavern
+$noun and $noun
 $noun-tavern of the $adjective $noun
 $noun-tavern of the $adjective $noun-animal
 $noun-tavern of the $adjective $person-profession-medieval
 $noun-tavern of the $person-profession-medieval 's $noun
 $noun-tavern of the $person-profession-medieval 's $person-relative
-$noun $noun-tavern
-$noun and $noun
-The $adjective $noun-tavern
 The $adjective $noun
 The $adjective $noun $noun-tavern
 The $adjective $noun and the $adjective $noun
 The $adjective $noun-animal 's $noun
 The $adjective $noun-animal 's $noun-bodypart
+The $adjective $noun-furniture
+The $adjective $noun-furniture $noun-tavern
 The $adjective $noun-monster 's $noun
 The $adjective $noun-monster 's $noun-bodypart
+The $adjective $noun-tavern
 The $adjective $person-profession-medieval 's $noun
-The $noun-tavern
-The $noun-tavern of the $adjective $noun
-The $noun-tavern of the $adjective $noun-animal
-The $noun-tavern of the $adjective $person-profession-medieval
-The $noun-tavern of the $adjective $person-profession-medieval 's $noun
-The $noun-tavern of the $person-profession-medieval
-The $noun-tavern of the $person-profession-medieval 's $noun
-The $noun-tavern of the $noun-animal
-The $noun-tavern of the $noun-animal 's $noun-bodypart
-The $noun-tavern of the $adjective $noun-animal
 The $noun
 The $noun $noun-tavern
 The $noun and $noun
@@ -42,6 +34,16 @@ The $noun-monster 's $noun
 The $noun-monster 's $noun $noun-tavern
 The $noun-monster 's $noun-bodypart
 The $noun-monster 's $noun-bodypart $noun-tavern
+The $noun-tavern
+The $noun-tavern of the $adjective $noun
+The $noun-tavern of the $adjective $noun-animal
+The $noun-tavern of the $adjective $noun-animal
+The $noun-tavern of the $adjective $person-profession-medieval
+The $noun-tavern of the $adjective $person-profession-medieval 's $noun
+The $noun-tavern of the $noun-animal
+The $noun-tavern of the $noun-animal 's $noun-bodypart
+The $noun-tavern of the $person-profession-medieval
+The $noun-tavern of the $person-profession-medieval 's $noun
 The $person-profession-medieval 's $adjective $noun
 The $person-profession-medieval 's $noun
 The $person-profession-medieval 's $noun-bodypart
@@ -50,10 +52,10 @@ The $person-profession-medieval 's $person-relative 's $noun
 The $person-relative 's $noun
 The $tavern/noun-tavernsign of the $adjective $noun
 The $tavern/noun-tavernsign of the $adjective $noun-animal
+The $tavern/noun-tavernsign of the $adjective $noun-animal
 The $tavern/noun-tavernsign of the $adjective $person-profession-medieval
 The $tavern/noun-tavernsign of the $adjective $person-profession-medieval 's $noun
-The $tavern/noun-tavernsign of the $person-profession-medieval
-The $tavern/noun-tavernsign of the $person-profession-medieval 's $noun
 The $tavern/noun-tavernsign of the $noun-animal
 The $tavern/noun-tavernsign of the $noun-animal 's $noun-bodypart
-The $tavern/noun-tavernsign of the $adjective $noun-animal
+The $tavern/noun-tavernsign of the $person-profession-medieval
+The $tavern/noun-tavernsign of the $person-profession-medieval 's $noun

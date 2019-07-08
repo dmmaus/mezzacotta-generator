@@ -1,0 +1,26 @@
+Artificial/man-made objects.
+@format ~
+$noun-clothing
+$noun-container
+$noun-furniture
+$noun-geography-structure
+$noun-knot
+$noun-tool
+$noun-vehicle
+$noun-weapon
+Anchor
+Bell
+Book
+Chessmen
+Coin
+Compass
+Drum
+Flute
+Globe
+Lute
+Rope
+Spellbook
+Torch
+Trophy
+Wand
+Whistle

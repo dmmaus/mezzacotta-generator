@@ -1,9 +1,18 @@
 @format ~
 Apple
+Beer
+Cutlet
 Egg
 Haunch
+Joint
 Leek
 Onion
 Pint
+Potato
 Pumpkin
+Roast
+Sausage
+Shot
+Steak
 Turnip
+Wine

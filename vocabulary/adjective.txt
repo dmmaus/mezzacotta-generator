@@ -158,6 +158,7 @@ Hanged
 Hanging
 Haunted
 Headless
+Hearty
 Hidden
 Hiding
 Hovering

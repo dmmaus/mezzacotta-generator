@@ -1,12 +1,19 @@
 @format ~
+$noun-plant-flower
+Blossom
+Bush
 Flower
+Grass
+Herb
 Juniper
-Magnolia
-Oak_Tree
-Pine_Tree
-Rose
+Oak
+Pine
+Seedling
 Shamrock
+Shrub
+Stick
 Stump
-Thistle
 Tree
+Vine
+Weed
 Willow

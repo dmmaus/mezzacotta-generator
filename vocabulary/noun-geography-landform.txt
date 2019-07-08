@@ -1,5 +1,6 @@
-# Natural landforms
+# Natural landforms and geological objects
 @format ~
+Bog
 Brook
 Cavern
 Coast
@@ -8,9 +9,18 @@ Den
 Falls
 Forest
 Hill
+Island
+Jungle
+Marsh
 Mountain
 Ocean
 Pit
+Plain
 River
+Rock
 Sea
+Stone
 Stream
+Swamp
+Woods
+Volcano

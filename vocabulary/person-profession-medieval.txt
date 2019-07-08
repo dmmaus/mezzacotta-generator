@@ -18,6 +18,7 @@ Archbishop
 Archer
 Architect
 Arkwright
+Arquebusier
 Artisan
 Artist
 Ashburner

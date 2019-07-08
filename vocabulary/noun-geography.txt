@@ -2,3 +2,4 @@
 @format ~
 $noun-geography-landform
 $noun-geography-structure
+$noun-geography-weather

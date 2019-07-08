@@ -1,0 +1,21 @@
+# Weather and other natural phenomena
+@format ~
+Cloud
+Drizzle
+Earthquake
+Fire
+Flame
+Fog
+Hail
+Hailstone
+Lightning
+Mist
+Rain
+Rainbow
+Sleet
+Snow
+Storm
+Sunshine
+Thunder
+Thunderstorm
+Wind

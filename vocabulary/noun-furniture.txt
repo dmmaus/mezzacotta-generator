@@ -1,0 +1,20 @@
+# Furniture - includes rooms and architectural features.
+@format ~
+Archway
+Bench
+Candle
+Chair
+Chimney
+Door
+Fireplace
+Hearth
+Kitchen
+Lantern
+Light
+Mantel
+Oven
+Sconce
+Stool
+Table
+Throne
+Window
