@@ -95,6 +95,8 @@ class MezzaGenerator:
     # Perform full expansion of a random line from a file
     def Expand(self, spec, caller_context = None, cap = False):
 
+        non_cap_words = {'and', 'the', 'of', 'if', 'a', 'an'}
+
         if '_' in spec:
             base = spec[:spec.find('_')]
             inflection = spec[spec.find('_') + 1:]
@@ -127,7 +129,7 @@ class MezzaGenerator:
                 else:
                     result += self.Expand(word[1:], cap = cap)
             else:
-                if cap:
+                if cap and word not in non_cap_words:
                     word = word.capitalize()
                 result += word + ' '
 
