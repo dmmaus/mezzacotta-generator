@@ -1,17 +1,17 @@
-@format ~
-Arrow
-Axe
-Bow
-Crossbow
-Cudgel
-Dagger
-Flail
-Halberd
-Hammer
-Knife
-Lance
-Mace
-Spear
-Staff
-Sword
-Whip
+@format ~|S
+arrow
+axe
+bow
+crossbow
+cudgel
+dagger
+flail
+halberd
+hammer
+knife|knives
+lance
+mace
+spear
+staff
+sword
+whip

@@ -1,13 +1,13 @@
-@format ~
-Anvil
-Bellows
-Forge
-Fork
-Hammer
-Knife
-Marlinspike
-Nail
-Pliers
-Plough
-Spoon
-Wheel
+@format ~|S
+anvil
+bellows|bellows
+forge
+fork
+hammer
+knife|knives
+marlinspike
+nail
+pliers|pliers
+plough
+spoon
+wheel

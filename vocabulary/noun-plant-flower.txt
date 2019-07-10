@@ -1,14 +1,14 @@
-@format ~
-Carnation
-Chrysanthemum
-Daffodil
-Daisy
-Lavender
-Lily
-Magnolia
-Orchid
-Rose
-Sunflower
-Thistle
-Tulip
-Violet
+@format ~|S
+carnation
+chrysanthemum
+daffodil
+daisy|daisies
+lavender
+lily|lilies
+magnolia
+orchid
+rose
+sunflower
+thistle
+tulip
+violet

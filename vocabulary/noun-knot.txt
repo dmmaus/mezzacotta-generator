@@ -1,10 +1,10 @@
-@format ~
-Bowline
-Clove_Hitch
-Knot
-Knot
-Knot
-Knot
-Reef_Knot
-Sheepshank
-Sheet_Bend
+@format ~|S
+bowline
+clove hitch
+knot
+knot
+knot
+knot
+reef knot
+sheepshank
+sheet bend

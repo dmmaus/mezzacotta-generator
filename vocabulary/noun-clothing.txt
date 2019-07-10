@@ -1,18 +1,18 @@
 # Anything that is typically worn or carried by a person as an accessory
-@format ~
-Boot
-Cane
-Cloak
-Coat
-Crown
-Garter
-Hat
-Helm
-Monocle
-Pipe
-Robes
-Shield
-Surcoat
-Tabard
-Trousers
-Wig
+@format ~|S
+boot
+cane
+cloak
+coat
+crown
+garter
+hat
+helm
+monocle
+pipe
+robes
+shield
+surcoat
+tabard
+trousers
+wig

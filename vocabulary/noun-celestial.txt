@@ -1,9 +1,9 @@
-@format ~
-Comet
-Constellation
-Eclipse
-Moon
-Planet
-Star
-Sun
-World
+@format ~|S
+comet
+constellation
+eclipse
+moon
+planet
+star
+sun
+world

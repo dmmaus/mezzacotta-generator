@@ -1,5 +1,5 @@
 # Geographical features. Landforms are natural, structures are man-made.
-@format ~
-$noun-geography-landform
-$noun-geography-structure
-$noun-geography-weather
+@format ~|S
+$noun-geography-landform|$noun-geography-landform_S
+$noun-geography-structure|$noun-geography-structure_S
+$noun-geography-weather|$noun-geography-weather_S

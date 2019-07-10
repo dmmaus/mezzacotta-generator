@@ -1,9 +1,9 @@
-@format ~
-Barge
-Boat
-Caravel
-Cog
-Galleon
-Galley
-Longboat
-Ship
+@format ~|S
+barge
+boat
+caravel
+cog
+galleon
+galley
+longboat
+ship

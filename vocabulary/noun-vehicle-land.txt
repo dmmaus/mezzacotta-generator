@@ -1,5 +1,5 @@
-@format ~
-Carriage
-Chariot
-Coach
-Wagon
+@format ~|S
+carriage
+chariot
+coach|coaches
+wagon
