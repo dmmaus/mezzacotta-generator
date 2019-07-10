@@ -20,7 +20,7 @@ medusa|medusae
 mermaid
 merman|mermen
 mummy|mummies
-pegasus|pegasus
+pegasus|pegasi
 roc
 satyr
 skeleton

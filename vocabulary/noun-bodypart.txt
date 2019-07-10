@@ -1,6 +1,6 @@
 @format ~|S
 ankle
-antlers
+antler
 arm
 armpit
 back

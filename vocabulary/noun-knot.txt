@@ -1,6 +1,6 @@
 @format ~|S
 bowline
-clove hitch
+clove hitch|hitches
 knot
 knot
 knot

@@ -1,3 +1,4 @@
+# Plants or parts of plants
 @format ~|S
 $noun-plant-flower|$noun-plant-flower_S
 blossom

@@ -1,5 +1,16 @@
 @format ~|S
+caravan
 carriage
+cart
 chariot
 coach|coaches
+dray
+litter
+oxcart
+palanquin
+sled
+sledge
+sleigh
+stagecoach|stagecoaches
+tumbrel
 wagon
