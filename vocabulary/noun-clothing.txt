@@ -10,9 +10,9 @@ hat
 helm
 monocle
 pipe
-robes
+robe
 shield
 surcoat
 tabard
-trousers
+trousers|trousers
 wig
