@@ -1,5 +1,6 @@
 # Top level random tavern names
 @format ~
+@titlecase
 $adjective $noun $noun-tavern
 $noun $noun-tavern
 $noun and $noun
@@ -36,6 +37,8 @@ The $noun-monster 's $noun-bodypart
 The $noun-monster 's $noun-bodypart $noun-tavern
 The $noun-tavern
 The $noun-tavern of the $adjective $noun
+The $noun-tavern of the $number $noun_S
+The $number $person-profession-medieval_S $noun-tavern
 The $noun-tavern of the $adjective $noun-animal
 The $noun-tavern of the $adjective $noun-animal
 The $noun-tavern of the $adjective $person-profession-medieval
