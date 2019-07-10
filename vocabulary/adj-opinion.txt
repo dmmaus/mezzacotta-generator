@@ -1,32 +1,40 @@
 # Adjectives of opinion, as defined by Wikipedia:
 # limiter adjectives (e.g. a real hero, a perfect idiot) and adjectives subject to subjective measure (e.g. beautiful, interesting), or with a value (e.g. good, bad, costly)
 @format ~
+appetising
 bad
 beautiful
 costly
 crazy
+delicious
 dire
 discreet
 drab
 early
 easy
 elegant
+exquisite
 false
 fun
 good
 great
+heavenly
 hypnotic
 interesting
 lucky
+luscious
 perfect
 profane
 real
 sacred
 safe
+savoury
 secret
 silly
 special
+spicy
 starcrossed
+tasty
 unfortunate
 unlucky
 weird
