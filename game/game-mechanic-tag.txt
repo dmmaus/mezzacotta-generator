@@ -13,3 +13,7 @@ action point
 minature-based
 hand management
 engine crafting
+language-independent
+movement programming
+area control
+simultaneous action selection

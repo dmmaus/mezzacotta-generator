@@ -6,3 +6,4 @@ a strong dexterity element
 choose-your-own-adventure gameplay
 variable player powers
 custom dice
+simultaneous action selection
