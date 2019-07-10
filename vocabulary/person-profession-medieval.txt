@@ -1,6 +1,7 @@
 @format ~
 $noun-animal Baiter
 $noun-animal Herder
+$noun-animal Keeper
 $noun-animal Trainer
 $noun-animal Wrestler
 Abbess
@@ -11,6 +12,7 @@ Actress
 Adventurer
 Alchemist
 Alewife
+Almoner
 Angler
 Apothecary
 Apprentice
@@ -44,6 +46,7 @@ Bishop
 Blacksmith
 Bleacher
 Bookbinder
+Bowman
 Bowyer
 Brewer
 Bricklayer
@@ -100,12 +103,14 @@ Courtesan
 Courtier
 Cowherd
 Craftsman
+Crofter
 Cup-bearer
 Cutler
 Cutpurse
 Cutthroat
 Dairymaid
 Dervish
+Diplomat
 Distiller
 Diviner
 Dockmaster
@@ -153,6 +158,7 @@ Glassblower
 Glazier
 Glover
 Goatherd
+Goldbeater
 Goldsmith
 Goodwife
 Granger
@@ -189,6 +195,7 @@ Inquisitor
 Ironmonger
 Jester
 Jeweller
+Joiner
 Jongleur
 Journeyman
 Juggler
@@ -211,6 +218,7 @@ Leadlighter
 Leatherworker
 Librarian
 Limner
+Litter-bearer
 Locksmith
 Longshoreman
 Lord
@@ -224,6 +232,7 @@ Maidservant
 Man-at-Arms
 Mariner
 Marksman
+Marshal
 Mason
 Matriarch
 Meistersinger
@@ -258,6 +267,7 @@ Pardoner
 Pastrycook
 Patriarch
 Pawnbroker
+Peasant
 Pedlar
 Physician
 Picaroon
@@ -267,6 +277,7 @@ Piper
 Pirate
 Playwright
 Ploughman
+Plumber
 Poacher
 Poet
 Pointer
@@ -293,7 +304,9 @@ Ratcatcher
 Reaper
 Reeve
 Riverman
+Rope-maker
 Rogue
+Roofer
 Rover
 Rugmaker
 Runecarver
@@ -307,11 +320,13 @@ Scribe
 Scrivener
 Scullerymaid
 Scullion
+Sculptor
 Seamstress
 Seneschal
 Serf
 Sergeant
 Servant
+Sexton
 Shaman
 Sheepshearer
 Shepherd
@@ -341,6 +356,7 @@ Strumpet
 Swashbuckler
 Swineherd
 Swordsmith
+Tailor
 Tallowchandler
 Tanner
 Tapster
@@ -362,6 +378,7 @@ Troubadour
 Tutor
 Urchin
 Vagabond
+Verger
 Veteran
 Viking
 Vintner
