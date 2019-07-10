@@ -11,7 +11,6 @@ drinking
 drowned
 drowning
 drunken
-fat
 flatulent
 footsore
 fried
@@ -41,7 +40,6 @@ running
 screaming
 severed
 singing
-skinny
 sleeping
 sober
 soused

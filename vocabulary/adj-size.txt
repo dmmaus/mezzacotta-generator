@@ -4,6 +4,7 @@ big
 enormous
 giant
 large
+little
 minuscule
 small
 tiny

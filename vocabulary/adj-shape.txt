@@ -1,0 +1,22 @@
+# Adjectives describing shape
+@format ~
+broad
+deep
+fat
+lanky
+narrow
+plump
+rotund
+round
+sharp
+short
+skinny
+slender
+slim
+smooth
+stout
+swollen
+tall
+thin
+towering
+wide
