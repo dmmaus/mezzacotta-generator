@@ -1,0 +1,15 @@
+@format ~
+roll-and-move
+worker placement
+action selection
+set collection
+tile placement
+pattern building
+grid movement
+card drafting
+network construction
+deck building
+action point
+minature-based
+hand management
+engine crafting

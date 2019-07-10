@@ -1,0 +1,4 @@
+@format ~
+for $game/playercount-low to $game/playercount-high players
+for up to $game/playercount-low teams of $game/playercount-low players
+for up to $game/playercount-high players

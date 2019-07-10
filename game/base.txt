@@ -1,0 +1,4 @@
+# Base file for boardgame descriptions
+@format ~
+This is a $game/game-mechanic-tag $game/game-genre game 5$game/playercount
+This is a $game/game-mechanic-tag $game/game-mechanic-tag game with $game/game-feature 5$game/playercount

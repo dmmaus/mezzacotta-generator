@@ -1,0 +1,25 @@
+@format ~
+strategy
+abstract
+city building
+simulation
+party
+adventure
+exploration
+collectable card
+storytelling
+campaign
+fantasy
+fighting
+dungeon crawl
+co-operative
+legacy
+word
+dice
+role playing
+horror
+economic
+space exploration
+combat
+children's
+educational

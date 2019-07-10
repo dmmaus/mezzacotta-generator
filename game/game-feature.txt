@@ -1,0 +1,8 @@
+@format ~
+modular boards
+a legacy element
+optional expansions
+a strong dexterity element
+choose-your-own-adventure gameplay
+variable player powers
+custom dice
