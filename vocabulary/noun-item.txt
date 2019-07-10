@@ -7,7 +7,7 @@ $noun-geography-structure|$noun-geography-structure_S
 $noun-knot|$noun-knot_S
 $noun-tool|$noun-tool_S
 $noun-vehicle|$noun-vehicle_S
-$noun-weapon|$noun_weapon_S
+$noun-weapon|$noun-weapon_S
 anchor
 bell
 book

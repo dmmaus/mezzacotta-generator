@@ -10,7 +10,7 @@ joint
 leek
 onion
 pint
-potato
+potato|potatoes
 pumpkin
 roast
 sausage
