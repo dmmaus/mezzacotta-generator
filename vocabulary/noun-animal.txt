@@ -61,7 +61,7 @@ kitten
 lamb
 lion
 lizard
-louse
+louse|lice
 magpie
 manatee
 mare

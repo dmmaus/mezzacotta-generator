@@ -1,6 +1,8 @@
 @format ~|S
+ale
 apple
 beer
+cider
 cutlet
 egg
 haunch|haunches
@@ -13,6 +15,8 @@ pumpkin
 roast
 sausage
 shot
+soup
 steak
+stew
 turnip
 wine
