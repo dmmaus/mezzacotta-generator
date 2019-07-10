@@ -1,9 +1,11 @@
 @format ~|S
 $person-relative 's $person-relative
+adopted child|children
 aunt
 brother
 brother
 brother-in-law|brothers-in-law
+child|children
 cousin
 cousin|cousins once removed
 daughter
@@ -18,10 +20,15 @@ godson
 granddaughter
 grandfather
 grandmother
+grandparent
+grandchild|grandchildren
 grandson
 husband
 mother
 mother-in-law|mothers-in-law
+nephew
+niece
+parent
 second cousin
 sister
 sister
@@ -30,5 +37,10 @@ son
 son
 son-in-law|sons-in-law
 spouse
+stepchild
+stepdaughter
+stepfather
+stepmother
+stepson
 uncle
 wife|wives

@@ -1,0 +1,59 @@
+# Non-family relationships
+@format ~|S
+$noun-bodypart|$noun_bodypart_S
+acquaintance
+ancestor
+apprentice
+archenemy|archenemies
+associate
+best friend|friends
+BFF|BFFs
+body|bodies
+bodyguard
+bosom buddy|buddies
+boss|bosses
+boyfriend
+buddy|buddies
+business partner
+caretaker
+colleague
+confidant
+disciple
+employee
+enemy|enemies
+ex|exes
+ex-husband
+ex-wife|ex-wives
+fan|fans
+fairy godmother
+friend
+follower
+ghost
+girlfriend
+guardian
+guide
+heir
+heiress|heiresses
+landlord
+leader
+life coach|coaches
+life partner
+lover
+manager
+master
+mentor
+minion
+mistress|mistresses
+neighbour
+nemesis|nemeses
+partner
+plaything
+protege
+pupil
+relative
+room-mate
+servant
+spouse
+student
+teacher
+underling
