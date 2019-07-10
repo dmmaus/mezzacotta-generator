@@ -47,8 +47,8 @@ All vocabulary files (including the base vocabulary file) are text files assumed
 
 * **Comments.** Lines starting with a `#` character are comments, ignored by the parser.
 * **Format specifier.** A line starting with `@format` is a format specifier. See "Format specifiers" below.
-* **Case specifier.** (TBD)
-* **Text, possibly with substitution strings.** Either vocabulary words, or substitution strings starting with a dollar-sign.
+* **Case specifier.** The only one supported so far is `@titlecase`. This specifies that strings returned by the current file will be capitalised in [Title Case](https://en.wiktionary.org/wiki/title_case). It capitalises strings returned by called files, but does not 
+* **Text, possibly with substitution strings.** Either vocabulary words, or substitution strings starting with a dollar sign.
 
 ### Format specifiers
 
@@ -65,7 +65,7 @@ Example text lines in various formats:
 * `fox|foxes`, `mouse|mice`, `fish|fish` - Nouns with an irregular plural.
 * `smart` - An adjective with regular comparative and superlative forms.
 * `big|bigger|biggest`, `bad|worse|worst`, `orange|more_orange|most_orange` - Adjectives with irregular comparative and superlative forms.
-* `walk` - A regular verb.
+* `walk` - A regular verb with fully regular endings.
 * `love|loves|loved|loving`, `eat|eats|ate|eating`, `have|has|had|having` - Irregular verbs.
 
 Text lines may contain words starting with dollar signs. These indicate substitution strings. Example:
@@ -76,3 +76,9 @@ Text lines may contain words starting with dollar signs. These indicate substitu
 * `a $adjective_ER $noun` - The parser returns the word `a` followed by *the comparative form* of a random selection from the vocabulary file `adjective.txt` followed by a random selection from the vocabulary file `noun.txt`.
 * `a $adjective_EST $noun` - The parser returns the word `a` followed by *the superlative form* of a random selection from the vocabulary file `adjective.txt` followed by a random selection from the vocabulary file `noun.txt`.
 * etc.
+
+A dollar sign may be preceded by a digit (1-9). This indicates that the attached substitution string will only be included with probability (digit/10). If a random number is greater than the probability, the attached substitution is skipped. This is useful for additional words such as adjectives that you only want to include sometimes, allowing you to tune the frequency of inclusion.
+
+If the parser generates the word `a` followed by a word that starts with a vowel, it automatically converts `a` to `an`. It also converts underscores to spaces. (Underscores are sometimes needed in vocabular files to separate compound words with inflected forms, otherwise the inflection parsing gets confused.)
+
+The parser recursively generates random strings from referenced files until it bottoms out, and then returns the entire generated string.
