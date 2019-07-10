@@ -1,0 +1,37 @@
+# Adjectives describing states that can apply to any material thing, animate or inanimate
+@format ~
+arcane
+bloody
+bright
+buried
+burning
+cheap
+crooked
+dirty
+enchanted
+flaming
+flying
+forgotten
+fresh
+frosty
+frothy
+greasy
+haunted
+hearty
+hovering
+icy
+lost
+magical
+noisy
+rolling
+salty
+shaken
+silent
+smelly
+spicy
+stinking
+tattered
+unkempt
+wet
+whirling
+wobbly

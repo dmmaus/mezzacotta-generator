@@ -1,3 +1,4 @@
+# Adjectives describing the personality of a person. Normally cannot apply to inanimate objects.
 @format ~
 angry
 bashful

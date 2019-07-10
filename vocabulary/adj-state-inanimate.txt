@@ -1,0 +1,23 @@
+# Adjectives describing states that generally only apply to inanimate things
+@format ~
+bottomless
+broken
+busted
+chipped
+closed
+cracked
+crossed
+defiled
+foaming
+hanging
+hidden
+knotted
+leaky
+mended
+open
+rotten
+rusty
+shattered
+shining
+shiny
+slimy

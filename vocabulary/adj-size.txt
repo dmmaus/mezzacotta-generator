@@ -1,0 +1,9 @@
+# Adjectives describing size
+@format ~
+big
+enormous
+giant
+large
+minuscule
+small
+tiny

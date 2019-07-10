@@ -1,9 +1,11 @@
 @format ~
+$adj-colour and $adj-colour
 azure
 black
 blue
 brown
 crimson
+dark
 ebon
 flaxen
 golden
@@ -14,6 +16,7 @@ maroon
 navy
 ochre
 orange
+pale
 peach
 pied
 pink

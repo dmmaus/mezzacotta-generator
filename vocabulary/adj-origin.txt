@@ -1,0 +1,14 @@
+# Adjectives denoting origin of an object.
+@format ~
+demonic
+divine
+dwarven
+eastern
+elven
+gnomish
+northern
+oceanic
+orcish
+southern
+volcanic
+western
