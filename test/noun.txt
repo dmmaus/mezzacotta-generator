@@ -1,15 +1,15 @@
 # Nouns
-# singluar | plural
+# singular | plural
 @format ~|S
-cat|cats
-dog|dogs
-elephant|elephants
+cat
+dog
+elephant
 octupus|octopi
-dish washer|washers
-turtle|turtles
-fan|fans
+dish washer
+turtle
+fan
 witch|witches
-television|televisions
-table|tables
-donut|donuts
-porcupine|porcupines
+television
+table
+donut
+porcupine
