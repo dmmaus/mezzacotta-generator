@@ -9,6 +9,7 @@ class Vocab:
         self.base_spec = base_spec
         self.lines = []
         self.contexts = {}
+        self.titlecase = False
 
         # Get path and filename of vocabulary file. Path is relative to calling subdirectory.
         if '/' in base_spec:
@@ -31,6 +32,8 @@ class Vocab:
 
                     if line.startswith('@format'):
                         self.inflections = line[len('@format '):].split('|')
+                    elif line.startswith('@titlecase'):
+                        self.titlecase = True
                     else:
                         self.lines.append(line)
 
@@ -90,7 +93,7 @@ class MezzaGenerator:
             }
 
     # Perform full expansion of a random line from a file
-    def Expand(self, spec, caller_context = None):
+    def Expand(self, spec, caller_context = None, cap = False):
 
         if '_' in spec:
             base = spec[:spec.find('_')]
@@ -101,6 +104,10 @@ class MezzaGenerator:
 
         if not self.vocabs.has_key(base):
             self.vocabs[base] = Vocab(base)
+
+        # If we are not instructed to capitalize words, check if this vocab specifies to do so
+        if not cap:
+            cap = self.vocabs[base].titlecase
 
         randomline = self.vocabs[base].RandomLine(inflection, caller_context)
 
@@ -116,10 +123,12 @@ class MezzaGenerator:
             # Words starting with $ are expanded using the file of the corresponding name
             if word.startswith('$'):
                 if context:
-                    result += self.Expand(word[1:], str(context_uuid) + context)
+                    result += self.Expand(word[1:], str(context_uuid) + context, cap)
                 else:
-                    result += self.Expand(word[1:])
+                    result += self.Expand(word[1:], cap = cap)
             else:
+                if cap:
+                    word = word.capitalize()
                 result += word + ' '
 
         return result
