@@ -95,7 +95,11 @@ class MezzaGenerator:
     # Perform full expansion of a random line from a file
     def Expand(self, spec, caller_context = None, cap = False):
 
-        non_cap_words = {'and', 'the', 'of', 'if', 'a', 'an'}
+        non_cap_words = {
+            'a', 'an', 'the',                                                       # articles
+            'and', 'but', 'for', 'if', 'nor', 'or', 'so', 'yet',                    # conjunctions
+            'as', 'at', 'by', 'from' 'in', 'of', 'off', 'on', 'than', 'then', 'to', 'with'  # prepositions
+            }
 
         if '_' in spec:
             base = spec[:spec.find('_')]
