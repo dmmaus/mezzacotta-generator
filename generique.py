@@ -51,25 +51,30 @@ class Vocab:
 
         inflection_idx = self.inflections.index(inflection)
 
-        result = ''
-
         if context is not None and self.contexts.has_key(context):
             line = self.contexts[context]
         else:
             line = self.lines[random.randrange(0, len(self.lines))]
             if context is not None:
                 self.contexts[context] = line
-        words = line.split()
 
-        for word in words:
-            if '|' in word:
-                parts = word.split('|')
-                if missing_inflection:
-                    result += parts[inflection_idx] + '[UNKNOWN INFLECTION: ' + missing_inflection + '] '
+        # If there's no inflections in the line, then we form the inflection just by appending.
+        # Otherwise, find the specified inflection.
+        result = ''
+        if '|' not in line and inflection != '~':
+            result = line + inflection.lower()
+        else:
+            words = line.split()
+
+            for word in words:
+                if '|' in word:
+                    parts = word.split('|')
+                    if missing_inflection:
+                        result += parts[inflection_idx] + '[UNKNOWN INFLECTION: ' + missing_inflection + '] '
+                    else:
+                        result += parts[inflection_idx] + ' '
                 else:
-                    result += parts[inflection_idx] + ' '
-            else:
-                result += word + ' '
+                    result += word + ' '
 
         return result
 
