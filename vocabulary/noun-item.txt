@@ -1,4 +1,4 @@
-Artificial/man-made objects.
+# Artificial/man-made objects.
 @format ~
 $noun-clothing
 $noun-container
