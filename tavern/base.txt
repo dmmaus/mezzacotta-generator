@@ -7,10 +7,10 @@ $noun and $noun
 $noun-tavern of the $adjective $noun
 $noun-tavern of the $adjective $noun-animal
 $noun-tavern of the $adjective $person-profession-medieval
-$noun-tavern of the $number $adjective $noun_S
-$noun-tavern of the $number $adjective $noun-animal_S
-$noun-tavern of the $number $noun_S
-$noun-tavern of the $number $noun-animal_S
+$noun-tavern of the 3$number $adjective $noun_S
+$noun-tavern of the 3$number $adjective $noun-animal_S
+$noun-tavern of the 3$number $noun_S
+$noun-tavern of the 3$number $noun-animal_S
 $noun-tavern of the $person-profession-medieval 's $noun
 $noun-tavern of the $person-profession-medieval 's $person-relative
 $number $adjective $noun_S and a $noun
@@ -32,8 +32,8 @@ The $noun
 The $noun $noun-tavern
 The $noun and $noun
 The $noun and $noun $noun-tavern
-The $noun and $number $adjective $noun_S
-The $noun and $number $noun_S
+The $noun and 3$number $adjective $noun_S
+The $noun and 3$number $noun_S
 The $noun and the $adjective $noun
 The $noun and the $noun
 The $noun and the $noun $noun-tavern
@@ -53,22 +53,22 @@ The $noun-tavern of the $adjective $person-profession-medieval
 The $noun-tavern of the $adjective $person-profession-medieval 's $noun
 The $noun-tavern of the $noun-animal
 The $noun-tavern of the $noun-animal 's $noun-bodypart
-The $noun-tavern of the $number $adjective $noun_S
-The $noun-tavern of the $number $noun_S
+The $noun-tavern of the 3$number $adjective $noun_S
+The $noun-tavern of the 3$number $noun_S
 The $noun-tavern of the $person-profession-medieval
 The $noun-tavern of the $person-profession-medieval 's $noun
-The $number $adjective $noun_S
-The $number $noun_S
-The $number $noun_S $noun-tavern
-The $number $noun_S and a $noun
-The $number $noun_S and the $adjective $noun
-The $number $noun_S and the $noun
-The $number $noun-animal_S $noun-tavern
-The $number $person-profession-medieval_S $noun-tavern
+The 3$number $adjective $noun_S
+The 3$number $noun_S
+The 3$number $noun_S $noun-tavern
+The 3$number $noun_S and a $noun
+The 3$number $noun_S and the $adjective $noun
+The 3$number $noun_S and the $noun
+The 3$number $noun-animal_S $noun-tavern
+The 3$number $person-profession-medieval_S $noun-tavern
 The $person-profession-medieval 's $adjective $noun
 The $person-profession-medieval 's $noun
 The $person-profession-medieval 's $noun-bodypart
-The $person-profession-medieval 's $number $noun_S
+The $person-profession-medieval 's 3$number $noun_S
 The $person-profession-medieval 's $person-relative
 The $person-profession-medieval 's $person-relative 's $noun
 The $person-relative 's $noun
@@ -78,6 +78,6 @@ The $tavern/noun-tavernsign of the $adjective $person-profession-medieval
 The $tavern/noun-tavernsign of the $adjective $person-profession-medieval 's $noun
 The $tavern/noun-tavernsign of the $noun-animal
 The $tavern/noun-tavernsign of the $noun-animal 's $noun-bodypart
-The $tavern/noun-tavernsign of the $number $noun-animal_S
+The $tavern/noun-tavernsign of the 3$number $noun-animal_S
 The $tavern/noun-tavernsign of the $person-profession-medieval
 The $tavern/noun-tavernsign of the $person-profession-medieval 's $noun
