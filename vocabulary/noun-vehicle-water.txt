@@ -1,9 +1,11 @@
 @format ~|S
 barge
 boat
+canoe
 caravel
 cog
 galleon
 galley
+kayak
 longboat
 ship
