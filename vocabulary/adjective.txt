@@ -22,6 +22,7 @@ $adj-material
 $adj-opinion
 $adj-origin
 $adj-personality
+$adj-shape
 $adj-size
 $adj-state-animate
 $adj-state-inanimate

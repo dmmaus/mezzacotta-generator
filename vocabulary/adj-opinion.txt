@@ -4,6 +4,7 @@
 bad
 beautiful
 costly
+crazy
 dire
 discreet
 drab
@@ -23,8 +24,10 @@ real
 sacred
 safe
 secret
+silly
 special
 starcrossed
 unfortunate
 unlucky
+weird
 welcome
