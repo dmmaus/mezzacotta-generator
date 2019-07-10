@@ -24,3 +24,19 @@ combat
 children's
 educational
 Euro-style
+print & play
+war
+science fiction
+farming
+bluffing
+tile-laying
+pure abstract
+quiz
+trivia
+duelling
+deck building
+commodity speculation
+negotiation
+social deduction
+murder mystery
+puzzle

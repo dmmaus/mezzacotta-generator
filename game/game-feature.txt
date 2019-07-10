@@ -1,9 +1,14 @@
 @format ~
-modular boards
-a legacy element
-optional expansions
-a strong dexterity element
-choose-your-own-adventure gameplay
-variable player powers
-custom dice
-simultaneous action selection
+utilising modular boards
+with a legacy element
+offering optional expansions
+with a strong dexterity element
+featuring choose-your-own-adventure gameplay
+with variable player powers
+with custom dice
+with simultaneous action selection
+on a hex-based grid
+with asymmetric player roles
+with variable phase order
+of shifting alliances
+with a hidden traitor

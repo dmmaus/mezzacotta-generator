@@ -5,10 +5,9 @@ action selection
 set collection
 tile placement
 pattern building
-grid movement
+grid-based
 card drafting
 network construction
-deck building
 action point
 minature-based
 hand management
@@ -17,3 +16,9 @@ language-independent
 movement programming
 area control
 simultaneous action selection
+press-your-luck
+trick-based
+area-enclosure
+roll-and-write
+real-time
+auction based
