@@ -24,14 +24,16 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 # Documentation
 
-* Core shareable vocabulary files are in the directory *vocabulary*.
+* Core shareable vocabulary files are in the directory `vocabulary`.
 * Other directories contain specific generators with PHP index file, base grammar file, and context-dependent vocabulary files (of limited use to other generators).
 
-To run the generators from a web browser, place the code into your web server directory, then point your browser at the top level index.php file.
+## Running the generators
 
-To run a generator from the command line, change to the generator subdirectory and run either:
+**From a web browser:** Place the code into your web server directory, then point your browser at the top level `index.php` file. Your web server will need to allow shell execution of Python from within PHP. You may ned to edit the python path in the subdirectory `index.php` files.
 
-* `python ../generique.py test/base`
+**From the command line:** The `generique.py` script assumes that it is being called from a subdirectory. Change to a generator subdirectory (e.g. `<subdir>` = `test` or `tavern`) and run either:
+
+* `python ../generique.py <subdir>/base <numlines>`
 * `php index.php`
 
 ## Grammar and vocabulary file specification
