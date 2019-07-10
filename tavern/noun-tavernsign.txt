@@ -1,12 +1,12 @@
 @format ~
-Arms
-Crest
-Insignia
-Mark
-Placard
-Sign
-Sign
-Sign
-Sign
-Sign
-Signpost
+arms
+crest
+insignia
+mark
+placard
+sign
+sign
+sign
+sign
+sign
+signpost
