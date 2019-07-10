@@ -1,24 +1,32 @@
 @format ~
-roll-and-move
-worker placement
-action selection
-set collection
-tile placement
-pattern building
-grid-based
-card drafting
-network construction
+$number dimensional
 action point
-minature-based
-hand management
-engine crafting
-language-independent
-movement programming
+action selection
 area control
-simultaneous action selection
-press-your-luck
-trick-based
 area-enclosure
-roll-and-write
-real-time
 auction based
+card drafting
+dice crafting
+engine crafting
+grid-based
+hand management
+king-of-the-hill
+language-independent
+miniature-based
+movement programming
+network construction
+pattern building
+physical construction
+press-your-luck
+real-time
+roll-and-move
+roll-and-write
+set collection
+simultaneous action selection
+structure building
+tile placement
+trick-based
+turn-based
+victory point
+wealth accumulation
+worker placement

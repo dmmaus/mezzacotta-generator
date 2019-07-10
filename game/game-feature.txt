@@ -1,14 +1,16 @@
 @format ~
-utilising modular boards
-with a legacy element
-offering optional expansions
-with a strong dexterity element
 featuring choose-your-own-adventure gameplay
-with variable player powers
-with custom dice
-with simultaneous action selection
-on a hex-based grid
-with asymmetric player roles
-with variable phase order
 of shifting alliances
+offering optional expansions
+on a hex-based grid
+utilising modular boards
+with $number thousand custom meeples
 with a hidden traitor
+with a legacy element
+with a strong dexterity element
+with asymmetric player roles
+with custom dice
+with dozens of expansions
+with simultaneous action selection
+with variable phase order
+with variable player powers

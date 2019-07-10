@@ -1,42 +1,47 @@
+# TO BE SPLIT INTO category AND theme FILES
 @format ~
-strategy
 abstract
-city building
-simulation
-party
 adventure
-exploration
-collectable card
-storytelling
+bluffing
 campaign
-fantasy
-fighting
-dungeon crawl
-co-operative
-legacy
-word
-dice
-role playing
-horror
-economic
-space exploration
-combat
+card
 children's
+city building
+co-operative
+collectable card
+combat
+commodity speculation
+deck building
+dice
+duelling
+dungeon crawl
+economic
 educational
 Euro-style
-print & play
-war
-science fiction
+exploration
+fantasy
 farming
-bluffing
-tile-laying
-pure abstract
-quiz
-trivia
-duelling
-deck building
-commodity speculation
-negotiation
-social deduction
+fighting
+high fantasy
+horror
+legacy
+low fantasy
+manual dexterity
 murder mystery
+negotiation
+party
+print &amp; play
+pure abstract
 puzzle
+quiz
+role playing
+science fiction
+simulation
+social deduction
+space exploration
+storytelling
+strategy
+tile-laying
+trivia
+war
+word
