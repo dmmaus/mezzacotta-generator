@@ -1,0 +1,13 @@
+# Numbers for counting smallish plural amounts of people, items etc.
+@format ~
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve

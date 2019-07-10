@@ -1,16 +1,16 @@
-@format ~
+@format ~|S
 $person-relative 's $person-relative
 aunt
 brother
 brother
-brother-in-law
+brother-in-law|brothers-in-law
 cousin
-cousin_once_removed
+cousin|cousins once removed
 daughter
 daughter
-daughter-in-law
+daughter-in-law|daughters-in-law
 father
-father-in-law
+father-in-law|fathers-in-law
 goddaughter
 godfather
 godmother
@@ -21,14 +21,14 @@ grandmother
 grandson
 husband
 mother
-mother-in-law
-second_cousin
+mother-in-law|mothers-in-law
+second cousin
 sister
 sister
-sister-in-law
+sister-in-law|sisters_in_law
 son
 son
-son-in-law
+son-in-law|sons-in-law
 spouse
 uncle
-wife
+wife|wives
