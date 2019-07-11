@@ -1,4 +1,5 @@
 @format ~
+@include test/extras2
 4
 5
 6

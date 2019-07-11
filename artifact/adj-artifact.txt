@@ -1,12 +1,10 @@
 # Adjectives for describing magical artifacts, quest targets etc.
 @format ~
-@include adj-age
 @include adj-colour
 @include adj-determiner
 @include adj-material
 @include adj-opinion
 @include adj-origin
-@include adj-personality
 @include adj-shape
 @include adj-size
 @include adj-state-inanimate
