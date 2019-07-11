@@ -115,7 +115,7 @@ class MezzaGenerator:
             " a a":" an a", " a e":" an e"," a o":" an o"," a u":" an u"," a i":" an i",
             " a A":" an A", " a E":" an E"," a O":" an O"," a U":" an U"," a I":" an I",
             " A A":" An A", " A E":" An E"," A O":" An O"," A U":" An U"," A I":" An I",
-            "?.":"?", " )":")", "( ":"(", "_":" "
+            "?.":"?", " )":")", "( ":"(", "_":" ", "- ":"-"
             }
 
     # Perform full expansion of a random line from a file
