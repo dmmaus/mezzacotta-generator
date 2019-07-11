@@ -8,7 +8,6 @@ class Vocab:
     def __init__(self, base_spec):
         self.base_spec = base_spec
         self.lines = []
-        self.contexts = {}
         self.titlecase = False
 
         # Get path and filename of vocabulary file. Path is relative to calling subdirectory.
@@ -45,7 +44,7 @@ class Vocab:
                 f.close()
 
     # Return a random line, based on an inflection
-    def RandomLine(self, inflection = '~', context = None):
+    def RandomLine(self, inflection = '~'):
         # Determine index of inflection
         missing_inflection = ''
         if not inflection in self.inflections:
@@ -54,12 +53,8 @@ class Vocab:
 
         inflection_idx = self.inflections.index(inflection)
 
-        if context is not None and self.contexts.has_key(context):
-            line = self.contexts[context]
-        else:
-            line = self.lines[random.randrange(0, len(self.lines))]
-            if context is not None:
-                self.contexts[context] = line
+        # Choose a random line from the file
+        line = self.lines[random.randrange(0, len(self.lines))]
 
         # If there's no inflections in the line, then we form the inflection just by appending.
         # Otherwise, find the specified inflection.
@@ -93,7 +88,7 @@ class MezzaGenerator:
             }
 
     # Perform full expansion of a random line from a file
-    def Expand(self, spec, caller_context = None, cap = False):
+    def Expand(self, spec, cap = False):
 
         non_cap_words = {
             'a', 'an', 'the',                                                       # articles
@@ -115,17 +110,12 @@ class MezzaGenerator:
         if not cap:
             cap = self.vocabs[base].titlecase
 
-        randomline = self.vocabs[base].RandomLine(inflection, caller_context)
+        randomline = self.vocabs[base].RandomLine(inflection)
 
         result = ''
 
-        context_uuid = uuid.uuid1()
-        for word in randomline.split():
-            context = ''
-            if '=' in word:
-                context = word[word.find('=')+1:]
-                word = word[:word.find('=')]
 
+        for word in randomline.split():
             # Words starting with $ are expanded using the file of the corresponding name
             if '$' in word:
                 alt_text = ''
@@ -144,10 +134,7 @@ class MezzaGenerator:
                     wordspec = word
 
                 if word.startswith('$') or chance_roll:
-                    if context:
-                        result += self.Expand(wordspec[1:], str(context_uuid) + context, cap)
-                    else:
-                        result += self.Expand(wordspec[1:], cap = cap)
+                    result += self.Expand(wordspec[1:], cap = cap)
 
                 if alt_text != '' and chance_failed:
                     result += alt_text + ' '

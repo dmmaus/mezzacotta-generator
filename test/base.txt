@@ -5,8 +5,8 @@ The $test/adj $test/noun is $test/verb_ING a $test/noun .
 I $test/verb_ED the $test/noun that $test/verb_S $test/noun_S .
 They aren't as $test/adj as the $test/noun that $test/verb_ED the $test/noun .
 $test/noun_S are just $test/noun_S , only $test/adj_ER .
-My $test/noun=N is $test/adj_ER than your $test/noun=N .
+My $test/noun is $test/adj_ER than your $test/noun .
 Why did the $test/adj_EST $test/noun $test/verb the $test/noun_S ?
-$test/noun_S=N may be quite $test/adj=A . But my $test/noun=N is $test/adj_ER=A than a $test/noun !
-The $test/noun=A $test/verb_ED=V the $test/noun=B . But the $test/noun=B was $test/verb_ING=V all the $test/noun_S=A .
-Your $test/noun=N is $test/adj=A , but my $test/noun=N is the $test/adj_EST=A .
+$test/noun_S may be quite $test/adj . But my $test/noun is $test/adj_ER than a $test/noun !
+The $test/noun $test/verb_ED the $test/noun . But the $test/noun was $test/verb_ING all the $test/noun_S .
+Your $test/noun is $test/adj , but my $test/noun is the $test/adj_EST .
