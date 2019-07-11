@@ -48,6 +48,7 @@ All vocabulary files (including the base vocabulary file) are text files assumed
 * **Comments.** Lines starting with a `#` character are comments, ignored by the parser.
 * **Format specifier.** A line starting with `@format` is a format specifier. See "Format specifiers" below.
 * **Case specifier.** A line specifying how returned text from the current file is to be capitalised. See "Case specifiers" below.
+* **Included files.** A line starting with `@include` loads the following file, as if it were reproduced in full within the current file. The parser checks that the `@format` specifier is the same, otherwise throws an error.
 * **Text, possibly with substitution strings.** Either vocabulary words, or substitution strings starting with a dollar sign. See "Text substitution" below.
 
 ### Format specifiers
