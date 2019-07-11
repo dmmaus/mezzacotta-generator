@@ -111,11 +111,11 @@ class MezzaGenerator:
     def __init__(self):
         self.vocabs = {}
         self.replacements = {
-            " .":".", " ,":",", " '":"&rsquo;", " !":"!", " ?":"?", " _":"", " :":":",
+            " .":".", " ,":",", " '":"'", " !":"!", " ?":"?", " _":"", " :":":", " ;":";",
             " a a":" an a", " a e":" an e"," a o":" an o"," a u":" an u"," a i":" an i",
             " a A":" an A", " a E":" an E"," a O":" an O"," a U":" an U"," a I":" an I",
             " A A":" An A", " A E":" An E"," A O":" An O"," A U":" An U"," A I":" An I",
-            "?.":"?", " )":")", "( ":"(", "_":" ", "- ":"-"
+            "?.":"?", " )":")", "( ":"(", "_":" ", "- ":"-", " -":"-"
             }
 
     # Perform full expansion of a random line from a file
@@ -124,7 +124,7 @@ class MezzaGenerator:
         non_cap_words = {
             'a', 'an', 'the',                                                       # articles
             'and', 'but', 'for', 'if', 'nor', 'or', 'so', 'yet',                    # conjunctions
-            'as', 'at', 'by', 'from' 'in', 'of', 'off', 'on', 'than', 'then', 'to', 'with'  # prepositions
+            'as', 'at', 'by', 'from' 'in', 'of', 'off', 'on', 'than', 'that', 'then', 'to', 'with'  # prepositions
             }
 
         if '_' in spec:

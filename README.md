@@ -88,8 +88,6 @@ Text lines may contain words starting with dollar signs. These indicate substitu
 * `a $adjective_EST $noun` - The parser returns the word `a` followed by *the superlative form* of a random selection from the vocabulary file `adjective.txt` followed by a random selection from the vocabulary file `noun.txt`.
 * etc.
 
-If the parser generates the word `a` followed by a word that starts with a vowel, it automatically converts `a` to `an`. It also converts underscores to spaces. (Underscores are sometimes needed in vocabulary files to separate compound words with inflected forms, otherwise the inflection parsing gets confused.)
-
 The parser recursively generates random strings from referenced files until it bottoms out, and then returns the entire generated string.
 
 ### Conditional substitution
@@ -99,3 +97,19 @@ A dollar sign may be preceded by a digit (1-9). This indicates that the attached
 If the substitution string is followed by a `>` character and alternate text, the text following the `>` is treated as an "else" string, and returned if the first substitution is not selected. For example:
 
 * `with 3$number>a thousand meeples` - 30% of the time will return "with three [or some other number from number.txt] thousand meeples" and 70% of the time will return "with a thousand meeples".
+
+### Automatic substitutions
+
+As a final pass, there are some automatic string substitutions made to tidy up the generated text.
+
+* If the parser generates the word `a` followed by a word that starts with a vowel, it automatically converts `a` to `an`.
+* Underscores are converted to spaces. (Underscores are sometimes needed in vocabulary files to separate compound words with inflected forms, otherwise the inflection parsing gets confused.)
+* Spaces around hyphens are removed. This is so you can specify prefixes and suffixes with hyphens. For example, `super-` as an adjective, and have the string `super-badger` returned without a space after the hyphen.
+* Spaces before certain punctuation (`. , ? ! ' : ; )`) and spaces after open parentheses (`(`) are removed.
+
+## PHP
+
+The sample PHP code does the following substitutions:
+
+* Apostrophes are replaced with the HTML code for curly apostrophes (`&rsquo;`).
+
