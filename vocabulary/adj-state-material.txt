@@ -71,6 +71,7 @@ musical
 mystic
 mythic
 mythical
+nameless
 noisy
 pestilent
 pock-marked
@@ -78,6 +79,7 @@ possessed
 quantum
 quivering
 radioactive
+reverse
 ripe
 risen
 rolling
@@ -87,6 +89,7 @@ salty
 scrabbling
 screaming
 screeching
+serial
 shaken
 silent
 slimy
