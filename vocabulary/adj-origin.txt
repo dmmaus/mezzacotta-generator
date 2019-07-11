@@ -1,6 +1,6 @@
 # Adjectives denoting the origin of a person/creature or object.
 @format ~
-^$noun-animal -borne
+$noun-animal -borne
 $noun-monster -borne
 arctic
 artificial
