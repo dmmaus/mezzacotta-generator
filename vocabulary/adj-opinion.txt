@@ -24,6 +24,7 @@ interesting
 lucky
 luscious
 perfect
+pretty
 profane
 real
 sacred
@@ -35,6 +36,7 @@ special
 spicy
 starcrossed
 tasty
+ugly
 unfortunate
 unlucky
 weird

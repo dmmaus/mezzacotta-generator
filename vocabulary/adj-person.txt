@@ -1,0 +1,14 @@
+# Adjective that can describe a person.
+@format ~
+$adj-age
+$adj-opinion
+$adj-origin
+$adj-person-physical
+$adj-person-physical
+$adj-personality
+$adj-personality
+$adj-personality
+$adj-personality
+$adj-shape
+$adj-state-animate
+$adj-state-animate

@@ -1,4 +1,6 @@
-# Adjectives describing states that generally only apply to living/animate things
+# Adjectives describing states that generally only apply to living/animate things.
+# The states are essentially temporary - not permanent states.
+# For permanent states, see adj-person-physical.
 @format ~
 belching
 blind

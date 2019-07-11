@@ -4,16 +4,21 @@ broad
 deep
 fat
 lanky
+lean
+morbidly obese
 narrow
+obese
 plump
 rotund
 round
+scrawny
 sharp
 short
 skinny
 slender
 slim
 smooth
+stocky
 stout
 swollen
 tall

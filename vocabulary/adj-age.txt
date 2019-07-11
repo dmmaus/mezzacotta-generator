@@ -6,12 +6,15 @@ antique
 decrepit
 elderly
 fledgling
+immature
 infant
 junior
 mature
+middle-aged
 new
 old
 senior
+teenaged
 venerable
 young
 youthful
