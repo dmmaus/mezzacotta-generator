@@ -4,7 +4,7 @@ $person-relative|$person-relative_S
 3$adj-personality $person-profession-medieval|$person-profession-medieval_S
 3$adj-personality $person-profession-medieval|$person-profession-medieval_S
 3$adj-personality $person-profession-medieval|$person-profession-medieval_S
-3$adj-artifact $noun|$noun_S
-3$adj-artifact $noun|$noun_S
-3$adj-artifact $noun|$noun_S
-3$adj-artifact $noun|$noun_S
+3$artifact/adj-artifact $noun|$noun_S
+3$artifact/adj-artifact $noun|$noun_S
+3$artifact/adj-artifact $noun|$noun_S
+3$artifact/adj-artifact $noun|$noun_S

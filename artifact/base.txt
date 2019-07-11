@@ -1,22 +1,22 @@
 # Magical artifacts, McGuffins, quest targets and the like
 @format ~
 @titlecase
-The $adj-artifact $noun-artifact
+The $artifact/adj-artifact $noun-artifact
 The $noun-artifact of $noun-artifact-abstract
-The $adj-artifact $noun-artifact of $noun-artifact-abstract
-The $adj-artifact $noun
-The $noun-artifact of $adj-artifact $noun-artifact-abstract
+The $artifact/adj-artifact $noun-artifact of $noun-artifact-abstract
+The $artifact/adj-artifact $noun
+The $noun-artifact of $artifact/adj-artifact $noun-artifact-abstract
 The $noun-artifact of $noun-artifact-abstract and $noun-artifact-abstract
 The $noun-artifact-abstract $noun-artifact
 The $noun-artifact $noun-artifact
 The $noun-artifact of the $noun-artifact
-The 4$adj-artifact $noun-artifact of the $noun-geography-structure
-The 4$adj-artifact $noun-artifact of the $noun-geography-landform
-The 2$adj-artifact $noun-artifact of the 2$adj-artifact $noun-artifact
-The 3$adj-artifact $noun-artifact of the $noun
-The 2$adj-artifact $noun-artifact that $verb-transitive_S 1$number $artifact/entity_S
-The 4$adj-artifact $noun-artifact of the $person-profession-medieval 's $person-relative
-The 4$adj-artifact $noun-artifact of the 5$number 4$adj-artifact $noun-artifact_S
-The 5$number $noun-artifact_S of the 5$adj-artifact $artifact/entity
-The 4$adj-artifact $noun-artifact that $verb-transitive_ED 2$number 4$adj-personality $person-profession-medieval_S
-The 4$adj-personality $person-profession-medieval 's 4$adj-artifact $noun-artifact
+The 4$artifact/adj-artifact $noun-artifact of the $noun-geography-structure
+The 4$artifact/adj-artifact $noun-artifact of the $noun-geography-landform
+The 2$artifact/adj-artifact $noun-artifact of the 2$artifact/adj-artifact $noun-artifact
+The 3$artifact/adj-artifact $noun-artifact of the $noun
+The 2$artifact/adj-artifact $noun-artifact that $verb-transitive_S 1$number $artifact/entity_S
+The 4$artifact/adj-artifact $noun-artifact of the $person-profession-medieval 's $person-relative
+The 4$artifact/adj-artifact $noun-artifact of the 5$number 4$artifact/adj-artifact $noun-artifact_S
+The 5$number $noun-artifact_S of the 5$artifact/adj-artifact $artifact/entity
+The 4$artifact/adj-artifact $noun-artifact that $verb-transitive_ED 2$number 4$adj-personality $person-profession-medieval_S
+The 4$adj-personality $person-profession-medieval 's 4$artifact/adj-artifact $noun-artifact
