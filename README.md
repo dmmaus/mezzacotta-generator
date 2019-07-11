@@ -29,7 +29,12 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 ## Running the generators
 
-**From a web browser:** Place the code into your web server directory, then point your browser at the top level `index.php` file. Your web server will need to allow shell execution of Python from within PHP. You may ned to edit the python path in the subdirectory `index.php` files.
+The Python generator code `generique.py` takes two arguments:
+
+1. A base vocabulary file name path, without the `.txt` extension. This specifies which text generator to run.
+1. A number of lines of text to generate.
+
+**From a web browser:** Place the code into your web server directory, then point your browser at the top level `index.php` file. Your web server will need to allow shell execution of Python from within PHP. You may ned to edit the python path in the subdirectory `index.php` files. The PHP code calls the Python `generique.py` to generate a number of lines, formatted for browser display.
 
 **From the command line:** The `generique.py` script assumes that it is being called from a subdirectory. Change to a generator subdirectory (e.g. `<subdir>` = `test` or `tavern`) and run either:
 
@@ -38,17 +43,12 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 ## Vocabulary file specification
 
-The Python generator code `generique.py` takes two arguments:
-
-1. A base vocabulary file name path, without the `.txt` extension.
-1. A number of lines of text to generate.
-
 All vocabulary files (including the base vocabulary file) are text files assumed to have `.txt` extensions. Vocabulary files may contain the following:
 
 * **Comments.** Lines starting with a `#` character are comments, ignored by the parser.
 * **Format specifier.** A line starting with `@format` is a format specifier. See "Format specifiers" below.
 * **Case specifier.** The only one supported so far is `@titlecase`. This specifies that strings returned by the current file will be capitalised in [Title Case](https://en.wiktionary.org/wiki/title_case). It capitalises strings returned by called files, but does not 
-* **Text, possibly with substitution strings.** Either vocabulary words, or substitution strings starting with a dollar sign.
+* **Text, possibly with substitution strings.** Either vocabulary words, or substitution strings starting with a dollar sign. See "Text substitution" below.
 
 ### Format specifiers
 
@@ -68,6 +68,8 @@ Example text lines in various formats:
 * `walk` - A regular verb with fully regular endings.
 * `love|loves|loved|loving`, `eat|eats|ate|eating`, `have|has|had|having` - Irregular verbs.
 
+## Text substitution
+
 Text lines may contain words starting with dollar signs. These indicate substitution strings. Example:
 
 * `the $noun` - The parser returns the word `the` followed by a random selection from the vocabulary file `noun.txt`.
@@ -77,8 +79,14 @@ Text lines may contain words starting with dollar signs. These indicate substitu
 * `a $adjective_EST $noun` - The parser returns the word `a` followed by *the superlative form* of a random selection from the vocabulary file `adjective.txt` followed by a random selection from the vocabulary file `noun.txt`.
 * etc.
 
-A dollar sign may be preceded by a digit (1-9). This indicates that the attached substitution string will only be included with probability (digit/10). If a random number is greater than the probability, the attached substitution is skipped. This is useful for additional words such as adjectives that you only want to include sometimes, allowing you to tune the frequency of inclusion.
-
-If the parser generates the word `a` followed by a word that starts with a vowel, it automatically converts `a` to `an`. It also converts underscores to spaces. (Underscores are sometimes needed in vocabular files to separate compound words with inflected forms, otherwise the inflection parsing gets confused.)
+If the parser generates the word `a` followed by a word that starts with a vowel, it automatically converts `a` to `an`. It also converts underscores to spaces. (Underscores are sometimes needed in vocabulary files to separate compound words with inflected forms, otherwise the inflection parsing gets confused.)
 
 The parser recursively generates random strings from referenced files until it bottoms out, and then returns the entire generated string.
+
+### Conditional substitution
+
+A dollar sign may be preceded by a digit (1-9). This indicates that the attached substitution string will only be included with probability (digit/10). The script generates a random number between 0 and 1, if it is greater than the probability, then the attached substitution is skipped. This is useful for additional words such as adjectives that you only want to include sometimes, allowing you to tune the frequency of inclusion.
+
+If the substitution string is followed by a `>` character and alternate text, the text following the `>` is treated as an "else" string, and returned if the first substitution is not selected. For example:
+
+* `with 3$number>a thousand meeples` - 30% of the time will return "with three [or some other number from number.txt] thousand meeples" and 70% of the time will return "with a thousand meeples".
