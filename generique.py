@@ -8,7 +8,10 @@ class Vocab:
     def __init__(self, base_spec):
         self.base_spec = base_spec
         self.lines = []
+        self.includes = []
+        self.includesize = 0
         self.titlecase = False
+        self.inflectionstring = None
 
         # Get path and filename of vocabulary file. Path is relative to calling subdirectory.
         if '/' in base_spec:
@@ -30,9 +33,18 @@ class Vocab:
                         continue
 
                     if line.startswith('@format'):
+                        self.inflectionstring = line[len('@format '):]
                         self.inflections = line[len('@format '):].split('|')
                     elif line.startswith('@titlecase'):
                         self.titlecase = True
+                    elif line.startswith('@include'):
+                        # create a new vocab object
+                        split_line = line.split()
+                        if len(split_line) > 1:
+                            vocab = Vocab(split_line[1])
+                            if vocab.GetInflections() == self.inflectionstring:
+                                self.includes.append({'vocab': vocab, 'size': vocab.GetSize()})
+                                self.includesize += vocab.GetSize()
                     else:
                         self.lines.append(line)
 
@@ -42,6 +54,15 @@ class Vocab:
                         break
 
                 f.close()
+
+    def GetInflections(self):
+        return self.inflectionstring
+
+    def GetSize(self):
+        return len(self.lines)
+
+    def RandomRawLine(self):
+        return self.lines[random.randrange(0, len(self.lines))]
 
     # Return a random line, based on an inflection
     def RandomLine(self, inflection = '~'):
@@ -53,8 +74,16 @@ class Vocab:
 
         inflection_idx = self.inflections.index(inflection)
 
-        # Choose a random line from the file
-        line = self.lines[random.randrange(0, len(self.lines))]
+        # Choose a random line from the file, or any of its includes.
+        rand_idx = random.randrange(0, len(self.lines) + self.includesize)
+        range = 0
+        line = None
+        for include in self.includes:
+            range += include['size']
+            if rand_idx < range:
+                line = include['vocab'].RandomRawLine()
+        if line is None:
+            line = self.lines[random.randrange(0, len(self.lines))]
 
         # If there's no inflections in the line, then we form the inflection just by appending.
         # Otherwise, find the specified inflection.
