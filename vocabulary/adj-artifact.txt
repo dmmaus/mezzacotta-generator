@@ -1,15 +1,15 @@
 # Adjectives for describing magical artifacts, quest targets etc.
 @format ~
-$adj-age
+@include $adj-colour
+@include $adj-determiner
+@include $adj-material
+@include $adj-opinion
+@include $adj-origin
+@include $adj-personality
+@include $adj-shape
+@include $adj-size
+@include $adj-state-inanimate
+@include $adj-state-material
+@include adj-age
 $adj-artifact $adj-artifact
-$adj-colour
-$adj-determiner
-$adj-material
-$adj-opinion
-$adj-origin
-$adj-personality
-$adj-shape
-$adj-size
-$adj-state-inanimate
-$adj-state-material
 $person-profession-medieval 's
