@@ -1,7 +1,8 @@
-# Adjectives describing size
+# Adjectives describing size (not shape: see adj-shape.txt)
 @format ~
 big
 enormous
+gargantuan
 giant
 great big
 large

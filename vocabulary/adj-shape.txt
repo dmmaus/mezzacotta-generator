@@ -1,14 +1,34 @@
-# Adjectives describing shape
+# Adjectives describing shape (not size: see adj-size.txt)
 @format ~
+angular
 broad
+bulbous
+bumpy
+circular
+conical
+corrugated
+crooked
+cubic
+curved
 deep
+ellipsoidal
+elliptical
 fat
+forked
+helical
+jagged
 lanky
 lean
+looped
 morbidly obese
 narrow
 obese
+oblate
+oblong
+parabolic
 plump
+prolate
+rectangular
 rotund
 round
 scrawny
@@ -18,10 +38,17 @@ skinny
 slender
 slim
 smooth
+spherical
+spiral
+square
 stocky
 stout
 swollen
 tall
+tessellated
 thin
 towering
+trefoil
+twisted
 wide
+zig-zag

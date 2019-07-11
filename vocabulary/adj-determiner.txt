@@ -1,6 +1,13 @@
 @format ~
+double
+final
 first
 last
+new
 only
+penultimate
 second
+sudden
 third
+triple
+ultimate

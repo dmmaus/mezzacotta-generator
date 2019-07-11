@@ -4,6 +4,8 @@ azure
 black
 blue
 brown
+chromatic
+colourful
 crimson
 dark
 ebon
@@ -20,6 +22,7 @@ pale
 peach
 pied
 pink
+prismatic
 puce
 purple
 red
@@ -27,6 +30,11 @@ ruby
 russet
 scarlet
 sepia
+shiny
+silvery
+spotty
+striped
 violet
+viridian
 white
 yellow

@@ -13,6 +13,7 @@ drinking
 drowned
 drowning
 drunken
+fecund
 flatulent
 footsore
 fried
@@ -38,7 +39,9 @@ rampaging
 rampant
 rich
 roaring
+runaway
 running
+savage
 screaming
 severed
 singing
@@ -53,7 +56,9 @@ talking
 thirsty
 tipsy
 tired
+triumphant
 undead
+undying
 warbling
 wealthy
 whistling
