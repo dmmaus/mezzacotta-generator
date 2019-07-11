@@ -20,7 +20,7 @@ $adj-colour
 $adj-determiner
 $adj-material
 $adj-opinion
-$adj-origin
+^$adj-origin
 $adj-personality
 $adj-shape
 $adj-size

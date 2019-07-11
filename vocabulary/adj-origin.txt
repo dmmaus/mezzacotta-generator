@@ -1,24 +1,35 @@
-# Adjectives denoting origin of an object.
+# Adjectives denoting the origin of a person/creature or object.
 @format ~
+^$noun-animal -borne
+$noun-monster -borne
 arctic
+artificial
 astral
 autumnal
 celestial
 cosmic
 demonic
+diabolic
 divine
 dwarven
 eastern
 elemental
 elven
+faerie
 gnomish
 infernal
+man-made
 meteoric
 northern
 oceanic
+outland
 orcish
 primal
+primordial
+sky-borne
 southern
+subterranean
+underworld
 vernal
 volcanic
 western
