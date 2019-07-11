@@ -1,6 +1,7 @@
 # Top level random tavern names
 @format ~
 @titlecase
+$artifact/base
 $adjective $noun $noun-tavern
 $noun $noun-tavern
 $noun and $noun
