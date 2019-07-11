@@ -1,4 +1,4 @@
-# Adjective that can describe a person.
+# Adjectives that can describe a person.
 @format ~
 $adj-age
 $adj-opinion

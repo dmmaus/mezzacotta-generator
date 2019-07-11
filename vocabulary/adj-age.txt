@@ -14,7 +14,7 @@ middle-aged
 new
 old
 senior
-teenaged
+teenage
 venerable
 young
 youthful
