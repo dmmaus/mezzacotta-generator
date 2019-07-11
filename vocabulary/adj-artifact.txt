@@ -2,10 +2,7 @@
 @format ~
 $adj-artifact $adj-artifact
 $adj-personality
-# $noun +branded
-# $noun +inscribed
-$person-professional-medieval 's
-# $ruler 's
+$person-profession-medieval 's
 ageless
 aligned
 alien

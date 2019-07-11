@@ -1,2 +1,2 @@
 @format ~
-Here's a plural noun: $noun_S
+Here's a line from the combined file: $test/i

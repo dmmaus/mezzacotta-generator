@@ -196,7 +196,7 @@ spheroid
 sphinx
 spiral
 spore
-spyglass
+spyglass|spyglasses
 square
 staff|staves
 star
