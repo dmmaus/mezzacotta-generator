@@ -128,17 +128,30 @@ class MezzaGenerator:
 
             # Words starting with $ are expanded using the file of the corresponding name
             if '$' in word:
+                alt_text = ''
+                if '>' in word:
+                    alt_text = word[word.find('>') + 1:]
+                    word = word[:word.find('>')]
+
+                chance_roll = False
+                chance_failed = False
                 if word[0].isdigit():
                     chance = int(word[0]) / 10.0
                     wordspec = word[1:]
+                    chance_roll = chance > random.random()
+                    chance_failed = True
                 else:
                     wordspec = word
 
-                if word.startswith('$') or chance > random.random():
+                if word.startswith('$') or chance_roll:
                     if context:
                         result += self.Expand(wordspec[1:], str(context_uuid) + context, cap)
                     else:
                         result += self.Expand(wordspec[1:], cap = cap)
+
+                if alt_text != '' and chance_failed:
+                    result += alt_text + ' '
+
             else:
                 if cap and word not in non_cap_words:
                     word = word.capitalize()
