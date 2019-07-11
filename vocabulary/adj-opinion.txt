@@ -2,6 +2,7 @@
 # limiter adjectives (e.g. a real hero, a perfect idiot) and adjectives subject to subjective measure (e.g. beautiful, interesting), or with a value (e.g. good, bad, costly)
 @format ~
 appetising
+attractive
 bad
 beautiful
 costly
@@ -15,7 +16,9 @@ easy
 elegant
 exquisite
 false
+frumpy
 fun
+glamorous
 good
 great
 heavenly
@@ -23,9 +26,13 @@ hypnotic
 interesting
 lucky
 luscious
+manly
 perfect
+photogenic
+poorly-dressed
 pretty
 profane
+prominent
 real
 sacred
 safe
@@ -35,9 +42,14 @@ silly
 special
 spicy
 starcrossed
+super-
 tasty
 ugly
 unfortunate
+unkempt
 unlucky
+voluptuous
 weird
 welcome
+well-behaved
+well-dressed
