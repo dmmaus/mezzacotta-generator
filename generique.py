@@ -82,6 +82,7 @@ class Vocab:
             range += include['size']
             if rand_idx < range:
                 line = include['vocab'].RandomRawLine()
+                break;
         if line is None:
             line = self.lines[random.randrange(0, len(self.lines))]
 
