@@ -59,10 +59,20 @@ class Vocab:
         return self.inflectionstring
 
     def GetSize(self):
-        return len(self.lines)
+        return len(self.lines) + self.includesize
 
     def RandomRawLine(self):
-        return self.lines[random.randrange(0, len(self.lines))]
+        rand_idx = random.randrange(0, len(self.lines) + self.includesize)
+        range = 0
+        line = None
+        for include in self.includes:
+            range += include['size']
+            if rand_idx < range:
+                line = include['vocab'].RandomRawLine()
+                break;
+        if line is None:
+            line = self.lines[random.randrange(0, len(self.lines))]
+        return line
 
     # Return a random line, based on an inflection
     def RandomLine(self, inflection = '~'):
@@ -75,16 +85,7 @@ class Vocab:
         inflection_idx = self.inflections.index(inflection)
 
         # Choose a random line from the file, or any of its includes.
-        rand_idx = random.randrange(0, len(self.lines) + self.includesize)
-        range = 0
-        line = None
-        for include in self.includes:
-            range += include['size']
-            if rand_idx < range:
-                line = include['vocab'].RandomRawLine()
-                break;
-        if line is None:
-            line = self.lines[random.randrange(0, len(self.lines))]
+        line = self.RandomRawLine()
 
         # If there's no inflections in the line, then we form the inflection just by appending.
         # Otherwise, find the specified inflection.
