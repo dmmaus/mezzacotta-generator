@@ -1,3 +1,2 @@
 @format ~
-Here's a plural landform: $noun-geography-landform_S
-Here's a singular landform: $noun-geography-landform
+Here's a plural noun: $noun_S
