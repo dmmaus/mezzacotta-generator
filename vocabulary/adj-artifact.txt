@@ -11,6 +11,7 @@ aligned
 alien
 almighty
 amazing
+amber
 ancient
 angelic
 arcane
@@ -30,6 +31,7 @@ blessed
 blighted
 blind
 bloated
+bloodsoaked
 boogie-woogie
 bouncing
 brilliant
@@ -74,12 +76,14 @@ deadly
 degenerate
 delicious
 demonic
+desecrated
 disgusting
 divine
 double
 dreadful
 duplicated
 eastern
+elaborate
 eldritch
 electric
 electronic
@@ -136,6 +140,7 @@ heretical
 heroic
 hidden
 holy
+howling
 icy
 idyllic
 illusory
@@ -191,6 +196,7 @@ polished
 possessed
 precious
 pretty
+primal
 prismatic
 profane
 pulsating
@@ -214,6 +220,8 @@ salty
 savage
 scarlet
 scattered
+scrabbling
+screaming
 screeching
 searing
 secret
@@ -222,6 +230,7 @@ sharp
 shimmering
 shining
 shiny
+silent
 silver
 silvery
 slimy

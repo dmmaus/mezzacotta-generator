@@ -171,6 +171,7 @@ ice
 idiocy
 illusions
 imagination
+immolation
 immortality
 impunity
 infection
@@ -256,10 +257,12 @@ rebirth
 redemption
 religion
 rejoicing
+renewal
 retirement
 riches
 rotation
 royalty
+ruin
 rust
 sadness
 science
@@ -316,6 +319,7 @@ the enemy
 the harvest
 the heavens
 the night
+the realm
 the stars
 the sun
 the void
