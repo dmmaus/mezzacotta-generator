@@ -5,6 +5,7 @@ $noun-vehicle|$noun-vehicle_S
 $noun-weapon|$noun-weapon_S
 $noun-geography-landform|$noun-geography-landform_S
 $noun-artifact|$noun-artifact $noun-artifact|$noun-artifact
+$noun-plant|$noun-plant_S
 # $ruler|*ruler
 altar
 armament
@@ -26,6 +27,7 @@ bone
 bonfire
 book
 boot
+bough
 bow
 bowl
 box|boxes
@@ -55,10 +57,12 @@ cone
 construct
 cornet
 cornucopia
+cradle
 crown
 crystal
 cube
-diamdem
+cup
+diadem
 dial
 diamond
 diary|diaries
@@ -206,6 +210,7 @@ trapezoid
 treasure
 tree
 trigon
+trophy
 trove
 tube
 umbrella

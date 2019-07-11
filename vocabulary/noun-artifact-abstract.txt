@@ -51,7 +51,6 @@ cheese
 Christmas
 claws
 clouds
-cholesterol
 comfort
 commitment
 complexity
@@ -74,6 +73,7 @@ death
 deception
 defense
 delight
+denial
 desolation
 despair
 destiny
@@ -86,6 +86,7 @@ discovery
 disfigurement
 disharmony
 doom
+doubt
 dread
 dreams
 drool
@@ -180,10 +181,8 @@ irony
 jazz
 joy
 jubilation
+judgment
 justice
-kittens
-knitting
-lame
 laughter
 lava
 law
@@ -191,6 +190,7 @@ liberty
 lies
 life
 light
+lore
 love
 luck
 lust
@@ -221,6 +221,7 @@ nudity
 obedience
 odour
 obscenity
+obscurity
 outer space
 ovation
 pain
@@ -244,7 +245,8 @@ power
 pox
 prayer
 pride
-putresence
+progress
+putrescence
 radiance
 rage
 rainbows
@@ -295,6 +297,7 @@ stench
 stone
 storms
 strength
+strife
 stupid
 suffering
 summer
@@ -312,9 +315,11 @@ the deep
 the enemy
 the harvest
 the heavens
+the night
 the stars
 the sun
 the void
+the world
 thought
 thunder
 thunderbolts

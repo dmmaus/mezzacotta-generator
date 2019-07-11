@@ -6,6 +6,7 @@ $adj-personality
 # $noun +inscribed
 $person-professional-medieval 's
 # $ruler 's
+ageless
 aligned
 alien
 almighty
@@ -24,8 +25,10 @@ bejewelled
 bent
 bifurcated
 blasphemous
+blazing
 blessed
 blighted
+blind
 bloated
 boogie-woogie
 bouncing
@@ -45,7 +48,6 @@ clockwork
 cobbled
 coiled
 colourful
-communist
 complete
 confabulated
 complicated
@@ -75,6 +77,7 @@ demonic
 disgusting
 divine
 double
+dreadful
 duplicated
 eastern
 eldritch
@@ -86,6 +89,7 @@ encrusted
 encrypted
 endless
 erotic
+esoteric
 eternal
 everlasting
 evanescent
@@ -97,13 +101,16 @@ expensive
 exponential
 extraordinary
 extreme
+fabulous
 false
 fancy
+fantastic
 favourite
 featureless
 fecund
 fickle
 first
+fleeting
 flickering
 floating
 fool's
@@ -121,6 +128,7 @@ glittering
 glorious
 glowing
 golden
+good
 graven
 hallowed
 heavenly
@@ -240,6 +248,7 @@ stone-hewed
 stricken
 striped
 sudden
+sulfurous
 sumptuous
 surprising
 tainted
@@ -268,6 +277,7 @@ unholy
 unjust
 unlawful
 unlucky
+upside-down
 vibrating
 viridian
 void
@@ -278,6 +288,7 @@ western
 wicked
 wiggly
 wintery
+witching
 wonderful
 wondrous
 wooden

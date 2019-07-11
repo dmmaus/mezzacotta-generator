@@ -1,6 +1,5 @@
 @format ~|S
 $person-relative|$person-relative_S
-1$adj-artifact $noun-artifact-abstract|$noun-artifact-abstract
 3$adj-personality $person-profession-medieval|$person-profession-medieval_S
 3$adj-personality $person-profession-medieval|$person-profession-medieval_S
 3$adj-personality $person-profession-medieval|$person-profession-medieval_S
