@@ -107,9 +107,47 @@ As a final pass, there are some automatic string substitutions made to tidy up t
 * Spaces around hyphens are removed. This is so you can specify prefixes and suffixes with hyphens. For example, `super-` as an adjective, and have the string `super-badger` returned without a space after the hyphen.
 * Spaces before certain punctuation (`. , ? ! ' : ; )`) and spaces after open parentheses (`(`) are removed.
 
+### The difference between includes and substitutions
+
+Example: If we have two text files:
+
+```
+# dinosaur.txt
+@format ~|S
+diplodocus|diplodocuses
+Tyrannosaurus rex|rexes
+
+# mammal.txt
+@format ~|S
+cat
+dog
+horse
+rabbit
+```
+
+And we want to make a file `animal.txt` that could select either dinosaurs or mammals, we could do either:
+
+```
+# animal.txt
+@format ~|S
+$dinosaur
+$mammal
+```
+
+which would select a dinosaur 50% of the time and a mammal 50% of the time (i.e. diplodocus and T. Rex have probability 1/4, while cat, dog, horse, and rabbit all have probability 1/8), or:
+
+```
+# animal.txt
+@format ~|S
+@include dinosaur
+@include mammal
+```
+
+which would select each animal with equal probability 1/6.
+
 ## PHP
 
 The sample PHP code does the following substitutions:
 
-* Apostrophes are replaced with the HTML code for curly apostrophes (`&rsquo;`).
+* Apostrophes are replaced with curly apostrophes.
 
