@@ -9,5 +9,8 @@
 @include adj-size
 @include adj-state-inanimate
 @include adj-state-material
+$adj-personality
+$adj-personality
+$adj-personality
 $artifact/adj-artifact artifact/$adj-artifact
 $person-profession-medieval 's
