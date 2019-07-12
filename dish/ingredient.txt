@@ -1,4 +1,5 @@
 @format ~|S
+@quoted 0.01
 |# choices
 |# veg
 |aardvark
