@@ -1,8 +1,11 @@
 @format ~
+based on a true story
+based on the movie
 featuring choose-your-own-adventure gameplay
 of shifting alliances
 offering optional expansions
-on a hex-based grid
+on a hexagonal grid
+played with coloured pyramids
 utilising modular boards
 with 9$number custom meeples
 with a hidden traitor
@@ -10,7 +13,9 @@ with a legacy element
 with a strong dexterity element
 with asymmetric player roles
 with custom dice
+with detailed weather effects simulation
 with dozens of expansions
+with polyhedral dice
 with simultaneous action selection
 with variable phase order
 with variable player powers

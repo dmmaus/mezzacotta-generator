@@ -1,5 +1,8 @@
 @format ~
+for one to $game/playercount-high players
 for $game/playercount-low to $game/playercount-high players
+for $game/playercount-low to $game/playercount-high players (solo mode available)
+for $game/playercount-low to $game/playercount-high players and a referee
 for up to $game/playercount-low teams of $game/playercount-low players
 for up to $game/playercount-high 5$adj-personality players
 for exactly $game/playercount-low 2$adj-personality players

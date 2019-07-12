@@ -1,0 +1,55 @@
+# Genres/themes for fiction
+@format ~
+adventure
+anime
+apocalyptic
+biographical
+biopunk
+children's
+classic
+cliffhanging
+comedy
+comtemporary
+cyberpunk
+detective
+docu-drama
+documentary
+drama
+dystopian
+epic
+erotic
+fantasy
+fighting
+Gothic horror
+high fantasy
+historical
+horror
+low fantasy
+melodrama
+murder mystery
+mystery
+mythological
+occult
+paranormal
+pirate
+police procedural
+post-apocalyptic
+prehistoric
+psychological
+pulp adventure
+romance
+romantic comedy
+science fantasy
+science fiction
+space opera
+spy
+steampunk
+superhero
+supernatural
+swashbuckler
+techno-thriller
+thriller
+tragedy
+war
+western
+zombie

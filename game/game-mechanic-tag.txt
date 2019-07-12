@@ -1,32 +1,51 @@
 @format ~
-$number dimensional
 action point
 action selection
 area control
 area-enclosure
-auction based
+auction-based
 card drafting
+clue-giving
 dice crafting
+dice pool
+divide-and-conquer
+enemy elimination
 engine crafting
+follow-the-leader
 grid-based
 hand management
+hex-based
 king-of-the-hill
 language-independent
 miniature-based
 movement programming
 network construction
 pattern building
+pattern matching
 physical construction
+piece capturing
+point bidding
+point-buy
+power-up
 press-your-luck
+quest-based
 real-time
+resource management
+resource taxation
+riddle-solving
+risk-taking
 roll-and-move
 roll-and-write
+rule deduction
+semi-simultaneous
 set collection
 simultaneous action selection
 structure building
 tile placement
+time-limited
 trick-based
 turn-based
 victory point
 wealth accumulation
 worker placement
+zero-sum

@@ -1,0 +1,44 @@
+# Game category.
+# These descriptors are tied to game mechanics. They do not describe the theme/fictional genre of the game. For that, use adj-genre.
+# These should be terms that best come immediately before "game". Terms that can be placed
+@format ~
+$noun-animal racing
+$noun-monster combat
+abstract
+betting
+bluffing
+campaign
+card
+children's
+city building
+collectable card
+combat
+commodity speculation
+deck building
+dice
+duelling
+dungeon crawling
+economic
+exploration
+farming
+gambling
+legacy
+living card
+manual dexterity
+miniatures
+negotiation
+party
+print &amp; play
+pure abstract
+puzzle
+quiz
+race
+role-playing
+simulation
+social deduction
+storytelling
+strategy
+tile-laying
+trivia
+war
+word

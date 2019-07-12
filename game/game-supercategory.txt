@@ -1,0 +1,17 @@
+# Descriptors that sensibly come at the very beginning of a game description
+@format ~
+$number-small dimensional
+co-operative
+creative
+eagerly anticipated
+educational
+Euro-style
+hot-off-the-presses
+Kickstarted
+limited edition
+much hyped
+new
+re-released
+simultaneous play
+special edition
+traditional
