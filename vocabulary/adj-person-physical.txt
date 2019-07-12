@@ -25,7 +25,6 @@ drunk
 dumb
 dying
 elfin
-enchanted
 ethereal
 ex-
 female
@@ -49,11 +48,10 @@ injured
 invalid
 invisible
 lame
-magical
+male
 married
 millionaire
 muscular
-nameless
 native
 nomadic
 one-legged
@@ -64,14 +62,12 @@ pox-ridden
 pregnant
 red-haired
 retired
-reverse
 rich
 river-dancing
 robotic
 royal
 scantily-clad
 sea-
-serial
 sickly
 spritely
 strong
@@ -93,7 +89,6 @@ unwashed
 vampiric
 vegan
 vegetarian
-wailing
 wandering
 wealthy
 weary

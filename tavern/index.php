@@ -15,6 +15,7 @@
 $command = escapeshellcmd('/usr/bin/python ../generique.py tavern/base 10');
 $output = shell_exec($command);
 $output = preg_replace('/\n/', "</li>\n<li>", rtrim($output));
+$output = preg_replace("/'/", "’", $output);
 echo $output;
 ?>
 </li>

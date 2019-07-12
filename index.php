@@ -12,7 +12,6 @@ A generic, extensible, customisable random text generator. The code is <a href="
 <ul>
 <li><a href="tavern/">Random fantasy tavern names</a></li>
 <li><a href="artifact/">Random fantastic artifacts</a></li>
-<li><a href="test/">Test generator</a></li>
 </ul>
 </body>
 </html>
