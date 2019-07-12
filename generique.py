@@ -11,6 +11,7 @@ class Vocab:
         self.includesize = 0
         self.titlecase = False
         self.inflectionstring = None
+        self.quotechance = None
 
         # Get path and filename of vocabulary file. Path is relative to calling subdirectory.
         if '/' in base_spec:
@@ -36,6 +37,10 @@ class Vocab:
                         self.inflections = line[len('@format '):].split('|')
                     elif line.startswith('@titlecase'):
                         self.titlecase = True
+                    elif line.startswith('@quoted'):
+                        split_line = line.split()
+                        if len(split_line) > 1:
+                            self.quotechance = float(split_line[1])
                     elif line.startswith('@include'):
                         # create a new vocab object
                         split_line = line.split()
@@ -106,6 +111,9 @@ class Vocab:
                             result += parts[inflection_idx] + ' '
                     else:
                         result += word + ' '
+
+        if self.quotechance is not None and self.quotechance > random.random():
+            result = '\"' + result + '\"' + ' '
 
         return result
 
