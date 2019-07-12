@@ -48,6 +48,7 @@ All vocabulary files (including the base vocabulary file) are text files assumed
 * **Comments.** Lines starting with a `#` character are comments, ignored by the parser.
 * **Format specifier.** A line starting with `@format` is a format specifier. See "Format specifiers" below.
 * **Case specifier.** A line specifying how returned text from the current file is to be capitalised. See "Case specifiers" below.
+* **Quotation specifier.** A line starting with `@quoted` gives a numerical probability that strings returned by the current file will be enclosed in quote marks. Useful if you want "scare quotes" around stuff.
 * **Included files.** A line starting with `@include` loads the following file, as if it were reproduced in full within the current file. The parser checks that the `@format` specifier is the same, otherwise throws an error.
 * **Text, possibly with substitution strings.** Either vocabulary words, or substitution strings starting with a dollar sign. See "Text substitution" below.
 
@@ -64,6 +65,7 @@ Example text lines in various formats:
 
 * `dog` - A noun with a regular plural (`dogs`). The plural does not need to be specified.
 * `fox|foxes`, `mouse|mice`, `fish|fish` - Nouns with an irregular plural.
+* `|butter` - Noun with no plural form (a mass noun). This syntax ignores all inflections and always returns the word as given.
 * `smart` - An adjective with regular comparative and superlative forms.
 * `big|bigger|biggest`, `bad|worse|worst`, `orange|more_orange|most_orange` - Adjectives with irregular comparative and superlative forms.
 * `walk` - A regular verb with fully regular endings.
