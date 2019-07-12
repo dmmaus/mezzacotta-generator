@@ -1,0 +1,4 @@
+@format ~
+$dish/ingredient_S and $dish/ingredient_S
+$dish/ingredient_S and $dish/ingredient_S
+$dish/ingredient_S , $dish/ingredient_S and $dish/dish3

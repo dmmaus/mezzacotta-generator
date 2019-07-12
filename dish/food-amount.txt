@@ -1,0 +1,200 @@
+@format ~
+$number choices of
+$number chunks of
+$number courses of
+$number mini serves of
+$number pieces of
+$number slices of
+$number scoops of
+a bag of
+a bain-marie of
+a basket of
+a big trough of
+a big fat pile of
+a bit of
+a block of
+a bowl of
+a box of
+a brace of
+a buffet of
+a calorie-controlled portion of
+a can of
+a cauldron of
+a chafing dish of
+a chunk of
+a clove of
+a cluster of
+a collection of
+a comfort-food serving of
+a condiment of
+a cone of
+a cup of
+a cut of
+a dash of
+a delectation of
+a delicate touch of
+a demi-
+a dish of
+a dollop of
+a double serve of
+a dozen
+a duo of
+a feast of
+a fusion of
+a generous serve of
+a glass of
+a grating of
+a great slab of
+a grid of
+a handful of
+a heap of
+a helping of
+a hint of
+a homeopathic amount of
+a hunk of
+a jar of
+a job lot of
+a large quantity of
+a light dusting of
+a little bit of
+a loaf of
+a long stack of
+a lot of
+a lovely piece of
+a lump of
+a main course of
+a mass of
+a measure of
+a medley of
+a mix of
+a morsel of
+a mouthful of
+a mug of
+a nice bit of
+a packet of
+a petite piece of
+a piece of
+a pile of
+a pinch of
+a plate of
+a platter of
+a plume of
+a portion of
+a pound of
+a profusion of
+a quantity of
+a ration of
+a ribbon of
+a ridiculously miniscule serving of
+a ring of
+a river of
+a rumour of
+a segment of
+a selection of
+a serve of
+a serving of
+a smattering of
+a smear of
+a short stack of
+a shot of
+a side dish of
+a side-serve of
+a six-pack of
+a slather of
+a slice of
+a slick of
+a sm&ouml;rg&aring;sbord of
+a snack box of
+a speck of
+a specially selected specimen of
+a splash of
+a spoonful of
+a sprig of
+a sprinkling of
+a study of
+a suggestion of
+a swirl of
+a take-away container of
+a tajine of
+a taste of
+a tasting paddle of
+a teaspoon of
+a touch of
+a tower of
+a tray of
+a trio of
+a trowel of
+a variety of
+a vast quantity of
+a wafer-thin sliver of
+a wedge of
+a wheel of
+a whole bunch of
+a whopping huge piece of
+amuse bouche of
+an amount of
+an ap&eacute;ritif of
+an appetiser of
+an arabesque of
+an arrangement of
+an array of
+an entr&eacute;e of
+an explosion of
+an indulgence of
+an optional serve of
+appetiser of
+assortment of
+bites of
+bits of
+bottomless
+bundles of
+chef's selection of
+chunks o'
+chunks of
+cubes of
+duo of
+extra
+great tracts of
+half a
+half a dozen
+half a kilo of
+handfuls of
+hardly any
+heaps of
+hors d'ouevres of
+hunks of
+just a hint of
+just a sprinkle of
+just the right amount of
+lashings of
+leg of
+lots of
+melange of
+mezze platter of
+more
+morsels of
+mounds of
+nuggets of
+palate cleanser of
+parts of
+pieces of
+piles of
+plenty of
+rack of
+several morsels of
+signature dish of
+slices of
+slivers of
+some
+textures of
+that
+the chef's special recipe of
+the chef's sampling of
+the mother-lode of
+The World's Biggest Serving of
+today's blue plate special:
+today's special:
+too much
+traces of
+trio of
+vast quantities of
