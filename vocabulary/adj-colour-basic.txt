@@ -1,0 +1,35 @@
+# Basic colour words
+@format ~
+azure
+black
+blue
+brown
+crimson
+ebon
+ebony
+flaxen
+gold
+grey
+green
+jade
+maroon
+navy
+ochre
+orange
+peach
+pied
+pink
+puce
+purple
+red
+ruby
+russet
+scarlet
+sepia
+silver
+verdigris
+vermilion
+violet
+viridian
+white
+yellow

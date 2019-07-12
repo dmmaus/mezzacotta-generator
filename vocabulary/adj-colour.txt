@@ -1,40 +1,10 @@
+# Colours, including modifiers and coloured patterns.
+# If you just want basic colours, use @adj-colour-basic.
 @format ~
-$adj-colour and $adj-colour
-azure
-black
-blue
-brown
-chromatic
-colourful
-crimson
-dark
-ebon
-flaxen
-golden
-grey
-green
-jade
-maroon
-navy
-ochre
-orange
-pale
-peach
-pied
-pink
-prismatic
-puce
-purple
-red
-ruby
-russet
-scarlet
-sepia
-shiny
-silvery
-spotty
-striped
-violet
-viridian
-white
-yellow
+@include adj-colour-basic
+$adj-colour-basic and $adj-colour-basic
+$adj-colour-basic and $adj-colour-basic $adj-colour-pattern_ED
+$adj-colour-basic with $adj-colour-basic $adj-colour-pattern_S
+$adj-colour-modifier $adj-colour
+$adj-colour-pattern_ED
+$adj-colour-pattern_ED $adj-colour-basic and $adj-colour-basic

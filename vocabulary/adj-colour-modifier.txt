@@ -1,0 +1,13 @@
+# Colour modifiers
+@format ~
+chromatic
+colourful
+dark
+glossy
+light
+matte
+pale
+prismatic
+shiny
+silvery
+specular

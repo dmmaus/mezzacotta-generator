@@ -1,0 +1,18 @@
+# Colour patterns
+# N.B. some of these have "-ing" _S forms, which are more appropriate for colour combination
+@format ~|S|ED
+blotch|blotches|blotched
+candy stripe|stripes|striped
+check
+checker
+dapple|dapples|dappled
+dot|dots|dotted
+fleck
+freckle|freckles|freckled
+marble|marbling|marbled
+mottle|mottling|mottled
+polka dot|dots|dotted
+spot|spots|spotted
+streak
+stripe|stripes|striped
+variegate|variegation|variegated
