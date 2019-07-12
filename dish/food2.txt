@@ -1,0 +1,11 @@
+@format ~
+1$dish/food-amount $dish/dish1 $dish/food-join $dish/food2
+1$dish/food-amount $dish/dish1 $dish/food-join $dish/food2
+1$dish/food-amount $dish/dish1 $dish/food-join $dish/food2
+1$dish/food-amount $dish/dish1 $dish/food-join $dish/food2
+1$dish/food-amount $dish/dish1
+1$dish/food-amount $dish/dish1
+1$dish/food-amount $dish/dish1
+1$dish/food-amount $dish/dish1
+1$dish/food-amount $dish/dish1
+1$dish/food-amount $dish/dish1

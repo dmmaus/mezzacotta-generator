@@ -1,7 +1,6 @@
 #!/usr/bin/python
 import random
 import sys
-import uuid
 
 class Vocab:
     # Constructor. Open the specified base file, parse the format specificiation, and load lines.
@@ -12,6 +11,7 @@ class Vocab:
         self.includesize = 0
         self.titlecase = False
         self.inflectionstring = None
+        self.quotechance = None
 
         # Get path and filename of vocabulary file. Path is relative to calling subdirectory.
         if '/' in base_spec:
@@ -37,6 +37,10 @@ class Vocab:
                         self.inflections = line[len('@format '):].split('|')
                     elif line.startswith('@titlecase'):
                         self.titlecase = True
+                    elif line.startswith('@quoted'):
+                        split_line = line.split()
+                        if len(split_line) > 1:
+                            self.quotechance = float(split_line[1])
                     elif line.startswith('@include'):
                         # create a new vocab object
                         split_line = line.split()
@@ -90,20 +94,26 @@ class Vocab:
         # If there's no inflections in the line, then we form the inflection just by appending.
         # Otherwise, find the specified inflection.
         result = ''
-        if '|' not in line and inflection != '~':
-            result = line + inflection.lower()
+        if line.startswith('|'):
+            result = line[1:]
         else:
-            words = line.split()
+            if '|' not in line and inflection != '~':
+                result = line + inflection.lower()
+            else:
+                words = line.split()
 
-            for word in words:
-                if '|' in word:
-                    parts = word.split('|')
-                    if missing_inflection:
-                        result += parts[inflection_idx] + '[UNKNOWN INFLECTION: ' + missing_inflection + '] '
+                for word in words:
+                    if '|' in word:
+                        parts = word.split('|')
+                        if missing_inflection:
+                            result += parts[inflection_idx] + '[UNKNOWN INFLECTION: ' + missing_inflection + '] '
+                        else:
+                            result += parts[inflection_idx] + ' '
                     else:
-                        result += parts[inflection_idx] + ' '
-                else:
-                    result += word + ' '
+                        result += word + ' '
+
+        if self.quotechance is not None and self.quotechance > random.random():
+            result = '\"' + result + '\"' + ' '
 
         return result
 
