@@ -4,7 +4,7 @@ of shifting alliances
 offering optional expansions
 on a hex-based grid
 utilising modular boards
-with $number thousand custom meeples
+with 9$number custom meeples
 with a hidden traitor
 with a legacy element
 with a strong dexterity element

@@ -1,0 +1,12 @@
+# Numbers for large amounts. 
+# Almost always prefixed by "a" or a $number-small
+@format ~
+billion
+dozen
+gazillion
+googol
+hundred
+hundred thousand
+million
+score
+thousand
