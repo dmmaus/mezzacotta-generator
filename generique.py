@@ -1,7 +1,6 @@
 #!/usr/bin/python
 import random
 import sys
-import uuid
 
 class Vocab:
     # Constructor. Open the specified base file, parse the format specificiation, and load lines.
@@ -90,20 +89,23 @@ class Vocab:
         # If there's no inflections in the line, then we form the inflection just by appending.
         # Otherwise, find the specified inflection.
         result = ''
-        if '|' not in line and inflection != '~':
-            result = line + inflection.lower()
+        if line.startswith('|'):
+            result = line[1:]
         else:
-            words = line.split()
+            if '|' not in line and inflection != '~':
+                result = line + inflection.lower()
+            else:
+                words = line.split()
 
-            for word in words:
-                if '|' in word:
-                    parts = word.split('|')
-                    if missing_inflection:
-                        result += parts[inflection_idx] + '[UNKNOWN INFLECTION: ' + missing_inflection + '] '
+                for word in words:
+                    if '|' in word:
+                        parts = word.split('|')
+                        if missing_inflection:
+                            result += parts[inflection_idx] + '[UNKNOWN INFLECTION: ' + missing_inflection + '] '
+                        else:
+                            result += parts[inflection_idx] + ' '
                     else:
-                        result += parts[inflection_idx] + ' '
-                else:
-                    result += word + ' '
+                        result += word + ' '
 
         return result
 
