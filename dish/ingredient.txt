@@ -1,7 +1,7 @@
 @format ~|S
 @quoted 0.01
-|# choices
-|# veg
+|$number-small choices
+|$number-small veg
 |aardvark
 |abalone
 |absinthe
@@ -37,6 +37,7 @@ artichoke
 |asparagus
 |aubergine
 avocado|avocadoes
+|avruga
 baby octopus|octopuses
 |backstrap
 |bacon
@@ -499,6 +500,7 @@ lime
 |llama
 |lobster
 loganberry|loganberries
+|longan
 |loin chop
 lolly|lollies
 |lotus root
@@ -732,6 +734,7 @@ rodent
 |roe
 roll
 |Romano
+|Romanesco
 |rooibos
 |rooster
 |Roquefort
@@ -827,6 +830,7 @@ snow pea
 soybean
 |spaghetti
 |spam
+|spangled emperor
 spare rib
 spatchcock
 |sp&auml;tzle
@@ -942,6 +946,7 @@ waffle
 |wallaby
 walnut
 |walrus
+|Warrigal greens
 |warthog
 |wasabi
 |water

@@ -1,8 +1,8 @@
 @format ~
 $dish/ingredientlist
-$dish/ingredient $dish/food-presentation
-$dish/ingredient $dish/food-presentation
-$dish/ingredient $dish/food-presentation
+$dish/ingredient 1$dish/ingredient $dish/food-presentation
+$dish/ingredient 1$dish/ingredient $dish/food-presentation
+$dish/ingredient 1$dish/ingredient $dish/food-presentation
 $dish/food-method $dish/ingredient_S
 $dish/food-method $dish/ingredient_S
 $dish/food-method $dish/ingredient_S
