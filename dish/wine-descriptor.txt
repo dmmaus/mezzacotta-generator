@@ -1,0 +1,58 @@
+@format ~
+accessibility
+acid balance
+acidity
+aroma
+balance
+bite
+body
+bouquet
+character
+complexity
+concentration
+crispness
+crunch
+definition
+development
+elegance
+finesse
+finish
+flavour
+follow through
+fruit
+harmony
+length
+liveliness
+mid-palate
+minerality
+mousse
+mouth feel
+nose
+overtone
+palate
+persistance
+pH
+potential
+power
+pungency
+richness
+ripeness
+roundness
+scent
+smoothness
+softness
+sugar
+sweetness
+structure
+style
+tannin
+taste
+terroir
+texture
+transparency
+typicity
+undernote
+undertone
+varietal expression
+viscosity
+weight

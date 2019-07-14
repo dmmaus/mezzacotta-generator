@@ -1,0 +1,7 @@
+@format ~
+5$dish/wine-adjective $dish/wine-adjective $dish/wine-bouquet
+5$dish/wine-adjective $dish/wine-bouquet
+5$dish/wine-adjective $dish/wine-bouquet
+3$dish/wine-adjective $dish/wine-bouquet and 3$dish/wine-adjective $dish/wine-bouquet
+3$dish/wine-adjective $dish/wine-bouquet and 3$dish/wine-adjective $dish/wine-bouquet
+2$dish/wine-adjective $dish/wine-bouquet , 2$dish/wine-adjective $dish/wine-bouquet and 2$dish/wine-adjective $dish/wine-bouquet

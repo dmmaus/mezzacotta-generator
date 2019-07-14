@@ -1,0 +1,141 @@
+@format ~
+allspice
+almond
+aniseed
+apple
+apricot
+artichoke
+avocado
+baby apple
+banana
+bergamot
+biscuit
+black pepper
+blackberry
+blackcurrant
+blood orange
+blueberry
+boysenberry
+brioche
+butter
+butterscotch
+carambola
+caramel
+cassis
+cat pee
+cedar
+cherry
+chili
+choc-mint
+chocolate
+cinnamon
+citrus
+citrus blossoms
+citrus fruits
+cloves
+cocoa
+coconut
+coffee
+cranberry
+cream
+cucumber
+cut grass
+dark cherry
+dark chocolate
+date
+dragonfruit
+dried spice
+durian
+elderberry
+eucalyptus
+fig
+forest fruits
+frangipani
+fruit salad
+gingerbread
+gooseberry
+grape
+grapefruit
+grass
+green apple
+guava
+hazelnut
+herbs
+honey
+honeysuckle
+jasmine
+kiwifruit
+kumquat
+lavender
+leather
+lemon
+lemon sherbet
+lemon zest
+lime
+liquorice
+loganberry
+loquat
+lychee
+mandarin
+mango
+mangosteen
+maple syrup
+marzipan
+melon
+menthol
+mint
+mocha
+molasses
+mulberry
+mushroom
+musk
+nectarine
+nutmeg
+nuts
+oak
+old socks
+olives
+orange
+passionfruit
+peach
+pear
+pepper
+persimmon
+petrol
+pineapple
+plum
+pomegranate
+prune
+pumpkin
+quince
+raisin
+rambutan
+raspberry
+red apple
+red berries
+red fruits
+redcurrant
+rhubarb
+rose
+saffron
+sandalwood
+sawdust
+smoke
+spice
+stewed fruit
+strawberry
+summer berries
+tamarind
+toast
+tobacco
+toffee
+tomato
+tropical fruit
+truffle
+vanilla
+violets
+walnut
+watermelon
+wet dog
+whisky
+white peach

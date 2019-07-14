@@ -1,0 +1,7 @@
+@format ~
+and 4$dish/wine-intensifier $dish/wine-adjective $dish/wine-descriptor
+and 4$dish/wine-intensifier $dish/wine-adjective , $dish/wine-adjective $dish/wine-descriptor
+and 4$dish/wine-intensifier $dish/wine-adjective $dish/wine-descriptor
+4$dish/wine-intensifier $dish/wine-adjective , $dish/wine-adjective $dish/wine-descriptor
+4$dish/wine-intensifier $dish/wine-adjective $dish/wine-descriptor and 2$dish/wine-intensifier $dish/wine-adjective $dish/wine-descriptor
+4$dish/wine-intensifier $dish/wine-adjective $dish/wine-descriptor , 2$dish/wine-intensifier $dish/wine-adjective $dish/wine-descriptor and 2$dish/wine-intensifier $dish/wine-adjective $dish/wine-descriptor

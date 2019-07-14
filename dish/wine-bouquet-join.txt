@@ -1,0 +1,43 @@
+@format ~
+balanced with
+brightened with
+bringing to mind
+brought into focus by
+causing one to think of
+echoing $dish/wine-adjective notes of
+eliciting feelings of
+exuding $dish/wine-adjective odours of
+laced with
+melded with
+mingling with
+neatly framed by
+on a $dish/wine-adjective background of
+radiating $dish/wine-adjective notes of
+recalling the $dish/wine-adjective flavour of
+redolent with
+reeking of
+reminiscent of
+running through to
+smelling of
+supported by
+tasting of
+tightly knit with
+unfolding to
+with hints of
+with $dish/wine-adjective layers of
+with $dish/wine-adjective masses of
+with $dish/wine-adjective notes of
+with $dish/wine-adjective torrents of
+with $dish/wine-adjective undertones of
+with a $dish/wine-adjective aftertaste of
+with a $dish/wine-adjective aroma of
+with a $dish/wine-adjective core of
+with a $dish/wine-adjective fragrance of
+with a $dish/wine-adjective hint of
+with a $dish/wine-adjective whiff of
+with the $dish/wine-adjective essence of
+with the $dish/wine-adjective flavour of
+with the $dish/wine-adjective odour of
+with the $dish/wine-adjective scent of
+with the $dish/wine-adjective smell of
+with the $dish/wine-adjective taste of

@@ -1,0 +1,61 @@
+@format ~
+ausbruch wine
+blanc de noirs
+botrytis wine
+cask wine
+cava
+chianti classico
+cleanskin
+claret
+cuv&eacute;e speciale
+dessert wine
+eiswein
+fortified wine
+frizzante
+fruit wine
+grand cru
+ice wine
+Liebfraumilch
+light red
+light red wine
+mead
+meritage
+M&eacute;thode Champenoise
+M&eacute;thode Traditionelle
+mulled wine
+muscatel
+petillant
+premier cru
+recioto
+red
+red wine
+reserve wine
+retsina
+ros&eacute;
+ros&eacute; wine
+sauternes
+sekt
+semi-sparkling wine
+sparkling white wine
+sparkling wine
+sparkling red
+sparkling ros&eacute; wine
+spumante
+straw wine
+table wine
+tafelwein
+t&ecirc;te de cuv&eacute;e
+vin de pays
+vin de table
+vin gris
+vin mousseux
+vin nouveaux
+vin ordinire
+vin santo
+vino bianco
+vino da tavola
+vino de mesa
+vino rosso
+white
+white wine
+wine

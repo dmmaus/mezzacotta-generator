@@ -1,0 +1,4 @@
+@format ~
+9$dish/wine-colour-adjective $dish/wine-colour in colour ,
+9$dish/wine-colour-adjective $dish/wine-colour to the eye ,
+presenting 9$dish/wine-colour-adjective $dish/wine-colour in the glass ,

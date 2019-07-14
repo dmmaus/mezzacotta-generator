@@ -1,0 +1,51 @@
+@format ~
+Albari&ntilde;o
+Breidecker
+Cabernet
+Cabernet Franc
+Cabernet Sauvignon
+Carm&eacute;n&egrave;re
+Chardonnay
+Chenin Blanc
+Durif
+Gamay
+Gew&uuml;rztraminer
+Grenache
+Gr&uuml;ner Veltliner
+Lambrusco
+Malbec
+Marsanne
+Melon de Bourgogne
+Merlot
+Mourv&egrave;dre
+M&uuml;ller-Thurgau
+Muscat
+Nebbiolo
+Palomino
+Petite Sirah
+Petit Verdot
+Pinot Blanc
+Pinot Gris
+Pinot Meunier
+Pinot Noir
+Pinotage
+Prosecco
+Riesling
+Roussane
+Sangiovese
+Sauvignon Blanc
+S&eacute;millon
+Seyval Blanc
+Shiraz
+Sh&ouml;nburger
+Silvaner
+Syrah
+Tempranillo
+Teroldego
+Traminer Riesling
+Trebbiano
+Verdelho
+Verdicchio
+Vermentino
+Viognier
+Zinfandel

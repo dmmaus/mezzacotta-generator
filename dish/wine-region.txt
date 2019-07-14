@@ -1,0 +1,109 @@
+@format ~
+Albari&ntilde;o, Spain
+Alessandria, Italy
+Alsace, France
+Alto Douro, Portugal
+Asti, Italy
+Bairrada, Portugal
+Bandol, France
+Barossa Valley, Australia
+Beaujolais, France
+Bergerac, France
+Black Sea, Bulgaria
+Bordeaux, France
+Bourgogne, France
+Brazil
+Breede River Valley, South Africa
+Burgundy, France
+Central Otago, New Zealand
+Chablis, France
+Champagne, France
+Ch&acirc;teauneuf-du-Pape, France
+Chianti, Italy
+Cinque Terra, Italy
+Clare Valley, Australia
+Cognac, France
+Columbia Valley, Washington, USA
+Constantia, South Africa
+Coonawarra, Australia
+Corsica, France
+C&ocirc;te Chalonnaise, France
+C&ocirc;te d'Or, France
+C&ocirc;te de Provence, France
+Coteaux Varois, France
+Crete, Greece
+Cuneo, Italy
+Eger, Hungary
+Firenze, Italy
+Greenland
+Hawke's Bay, New Zealand
+Hudson River, New York, USA
+Hunter Valley, Australia
+Istria, Croatia
+Jerez, Spain
+Jura, France
+Kakheti, Georgia
+La Laguna, Mexico
+La Rioja, Argentina
+Lake County, California
+Lake Erie, New York, USA
+Languedoc-Roussillon, France
+Loire Valley, France
+Madeira, Portugal
+Maipo Valley, Chile
+Margaret River, Australia
+Marlborough, New Zealand
+Marmara, Turkey
+Marsala, Italy
+McLaren Vale, Australia
+M&eacute;doc, France
+Mendoza, Argentina
+Montepulciano, Italy
+Moselle Valley, Germany
+Moselle Valley, Luxembourg
+Muscadet, France
+Nahe, Germany
+Naousa, Greece
+Napa Valley, California
+Niagara Peninsula, Canada
+Nistreana, Moldova
+Okanagan Valley, Canada
+Oltenia, Romania
+Paarl, South Africa
+Parras de la Fuente, Mexico
+Pened&egrave;s, Spain
+Pfalz, Germany
+Piedmont, Italy
+Primorska, Slovenia
+Priorat, Spain
+Provence, France
+Rapel, Chile
+Rapsani, Greece
+Rheingau, Germany
+Rheinhessen, Germany
+Rhine Valley, Germany
+Rh&ocirc;ne Valley, France
+R&iacute;as Baixas, Spain
+Ribera del Duero, Spain
+Rioja, Spain
+Rose Valley, Bulgaria
+San Juan, Argentina
+Santa Clara Valley, California
+Sardinia, Italy
+Savoy, France
+Set&uacute;bal Peninsula, Portugal
+Sicily, Italy
+Siena, Italy
+Slavonia, Croatia
+Sonoma Valley, California
+Stellenbosch, South Africa
+Ticino, Switzerland
+Tokaj-Hegyalja, Hungary
+Tuscany, Italy
+Valencia, Spain
+Wachau Valley, Austria
+Waiheke Island, New Zealand
+Wairau Valley, New Zealand
+Weinviertel, Austria
+Willamette Valley, Oregon, USA
+Yakima Valley, Washington, USA
