@@ -1,6 +1,8 @@
 #!/usr/bin/python
 import random
 import sys
+from datetime import datetime
+import math
 
 class Vocab:
     # Constructor. Open the specified base file, parse the format specificiation, and load lines.
@@ -109,6 +111,15 @@ class Vocab:
                             result += parts[inflection_idx] + '[UNKNOWN INFLECTION: ' + missing_inflection + '] '
                         else:
                             result += parts[inflection_idx] + ' '
+
+                    # @recentyear command
+                    if word.startswith('@recentyear'):
+                        try:
+                            scale = int(word[len('@recentyear'):])
+                        except ValueError:
+                            scale = 1
+                        result += str(int(datetime.now().year) + int(scale * math.log(random.random()))) + ' '
+
                     else:
                         result += word + ' '
 
