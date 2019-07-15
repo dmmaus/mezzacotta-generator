@@ -1,43 +1,45 @@
 @format ~
-balanced with
-brightened with
-bringing to mind
-brought into focus by
-causing one to think of
-echoing $dish/wine-adjective notes of
-eliciting feelings of
-exuding $dish/wine-adjective odours of
-laced with
-melded with
-mingling with
-neatly framed by
-on a $dish/wine-adjective background of
-radiating $dish/wine-adjective notes of
-recalling the $dish/wine-adjective flavour of
-redolent with
-reeking of
-reminiscent of
-running through to
-smelling of
-supported by
-tasting of
-tightly knit with
-unfolding to
-with hints of
-with $dish/wine-adjective layers of
-with $dish/wine-adjective masses of
-with $dish/wine-adjective notes of
-with $dish/wine-adjective torrents of
-with $dish/wine-adjective undertones of
-with a $dish/wine-adjective aftertaste of
-with a $dish/wine-adjective aroma of
-with a $dish/wine-adjective core of
-with a $dish/wine-adjective fragrance of
-with a $dish/wine-adjective hint of
-with a $dish/wine-adjective whiff of
-with the $dish/wine-adjective essence of
-with the $dish/wine-adjective flavour of
-with the $dish/wine-adjective odour of
-with the $dish/wine-adjective scent of
-with the $dish/wine-adjective smell of
-with the $dish/wine-adjective taste of
+balanced with $dish/wine-bouquet-form
+brightened with $dish/wine-bouquet-form
+bringing to mind $dish/wine-bouquet-form
+brought into focus by $dish/wine-bouquet-form
+causing one to think of $dish/wine-bouquet-form
+echoing $dish/wine-adjective notes of $dish/wine-bouquet-form
+eliciting feelings of $dish/wine-bouquet-form
+exuding $dish/wine-adjective odours of $dish/wine-bouquet-form
+laced with $dish/wine-bouquet-form
+melded with $dish/wine-bouquet-form
+mingling with $dish/wine-bouquet-form
+neatly framed by $dish/wine-bouquet-form
+on a $dish/wine-adjective background of $dish/wine-bouquet-form
+radiating $dish/wine-adjective notes of $dish/wine-bouquet-form
+recalling the $dish/wine-adjective flavour of $dish/wine-bouquet-form
+redolent with $dish/wine-bouquet-form
+reeking of $dish/wine-bouquet-form
+reminiscent of $dish/wine-bouquet-form
+running through to $dish/wine-bouquet-form
+smelling of $dish/wine-bouquet-form
+supported by $dish/wine-bouquet-form
+tasting of $dish/wine-bouquet-form
+tightly knit with $dish/wine-bouquet-form
+unfolding to $dish/wine-bouquet-form
+with hints of $dish/wine-bouquet-form
+with 1$dish/wine-intensifier $dish/wine-adjective layers of $dish/wine-bouquet-form
+with 1$dish/wine-intensifier $dish/wine-adjective masses of $dish/wine-bouquet-form
+with 1$dish/wine-intensifier $dish/wine-adjective notes of $dish/wine-bouquet-form
+with 1$dish/wine-intensifier $dish/wine-adjective torrents of $dish/wine-bouquet-form
+with 1$dish/wine-intensifier $dish/wine-adjective undertones of $dish/wine-bouquet-form
+with a 1$dish/wine-intensifier $dish/wine-adjective aftertaste of $dish/wine-bouquet-form
+with a 1$dish/wine-intensifier $dish/wine-adjective aroma of $dish/wine-bouquet-form
+with a 1$dish/wine-intensifier $dish/wine-adjective core of $dish/wine-bouquet-form
+with a 1$dish/wine-intensifier $dish/wine-adjective fragrance of $dish/wine-bouquet-form
+with a 1$dish/wine-intensifier $dish/wine-adjective hint of $dish/wine-bouquet-form
+with a 1$dish/wine-intensifier $dish/wine-adjective whiff of $dish/wine-bouquet-form
+with $dish/wine-adjective essence of $dish/wine-bouquet-form
+with the $dish/wine-adjective flavour of $dish/wine-bouquet-form
+with the $dish/wine-adjective odour of $dish/wine-bouquet-form
+with the $dish/wine-adjective scent of $dish/wine-bouquet-form
+with the $dish/wine-adjective smell of $dish/wine-bouquet-form
+with the $dish/wine-adjective taste of $dish/wine-bouquet-form
+with the $dish/wine-adjective texture of $dish/wine-bouquet-form
+with 1$dish/wine-intensifier $dish/wine-adjective $dish/wine-bouquet-form -like flavours

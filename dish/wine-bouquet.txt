@@ -82,6 +82,7 @@ mangosteen
 maple syrup
 marzipan
 melon
+melon-rind
 menthol
 mint
 mocha
