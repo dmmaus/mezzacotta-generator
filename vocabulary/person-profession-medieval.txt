@@ -124,6 +124,7 @@ drywaller
 duchess|duchesses
 duke
 earl
+embalmer
 embroiderer
 enchanter
 engraver
