@@ -25,6 +25,7 @@ bandit
 barber
 barmaid
 barman|barmen
+barrister
 beggar
 biologist
 blacksmith
