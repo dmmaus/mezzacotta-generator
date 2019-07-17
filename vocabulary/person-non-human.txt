@@ -1,0 +1,18 @@
+@format ~|S
+@include noun-monster
+$noun-animal - $noun-animal hybrid
+alien
+artificial intelligence
+construct
+corpse
+cyborg
+dinosaur
+droid
+ewok
+fairy|fairies
+genie
+lich|liches
+simulacrum|simulacra
+mermaid
+robot
+smurf

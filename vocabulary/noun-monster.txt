@@ -1,5 +1,5 @@
 @format ~|S
-$noun-humanoid
+@include noun-humanoid
 angel
 basilisk
 beholder
@@ -9,6 +9,7 @@ devil
 dragon
 dryad
 ettin
+ghost
 gnoll
 gryphon
 harpy|harpies
@@ -25,6 +26,7 @@ roc
 satyr
 skeleton
 spectre
+spirit
 troglodyte
 troll
 unicorn

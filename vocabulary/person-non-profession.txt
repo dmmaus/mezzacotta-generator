@@ -24,13 +24,13 @@ $noun technician
 $noun thief|thieves
 $noun tycoon
 $person|$person_S of the sea
-# $sport champion
-# $sport promoter
-# pro $sport player
-# Olympic $sport competitor
-# $sport coach|coaches
-# $sport referee
-# $sport player
+$sport champion
+$sport promoter
+pro $sport player
+Olympic $sport competitor
+$sport coach|coaches
+^$sport referee
+$sport player
 $noun-geography-structure worker
 $noun-geography-structure +dweller
 $noun-geography-structure guard
@@ -40,10 +40,7 @@ $noun-vehicle accident survivor
 $noun-weapon maker
 $noun-weapon master
 $noun-weapon wielder
-alien
 anarchist
-angel
-artificial intelligence
 babe
 baby|babies
 bellringer
@@ -65,29 +62,17 @@ chav
 checkout chick
 child|children
 chorusgirl
-corpse
 coward
 cricketer
 cultist
-cyborg
-demon
-dinosaur
 door-to-door $noun salesman|salesmen
-dragon
 drug addict
 dude
-dwarf|dwarves
-elf|elves
 emo
-ewok
-fairy|fairies
 father
 fighter
 fundamentalist
 geek
-genie
-ghost
-goblin
 gold miner
 golfer
 goth
@@ -105,15 +90,12 @@ jerk
 kid
 kleptomaniac
 libarian
-lich|liches
 loser
 man|men
 maniac
-mermaid
 midget
 misfit
 mother
-mummy|mummies
 murderer
 neckbeard
 ne'er-do-well
@@ -132,18 +114,14 @@ prophet
 protester
 punk
 pyromaniac
-robot
 samurai
 scoundrel
 sea- $person|$person_S
 sentinel
 serial killer
 sibling
-skeleton
 skydiver
 slacker
-smurf
-spirit
 superhero|superheroes
 superstar
 teen
@@ -152,7 +130,6 @@ terrorist
 tourist
 twin
 underachiever
-vampire
 vandal
 veteran
 vigilante
@@ -164,4 +141,3 @@ whinger
 wimp
 woman|women
 zealot
-zombie
