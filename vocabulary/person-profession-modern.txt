@@ -1,0 +1,269 @@
+@format ~|S
+accountant
+acrobat
+actor
+actuary|actuaries
+acupuncturist
+admiral
+agriculturalist
+anaesthetist
+analyst
+animal trainer
+arborist
+archaeologist
+architect
+artist
+astrologer
+astronaut
+astronomer
+athlete
+author
+babysitter
+baker
+ballet dancer
+bandit
+barber
+barmaid
+barman|barmen
+barrister
+beggar
+biologist
+blacksmith
+bodybuilder
+bodyguard
+botanist
+boxer
+bricklayer
+builder
+burglar
+bus driver
+busker
+businessman|businessmen
+business person|people
+butcher
+butler
+call centre operator
+carpenter
+cartographer
+cartoonist
+celebrant
+cheesemaker
+chef
+chemical engineer
+chemist
+circus performer
+civil engineer
+clown
+coach|coaches
+comedian
+composer
+computer hacker
+computer operator
+computer programmer
+concierge
+conductor
+construction worker
+convict
+cook
+cop
+counsellor
+cowboy
+criminal
+curator
+dancer
+data analyst
+dentist
+dermatologist
+detective
+disc jockey
+diver
+doctor
+dog groomer
+dog walker
+door-to-door $noun salesman|salesmen
+driver
+economist
+electrical engineer
+engineer
+entertainer
+exterminator
+farmer
+film director
+financial advisor
+financial manager
+fireman|firemen
+fisherman|fishermen
+fitness instructor
+flight attendant
+florist
+footballer
+gambler
+gangster
+gardener
+general practitioner
+geologist
+governor
+graphic artist
+gravedigger
+greenkeeper
+guard
+gynaecologist
+hairdresser
+hair stylist
+healer
+herbologist
+historian
+hitman|hitmen
+hobo|hoboes
+house husband
+housewife|housewives
+hunter
+hypnotist
+illusionist
+illustrator
+information technologist
+interior decorator
+interpreter
+inventor
+investigator
+janitor
+jeweller
+jockey
+judge
+lab technician
+lawyer
+lecturer
+librarian
+lifeguard
+magician
+manager
+manicurist
+mariner
+matador
+mathematician
+mechanic
+mechanical engineer
+metallurgist
+metalworker
+microbiologist
+middle manager
+midwife|midwives
+military officer
+mime
+miner
+mining engineer
+missionary|missionaries
+monk|monks
+musician
+nanny|nannies
+newsreader
+nun
+nurse
+obstetrician
+orthodontist
+paediatrician
+painter
+paramedic
+parking inspector
+pastry chef
+pathologist
+pensioner
+personal trainer
+phone scammer
+photographer
+physical therapist
+physicist
+pickpocket
+pilot
+pirate
+pizza deliverer
+plastic surgeon
+plumber
+podiatrist
+poet
+police officer
+policeman|policemen
+politician
+postman
+priest
+prison guard
+prisoner
+private eye
+professional athlete
+programmer
+prosecutor
+prostitute
+publican
+publicist
+puppeteer
+ranger
+real estate agent
+receptionist
+referee
+repairman|repairmen
+reporter
+researcher
+rock star
+rodeo clown
+sailor
+salesman
+scientist
+scriptwriter
+sculptor
+secret agent
+secretary
+security guard
+senator
+servant
+shepherd
+shipwright
+shopkeeper
+singer
+social media influencer
+software architect
+software engineer
+soldier
+solicitor
+spammer
+speech pathologist
+sports promoter
+spy|spies
+statistician
+stockbroker
+stripper
+student
+stuntman|stuntmen
+stylist
+sumo wrestler
+supermarket checkout operator
+supermodel
+surfer
+surgeon
+symbologist
+tailor
+tattooist
+taxidermist
+teacher
+technician
+therapist
+thief|thieves
+train driver
+thug
+tinker
+tour guide
+tour operator
+tradesman|tradesmen
+travel agent
+truck driver
+TV personality|personalities
+tycoon
+veterinarian
+waiter
+waitress|waitresses
+wedding planner
+welder
+whaler
+wine maker
+writer
+yoga instructor
+zookeeper

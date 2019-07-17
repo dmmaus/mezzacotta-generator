@@ -12,6 +12,7 @@ A generic, extensible, customisable random text generator. The code is <a href="
 <ul>
 <li><a href="tavern/">Random fantasy tavern names</a></li>
 <li><a href="artifact/">Random fantastic artifacts</a></li>
+<li><a href="dish/">mezzacotta Café, version 2</a> - the reincarnation of the original <a href="/mezzacafe/">mezzacotta Café</a> with all-new code. Some HTML formatting work still to be done.</li>
 </ul>
 </body>
 </html>

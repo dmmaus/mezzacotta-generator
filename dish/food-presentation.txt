@@ -260,7 +260,7 @@ fondant
 fondue
 fool
 foot-long sub
-for #
+for $number-small
 for the whole family
 for two
 Foster
@@ -583,7 +583,7 @@ served al fresco
 served at room temperature
 served chilled
 served cold
-served deconstructed in # beakers
+served deconstructed in $number-small beakers
 served in a cocktail glass
 served in a mason jar
 served in a monkey skull
@@ -595,7 +595,7 @@ served on a paving brick
 served on a slate slab
 served on a wooden board
 served to your liking
-served with cracked pepper from a #-foot grinder
+served with cracked pepper from a $number-small -foot grinder
 served with petit fours, tea, and coffee
 served yum cha style
 set in its own jelly

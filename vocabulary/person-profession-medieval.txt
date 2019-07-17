@@ -32,7 +32,7 @@ banker
 barbarian
 barber
 bard
-bargeman
+bargeman|bargemen
 barkeep
 barmaid
 bartender
@@ -82,7 +82,7 @@ chirurgeon
 cleric
 clockmaker
 clown
-coachman
+coachman|coachmen
 cobbler
 coin-stamper
 collier
@@ -102,7 +102,7 @@ countess|countesses
 courtesan
 courtier
 cowherd
-craftsman
+craftsman|craftsmen
 crofter
 cup-bearer
 cutler
@@ -304,7 +304,7 @@ ranger
 ratcatcher
 reaper
 reeve
-riverman
+riverman|rivermen
 rope-maker
 rogue
 roofer
@@ -322,7 +322,10 @@ scrivener
 scullerymaid
 scullion
 sculptor
+seamster
 seamstress|seamstresses
+sempster
+sempstress|sempstresses
 seneschal
 serf
 sergeant
@@ -363,6 +366,7 @@ tanner
 tapster
 tax collector
 teacher
+teamster
 thatcher
 thaumaturgist
 thief|thieves
@@ -400,7 +404,7 @@ weaver
 wench|wenches
 wetnurse
 wheelwright
-wise woman
+wise woman|women
 witch|witches
 witch-smeller
 wizard
@@ -409,4 +413,4 @@ woodcutter
 woodsman|woodsmen
 woodturner
 woodward
-yeoman
+yeoman|yeomen

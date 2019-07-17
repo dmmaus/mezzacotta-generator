@@ -29,10 +29,10 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 ## Running the generators
 
-The Python generator code `generique.py` takes two arguments:
+The Python generator code `generique.py` takes two or more arguments:
 
-1. A base vocabulary file name path, without the `.txt` extension. This specifies which text generator to run.
-1. A number of lines of text to generate.
+1. The first *N*-1 arguments are base vocabulary file name paths, without the `.txt` extension. These specify which text generators to run. If more than one base file is given, the outputs of the base files are concatenated with a `~~` separator.
+1. The final argument is the number of lines of text to generate.
 
 **From a web browser:** Place the code into your web server directory, then point your browser at the top level `index.php` file. Your web server will need to allow shell execution of Python from within PHP. You may ned to edit the python path in the subdirectory `index.php` files. The PHP code calls the Python `generique.py` to generate a number of lines, formatted for browser display.
 
@@ -92,6 +92,10 @@ Text lines may contain words starting with dollar signs. These indicate substitu
 
 The parser recursively generates random strings from referenced files until it bottoms out, and then returns the entire generated string.
 
+There are also special @-commands that produce substituted text:
+
+* `@recentyearN` - Generates a year number in the past, biased towards more recent years, and substitutes it in place. `N` is a number, which is interpreted as a scale factor for the logarithmic probability distribution. Most years generated will be within *N* yers of the present, but there is a long low probability tail.
+
 ### Conditional substitution
 
 A dollar sign may be preceded by a digit (1-9). This indicates that the attached substitution string will only be included with probability (digit/10). The script generates a random number between 0 and 1, if it is greater than the probability, then the attached substitution is skipped. This is useful for additional words such as adjectives that you only want to include sometimes, allowing you to tune the frequency of inclusion.
@@ -107,7 +111,9 @@ As a final pass, there are some automatic string substitutions made to tidy up t
 * If the parser generates the word `a` followed by a word that starts with a vowel, it automatically converts `a` to `an`.
 * Underscores are converted to spaces. (Underscores are sometimes needed in vocabulary files to separate compound words with inflected forms, otherwise the inflection parsing gets confused.)
 * Spaces around hyphens are removed. This is so you can specify prefixes and suffixes with hyphens. For example, `super-` as an adjective, and have the string `super-badger` returned without a space after the hyphen.
+* Plus signs and spaces around them are removed. This is so you can specify prefixes and suffixes that join onto words without hyphens. For example, `super+` as an adjective, and have the string `superbadger` returned without a space or hyphen.
 * Spaces before certain punctuation (`. , ? ! ' : ; )`) and spaces after open parentheses (`(`) are removed.
+* Doubled up punctuation is reduced to a single punctuation character. Conflicting punctuation is resolved to the "strongest" character - e.g. `.!` becomes `!`.
 
 ### The difference between includes and substitutions
 
@@ -152,4 +158,5 @@ which would select each animal with equal probability 1/6.
 The sample PHP code does the following substitutions:
 
 * Apostrophes are replaced with curly apostrophes.
+* `dish/index.php` shows an example of HTML formatting output from multiple base generators in a single Python call.
 
