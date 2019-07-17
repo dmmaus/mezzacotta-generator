@@ -1,0 +1,13 @@
+@format ~
+$village/village-prefix + $village/village-suffix
+$village/village-prefix + $village/village-suffix
+$village/village-prefix + $village/village-suffix
+$village/village-prefix + $village/village-suffix
+$village/village-prefix + $village/village-suffix
+$village/village-prefix + $village/village-suffix
+$village/village-prefix + s + $village/village-suffix
+$village/village-prefix + s + $village/village-suffix
+$village/village-prefix + $village/village-suffix + $village/village-suffix
+$village/village-prefix + -on-the- + $village/village-suffix
+$village/village-prefix + $village/village-suffix + -on- + $village/village-river
+$village/village-prefix + $village/village-suffix on $village/village-river + side
