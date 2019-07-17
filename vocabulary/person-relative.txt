@@ -32,7 +32,7 @@ parent
 second cousin
 sister
 sister
-sister-in-law|sisters_in_law
+sister-in-law|sisters-in-law
 son
 son
 son-in-law|sons-in-law
