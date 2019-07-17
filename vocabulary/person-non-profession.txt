@@ -1,0 +1,167 @@
+# Words for designating a person without referring to a profession
+@format ~|S
+human- $noun|$noun_S
+$noun-animal hunter
+$noun-animal keeper
+$noun-animal watcher
+$noun-animal wrangler
+# $instrument maker
+# $instrument player
+# $instrument virtuoso
+$noun-geography-landform farmer
+$noun-geography-landform -dweller
+$noun collector
+$noun dealer
+$noun -eater
+$noun inspector
+$noun -lover
+$noun maker
+$noun repairman|repairmen
+$noun researcher
+$object salesman|salesmen
+$noun seller
+$noun technician
+$noun thief|thieves
+$noun tycoon
+$person|$person_S of the sea
+# $sport champion
+# $sport promoter
+# pro $sport player
+# Olympic $sport competitor
+# $sport coach|coaches
+# $sport referee
+# $sport player
+$noun-geography-structure worker
+$noun-geography-structure +dweller
+$noun-geography-structure guard
+$noun-vehicle driver
+$noun-vehicle maintainer
+$noun-vehicle accident survivor
+$noun-weapon maker
+$noun-weapon master
+$noun-weapon wielder
+alien
+anarchist
+angel
+artificial intelligence
+babe
+baby|babies
+bellringer
+bellydancer
+billionaire
+biker
+bikini model
+bimbo
+bird watcher
+bridesmaid
+bride
+bro
+bully|bullies
+bushranger
+camper
+centurion
+chap
+chav
+checkout chick
+child|children
+chorusgirl
+corpse
+coward
+cricketer
+cultist
+cyborg
+demon
+dinosaur
+door-to-door $noun salesman|salesmen
+dragon
+drug addict
+dude
+dwarf|dwarves
+elf|elves
+emo
+ewok
+fairy|fairies
+father
+fighter
+fundamentalist
+geek
+genie
+ghost
+goblin
+gold miner
+golfer
+goth
+granny|grannies
+graverobber
+guy
+hedonist
+hipster
+hoon
+horseman|horsemen
+horserider
+hotshot
+imposter
+jerk
+kid
+kleptomaniac
+libarian
+lich|liches
+loser
+man|men
+maniac
+mermaid
+midget
+misfit
+mother
+mummy|mummies
+murderer
+neckbeard
+ne'er-do-well
+nerd
+ninja
+nonentity|nonentities
+noob
+octogenarian
+oracle
+orphan
+overlord
+person|people
+pioneer
+prankster
+prophet
+protester
+punk
+pyromaniac
+robot
+samurai
+scoundrel
+sea- $person|$person_S
+sentinel
+serial killer
+sibling
+skeleton
+skydiver
+slacker
+smurf
+spirit
+superhero|superheroes
+superstar
+teen
+teenager
+terrorist
+tourist
+twin
+underachiever
+vampire
+vandal
+veteran
+vigilante
+villain
+vixen
+waif
+warlord
+whinger
+wimp
+woman|women
+zealot
+zombie

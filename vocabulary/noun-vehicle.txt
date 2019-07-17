@@ -1,3 +1,3 @@
 @format ~|S
-$noun-vehicle-land|$noun-vehicle-land_S
-$noun-vehicle-water|$noun-vehicle-water_S
+@include noun-vehicle-land
+@include noun-vehicle-water

@@ -43,6 +43,7 @@ business person|people
 butcher
 butler
 call centre operator
+carnival worker
 carpenter
 cartographer
 cartoonist
