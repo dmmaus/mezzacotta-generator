@@ -137,7 +137,8 @@ class MezzaGenerator:
             " a A":" an A", " a E":" an E"," a O":" an O"," a U":" an U"," a I":" an I",
             " A A":" An A", " A E":" An E"," A O":" An O"," A U":" An U"," A I":" An I",
             " A a":" An a", " A e":" An e"," A o":" An o"," A u":" An u"," A i":" An i",
-            "?.":"?", " )":")", "( ":"(", "_":" ", "- ":"-", " -":"-", " +":"", ",,":","
+            "?.":"?", " )":")", "( ":"(", "_":" ", "- ":"-", " -":"-", " +":"", ",,":",",
+            "+ ":""
             }
 
     # Perform full expansion of a random line from a file
@@ -216,13 +217,20 @@ class MezzaGenerator:
 if __name__ == '__main__':
 
     gen = MezzaGenerator()
-    # Read base file name from command line.
-    basefilename = sys.argv[1]
-    # Read number of lines to generate; default to 1.
-    if (len(sys.argv) > 2):
-        num = int(sys.argv[2])
-    else:
+    # Generate each of the base file names listed on the command line
+    bases = sys.argv[1:-1]
+
+    try:
+        num = int(sys.argv[-1])
+    except ValueError:
         num = 1
-    # Generate lines!
-    for i in range(num):
-        print gen.Generate(basefilename)
+        bases = sys.argv[1:]
+
+    for n in range(num):
+        for idx in range(len(bases)):
+            print gen.Generate(bases[idx]),
+            if idx < len(bases) - 1:
+                print '~~',
+            else:
+                print
+
