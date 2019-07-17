@@ -113,7 +113,7 @@ class Vocab:
                             result += parts[inflection_idx] + ' '
 
                     # @recentyear command
-                    if word.startswith('@recentyear'):
+                    elif word.startswith('@recentyear'):
                         try:
                             scale = int(word[len('@recentyear'):])
                         except ValueError:
