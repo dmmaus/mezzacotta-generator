@@ -1,0 +1,22 @@
+# Herps. i.e. reptiles and amphibians.
+@format ~|S
+alligator
+anaconda
+asp
+caiman
+chameleon
+cobra
+crocodile
+frog
+gecko
+iguana
+lizard
+newt
+python
+salamander
+serpent
+snake
+toad
+tortoise
+turtle
+viper

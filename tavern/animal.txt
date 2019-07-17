@@ -1,0 +1,5 @@
+# Real world animals with a small chance of generating monsters or humanoids.
+@format ~|S
+@include noun-animal
+$noun-monster|$noun-monster_S
+$noun-humanoid|$noun-humanoid_S

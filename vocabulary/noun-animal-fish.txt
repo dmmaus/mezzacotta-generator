@@ -1,0 +1,16 @@
+@format ~|S
+carp|carp
+catfish|catfish
+cod|cod
+eel
+fish|fish
+guppy|guppies
+mackerel|mackerel
+mullet|mullet
+pike|pike
+salmon|salmon
+sardine
+shark
+swordfish|swordfish
+trout|trout
+tuna|tuna

@@ -1,0 +1,35 @@
+@format ~|S
+ant
+barnacle
+bee
+beetle
+butterfly|butterflies
+centipede
+clam
+cockle
+cockroach
+crab
+dragonfly|dragonflies
+flea
+fly|flies
+hornet
+jellyfish|jellyfish
+lady beetle
+lobster
+louse|lice
+mantis|mantises
+millipede
+moth
+mosquito|mosquitoes
+octopus|octopuses
+oyster
+slug
+snail
+spider
+squid
+starfish|starfish
+termite
+tick
+wasp
+whelk
+worm
