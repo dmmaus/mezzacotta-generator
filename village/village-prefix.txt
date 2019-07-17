@@ -7,10 +7,13 @@ ayle
 bal
 barn
 basing
+berk
 bex
 bicker
+bishop
 black
 bony
+bos
 brad
 bre
 bur
@@ -33,6 +36,7 @@ east
 fair
 fal
 farn
+felix
 find
 gar
 gart
@@ -41,6 +45,7 @@ grey
 guild
 gwyn
 hamil
+hammer
 hast
 hex
 hudder
@@ -54,17 +59,20 @@ knock
 lang
 leo
 lewis
+lich
 lin
 lind
 liver
 lyn
 lynd
 man
+monk
 moss
 nant
 new
 north
 notting
+padding
 pen
 pont
 prince
@@ -72,6 +80,7 @@ queen
 old
 or
 prest
+ram
 rose
 rother
 ruther
@@ -79,6 +88,8 @@ sher
 ship
 skeg
 south
+spital
+stam
 stan
 stock
 stoke
