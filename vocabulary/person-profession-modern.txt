@@ -30,16 +30,19 @@ beggar
 biologist
 blacksmith
 bodybuilder
+bodyguard
 botanist
 boxer
 bricklayer
 builder
 burglar
+bus driver
 busker
 businessman|businessmen
 business person|people
 butcher
 butler
+call centre operator
 carpenter
 cartographer
 cartoonist
@@ -59,6 +62,7 @@ computer operator
 computer programmer
 concierge
 conductor
+construction worker
 convict
 cook
 cop
@@ -89,6 +93,8 @@ financial advisor
 financial manager
 fireman|firemen
 fisherman|fishermen
+fitness instructor
+flight attendant
 florist
 footballer
 gambler
@@ -142,6 +148,7 @@ metalworker
 microbiologist
 middle manager
 midwife|midwives
+military officer
 mime
 miner
 mining engineer
@@ -149,16 +156,17 @@ missionary|missionaries
 monk|monks
 musician
 nanny|nannies
-news reader
+newsreader
 nun
 nurse
 obstetrician
 orthodontist
+paediatrician
 painter
 paramedic
 parking inspector
+pastry chef
 pathologist
-pediatrician
 pensioner
 personal trainer
 phone scammer
@@ -257,4 +265,5 @@ welder
 whaler
 wine maker
 writer
+yoga instructor
 zookeeper
