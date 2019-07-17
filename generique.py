@@ -31,7 +31,10 @@ class Vocab:
                 for line in f:
                     line = line.rstrip()
 
-                    if line.startswith('#'):
+                    if '#' in line:
+                        line = line[:line.find('#')]
+
+                    if line == '':
                         continue
 
                     if line.startswith('@format'):
