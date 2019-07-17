@@ -1,24 +1,19 @@
+# Words for designating a person without referring to a profession
 @format ~|S
 human- $noun|$noun_S
-$animal farmer
-$animal hunter
-$animal keeper
-$animal watcher
-$animal wrangler
-$animal whisperer
-$genre director
+$noun-animal hunter
+$noun-animal keeper
+$noun-animal watcher
+$noun-animal wrangler
 # $instrument maker
 # $instrument player
 # $instrument virtuoso
-$land farmer
-$land -dweller
-$noun analyst
+$noun-geography-landform farmer
+$noun-geography-landform -dweller
 $noun collector
 $noun dealer
-$noun eater
-$noun fanatic
+$noun -eater
 $noun inspector
-$noun lord
 $noun -lover
 $noun maker
 $noun repairman|repairmen
@@ -64,8 +59,6 @@ bro
 bully|bullies
 bushranger
 camper
-candlestick maker
-carnival worker
 centurion
 chap
 chav
@@ -125,7 +118,6 @@ murderer
 neckbeard
 ne'er-do-well
 nerd
-news reader
 ninja
 nonentity|nonentities
 noob
@@ -143,6 +135,7 @@ pyromaniac
 robot
 samurai
 scoundrel
+sea- $person|$person_S
 sentinel
 serial killer
 sibling
@@ -161,7 +154,7 @@ twin
 underachiever
 vampire
 vandal
-vet
+veteran
 vigilante
 villain
 vixen
