@@ -2,10 +2,10 @@
 $dish/winery-name and $dish/winery-name
 Achilles
 Albion
-%Alexander
+1$dish/wine-name-prefix  Alexander
 Amour
 Anguille
-%Angus
+1$dish/wine-name-prefix  Angus
 Apollo
 Astrolabe
 Avalon
@@ -13,35 +13,35 @@ Badger
 Baker
 Balzac
 Balthazar
-%Barney
+1$dish/wine-name-prefix  Barney
 Bellringer
 Beowulf
-%Bill
+1$dish/wine-name-prefix  Bill
 Bishop
 Boar
 Boatswain
-%Boreham
+1$dish/wine-name-prefix  Boreham
 Bouchard
 Bouffon
 Bowyer
-%Brown
+1$dish/wine-name-prefix  Brown
 Brouilly
-%Bruce
+1$dish/wine-name-prefix  Bruce
 Bull
 Butcher
 Camel
 Camelot
-%Campbell
+1$dish/wine-name-prefix  Campbell
 Candlestick-Maker
 Chapel
-%Chang
+1$dish/wine-name-prefix  Chang
 Chimneysweep
 Chirac
 Chiroubles
-%Coker
-%Connor
+1$dish/wine-name-prefix  Coker
+1$dish/wine-name-prefix  Connor
 Convict
-%Cook
+1$dish/wine-name-prefix  Cook
 Cru
 Devil
 D&eacute;go&ucirc;tant
@@ -52,106 +52,106 @@ d'Yquem
 Eagle
 Ennui
 Falcon
-%Fergus
+1$dish/wine-name-prefix  Fergus
 Fish
 Fisherman
-%Fletcher
+1$dish/wine-name-prefix  Fletcher
 Fleur
 Fouchard
 Friar
-%Fred
+1$dish/wine-name-prefix  Fred
 George
-%Glen
+1$dish/wine-name-prefix  Glen
 Griffin
 Grincheaux
-%Hamilton
+1$dish/wine-name-prefix  Hamilton
 Hare
-%Harris
-%Harry
+1$dish/wine-name-prefix  Harris
+1$dish/wine-name-prefix  Harry
 Hautain
 Hector
 Helen
-%Henry
+1$dish/wine-name-prefix  Henry
 Heritage
 Hermione
 Hippogriff
 Hugo
 Innkeeper
-%Irrgang
+1$dish/wine-name-prefix  Irrgang
 Ishmael
-%Ivan
+1$dish/wine-name-prefix  Ivan
 Jacques
 Jadot
-%Jeremiah
+1$dish/wine-name-prefix  Jeremiah
 Jester
-%John
+1$dish/wine-name-prefix  John
 Johnson
-%Jones
+1$dish/wine-name-prefix  Jones
 Juli&eacute;nas
-%Karlov
+1$dish/wine-name-prefix  Karlov
 Khan
 Kingston
 Latour
-%Larry
-%Leish
-%Lewis
+1$dish/wine-name-prefix  Larry
+1$dish/wine-name-prefix  Leish
+1$dish/wine-name-prefix  Lewis
 Lighthouse-Keeper
-%Logan
+1$dish/wine-name-prefix  Logan
 Louis
 Luigi
-%Malfoy
+1$dish/wine-name-prefix  Malfoy
 Mary
 Mongoose
 Monk
 Montagne
 Montrose
-%Morgan-Mar
-%Myrtle
+1$dish/wine-name-prefix  Morgan-Mar
+1$dish/wine-name-prefix  Myrtle
 Napol&eacute;on
 Naus&eacute;abond
 Neuf
-%Neville
+1$dish/wine-name-prefix  Neville
 Ng
-%Nigel
-%Norman
+1$dish/wine-name-prefix  Nigel
+1$dish/wine-name-prefix  Norman
 Nun
-%Oscar
+1$dish/wine-name-prefix  Oscar
 Ophelia
 Pamplona
-%Parker
+1$dish/wine-name-prefix  Parker
 Parson
-%Patrick
+1$dish/wine-name-prefix  Patrick
 Pegasus
 Pentridge
 Pierre
 Pompeaux
 Porcherie
-%Preston
+1$dish/wine-name-prefix  Preston
 Priest
 Quaffer
 Ram
 Reeve
-%Reginald
+1$dish/wine-name-prefix  Reginald
 Ren&eacute;
 Richard
 Ringmaster
-%Robertson
+1$dish/wine-name-prefix  Robertson
 Rubicon
 Sailor
 Sch&ouml;nberg
 Scout
-%Seamus
+1$dish/wine-name-prefix  Seamus
 Shakespeare
-%Shellshear
+1$dish/wine-name-prefix  Shellshear
 Shepherd
-%Smith
+1$dish/wine-name-prefix  Smith
 Smuggler
-%Spiffington-Smythe
+1$dish/wine-name-prefix  Spiffington-Smythe
 Stag
 Stallion
 Steeplejack
 Stone
-%Swan
+1$dish/wine-name-prefix  Swan
 Theobald
 Thomas
 Tiger
@@ -162,13 +162,13 @@ Vampire
 Verona
 Vicar
 Virgin
-%Wayne
-%Weaver
-%William
-%Wilson
+1$dish/wine-name-prefix  Wayne
+1$dish/wine-name-prefix  Weaver
+1$dish/wine-name-prefix  William
+1$dish/wine-name-prefix  Wilson
 Witch
-%Wolf
-%Wong
+1$dish/wine-name-prefix  Wolf
+1$dish/wine-name-prefix  Wong
 Xanadu
 Xavier
 Zachary
