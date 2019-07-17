@@ -204,14 +204,15 @@ class MezzaGenerator:
     def Generate(self, spec):
         result = self.Expand(spec)
         # Make first letter of result upper case
-        result = result[0].upper() + result[1:]
+        result = ' ' + result[0].upper() + result[1:]
 
         for key in self.replacements.keys():
             if key in result:
                 result = result.replace(key, self.replacements[key])
 
-        # Remove trailing space and return
-        return result.rstrip()
+
+        # Remove surrounding space and return
+        return result.strip()
 
 
 if __name__ == '__main__':
