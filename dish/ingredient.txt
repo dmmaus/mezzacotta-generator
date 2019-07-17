@@ -245,7 +245,7 @@ courgette
 |cowrie
 crab
 |crab meat
-|cracked pepper from a #-foot grinder
+|cracked pepper from a $number-small -foot grinder
 cranberry|cranberries
 crawdad
 |crawfish
