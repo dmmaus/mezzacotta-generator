@@ -1,0 +1,95 @@
+@format ~
+BMX
+American football
+Australian rules football
+archery
+athletics
+axe throwing
+badminton
+ballooning
+ballroom dancing
+baseball
+basketball
+biathlon
+billiards
+bodybuilding
+boules
+bocce
+bog snorkelling
+boxing
+bungee jumping
+burling
+caber tossing
+canoeing
+cheerleading
+cheese rolling
+cricket
+croquet
+curling
+darts
+diving
+dodgeball
+dog-sledding
+fencing
+figure skating
+fishing
+football
+golf
+Greco-Roman wrestling
+gridiron
+gymnastics
+handball
+hang-gliding
+high-jump
+hockey
+horse racing
+hurdles
+hurling
+ice hockey
+ice skating
+jai-alai
+jogging
+judo
+karate
+kayaking
+lacrosse
+lawn bowls
+log rolling
+long-jump
+netball
+pole vaulting
+polo
+pool
+quidditch
+racquetball
+real tennis
+roller derby
+roller skating
+rollerball
+rounders
+rowing
+rugby
+skateboarding
+skiing
+skydiving
+snooker
+snowboarding
+soccer
+softball
+speed skating
+squash
+surfing
+sumo
+swimming
+table tennis
+tennis
+tenpin bowling
+trampolining
+triathlon
+tug-o-war
+volleyball
+water polo
+weightlifting
+white water rafting
+wood chopping
+wrestling

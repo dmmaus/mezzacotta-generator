@@ -16,6 +16,7 @@ castle
 cester
 chapel
 chester
+croft
 combe
 cot
 cott
@@ -90,3 +91,4 @@ wold
 wood
 worth
 wych
+vania
