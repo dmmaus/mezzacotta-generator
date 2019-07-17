@@ -10,15 +10,23 @@
 5 random restaurant dishes. Reload for more.
 </p>
 <ul>
-<li>
 <?php
-$command = escapeshellcmd('/usr/bin/python ../generique.py dish/base 5');
+$command = escapeshellcmd('/usr/bin/python ../generique.py dish/base dish/wine-name dish/wine-description 5');
 $output = shell_exec($command);
-$output = preg_replace('/\n/', "</li>\n<li>", rtrim($output));
-$output = preg_replace("/'/", "’", $output);
-echo $output;
+#$output = preg_replace('/\n/', "</li>\n<li>", rtrim($output));
+#$output = preg_replace("/'/", "’", $output);
+#echo $output;
+
+$lines = explode("\n", rtrim($output));
+foreach ($lines as $line)
+{
+    $parts = explode("~~", $line);
+    $dish = trim($parts[0]) . ".";
+    $wine = trim($parts[1]);
+    $winedescription = trim($parts[2]);
+    echo "<li>$dish<br>With this dish we recommend: $wine<br><i>$winedescription.</i></li>\n<br>\n";
+}
 ?>
-</li>
 </ul>
 </body>
 </html>

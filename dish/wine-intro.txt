@@ -1,2 +1,2 @@
 @format ~
-A 8$dish/wine-intensifier $dish/wine-adjective $dish/wine-type ,
+a 8$dish/wine-intensifier $dish/wine-adjective $dish/wine-type ,
