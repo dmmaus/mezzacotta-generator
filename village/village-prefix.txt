@@ -70,6 +70,7 @@ monk
 moss
 nant
 new
+nor
 north
 notting
 padding
@@ -86,6 +87,7 @@ rother
 ruther
 sher
 ship
+shrop
 silver
 skeg
 south
@@ -99,6 +101,7 @@ sud
 sut
 swin
 thistle
+tun
 wat
 way
 well
@@ -106,6 +109,7 @@ west
 wey
 wid
 will
+wim
 win
 woll
 wool

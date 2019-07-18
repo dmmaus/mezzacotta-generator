@@ -1,0 +1,18 @@
+@format ~
+east
+great
+greater
+lesser
+little
+long
+lower
+king's
+new
+north
+old
+port
+royal
+saint
+south
+upper
+west

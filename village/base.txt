@@ -1,10 +1,13 @@
 @format ~
+@titlecase
+$village/village-premodifier $village/village-prefix + $village/village-suffix
 $village/village-prefix + $village/village-suffix
 $village/village-prefix + $village/village-suffix
 $village/village-prefix + $village/village-suffix
 $village/village-prefix + $village/village-suffix
 $village/village-prefix + $village/village-suffix
 $village/village-prefix + $village/village-suffix
+$village/village-prefix + $village/village-suffix $village/village-postmodifier
 $village/village-prefix + s + $village/village-suffix
 $village/village-prefix + s + $village/village-suffix
 $village/village-prefix + $village/village-suffix + $village/village-suffix
