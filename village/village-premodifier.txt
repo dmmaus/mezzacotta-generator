@@ -2,11 +2,14 @@
 east
 great
 greater
+high
 lesser
 little
 long
+low
 lower
 king's
+middle
 new
 north
 old
