@@ -15,7 +15,7 @@ cathedral|cathedrals
 chapel|chapels
 church|churches
 citadel
-city
+city|cities
 cottage
 dam
 dock
