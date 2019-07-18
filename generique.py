@@ -3,6 +3,7 @@ import random
 import sys
 from datetime import datetime
 import math
+import re
 
 class Vocab:
     # Constructor. Open the specified base file, parse the format specificiation, and load lines.
@@ -221,6 +222,8 @@ class MezzaGenerator:
             if key in result:
                 result = result.replace(key, self.replacements[key])
 
+        #remove duplicate spaces
+        result = re.sub(' +', ' ', result)
 
         # Remove surrounding space and return
         return result.strip()
