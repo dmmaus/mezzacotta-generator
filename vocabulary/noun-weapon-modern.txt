@@ -1,0 +1,13 @@
+@format ~|S
+bomb
+flintlock
+grenade
+gun
+machine gun
+matchlock
+missile
+pistol
+rifle
+rocket-propelled grenade
+shotgun
+torpedo|torpedoes

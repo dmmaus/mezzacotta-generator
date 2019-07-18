@@ -1,0 +1,28 @@
+# Weapons that existed before the introduction of gunpowder. So no firearms, cannons and so forth.
+@format ~|S
+arrow
+axe
+bardiche
+boomerang
+bow
+crossbow
+cudgel
+dagger
+dirk
+flail
+glaive
+halberd
+hammer
+knife|knives
+lance
+longbow
+mace
+morning star
+poleaxe
+spear
+staff|staves
+stick
+stiletto
+sword
+sword-breaker
+whip
