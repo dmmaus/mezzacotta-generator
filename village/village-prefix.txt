@@ -39,6 +39,7 @@ fal
 farn
 felix
 find
+fother
 gar
 gart
 gras
@@ -97,6 +98,7 @@ south
 spital
 stam
 stan
+stickle
 stock
 stoke
 strath

@@ -17,10 +17,12 @@ castle
 cester
 chapel
 chester
+crag
 croft
 combe
 cot
 cott
+cove
 dale
 darroch
 don
@@ -87,6 +89,7 @@ stead
 ster
 stoke
 stone
+stow
 streat
 tarn
 thorp
@@ -104,6 +107,7 @@ wick
 wold
 wood
 worth
+worthy
 wych
 wyn
 vania
