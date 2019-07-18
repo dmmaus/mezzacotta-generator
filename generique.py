@@ -4,6 +4,7 @@ import sys
 from datetime import datetime
 import math
 import re
+import string
 
 class Vocab:
     # Constructor. Open the specified base file, parse the format specificiation, and load lines.
@@ -172,6 +173,7 @@ class MezzaGenerator:
         randomline = self.vocabs[base].RandomLine(inflection)
 
         result = ''
+        # Keep track if the previous word was a plus sign, to handle capitalisation of conjoined words
         plus = False
 
         for word in randomline.split():
@@ -202,6 +204,13 @@ class MezzaGenerator:
 
             elif word == "+":
                 plus = True
+                # Go back and capitalise the previous word fragment if necessary
+                # Needed to capitalise fragments that are in non_cap_words, when joined with +
+                resultlist = result.split()
+                if cap and (len(resultlist) > 1 and "+" not in resultlist[-2]):
+                    # Only capitalise if the second previous word was not also a plus sign
+                    resultlist[-1] = resultlist[-1].capitalize()
+                result = string.join(resultlist)
                 result += word + ' '
 
             else:
