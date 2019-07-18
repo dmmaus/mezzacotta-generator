@@ -8,6 +8,7 @@ Derwent
 Esk
 Glen
 Hull
+Humber
 Mersey
 Ouse
 Sea
@@ -21,4 +22,5 @@ the-Wold
 Trent
 Tweed
 Tyne
+Water
 Wye

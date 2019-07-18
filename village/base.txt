@@ -1,13 +1,19 @@
 @format ~
-$village/village-prefix + $village/village-suffix
-$village/village-prefix + $village/village-suffix
-$village/village-prefix + $village/village-suffix
-$village/village-prefix + $village/village-suffix
-$village/village-prefix + $village/village-suffix
-$village/village-prefix + $village/village-suffix
-$village/village-prefix + s + $village/village-suffix
-$village/village-prefix + s + $village/village-suffix
-$village/village-prefix + $village/village-suffix + $village/village-suffix
+@titlecase
 $village/village-prefix + -on-the- + $village/village-suffix
+$village/village-prefix + $village/village-suffix
+$village/village-prefix + $village/village-suffix
+$village/village-prefix + $village/village-suffix
+$village/village-prefix + $village/village-suffix
+$village/village-prefix + $village/village-suffix
+$village/village-prefix + $village/village-suffix
 $village/village-prefix + $village/village-suffix + -on- + $village/village-river
+$village/village-prefix + $village/village-suffix + $village/village-suffix
+$village/village-prefix + $village/village-suffix $village/village-postmodifier
+$village/village-prefix + $village/village-suffix $village/village-postmodifier
 $village/village-prefix + $village/village-suffix on $village/village-river + side
+$village/village-prefix + s + $village/village-suffix
+$village/village-prefix + s + $village/village-suffix
+$village/village-premodifier $village/village-prefix + $village/village-suffix
+$village/village-premodifier $village/village-prefix + $village/village-suffix
+The $noun-geography-landform_S

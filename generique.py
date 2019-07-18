@@ -167,10 +167,11 @@ class MezzaGenerator:
         if not cap:
             cap = self.vocabs[base].titlecase
 
+        # Generate the random line of text
         randomline = self.vocabs[base].RandomLine(inflection)
 
         result = ''
-
+        plus = False
 
         for word in randomline.split():
             # Words starting with $ are expanded using the file of the corresponding name
@@ -191,14 +192,21 @@ class MezzaGenerator:
                     wordspec = word
 
                 if word.startswith('$') or chance_roll:
-                    result += self.Expand(wordspec[1:], cap = cap)
+                    result += self.Expand(wordspec[1:], cap = cap and not plus)
 
                 if alt_text != '' and chance_failed:
                     result += alt_text + ' '
 
+                plus = False
+
+            elif word == "+":
+                plus = True
+                result += word + ' '
+
             else:
-                if cap and word not in non_cap_words:
+                if cap and not plus and word not in non_cap_words:
                     word = word.capitalize()
+                plus = False
                 result += word + ' '
 
         return result

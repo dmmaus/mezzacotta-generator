@@ -6,6 +6,7 @@ born
 borough
 bost
 bourne
+bridge
 burgh
 burn
 bury
@@ -27,9 +28,11 @@ dorf
 dow
 efract
 erary
+eter
 ey
 field
 firth
+fold
 ford
 foss
 gate
@@ -39,6 +42,7 @@ gowt
 ham
 hampton
 hamstead
+haven
 holm
 hope
 horn
@@ -55,10 +59,13 @@ law
 leigh
 ley
 loch
+low
 lyn
+market
 meadow
 mere
 minster
+moor
 more
 morton
 mouth
@@ -68,7 +75,11 @@ port
 rigg
 rith
 shaw
+shire
 sley
+smith
+spring
+staple
 stead
 ster
 stoke
