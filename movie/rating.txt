@@ -1,0 +1,24 @@
+@format ~
+G
+G
+G
+PG
+PG
+PG
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element , 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element , 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element , 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element , 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element , 4$movie/rating-frequency $movie/rating-element , 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )
+$movie/rating-type ( 4$movie/rating-frequency $movie/rating-element , 4$movie/rating-frequency $movie/rating-element , 4$movie/rating-frequency $movie/rating-element , 4$movie/rating-frequency $movie/rating-element and 4$movie/rating-frequency $movie/rating-element )

@@ -1,0 +1,22 @@
+@format ~
+$movie/genre $movie/rating-element
+$movie/rating-adj content
+$movie/rating-adj humour
+$movie/rating-adj imagery
+$movie/rating-adj language
+$movie/rating-adj references
+$movie/rating-adj scenes
+$movie/rating-adj situations
+$movie/rating-adj themes
+$movie/rating-adj violence
+blood
+coarse language
+drug use
+gore
+horror
+nudity
+peril
+sex scenes
+violence
+$noun_S
+$noun-artifact-abstract
