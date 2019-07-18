@@ -1,0 +1,151 @@
+# verbs that character(s) do to another character 
+@format ~|S
+3$adverb $verb-transitive|$verb-transitive_S
+3$adverb $verb-transitive|$verb-transitive_S 
+3$adverb $verb-transitive|$verb-transitive_S 
+3$adverb $verb-transitive|$verb-transitive_S 
+3$adverb $verb-transitive|$verb-transitive_S 
+3$adverb $verb-transitive|$verb-transitive_S 
+3$adverb buy|buys a $noun , which turns $artifact/adj-artifact , from
+3$adverb buy|buys a 2$artifact/adj-artifact $noun from 
+3$adverb compete|competes against 
+3$adverb complain|complains about 
+3$adverb argue|argues with 
+3$adverb embark|embarks upon an epic quest with 
+3$adverb endanger|endangers 
+3$adverb enter|enters a battle of wits with 
+3$adverb escape|escapes the clutches of 
+3$adverb exact|exacts revenge upon 
+3$adverb fall|falls in love with 
+3$adverb fight|fights a legal battle with 
+3$adverb find|finds a 2$artifact/adj-artifact $noun belonging to 
+3$adverb follow|follows in the footsteps of 
+3$adverb get|gets a pet $noun-animal , which $movie/verb-plot-transitive 
+3$adverb get|gets a pet $noun-animal , which bites the $noun-bodypart of
+3$adverb give|gives a 2$artifact/adj-artifact $noun to 
+3$adverb give|gives a gift to 
+3$adverb give|gives advice to 
+3$adverb go|goes on a road trip with 
+3$adverb go|goes on a shopping spree with 
+3$adverb grow|grows up with 
+3$adverb imitate|imitates 
+3$adverb interview|interviews 
+3$adverb uncover|uncovers hidden truths about themself|themselves with 
+are|is 3$adverb attacked by 
+are|is 3$adverb betrayed by 
+are|is 3$adverb betrothed to 
+are|is 3$adverb caught in an embarassing situation with 
+are|is 3$adverb challenged by 
+are|is 3$adverb chased by 
+are|is 3$adverb employed as 
+are|is 3$adverb haunted by 
+are|is 3$adverb hounded by 
+are|is 3$adverb hunted by 
+are|is 3$adverb imprisoned by 
+are|is 3$adverb introduced to 
+are|is 3$adverb involved in a humorous situation with 
+are|is 3$adverb mentored by 
+are|is 3$adverb mistaken for 
+are|is 3$adverb persecuted by 
+are|is 3$adverb protected by 
+are|is 3$adverb rescued by 
+are|is 3$adverb stalked by 
+are|is 3$adverb suspected of being 
+are|is 3$adverb tricked by 
+are|is 3$adverb troubled by 
+are|is 3$adverb forced to $verb-transitive $movie/entity_S by 
+are|is 3$adverb persuaded to $verb-transitive a $movie/entity by 
+are|is 3$adverb encouraged to live a life of $noun-artifact-abstract by 
+3$adverb kidnap|kidnaps 
+3$adverb kill|kills 
+3$adverb learn|learns an important life lesson from 
+3$adverb mentor|mentors 
+3$adverb move|moves in with 
+3$adverb perform|performs a secret ritual with 
+3$adverb play|plays a game of $noun-artifact-abstract with 
+3$adverb present|presents $artifact/base to
+3$adverb propose|proposes to 
+3$adverb renovate|renovates a house with 
+romantically pursue|pursues 
+3$adverb save|saves the life of 
+3$adverb scam|scams 
+3$adverb send|sends a 2$artifact/adj-artifact $noun-animal to attack 
+3$adverb share|shares a meal with 
+3$adverb share|shares a room with 
+3$adverb share|shares a series of comedic episodes with 
+3$adverb share|shares memories with 
+3$adverb spend|spends the night with 
+3$adverb spy|spies on 
+3$adverb stalk|stalks 
+3$adverb strikes up an unlikely friendship with 
+3$adverb try|tries to spoil the dream of 
+3$adverb steal|steals $artifact/base from 
+3$adverb steal|steals a 2$artifact/adj-artifact $noun from 
+3$adverb surprise|surprises 
+3$adverb talk|talks to 
+3$adverb team|teams up with 
+3$adverb train|trains to become 
+3$adverb try|tries to impress 
+3$adverb uncover|uncovers a secret about 
+3$adverb uncover|uncovers the shocking secrets of 
+3$adverb use|uses $artifact/base on 
+3$adverb use|uses _|a 3$artifact/adj-artifact $noun-weapon_S|$noun-weapon to attack
+3$adverb visit|visits a $noun-geography-structure with 
+3$adverb write|writes about 
+3$adverb buy|buys a 3$artifact/adj-artifact $noun with 
+3$adverb assassinate|assassinates 
+3$adverb throw|throws a 3$artifact/adj-artifact $noun at 
+3$adverb turn|turns out to be 
+3$adverb visit|visits a $noun-geography-structure owned by 
+3$adverb steal|steals the $noun of 
+3$adverb try|tries to forget 
+3$adverb give|gives birth to 
+3$adverb build|builds $artifact/base with 
+3$adverb inherit|inherits a fortune from 
+3$adverb escape|escapes from 
+3$adverb gatecrash|gatecrashes a party held by 
+3$adverb blow|blows stuff up with 
+3$adverb taunt|taunts 
+3$adverb perform|performs an experiment on 
+3$adverb produce|produces a film about 
+3$adverb take|takes on 
+3$adverb get|gets into all sorts of 1$artifact/adj-artifact hijinks with
+3$adverb transform|transforms a $noun into 
+3$adverb get|gets transformed into 
+3$adverb portray|portrays 
+3$adverb win|wins a 5$artifact/adj-artifact $noun in a game of $noun-artifact-abstract from 
+3$adverb recruit|recruits 
+3$adverb pose|poses as 
+3$adverb get|gets dragged into a schoolyard brawl with 
+3$adverb repay|repays a 1$artifact/adj-artifact debt to 
+3$adverb seek|seeks revenge upon 
+3$adverb go|goes toe-to-toe with 
+3$adverb search|searches for their missing $person-relation_S|$person-relation with
+3$adverb play|plays $sport with 
+3$adverb win|wins a game of $sport against 
+3$adverb form|forms a $sport team with 
+must 3$adverb venture into a 5$artifact/adj-artifact $noun-geography-land in order to save 
+3$adverb go|goes to a $movie/event with
+3$adverb attend|attends a $movie/event held by 
+3$adverb disrupt|disrupts a $movie/event held by 
+3$adverb embark|embarks on a journey of $noun-artifact-abstract with 
+3$adverb become|becomes _|a 5$adj-person $person_S|$person with the help of
+are|is 3$adverb granted three wishes by 
+are|is 3$adverb accused of murdering 
+3$adverb grant|grants three wishes to 
+3$adverb fulfil|fulfils a dream to become 
+3$adverb declare|declares war on 
+3$adverb $verb-transitive|$verb-transitive_S a $movie/character with 
+3$adverb become|becomes the most $adj-person $person-relation of 
+3$adverb go|goes $noun-bodypart +to+ $noun-bodypart with 
+3$adverb come|comes out of retirement to $verb-transitive 
+3$adverb go|goes to $place to rescue their $person-relation who is being held hostage by
+3$adverb find|finds happiness with 
+3$adverb join|joins a gang with 
+3$adverb protect|protects a 4$artifact/adj-artifact $noun-animal from 
+breed|breeds a swarm of $noun-animal_S and trains them to 3$adverb $verb-transitive
+3$adverb strive|strives to become more $adj-person than 
+3$adverb turn|turns out to be not as $adj-person as 
+3$adverb pretend|pretends to be _|a 5$adj-person $person_S|$person in order to $verb-transitive 
+3$adverb search|searches for evidence that the $person-ruler of $place is really 
+3$adverb attempt|attempts to $verb-transitive a $movie/character , but are|is stopped by 

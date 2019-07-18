@@ -29,7 +29,7 @@ $sport promoter
 pro $sport player
 Olympic $sport competitor
 $sport coach|coaches
-^$sport referee
+$sport referee
 $sport player
 $noun-geography-structure worker
 $noun-geography-structure +dweller
