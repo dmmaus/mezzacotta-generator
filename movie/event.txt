@@ -13,7 +13,7 @@ $sport match
 $sport training session
 $noun-geography-structure demolition
 $noun-geography-structure opening
-$vehicle test-drive
+$noun-vehicle test-drive
 announcement
 baptism
 bar mitzvah
