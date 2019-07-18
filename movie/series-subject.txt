@@ -1,0 +1,11 @@
+@format ~
+@titlecase
+$adj-person $movie/entity
+$artifact/adj-artifact $movie/entity
+$movie/entity_S
+$preposition $movie/entity_S
+$movie/entity $person-relation
+$movie/entity of $place
+$artifact/base
+$movie/entity_S $verb-transitive $movie/entity_S
+$movie/multiple $person-relation_S

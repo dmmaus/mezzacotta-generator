@@ -1,0 +1,26 @@
+@format ~
+And featuring $movie/act
+And $movie/act as the $movie/person
+Featuring $movie/act
+Introducing $movie/act
+Special appearance by $movie/act
+With $movie/act
+With a special cameo by $movie/act
+And $movie/actor as himself
+And $movie/actress as herself
+With $movie/actor in his most $artifact/adj-artifact performance yet
+With $movie/actress in her most $artifact/adj-artifact performance yet
+Featuring $movie/act in this year's most $adj-person role
+And $movie/act 's $noun-bodypart
+Also with $movie/act 's $person-relation
+With music by $movie/act performed on the $noun-instrument-musical
+And the entire cast of <i>_ $movie/title _</i>
+With the talents of a specially trained $noun-animal
+And a very special $noun
+With $movie/act in a typically $adj-person role
+Plus a very $artifact/adj-artifact appearance by $movie/act
+With $movie/act $adverb making a surprise cameo
+With additional vocal contributions by $movie/act
+And $place-country 's most $adj-person star
+And the residents of $place
+With a motion-captured performance by $movie/act
