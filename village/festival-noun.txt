@@ -1,9 +1,9 @@
 @format ~|S
-$noun-animal_S
+$noun-animal|$noun-animal_S
 $noun-animal pie|pies
-$noun-item_S
-$person_S
-$person-relative_S
+$noun-item|$noun-item_S
+$person|$person_S
+$person-relative|$person-relative_S
 ale|ale
 bagpipe
 beard
