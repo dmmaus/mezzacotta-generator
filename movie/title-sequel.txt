@@ -1,0 +1,45 @@
+@format ~
+2
+3
+4
+5
+II
+III
+IV
+: $artifact/base
+: $noun $noun
+: $noun $noun-artifact-abstract
+: $noun-artifact-abstract $noun_S
+: $noun-artifact-abstract $person-relation
+: $noun_S
+: apocalypse
+: origins
+: rebooted
+: reborn
+: the $noun-artifact-abstract
+: the $person-relation
+: retribution
+: the revenge
+: resurrection
+: resurgence
+: $noun-artifact of $noun-artifact-abstract
+: the $artifact/adj-artifact $noun-geography-landform
+: the awakening
+: the beginning
+: the gathering
+: this time it's $noun-artifact-abstract
+: this time it's $noun_S
+: $place
+: $movie/story of $noun-artifact-abstract
+: $artifact/adj-artifact $movie/story
+: rise of the $movie/entity
+: the $movie/story continues
+: the quest for $noun-artifact-abstract
+: $movie/person_S in $noun-clothing_S
+part 2
+part 3
+, episode 2
+, episode 3
+: $movie/title
+3D
+: the $artifact/adj-artifact ones

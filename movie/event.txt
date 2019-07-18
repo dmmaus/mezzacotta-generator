@@ -1,0 +1,53 @@
+@format ~
+# events that people can attend
+$noun-instrument-music lesson
+$noun-instrument-music recital
+$noun-geography-landform tour
+$noun auction
+$noun exhibition
+$noun sale
+$noun study
+$noun ceremony
+$sport championship
+$sport match
+$sport training session
+$noun-geography-structure demolition
+$noun-geography-structure opening
+$vehicle test-drive
+announcement
+baptism
+bar mitzvah
+birth
+birthday party
+breakfast
+brunch
+church service
+commitment ceremony
+concert
+crime
+dinner
+execution
+farewell
+fight
+focus group
+funeral
+graduation ceremony
+interview
+lunch
+luncheon
+meal
+meeting
+operation
+parade
+party
+performance
+play
+poetry reading
+prosecution
+protest
+rally
+recital
+rehearsal
+trial
+vacation
+wedding

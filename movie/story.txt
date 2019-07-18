@@ -1,0 +1,39 @@
+@format ~
+adventure
+allegory
+anecdote
+article
+ballad
+biography
+book
+bulletin
+chronicle
+cliffhanger
+comedy
+cycle
+drama
+epic
+fable
+fairy tale
+fantasy
+feature
+fiction
+folk tale
+history
+legend
+memoir
+myth
+narrative
+novel
+ode
+parable
+poem
+report
+romance
+saga
+song
+story
+tale
+tragedy
+treatise
+verse

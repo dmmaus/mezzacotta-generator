@@ -1,0 +1,251 @@
+@format ~
+, according to prophecy
+, all filmed in a single take
+, allegedly
+, and it went better than expected
+, and things only get worse
+, and things will never be the same
+, as foretold by the ancient ones
+, but it all goes horribly wrong
+, but it was all a dream
+, but things spiral out of control
+, in a very special movie event
+, inspired by actual events
+, or not
+, or so it may seem
+, or so it seems
+, or so we are led to believe
+, or something
+, or whatever
+, presented in the form of an interpretive dance
+, suddenly
+, to the sound of $noun-instrument-musical_S
+, with a $movie/character
+, with a surprising outcome
+, with an ending nobody will see coming
+, with deadly consequences
+, with hilarious results
+, with tragic results
+, basically
+. And that's just the first scene
+# . But suddenly, ~~movie
+# . But then, ~~movie
+# . Eventually, ~~movie
+# . Later, ~~movie
+. Not
+. Or maybe they didn't
+. The $noun-animal dies
+. Then, ~~movie
+. Then, in a ~$artifact/adj-artifact development, ~~movie
+. And so much more
+. Will they all die in the end?
+. How will it all end?
+. Will a $movie/character come along and save the day?
+. Will they find $artifact/base ?
+. One of them turns out to be $adj-person all along
+. It turns out that they were in $place all along
+. You'll never believe who their $person-relation is!
+. You'll never believe what their $person-relation_S do next!
+. You'll never believe who $verb-transitive_S them in the end!
+. The moral of the story is never $verb-transitive your $noun_S
+. The moral of the story is always $verb-transitive your $noun
+. They all learn to never $verb-transitive a $movie/person
+. They all learn to always $verb-transitive their $person-relation_S
+. They all vow to never let anyone $verb-transitive them in $place again
+. The moral of the story is to never be $adj-person when in a $noun-geography-landform
+. If only they weren't so $adj-person !
+. If only they had the $artifact/base !
+. And then, there's what happens to their $person-relation_S ..
+, based on the extraordinary true story of $place 's most famous $movie/person
+, and only $artifact/base can save them
+, and only a $movie/character can put things right
+, only to find out that one of them was really a $movie/person
+... or did they?
+all over the place
+as seen on TV
+at a $movie/event
+at a $noun-geography-structure
+at a 5$adj-person $movie/person 's $movie/event
+at a cafe
+at a club
+at a comic book convention
+at a football stadium
+at a funeral
+at a hotel
+at a military base
+at a park
+at a party
+at a playground
+at a school
+at a school camp
+at a university
+at an award ceremony
+at Christmas time
+at Grandma's house
+at sea
+at Thanksgiving
+at the back of a classroom
+at the end of the world
+at the Olympics
+at the Winter Olympics
+at the opera
+at the pub
+at the zoo
+at their home
+at work
+before breakfast
+deep inside a cave
+deep underground
+down under
+during a blizzard
+during a thunderstorm
+during a war
+during an alien invasion
+during an exam
+during school detention
+during the holiday season
+during the holidays
+everywhere
+forever
+in various ways
+in $noun-clothing_S
+in $noun-vehicle_S
+in $noun +-o-vision
+in $place
+in $place 's crime-ridden underbelly
+in $place-modifier $place
+in 3D
+in 4D
+in a $noun-animal -infested $noun-geography-landform
+in a $noun-geography-landform
+in a $noun research facility
+in a $sport stadium
+in a $artifact/adj-artifact $noun-geography-landform
+in a $artifact/adj-artifact realm
+in a 3$artifact/adj-artifact $noun-geography-structure
+in a barren wasteland
+in a basement
+in a boudoir
+in a computer simulation
+in a dark alley
+in a dark alleyway
+in a department store
+in a digital recreation of $place
+in a dream
+in a faraway land
+in a foreign land
+in a forest
+in a forgotten corner of $place-city
+in a future world devastated by 2$artifact/adj-artifact $noun_S
+in a galaxy far, far away
+in a graveyard
+in a hidden laboratory
+in a land of $noun-artifact-abstract
+in a library
+in a maze
+in a mental asylum
+in a mirror
+in a mirror universe
+in a movie theatre
+in a parallel universe
+in a prison
+in a public toilet
+in a realm of $noun-artifact-abstract
+in a remote canyon
+in a restaurant
+in a sandstorm
+in a secret lair
+in a series of flashbacks
+in a series of exotic locales
+in a strange dimension
+in a supermarket
+in a trash compactor
+in a tropical paradise
+in a virtual reality
+in a world of $noun-artifact-abstract
+in a world ruled by 4$adj-person $movie/person_S
+in a world ruled by 4$artifact/adj-artifact $noun_S
+in a world where all the $noun_S have turned $artifact/adj-artifact
+in a world without $noun_S
+in a world ruled by $adj-person $noun-animal
+in all the wrong places
+in an advanced research facility
+in an age of $noun-artifact-abstract
+in an alternate dimension where $movie/person_S $verb-transitive $movie/person_S
+in an alternate reality
+in an alternate reality where $movie/person_S $verb-transitive themselves
+in an alternate history
+in an elaborate hoax
+in ancient times
+in bed
+in black and white
+in broad daylight
+in church
+in court
+in cyberspace
+in French
+in front of a live studio audience
+in hospital
+in Italian
+in outer space
+in Smell-o-vision
+in Spanish
+in the $noun-animal enclosure at the zoo
+in the $noun-geography-structure , with the $noun-weapon
+in the $noun-geography-structure of $noun-artifact-abstract
+in the 18th century
+in the 19th century
+in the 21st century
+in the afterlife
+in the afternoon
+in the Australian Outback
+in the ballroom
+in the dark
+in the distant future
+in the jungle
+in the middle of downtown $place-city
+in the middle of nowhere
+in the middle of the night
+in the most dramatic way possible
+in the near future
+in the nude
+in the rain
+in the sewers under $place-city
+in the shadows
+in the suburbs of $place-city
+in the Wild West
+inside a computer
+just outside $place-city
+live on stage
+live on television
+next door
+on a $noun-vehicle
+on a distant planet
+on a planet ruled by $movie/person_S
+on a remote desert island
+on a road trip
+on a rooftop
+on a volcano
+on another world
+on an otherwise perfectly normal day
+on Facebook
+on Hallowe'en
+on horseback
+on ice
+on New Year's Eve
+on the Internet
+on the Moon
+on Twitter
+on Instagram
+rebooted with an all-female cast
+somewhere
+somewhere over the rainbow
+under a bridge
+under the sea
+upstairs
+with $movie/entity_S
+with a shocking twist
+with a twist you won't see coming
+with bizarre consequences
+in a way that will truly $verb-transitive you
+until the end of time itself

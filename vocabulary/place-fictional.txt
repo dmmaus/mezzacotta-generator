@@ -1,0 +1,69 @@
+# fictional and mythological places
+@format ~
+Alara
+Albion
+&Aacute;lfheim
+Asgard
+Atlantis
+Avalon
+Azkaban
+Barsoom
+Borduria
+Camelot
+Cyberspace
+Dominaria
+Earthsea
+El Dorado
+Elysian Fields
+Emerald City
+Gondor
+Gotham City
+Hades
+Heaven
+Hell
+Hogwarts
+Hyperboria
+Innistrad
+Ishtar
+Ixilan
+J&ouml;tunheim
+Khemed
+Kaladesh
+Kamigawa
+Lemuria
+Lilliput
+Limbo
+Lorwyn
+Metropolis
+Middle-earth
+Midgard
+Mirrodin
+Mount Olympus
+Mumuland
+Narnia
+Neverland
+Niflheim
+Oz
+Pellucidar
+Purgatory
+R'lyeh
+Ravnica
+Ruritania
+San Theodoros
+Shangri-La
+Smallville
+Syldavia
+T&eacute;kumel
+Tel'aran'rhiod
+The Dreamlands
+The Forgotten Realms
+The Garden of Eden
+The Shire
+The Underworld
+The Westlands
+Theros
+Utopia
+Valhalla
+Wonderland
+Xanadu
+Zendikar

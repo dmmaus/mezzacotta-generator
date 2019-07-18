@@ -1,0 +1,73 @@
+@format ~
+We're the $movie/person
+Those ain't $noun_S
+You've got $noun_S
+You're $adj-person
+Battle of the $noun_S
+All is $artifact/adj-artifact
+About $noun-abstract
+$place $movie/person club
+The $artifact/adj-artifact life of $movie/person_S
+I, $movie/entity
+No $artifact/adj-artifact $movie/entity_S
+The $adj-person , the $adj-person and the $adj-person
+The $person-relation of the $movie/entity_S
+Once upon a time in $place
+Leaving $place
+The $noun-artifact-abstract of the $movie/entity_S
+$movie/person_S of the $artifact/adj-artifact $noun-artifact
+It's a $adj-person $movie/entity
+$noun-artifact-abstract street
+The $artifact/adj-artifact $movie/person rises
+Some Like it $artifact/adj-artifact
+4$artifact/adj-artifact $noun-geography-structure on the $noun-geography-landform
+A $movie/person goes to $place
+No $noun-geography-landform for $adj-person $movie/person_S
+$adj-person me
+Don't $verb-transitive $place
+$verb-transitive $movie/entity_S like a $movie/person
+Who $verb-transitive_S the $movie/entity ?
+The $movie/person always $verb-transitive_S the $noun
+What to $verb-transitive
+The $movie/person with the $artifact/adj-artifact $noun-bodypart
+Who $verb-transitive_S $movie/entity_S ?
+$adj-person
+No $movie/person is a $noun-geography-landform
+A $movie/genre about $movie/entity_S
+How the $movie/person $verb-transitive_S $movie/entity_S
+$noun-bodypart of the $movie/person
+Don't $verb-transitive the $movie/person_S
+All the $artifact/adj-artifact $noun_S
+How $artifact/adj-artifact is my $noun-geography-landform ?
+That $artifact/adj-artifact moment
+$movie/entity day
+Robo- $movie/person
+$movie/person academy
+$movie/entity , $movie/entity and $movie/multiple $artifact/adj-artifact $noun-artifact_S
+How to $verb-transitive your $movie/entity
+There will be $movie/entity_S
+A $noun-vehicle named $noun-artifact-abstract
+The $adj-person $movie/person_S Club
+That $artifact/adj-artifact $movie/entity
+The most $artifact/adj-artifact $movie/entity Ever
+The $noun-animal of $movie/entity Street
+$artifact/adj-artifact $noun-animal , $artifact/adj-artifact $noun-animal
+$noun-abstract at $place
+The $noun In Their $noun-bodypart_S
+$verb-transitive club
+The $noun-animal_S are coming
+$verb-transitive yourself
+An unsuitable job for a $movie/person
+Along came a $noun-animal
+Mission: $artifact/adj-artifact
+Very $artifact/adj-artifact things
+The war between $movie/person_S and $movie/person_S
+The way of the $noun-animal
+$noun +world
+The $movie/event planner
+We bought a $noun-geography-structure
+We of the $noun-geography-landform
+We're no $movie/person_S
+We're going to be $adj-person
+Where $noun-animal_S $verb-transitive
+Get him to $tavern/base

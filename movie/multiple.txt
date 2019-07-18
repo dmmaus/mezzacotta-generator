@@ -1,0 +1,24 @@
+@format ~
+two
+three
+four
+five
+six
+seven
+a dozen
+some
+several
+many
+a 2$adj-person group of
+a 2$adj-person band of
+a 2$adj-person bunch of
+a 2$adj-person couple of
+a 2$adj-person trio of
+a 2$adj-person horde of
+a 2$adj-person mob of
+a 2$adj-person team of
+a 2$adj-person family of
+a 2$adj-person crowd of
+a 2$adj-person quartet of
+a 2$adj-person troop of
+a 2$adj-person pair of

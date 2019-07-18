@@ -1,0 +1,10 @@
+@format ~|S
+$person-relative|$person-relative_S
+3$adj-personality $movie/person|$movie/person_S
+3$adj-personality $movie/person|$movie/person_S
+3$adj-personality $movie/person|$movie/person_S
+3$adj-personality $movie/person|$movie/person_S
+3$artifact/adj-artifact $noun|$noun_S
+3$artifact/adj-artifact $noun|$noun_S
+3$artifact/adj-artifact $noun|$noun_S
+3$artifact/adj-artifact $noun|$noun_S

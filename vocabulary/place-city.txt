@@ -1,0 +1,99 @@
+# real cities; fictional ones go in place-fictional.txt
+@format ~
+Adelaide
+Albuquerque
+Alexandria
+Amsterdam
+Ankara
+Athens
+Auckland
+Baghdad
+Bangalore
+Bangkok
+Barcelona
+Beijing
+Beirut
+Berlin
+Boston
+Brussels
+Budapest
+Buenos Aires
+Cairo
+Cape Town
+Cardiff
+Casablanca
+Chicago
+Copenhagen
+Dallas
+Dubai
+Dublin
+Edinburgh
+Florence
+Frankfurt
+Jakarta
+Jerusalem
+Johannesburg
+Hanoi
+Havana
+Helsinki
+Ho Chi Min City
+Honolulu
+Houston
+Istanbul
+Jakarta
+Karachi
+Kathmandu
+Kiev
+Kuala Lumpur
+Kyoto
+Lagos
+Las Vegas
+Lima
+Lisbon
+London
+Los Angeles
+Madrid
+Manila
+Melbourne
+Mexico City
+Miami
+Milan
+Minsk
+Monaco
+Monte Carlo
+Montreal
+Moscow
+Mumbai
+Nairobi
+New Delhi
+New Orleans
+New York
+Osaka
+Oslo
+Paris
+Pittsburgh
+Prague
+Rio de Janeiro
+Rome
+Saint Petersburg
+San Francisco
+Santiago
+Sao Paolo
+Seattle
+Seoul
+Shanghai
+Singapore
+Stockholm
+Sydney
+Tehran
+Tel Aviv
+Tokyo
+Toronto
+Vatican City
+Venice
+Wagga Wagga
+Warsaw
+Washington DC
+York
+Zagreb
+Zurich

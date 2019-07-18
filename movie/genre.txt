@@ -1,0 +1,45 @@
+@format ~
+$noun +fest
+action film
+adventure film
+anime
+biopic
+cartoon
+chick flick
+comedy
+coming-of-age film
+courtroom drama
+crime film
+date movie
+docu-drama
+documentary
+drama
+epic
+experimental film
+extravaganza
+fairy tale
+fantasy
+found-footage film
+heist film
+horror film
+mockumentary
+murder mystery
+musical
+parody
+period piece
+prequel
+recreation
+retrospective
+romance
+rom-com
+satire
+sci-fi film
+sequel
+silent movie
+sports film
+summer blockbuster
+superhero movie
+teen movie
+thriller
+war movie
+western

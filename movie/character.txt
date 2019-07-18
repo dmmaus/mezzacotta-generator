@@ -1,0 +1,13 @@
+@format ~|S
+4$adj-person $movie/person|$movie/person_S
+4$adj-person $movie/person|$movie/person_S
+4$adj-person $movie/person|$movie/person_S
+4$adj-person $movie/person|$movie/person_S
+4$adj-person $movie/person|$movie/person_S
+4$adj-person $movie/person|$movie/person_S
+4$adj-person $movie/person|$movie/person_S
+4$adj-person $movie/person|$movie/person_S
+4$adj-person $movie/person|$movie/person_S
+4$adj-person $movie/person|$movie/person_S
+$adj-person 4$adj-person $movie/person|$movie/person_S
+the|_ 4$adj-person|_ $person-relation|_ of|_ a|_ 4$adj-person $movie/person|$movie/person_S

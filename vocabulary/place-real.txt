@@ -1,0 +1,108 @@
+# real "proper noun" places that are not countries or cities; may be historical
+@format ~
+Abyssinia
+Africa
+Akkadia
+Antarctica
+America
+Ancient Egypt
+Ancient Greece
+Ancient Rome
+Aragon
+Asia
+Assyria
+Austria-Hungary
+Babylon
+Benelux
+Biafra
+Bohemia
+Brittany
+Burma
+California
+Capri
+Ceylon
+Confederate States of America
+Corfu
+Corsica
+Crete
+Czechoslovakia
+Dalmatia
+Disneyland
+England
+Europe
+Florida
+French Indochina
+Greenland
+Gondwanaland
+Hawaii
+Iberia
+Jupiter
+Macchu Pichu
+Manchuria
+Mars
+Mesopotamia
+Moldavia
+Nazi Germany
+North America
+Northern Ireland
+Oceania
+Outer Space
+Parthia
+Prussia
+Rhodesia
+Santorini
+Sardinia
+Scotland
+Sherwood Forest
+Siam
+Sicily
+South America
+South-East Asia
+Sparta
+Stonehenge
+Sumeria
+Texas
+The Alps
+The Amazon Jungle
+The Andes
+The Antarctic
+The Arctic
+The Atlantic Ocean
+The Balkans
+The Belgian Congo
+The Black Forest
+The Caribbean
+The French Riviera
+The Galapagos
+The Great Barrier Reef
+The Great Lakes
+The Himalayas
+The Holy Roman Empire
+The Indian Ocean
+The Isle of Mann
+The Isle of Skye
+The Middle East
+The Moon
+The Ottoman Empire
+The Pacific Ocean
+The Roman Empire
+The Sahara Desert
+The Sun
+The U.S.S.R.
+Thrace
+Tibet
+Tikal
+Transylvania
+Troy
+Uranus
+Van Dieman's Land
+Venus
+Vichy France
+Wales
+Wallachia
+Yellowstone National Park
+Yosemite
+Yugoslavia
+Zaire
+Zanzibar
+Zululand

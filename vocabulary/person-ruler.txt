@@ -1,0 +1,16 @@
+@format ~|S
+duchess|duchesses
+duke
+emperor
+empress|empresses
+governor
+king
+mayor
+monarch
+president
+prime minister
+prince
+princess|princesses
+queen
+sultan
+viceroy

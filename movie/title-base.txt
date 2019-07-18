@@ -1,0 +1,96 @@
+@format ~
+$movie/title-special
+$movie/title-special
+$movie/title-special
+$movie/title-special
+$movie/title-special
+$movie/title-special
+$movie/title-special
+$movie/title-special
+$movie/title-special
+$movie/title-special
+$movie/title-special
+$movie/title-special
+$movie/title-special
+$noun_S 8$movie/punctuation
+$noun_S $movie/setting 1$movie/punctuation
+$artifact/base
+The 9$adj-person $noun
+The 3$adj-person $noun of $noun-artifact-abstract
+The $movie/character and the 5$adj-person $noun
+The $movie/character
+The $movie/person of $noun-artifact-abstract
+The $movie/person with the $artifact/adj-artifact $noun
+The $adj-person $movie/person
+$adj-person $movie/person_S
+$adj-person $movie/person
+5$adj-person $adj-person $noun_S
+The $artifact/adj-artifact $movie/person
+$movie/person_S $movie/setting
+$person-relation of $noun-artifact-abstract
+A $adj-person $noun
+A $artifact/adj-artifact $movie/person
+$noun-artifact-abstract $movie/setting
+$person-relation_S of the $noun
+$noun $movie/person_S
+$artifact/adj-artifact $noun-artifact-abstract 3$movie/setting
+$noun-artifact-abstract $movie/person_S
+$noun_S and $noun_S
+$movie/person_S and $noun_S
+$noun_S and $movie/person_S
+$noun_S and $noun-artifact-abstract
+A $movie/person of $noun-artifact-abstract
+The $noun_S and the $noun_S
+The $noun of the $noun_S
+The $noun-geography-landform of 3$artifact/adj-artifact $noun_S
+4$adj-person $movie/person_S in a 4$artifact/adj-artifact $noun-geography-landform
+$movie/person_S of the 4$artifact/adj-artifact $noun-geography-landform
+$noun-artifact-abstract $person-relation
+$noun-geography-landform of 5$artifact/adj-artifact $noun-artifact-abstract
+The $movie/entity $preposition the $movie/entity
+$movie/entity $preposition $movie/entity_S
+$preposition $movie/entity
+$noun in $place
+The $noun-artifact-abstract of $place
+The $noun-geography-landform of $place
+The 2$adj-person $movie/person of $place
+$noun-abstract
+$noun $movie/story
+$movie/story of $noun_S
+$noun-animal_S on a $noun-vehicle
+$place $noun-abstract
+A 4$artifact/adj-artifact $movie/event in a 4$artifact/adj-artifact $noun-geography-landform
+The $artifact/adj-artifact $movie/event
+$movie/entity at a $movie/event
+$movie/entity $movie/story
+The $movie/story of 2$artifact/adj-artifact $movie/entity_S
+The $movie/story of the $movie/entity and the $movie/entity
+$movie/story of the $movie/person 's $movie/event
+$noun-artifact-abstract $place
+The $movie/person 's $noun
+$movie/multiple $person-relation_S
+The $noun of $place
+The $movie/person who $verb-transitive_S $noun_S
+$movie/person_S who $verb-transitive $movie/entity
+To $verb-transitive a $noun
+To $verb-transitive $movie/entity
+The $movie/person 's $movie/entity
+$place $noun-artifact-abstract
+$movie/person_S with $movie/entity
+The $movie/person 's $noun-geography-landform
+$movie/entity_S versus $movie/entity_S
+$noun $adj-person
+$verb-transitive the $movie/person_S
+$place 's $movie/person_S
+$movie/person_S on a $noun-vehicle
+$movie/person $noun-geography-structure
+$movie/entity $noun-geography-landform
+$adj-person $artifact/adj-artifact $movie/person $noun-animal_S
+$noun-artifact-abstract in the $noun-artifact-abstract
+If you $verb-transitive the $movie/entity
+When I $verb-transitive the $movie/entity
+$movie/person_S of $place
+A $movie/person $verb-transitive_S a $movie/entity
+The $person-ruler of $place
+$noun-artifact-abstract $person-ruler
+$noun-artifact-abstract comes to $place
