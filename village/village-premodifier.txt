@@ -1,4 +1,5 @@
 @format ~
+bishop's
 east
 great
 greater

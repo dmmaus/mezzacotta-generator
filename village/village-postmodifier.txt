@@ -1,6 +1,7 @@
 @format ~
 $noun-geography-landform
 $noun-geography-landform_S
+$village/village-infix $noun-geography-landform
 bath
 bridge
 brook
@@ -9,9 +10,9 @@ creek
 ford
 forest
 haven
+magna
 market
 moor
--on-the- $noun-geography-landform
 park
 quay
 river
