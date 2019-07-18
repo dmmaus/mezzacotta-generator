@@ -5,7 +5,7 @@
 <title>Random Board Game Descriptions - mezzacotta</title>
 </head>
 <body>
-<h1>Random Tavern names</h1>
+<h1>Random Board Game Descriptions</h1>
 <p>
 5 random board game descriptions. Reload for more.
 </p>
