@@ -1,6 +1,6 @@
 @format ~
 @titlecase
-$village/village-prefix + $village/village-suffix
+$village/village-prefix + $village/village-suffix (pop. @random2(1,100) )
 $village/village-prefix + $village/village-suffix
 $village/village-prefix + $village/village-suffix
 $village/village-prefix + $village/village-suffix

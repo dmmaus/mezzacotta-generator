@@ -85,6 +85,31 @@ class Vocab:
             line = self.lines[random.randrange(0, len(self.lines))]
         return line
 
+    # Return a random number based on the dice code
+    def RandomNumber(self, code):
+        total = 0
+        try:
+            # Parse code
+            (multiplier, code) = code.split("(")
+            (lower, code) = code.split(",")
+            (upper, adder) = code.split(")")
+            if multiplier == "":
+                multiplier = 1
+            for i in range(int(multiplier)):
+                total += random.randint(int(lower), int(upper))
+            if adder != "":
+                if adder[0] == "+":
+                    total += int(adder[1:])
+                elif adder[0] == "-":
+                    total -= int(adder[1:])
+                elif adder[0] == "*":
+                    total *= int(adder[1:])
+                elif adder[0] == "/":
+                    total //= int(adder[1:])
+        except ValueError:
+            pass
+        return str(total)
+
     # Return a random line, based on an inflection
     def RandomLine(self, inflection = '~'):
         # Determine index of inflection
@@ -124,6 +149,10 @@ class Vocab:
                         except ValueError:
                             scale = 1
                         result += str(int(datetime.now().year) + int(scale * math.log(random.random()))) + ' '
+
+                    # @random command
+                    elif word.startswith('@random'):
+                        result += self.RandomNumber(word[len('@random'):])
 
                     else:
                         result += word + ' '
