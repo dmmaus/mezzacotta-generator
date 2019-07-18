@@ -12,3 +12,4 @@
 , who $verb-transitive $noun_S ,
 , who don't $verb-transitive $noun_S ,
 , who $verb-transitive one another ,
+, notorious amongst $movie/person_S ,

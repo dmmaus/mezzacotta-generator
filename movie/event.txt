@@ -1,7 +1,7 @@
 @format ~
 # events that people can attend
-$noun-instrument-music lesson
-$noun-instrument-music recital
+$noun-instrument-musical lesson
+$noun-instrument-musical recital
 $noun-geography-landform tour
 $noun auction
 $noun exhibition

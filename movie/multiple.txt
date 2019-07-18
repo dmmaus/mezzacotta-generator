@@ -22,3 +22,4 @@ a 2$adj-person crowd of
 a 2$adj-person quartet of
 a 2$adj-person troop of
 a 2$adj-person pair of
+a 2$adj-person gang of

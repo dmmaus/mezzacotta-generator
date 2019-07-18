@@ -5,7 +5,8 @@
 3$adverb $verb-transitive|$verb-transitive_S 
 3$adverb $verb-transitive|$verb-transitive_S 
 3$adverb $verb-transitive|$verb-transitive_S 
-3$adverb $verb-transitive|$verb-transitive_S 
+3$adverb $verb-transitive|$verb-transitive_S
+3$adverb become|becomes |a $movie/person_S|$movie/person after a chance encounter with
 3$adverb buy|buys a $noun , which turns $artifact/adj-artifact , from
 3$adverb buy|buys a 2$artifact/adj-artifact $noun from 
 3$adverb compete|competes against 
