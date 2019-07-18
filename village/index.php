@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<title>Random Villagess - mezzacotta</title>
+<title>Random Villages - mezzacotta</title>
 </head>
 <body>
 <h1>Random Villages</h1>
@@ -11,12 +11,15 @@
 </p>
 <ul>
 <?php
-$command = escapeshellcmd('/usr/bin/python ../generique.py village/base 10');
+$command = escapeshellcmd('/usr/bin/python ../generique.py village/base village/festival-base 10');
 $output = shell_exec($command);
 $lines = explode("\n", rtrim($output));
 foreach ($lines as $line)
 {
-    echo "<li>$line</li>\n";
+    $parts = explode("~~", $line);
+    $name = trim($parts[0]);
+    $festival = trim($parts[1]);
+    echo "<li>$name<br><i>$festival</i></li>\n<br>\n";
 }
 ?>
 </ul>

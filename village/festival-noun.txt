@@ -1,0 +1,37 @@
+@format ~|S
+$noun-animal_S
+$noun-animal pie|pies
+$noun-item_S
+$person_S
+$person-relative_S
+ale|ale
+bagpipe
+beard
+beer|beer
+bell
+bog
+boot
+caber
+cake
+cheese|cheese
+cider|cider
+cowpat
+crumpet
+egg
+full English breakfast
+haggis|haggises
+hat
+husband
+kilt
+King James Bible
+menhir
+moustache
+pie
+pork pie
+sausage
+scone
+snuff|snuff
+telephone box|boxes
+turnip
+whisky|whisky
+wife|wives

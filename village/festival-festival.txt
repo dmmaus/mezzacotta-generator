@@ -1,0 +1,24 @@
+@format ~
+carnival
+carnival
+celebration
+ceremony
+competition
+competition
+concert
+demonstration
+eisteddfod
+event
+fair
+fair
+feast
+festival
+festival
+festival
+games
+holiday
+pantomime
+parade
+procession
+races
+show
