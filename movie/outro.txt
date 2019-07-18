@@ -1,0 +1,6 @@
+@format ~
+in this 8$movie/genre-adj $movie/genre
+in this year's most $artifact/adj-artifact $movie/genre
+as told by this 8$movie/genre-adj $movie/genre
+as seen in this $movie/genre that will truly $verb-transitive you
+in a 3$movie/genre-adj $movie/genre that $verb-transitive_S audiences everywhere

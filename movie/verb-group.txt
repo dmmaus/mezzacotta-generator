@@ -1,0 +1,216 @@
+@format ~
+# verbs that a group does together, but not "to" another character
+$verb-transitive $artifact/base
+adopt a pet $noun-animal , but it $movie/verb-plot-transitive_S them
+get a pet $noun-animal that $verb-transitive_S $movie/entity_S
+adopt a pet $noun-animal , which $movie/verb-plot-transitive_S a $movie/character
+are mistaken for $movie/multiple $movie/character_S
+become $movie/character_S
+become famous
+build a life together
+combine the powers of $artifact/base with $artifact/base
+change each other's lives
+create $artifact/base
+declare war on $movie/multiple $movie/character_S
+declare war on one another
+decode the ancient prophecy of $place 's $movie/person_S
+destroy $artifact/base
+disguise themselves as $movie/multiple $movie/character_S
+embark on a journey to $place , but take a wrong turn at $place and end up in $place
+embark on a quest to find $artifact/base
+enact a plan to steal $artifact/base
+escape from a dangerous situation
+fight over a 3$artifact/adj-artifact $noun
+fight to the death in a $noun-geography-landform with 2$artifact/adj-artifact $noun-weapon_S
+find $artifact/base
+find $artifact/base , and $movie/verb-plot-transitive it with a $movie/character
+find love in $place
+find themselves in a precarious situation with $artifact/base
+find themselves in an improbable situation involving $movie/multiple $movie/character_S
+form a plot to kill a $movie/character
+form a $noun-instrument-musical band, and eventually go on tour to $place
+get married
+go on a road trip to $place
+go on an amazing adventure
+go on vacation to $place together
+have a 4$noun party
+hide $artifact/base from a $movie/character
+hit a $movie/character in the $noun-bodypart with $noun-weapon_S
+keep $artifact/base from $movie/multiple $movie/character_S
+keep a $noun-animal in a 2$artifact/adj-artifact $noun-geography-structure
+learn to play the $noun-instrument-musical
+make a $artifact/adj-artifact discovery
+overcome their fears
+perform a play about a $movie/character
+plan a 4$noun conspiracy
+play a $artifact/adj-artifact game of $noun and $noun
+play the $noun-instrument-musical
+present $artifact/base to a $movie/character , who $movie/verb-plot-transitive_S it
+put aside their differences
+raise a family together
+realise they were in $place all along
+recover $artifact/base
+recover $artifact/base , but it $movie/verb-plot-transitive_S a $movie/character
+reminisce about the past
+return with $artifact/base for $movie/multiple $movie/character_S , who $movie/verb-plot-transitive it
+save the galaxy with $artifact/base
+save the world with $artifact/base
+set out to change the world, one $noun at a time
+share a meal of $dish/base
+share a series of stories
+share their secrets
+solve the mystery of the $movie/character who $verb-transitive_S $movie/entity_S
+spend the holidays together
+go to a $artifact/adj-artifact $movie/event together
+stage a protest about what the world's $movie/person_S are doing to the $noun_S
+start a war over $artifact/base
+steal $artifact/base
+swap bodies
+compete for the affection of a $movie/character
+are caught in a web of lies
+take over the world
+trade insults
+uncover $artifact/base
+uncover a hidden plot
+uncover an ancient conspiracy involving a $artifact/adj-artifact $noun-artifact
+upgrade $artifact/base with a $noun-artifact
+use $artifact/base to $movie/verb-plot-transitive a $movie/character
+wage war against $movie/multiple $movie/person_S
+walk into a $noun-geography-structure
+wind up $movie/setting
+witness a crime
+escape from a $noun-geography-structure
+doom the world
+destroy the entire universe
+get a disease that makes their $noun-bodypart_S become $artifact/adj-artifact
+celebrate the holiday season by giving one another $noun_S
+are found dead in a $noun-geography-structure
+go on a killing spree
+disrupt a $movie/event
+strike a $movie/person in the $noun-bodypart with $noun_S
+attack a $movie/character in the $noun-bodypart with 4$artifact/adj-artifact $noun-weapon_S
+concoct a plan to steal all the world's $noun_S
+pay a $movie/character to make their $noun-bodypart_S $artifact/adj-artifact
+are attacked by 5$adj-person $noun-animal_S
+go on a destructive rampage
+adventure through a $noun-animal -infested $noun-geography-landform
+get lost in a $noun-animal -infested $noun-geography-landform
+journey through a 5$artifact/adj-artifact $noun-geography-landform in a 3$artifact/adj-artifact $noun-vehicle
+take a $artifact/adj-artifact journey in $noun-vehicle_S through a $noun-geography-landform of $noun-artifact-abstract
+venture forth to a 3$artifact/adj-artifact $noun-geography-landform , in search of $artifact/base
+get their $noun-bodypart_S turned into $noun_S by a $movie/character
+discover a $noun-geography-landform inhabited by $adj-person $movie/person_S
+attend a 3$artifact/adj-artifact 3$noun party hosted by a $movie/character
+gain superpowers after being bitten by a $artifact/adj-artifact $noun-animal
+find out just how $adj-person they are
+dream of a life together without $noun_S
+get their $noun-bodypart_S surgically swapped
+get their $noun-bodypart_S swapped with their $noun-bodypart_S
+save the world from a $artifact/adj-artifact $movie/person
+meet $movie/multiple 5$adj-person $movie/character_S , who $movie/verb-group
+visit a $noun-geography-landform inhabited by $adj-person $movie/person_S
+are on the trail of a 2$artifact/adj-artifact $movie/person who $verb-transitive_S them
+move into a 4$artifact/adj-artifact $noun-geography-structure
+find a $artifact/adj-artifact $noun-artifact that belonged to a $movie/character
+are exiled to $place
+weave a web of $noun-artifact-abstract and $noun-artifact-abstract
+travel to $place to take up residence in what they believe is a $noun-geography-structure
+write a $movie/story called "_ $movie/title _"
+$movie/verb-plot-transitive a $movie/character 's $noun-bodypart
+enter a $sport tournament
+win a $sport championship
+form a $sport team
+become trapped inside a 2$artifact/adj-artifact $noun-geography-structure , and are rescued by $movie/character_S
+go on a 5$artifact/adj-artifact $noun-vehicle journey from $place to $place
+have a $movie/event , but a $movie/character makes it $artifact/adj-artifact
+hold a $movie/event , but things become $artifact/adj-artifact when a 4$artifact/adj-artifact $movie/person comes along
+hold a $movie/event of $noun-artifact-abstract , but it is ruined when a $movie/character $verb-transitive_S $movie/entity_S at it
+wind up at a $movie/event
+settle their differences
+find themselves in a war with $place 's most $artifact/adj-artifact $movie/person
+are sent to a 3$artifact/adj-artifact $noun-geography-landform , where they $movie/verb-plot-transitive a $movie/character
+defend their town from an invasion of $artifact/adj-artifact $movie/person_S
+begin to suspect that they are $movie/person_S
+thwart a plan by 5$artifact/adj-artifact $movie/person_S to take over $place
+embark on a covert mission, in which they $verb-transitive 5$artifact/adj-artifact $noun_S
+serenade a $movie/character on the $noun-instrument-musical
+are sent to a 2$artifact/adj-artifact $noun-geography-structure to bring down a gang of $adj-person $movie/person_S
+must discover the truth about $artifact/base
+take on $movie/person_S , $movie/person_S and $movie/person_S to save $place from a $artifact/adj-artifact $noun-artifact
+are pursued by a pack of 2$artifact/adj-artifact $noun-animal_S through a $noun-geography-landform
+encounter a 5$adj-person $movie/person who is in desperate need of a $person-relation
+kidnap some $movie/person_S to steal their $noun_S
+form an underground $noun club
+are brought together by a freak accident
+flee their home in $place when it falls under attack from 5$artifact/adj-artifact $movie/person_S
+go back in time to prevent their $person-relation_S from becoming $adj-person
+get their $noun-bodypart_S eaten by 4$artifact/adj-artifact $noun-animal_S
+discover that rumors of a $artifact/adj-artifact $noun-geography-structure are true
+battle their way through $place in order to stop a $movie/person , who $movie/verb-plot-transitive_S $movie/character_S
+track and kill $movie/person_S all over $place
+are transported to a $artifact/adj-artifact $noun-geography-landform where they must $verb-transitive a $artifact/adj-artifact $movie/person
+are in a race against time to stop the outbreak of the deadly $noun pandemic
+seek to learn a spell that turns $movie/person_S into $noun_S
+battle an invading army of $movie/entity_S
+cross paths with some of $place 's most $adj-person inhabitants
+find themselves in a 2$artifact/adj-artifact war between two clans of $movie/person_S
+unleash their $noun-artifact-abstract +powers after being taunted by their $person-relation_S
+escape from a $noun-geography-structure and trek through the $noun-geography-landform_S of $place to reunite with their $person-relation_S
+set out for $place , but end up in $place when their journey is sabotaged by $adj-person $movie/person_S
+embark upon a pilgrimage to $place to restore their $noun-bodypart_S which have become $artifact/adj-artifact
+$movie/verb-plot-transitive their $person-relation_S
+$movie/verb-plot-transitive themselves
+$movie/verb-plot-transitive each other
+$movie/verb-plot-transitive 4$artifact/adj-artifact $noun-animal_S
+$movie/verb-plot-transitive $artifact/base
+$verb-transitive $movie/character_S
+$verb-transitive a $movie/character
+must bring an end to their $person-relation_S ' plan to $verb-transitive themselves
+attempt to $verb-transitive $artifact/base , but it $verb-transitive_S them
+must $verb-transitive a $movie/character to save their $adj-person $person-relation_S
+team up to construct $artifact/base , but it tries to $verb-transitive them
+are left for dead on a $artifact/adj-artifact planet
+work together to survive after being stranded in a $noun-geography-landform full of $noun-animal_S that want to $verb-transitive them
+learn that their $person-relation_S are planning to $verb-transitive a $movie/character
+rescue a $movie/character from $adj-person $movie/person_S attacking with 2$artifact/adj-artifact $noun-weapon_S
+are seduced into the lucrative world of $noun fraud
+discover just how $artifact/adj-artifact it is to $verb-transitive $movie/entity_S
+must decide whether or not to $verb-transitive $movie/entity_S
+must find a way to not $verb-transitive their $person-relation_S
+attempt to stop a $movie/character who wants to $verb-transitive their $adj-person $person-relation_S
+set out to discover why they $verb-transitive $movie/entity_S
+pursue diverging life paths, until a $movie/character brings them back together to $place
+set out to avenge the death of their $person-relation at the hands of a $movie/character who $verb-transitive_S $movie/entity_S
+would have been $movie/person_S like you, but then they took a $noun-weapon to the $noun-bodypart
+discover secret blueprints of a $movie/entity machine, and construct one
+used to $verb-transitive each other , but that changed with the arrival of a $adj-person $movie/character who $verb-transitive_S them
+learn that their $person-relation_S $verb-transitive $movie/entity_S
+find themselves in a race against time to $verb-transitive their $person-relation_S , who $movie/verb-group
+are embroiled in a $noun +filled caper headed by a $movie/character
+immigrate to $place , where they $movie/verb-group
+form a team known as "The 5$artifact/adj-artifact $movie/person_S " and $movie/verb-group
+ditch their conventional responsibilities for a weekend of overdue $noun-artifact-abstract , $noun-artifact-abstract and $artifact/adj-artifact $noun-abstract
+hire a $movie/person to $verb-transitive their $person-relation_S , but end up getting much more than they bargained for
+become isolated in a $noun-geography-landform by an outbreak of $noun-artifact-abstract + $noun-bodypart
+become $place-country 's best $movie/person_S when they hit on an idea to $verb-transitive $noun_S
+decide to $verb-transitive the most $adj-person one of their group
+all try to be the first to $verb-transitive a $movie/person
+have a bet regarding who has the most $artifact/adj-artifact $noun-bodypart
+battle the $adj-person antagonist of the story, who wants to make everybody $adj-person
+find out that one of their $person-relation_S is a $movie/person
+go to $place to star in a disastrous remakeof $movie/title
+are paid by $place-country 's government to $movie/verb-plot-transitive a $movie/character
+kill a 4$adj-person $movie/character , who rises from the dead to $verb-transitive them
+compete to become the $person-ruler of $place
+form a plan to assassinate the $person-ruler of $place , but are stopped when a 4$adj-person $movie/character $verb-transitive_S them
+plot against the $person-ruler of $place with $artifact/base
+travel to $place , where they $verb-transitive the local $movie/person
+must intervene when their $person-relation_S $verb-transitive their $person-relation_S
+use $artifact/base to go after a monstrous 3$artifact/adj-artifact $noun-animal lurking in a $noun-geography-landform
+journey to $place , only to find that it is under attack by a $artifact/adj-artifact $movie/person with an army of $artifact/adj-artifact $noun-animal_S , and their last hope is to find $artifact/base
+get together for a weekend of $noun-artifact-abstract , $noun-artifact-abstract and $noun_S that culminates with their deaths
+help $place 's police solve the case of the $artifact/adj-artifact $noun
+fight $movie/person_S (and each other)
+recall the events that led up to their current situation involving a $noun
+are sent to $place to $verb-transitive themselves
+enroll in a class to learn to $verb-transitive their $noun_S

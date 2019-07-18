@@ -1,0 +1,132 @@
+@format ~
+# adjetives suitable for describing types of films
+$noun-animal -filled
+$movie/genre-adj $movie/genre-adj
+$artifact/adj-artifact
+$movie/person -filled
+3D
+Aussie
+B-grade
+Bollywood
+European
+Golden Globe winning
+Oscar-nominated
+Shakespearean
+all-singing, all-dancing
+allegorical
+amateurish
+animated
+arthouse
+arty
+astounding
+atmospheric
+avant-garde
+award-winning
+big-budget
+black
+black & white
+boring
+celebrated
+character-driven
+classic
+communist
+complicated
+computer-animated
+critically-acclaimed
+cult
+dadaist
+dazzling
+dense
+derivative
+didactic
+direct-to-video
+edge-of-your-seat
+educational
+epic
+exciting
+experimental
+explicit
+expressionist
+exquisite
+extravagant
+family-friendly
+feel-good
+film-noir
+foreign
+foreign-language
+frightening
+futuristic
+genre-busting
+genre-defining
+globe-spanning
+gripping
+gritty
+groundbreaking
+heartwarming
+highly anticipated
+hilarious
+historically accurate
+hit
+implausible
+independent
+interactive
+laugh-a-minute
+little-known
+live-action
+long-forgotten
+low-budget
+masterful
+melodramatic
+mind-bending
+modern day
+monumental
+moralistic
+musical
+neo+
+non-linear
+nonsensical
+old-fashioned
+original
+outrageous
+overly long
+over-the-top
+painful
+patriotic
+perfect
+political
+post-apocolyptic
+pornographic
+prophetic
+provocative
+psychological
+queer
+real-life
+realist
+rebooted
+religious
+scandalous
+seminal
+shocking
+slapstick
+soul-destroying
+spaghetti
+spectacular
+star-studded
+subtitled
+supernatural
+surprising
+surreal
+technicolour
+terrifying
+thought-provoking
+thrill-a-minute
+timeless
+traditional
+tragic
+truth-based
+undiscovered
+unreleased
+upstairs/downstairs
+vampire
+violent
+wide-format

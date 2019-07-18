@@ -1,0 +1,14 @@
+#asides made in the context of introducing a group of characters collectively
+@format ~
+(and their $person-relation_S )
+(but not their $person-relation_S )
+(who are definitely not $movie/person_S )
+(who are really $movie/person_S )
+(who are secretly $adj-person )
+(who $verb-transitive their $person-relation_S )
+, during their escape from $place ,
+, on their way to $place ,
+, while they're not being $adj-person ,
+, who $verb-transitive $noun_S ,
+, who don't $verb-transitive $noun_S ,
+, who $verb-transitive one another ,

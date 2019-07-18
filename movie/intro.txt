@@ -1,0 +1,6 @@
+@format ~
+in this 8$movie/genre-adj $movie/genre ,
+a $movie/genre-adj $movie/genre , in which
+this is a $movie/genre-adj $movie/genre , where
+$place-modifier $place :
+the story of $place 's most $adj-person $movie/person_S ,

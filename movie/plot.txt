@@ -1,0 +1,15 @@
+@format ~
+a $movie/character $movie/verb-plot-transitive_S a $movie/character 5$movie/setting
+$movie/multiple $movie/character_S 2$movie/group-aside $movie/verb-plot-transitive a $movie/character 5$movie/setting
+a $movie/character $movie/verb-plot-transitive_S $movie/multiple $movie/character_S 5$movie/setting
+$movie/multiple $movie/character_S 2$movie/group-aside $movie/verb-group 5$movie/setting
+$movie/multiple $movie/character_S 2$movie/group-aside $movie/verb-plot-transitive $movie/multiple $movie/character_S 5$movie/setting
+a $movie/character and a $movie/character $movie/verb-group 5$movie/setting
+a $movie/character , a $movie/character and $movie/multiple $movie/character_S 2$movie/group-aside $movie/verb-group 4$movie/setting
+a $movie/character , a $movie/character and their 2$adj-person $person-relation_S $movie/verb-group 5$movie/setting
+a $movie/character and a $movie/character $movie/verb-plot-transitive their $person-relation_S 5$movie/setting
+$movie/multiple $movie/character_S and a $movie/character 2$movie/group-aside $movie/verb-plot-transitive a $movie/character 6$movie/setting
+a $movie/character $movie/verb-plot-transitive_S a $movie/character and $movie/verb-plot-transitive_S a $movie/character 2$movie/setting
+a $movie/character $movie/verb-plot-transitive_S $movie/multiple $movie/character_S , who $movie/verb-group 2$movie/setting
+a $movie/character $movie/verb-plot-transitive_S a $movie/character , who $movie/verb-plot-transitive_S $movie/multiple $movie/character_S 2$movie/setting
+$movie/multiple $movie/character_S $movie/verb-plot-transitive a $movie/character , who $movie/verb-plot-transitive_S a $movie/character 2$movie/setting
