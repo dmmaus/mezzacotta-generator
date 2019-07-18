@@ -10,12 +10,11 @@ blowhole
 bluff
 bog
 brook
-brook
 butte
 caldera
 canyon
-cavern
 cave
+cavern
 city|cities
 clearing
 cliff
@@ -31,8 +30,8 @@ escarpment
 falls
 farmyard
 field
-forest clearing
 forest
+forest clearing
 glacier
 glen
 gorge
@@ -41,19 +40,19 @@ grove
 gulch|gulches
 harbour
 highland
-hillside
 hill
+hillside
 iceberg
 island
-isthmus
+isthmus|isthmuses
 jungle
 lagoon
 lake
 marsh|marshes
 mesa
 moor
-mountain range
 mountain
+mountain range
 ocean
 paddock
 peak
@@ -72,7 +71,7 @@ rock
 savanna
 sea
 sinkhole
-springs
+spring
 stone
 strait
 stream
