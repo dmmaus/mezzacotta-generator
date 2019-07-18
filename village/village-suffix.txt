@@ -43,7 +43,9 @@ ham
 hampton
 hamstead
 haven
+hill
 holm
+hook
 hope
 horn
 howe
@@ -72,6 +74,7 @@ mouth
 ness
 pool
 port
+quay
 rigg
 rith
 shaw
@@ -102,4 +105,5 @@ wold
 wood
 worth
 wych
+wyn
 vania
