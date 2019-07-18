@@ -9,8 +9,11 @@ prehistoric
 1970s
 1980s
 1990s
+2000s
+2010s
 18th century
 19th century
+20th century
 World War I
 World War II
 medieval
@@ -25,6 +28,7 @@ Northern
 Southern
 Eastern
 Western
+Central
 a shady quarter of
 the furthest reaches of
 unexplored
@@ -33,3 +37,6 @@ the coast of
 a hundred years ago in
 a thousand years ago in
 the grim future of
+the highest peaks of
+the uncharted interior of
+the more desirable regions of
