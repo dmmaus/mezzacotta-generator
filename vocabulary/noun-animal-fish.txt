@@ -5,9 +5,11 @@ cod|cod
 eel
 fish|fish
 guppy|guppies
+haddock
 mackerel|mackerel
 mullet|mullet
 pike|pike
+pilchard
 salmon|salmon
 sardine
 shark
