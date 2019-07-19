@@ -1,0 +1,11 @@
+@format ~
+$person-ruler
+children of the village
+elderly
+local monastery
+neighbouring village
+onlookers
+poor
+sick
+village of $village/base
+village $person-profession-medieval

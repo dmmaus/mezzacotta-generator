@@ -1,0 +1,9 @@
+@format ~
+banished from the village for a year and a day
+crowned $person-ruler for the day
+declared village leader for the next year
+dunked in the local stream
+hailed as far away as $village/base
+given a lifetime supply of $village/festival-noun_S
+given a $village/festival-noun
+married to the village $person-profession-medieval 's $person-relative

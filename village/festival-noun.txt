@@ -1,24 +1,28 @@
 @format ~|S
+$dish/ingredient|$dish/ingredient_S
 $noun-animal|$noun-animal_S
 $noun-animal pie|pies
 $noun-item|$noun-item_S
 $person|$person_S
 $person-relative|$person-relative_S
-|ale
+afternoon tea
+ale|kegs_of_ale
 bagpipe
 beard
-|beer
+beer|kegs_of_beer
 bell
 bog
 bonfire
 boot
 caber
 cake
-|cheese
-|cider
+cakes_and_ale|cakes_and_ale
+cheese|wheels_of_cheese
+cider|kegs_of_cider
 cowpat
 crumpet
 egg
+eel
 full English breakfast
 haggis|haggises
 hat
@@ -30,9 +34,10 @@ moustache
 pie
 pork pie
 sausage
+sausage roll
 scone
-|snuff
+snuff|boxes_of_snuff
 telephone box|boxes
 turnip
-|whisky
+whisky|barrels_of_whisky
 wife|wives

@@ -1,3 +1,5 @@
 @format ~
 The prize is a lifetime supply of $village/festival-noun_S .
 The prize is a $village/festival-noun .
+The winner is $village/festival-award .
+Each year, @random2(1,100)*5 $village/festival-noun_S are $village/festival-givento the $village/festival-recipient .

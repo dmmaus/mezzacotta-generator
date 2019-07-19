@@ -24,6 +24,7 @@ midsummer
 New Year
 original
 Pentecost
+Royal
 Samhain
 Saturnalia
 Shrove Tuesday
@@ -40,5 +41,7 @@ Whitsuntide
 winter
 winter solstice
 world's largest
+world's most prestigious
 world's oldest
+world's only
 Yuletide

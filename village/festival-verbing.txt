@@ -8,10 +8,12 @@ brewing
 carving
 carrying
 cleaning
+collecting
 cooking
 dancing
 decorating
 debating
+delivering
 dragging
 eating
 growing
@@ -19,6 +21,7 @@ harvesting
 hunting
 hurling
 impersonating
+jellying
 kicking
 lifting
 miming
