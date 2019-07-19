@@ -12,6 +12,7 @@ cross
 down
 ford
 forest
+hollow
 haven
 magna
 market
@@ -20,7 +21,7 @@ park
 quay
 river
 row
-st $name-male
+^st $name-male
 st $name-female
 spa
 wells
