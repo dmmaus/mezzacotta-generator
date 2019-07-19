@@ -12,6 +12,7 @@ cross
 down
 ford
 forest
+gate
 hollow
 haven
 magna
@@ -21,7 +22,7 @@ park
 quay
 river
 row
-^st $name-male
+st $name-male
 st $name-female
 spa
 wells

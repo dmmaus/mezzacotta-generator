@@ -2,6 +2,7 @@
 @titlecase
 $village/village-prefix + $village/village-suffix (pop. @random2(1,100) )
 $village/village-prefix + $village/village-suffix (sister_village of $village/base )
+$village/village-prefix + $village/village-suffix (the_one_near $village/base ,_not_the_one_near $village/base )
 $village/village-prefix + $village/village-suffix
 $village/village-prefix + $village/village-suffix
 $village/village-prefix + $village/village-suffix
