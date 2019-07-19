@@ -152,7 +152,7 @@ class Vocab:
 
                     # @random command
                     elif word.startswith('@random'):
-                        result += self.RandomNumber(word[len('@random'):])
+                        result += self.RandomNumber(word[len('@random'):]) + ' '
 
                     else:
                         result += word + ' '
