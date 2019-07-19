@@ -4,18 +4,18 @@ $noun-animal pie|pies
 $noun-item|$noun-item_S
 $person|$person_S
 $person-relative|$person-relative_S
-ale|ale
+|ale
 bagpipe
 beard
-beer|beer
+|beer
 bell
 bog
 bonfire
 boot
 caber
 cake
-cheese|cheese
-cider|cider
+|cheese
+|cider
 cowpat
 crumpet
 egg
@@ -31,8 +31,8 @@ pie
 pork pie
 sausage
 scone
-snuff|snuff
+|snuff
 telephone box|boxes
 turnip
-whisky|whisky
+|whisky
 wife|wives

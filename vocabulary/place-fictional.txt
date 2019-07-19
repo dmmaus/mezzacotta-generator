@@ -42,6 +42,7 @@ Mount Olympus
 Mumuland
 Narnia
 Neverland
+Neverwinter
 Niflheim
 Oz
 Pellucidar
@@ -60,10 +61,15 @@ The Forgotten Realms
 The Garden of Eden
 The Shire
 The Underworld
+The Upside Down
 The Westlands
 Theros
 Utopia
 Valhalla
+Wakanda
+Waterdeep
+Westeros
+Willy Wonka's Chocolate Factory
 Wonderland
 Xanadu
 Zendikar
