@@ -231,13 +231,13 @@ class MezzaGenerator:
 
                 plus = False
 
-            elif word == "+":
+            elif word == "+" or word[0] == "-":
                 plus = True
                 # Go back and capitalise the previous word fragment if necessary
                 # Needed to capitalise fragments that are in non_cap_words, when joined with +
                 resultlist = result.split()
-                if cap and (len(resultlist) > 1 and "+" not in resultlist[-2]):
-                    # Only capitalise if the second previous word was not also a plus sign
+                # Capitalise if: the second previous word was not also a plus sign; or previous word is the only word
+                if cap and ((len(resultlist) > 1 and "+" not in resultlist[-2]) or len(resultlist) == 1):
                     resultlist[-1] = resultlist[-1].capitalize()
                 result = string.join(resultlist)
                 result += word + ' '
