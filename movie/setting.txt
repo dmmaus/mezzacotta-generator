@@ -28,15 +28,15 @@
 , with tragic results
 , basically
 . And that's just the first scene
-# . But suddenly, ~~movie
-# . But then, ~~movie
-# . Eventually, ~~movie
-# . Later, ~~movie
+. But suddenly, $movie/synopsis
+. But then, $movie/synopsis
+. Eventually, $movie/synopsis
+. Later, $movie/synopsis
 . Not
 . Or maybe they didn't
 . The $noun-animal dies
-. Then, ~~movie
-. Then, in a ~$artifact/adj-artifact development, ~~movie
+. Then, $movie/synopsis
+. Then, in a ~$artifact/adj-artifact development, $movie/synopsis
 . And so much more
 . Will they all die in the end?
 . How will it all end?
