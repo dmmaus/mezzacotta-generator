@@ -1,7 +1,2 @@
 @format ~
-Anne
-Catherine
-Elizabeth
-Jane
-Joan
-Mary
+@include name-female-old

@@ -1,7 +1,2 @@
 @format ~
-Edmund
-John
-Mark
-Matthew
-Paul
-Peter
+@include name-male-old
