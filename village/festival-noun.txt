@@ -8,6 +8,7 @@ $person-relative|$person-relative_S
 afternoon tea
 ale|kegs_of_ale
 bagpipe
+barn
 beard
 beer|kegs_of_beer
 bell
@@ -23,19 +24,28 @@ cowpat
 crumpet
 egg
 eel
+fire
 full English breakfast
+greased pig
+greased pole
 haggis|haggises
 hat
+human tower
 husband
 kilt
 King James Bible
+maypole
 menhir
 moustache
+mud
 pie
 pork pie
+potato
 sausage
 sausage roll
+scarecrow
 scone
+snowman|snowmen
 snuff|boxes_of_snuff
 telephone box|boxes
 turnip
