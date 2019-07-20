@@ -1,0 +1,23 @@
+# Specific days of the year. Must be days that do not need "a" or "the" in front.
+@format ~
+All Hallow's Day
+Ash Wednesday
+Beltane
+Boxing Day
+Christmas Eve
+Easter
+Good Friday
+Hogmanay
+Ides of March
+Imbolc
+May Day
+Midsummer's Day
+Midwinter's Day
+New Year's Day
+Pentecost
+Samhain
+Saturnalia
+Shrove Tuesday
+Walpurgis Night
+Whitsunday
+Yule
