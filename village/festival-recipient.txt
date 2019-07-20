@@ -1,5 +1,6 @@
 @format ~
 $person-ruler
+charity for out-of-work $person-profession-medieval_S
 children of the village
 elderly
 local monastery
@@ -8,4 +9,5 @@ onlookers
 poor
 sick
 village of $village/base
+village $noun-animal_S
 village $person-profession-medieval

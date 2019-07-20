@@ -1,9 +1,15 @@
 @format ~
 banished from the village for a year and a day
+charged with organising the next event
 crowned $person-ruler for the day
 declared village leader for the next year
 dunked in the local stream
+forced to clean up the village
 hailed as far away as $village/base
 given a lifetime supply of $village/festival-noun_S
 given a $village/festival-noun
+given the bill by the organising committee
 married to the village $person-profession-medieval 's $person-relative
+paraded through the village
+thrown in gaol for the night
+tied to a $noun-animal and paraded along the village high street

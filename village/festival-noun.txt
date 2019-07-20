@@ -37,10 +37,10 @@ King James Bible
 maypole
 menhir
 moustache
-mud
+|mud
 pie
 pork pie
-potato
+potato|potatoes
 sausage
 sausage roll
 scarecrow

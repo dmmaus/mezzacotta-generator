@@ -1,47 +1,15 @@
 @format ~
-$noun-animal moon
-All Hallow's Day
 annual
-Ash Wednesday
-autumn
-autumnal equinox
 bardic
-Beltane
 biennial
-Boxing Day
-Christmas Eve
 druidic
-Easter
 famous
-Good Friday
-harvest
-harvest moon
-Hogmanay
-Imbolc
 lunar
-May Day
-midsummer
-New Year
 original
-Pentecost
 Royal
-Samhain
-Saturnalia
-Shrove Tuesday
-spring
-St $name-female 's Day
-St $name-male 's Day
-summer
-summer solstice
 traditional
 unique
-vernal equinox
-Walpurgis Night
-Whitsuntide
-winter
-winter solstice
 world's largest
 world's most prestigious
 world's oldest
 world's only
-Yuletide

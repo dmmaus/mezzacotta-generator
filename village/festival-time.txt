@@ -1,0 +1,18 @@
+@format ~
+$noun-animal -moon
+$time-holiday
+autumn
+autumnal equinox
+harvest
+harvest moon
+midsummer
+spring
+St $name-female 's Day
+St $name-male 's Day
+summer
+summer solstice
+vernal equinox
+Whitsuntide
+winter
+winter solstice
+Yuletide
