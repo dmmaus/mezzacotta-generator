@@ -13,6 +13,8 @@ down
 ford
 forest
 gate
+glen
+heights
 hollow
 haven
 magna
@@ -25,4 +27,7 @@ row
 st $name-male
 st $name-female
 spa
+underdale
+vale
+waters
 wells
