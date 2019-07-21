@@ -20,6 +20,7 @@ cake
 cakes_and_ale|cakes_and_ale
 cheese|wheels_of_cheese
 cider|kegs_of_cider
+cornfield maze
 cowpat
 crumpet
 egg
