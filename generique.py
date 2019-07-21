@@ -219,7 +219,8 @@ class MezzaGenerator:
                     chance = int(word[0]) / 10.0
                     wordspec = word[1:]
                     chance_roll = chance > random.random()
-                    chance_failed = True
+                    if not chance_roll:
+                        chance_failed = True
                 else:
                     wordspec = word
 
