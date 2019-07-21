@@ -2,34 +2,59 @@
 $person-relative 's $person-relative
 adopted child|children
 aunt
+baby|babies
 brother
 brother
 brother-in-law|brothers-in-law
 child|children
 cousin
 cousin|cousins once removed
+dad
 daughter
 daughter
 daughter-in-law|daughters-in-law
 father
+father
 father-in-law|fathers-in-law
+fianc&eacute;
+fianc&eacute;e
+godchild|godchildren
 goddaughter
 godfather
 godmother
+godparent
 godson
+grandchild|grandchildren
 granddaughter
 grandfather
+grandkid
+grandma
 grandmother
+grandpa
 grandparent
 grandchild|grandchildren
 grandson
+granny|grannies
+great aunt
+great grandchild
+great granddaughter
+great grandfather
+great grandmother
+great grandparent
+great grandson
+great uncle
 husband
+husband
+kid
+mother
 mother
 mother-in-law|mothers-in-law
+mum
 nephew
 niece
 parent
 second cousin
+sibling
 sister
 sister
 sister-in-law|sisters-in-law
@@ -43,4 +68,6 @@ stepfather
 stepmother
 stepson
 uncle
+twin
+wife|wives
 wife|wives
