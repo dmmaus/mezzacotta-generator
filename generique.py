@@ -16,6 +16,7 @@ class Vocab:
         self.titlecase = False
         self.inflectionstring = None
         self.quotechance = None
+        self.vocab_replacements = {}
 
         # Get path and filename of vocabulary file. Path is relative to calling subdirectory.
         if '/' in base_spec:
@@ -56,6 +57,11 @@ class Vocab:
                             if vocab.GetInflections() == self.inflectionstring:
                                 self.includes.append({'vocab': vocab, 'size': vocab.GetSize()})
                                 self.includesize += vocab.GetSize()
+                    elif line.startswith('@replace'):
+                        # add specified replacements to the local vocabulary replacements dictionary
+                        split_line = line.split('|')
+                        if len(split_line) == 3:
+                            self.vocab_replacements[split_line[1]] = split_line[2]
                     else:
                         self.lines.append(line)
 
@@ -160,7 +166,8 @@ class Vocab:
         if self.quotechance is not None and self.quotechance > random.random():
             result = '\"' + result + '\"' + ' '
 
-        return result
+        # Return the result plus any replacements specified in this vocabulary file
+        return (result, self.vocab_replacements)
 
 class MezzaGenerator:
     def __init__(self):
@@ -199,7 +206,10 @@ class MezzaGenerator:
             cap = self.vocabs[base].titlecase
 
         # Generate the random line of text
-        randomline = self.vocabs[base].RandomLine(inflection)
+        (randomline, vocab_replacements) = self.vocabs[base].RandomLine(inflection)
+        # Add the vocabulary file replacements to the replacement dictionary
+        for key in vocab_replacements.keys():
+            self.replacements[key] = vocab_replacements[key]
 
         result = ''
         # Keep track if the previous word was a plus sign, to handle capitalisation of conjoined words
