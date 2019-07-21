@@ -1,8 +1,12 @@
 @format ~
+@replace|Day Eve|Eve
 $noun-animal -moon
 $time-holiday
+$time-holiday Eve
 autumn
 autumnal equinox
+day after $time-holiday
+day before $time-holiday
 harvest
 harvest moon
 midsummer

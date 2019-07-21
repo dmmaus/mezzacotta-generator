@@ -1,10 +1,11 @@
 # Specific days of the year. Must be days that do not need "a" or "the" in front.
 @format ~
+Advent Sunday
 All Hallow's Day
 Ash Wednesday
 Beltane
 Boxing Day
-Christmas Eve
+Christmas
 Easter
 Good Friday
 Hogmanay
