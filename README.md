@@ -43,14 +43,15 @@ The Python generator code `generique.py` takes two or more arguments:
 
 ## Vocabulary file specification
 
-All vocabulary files (including the base vocabulary file) are text files assumed to have `.txt` extensions. Vocabulary files may contain the following:
+All vocabulary files (including the base vocabulary file) are text files assumed to have `.txt` extensions. Vocabulary files may contain lines starting with the following directives:
 
-* **Comments.** Lines starting with a `#` character are comments, ignored by the parser.
-* **Format specifier.** A line starting with `@format` is a format specifier. See "Format specifiers" below.
-* **Case specifier.** A line specifying how returned text from the current file is to be capitalised. See "Case specifiers" below.
-* **Quotation specifier.** A line starting with `@quoted` gives a numerical probability that strings returned by the current file will be enclosed in quote marks. Useful if you want "scare quotes" around stuff.
-* **Included files.** A line starting with `@include` loads the following file, as if it were reproduced in full within the current file. The parser checks that the `@format` specifier is the same, otherwise throws an error.
-* **Text, possibly with substitution strings.** Either vocabulary words, or substitution strings starting with a dollar sign. See "Text substitution" below.
+* `#`: Comments, ignored by the parser.
+* `@format`: A format specifier. See "Format specifiers" below.
+* `@XXXcase`: Specifies how returned text from the current file is to be capitalised. See "Case specifiers" below.
+* `@quoted`: Followed by a decimal probability (0 to 1) that strings returned by the current file will be enclosed in quote marks. Useful if you want "scare quotes" around stuff.
+* `@include`: Loads the following named file, as if it were reproduced in full within the current file. The parser checks that the `@format` specifier is the same, otherwise throws an error.
+* `@replace`: Specifies a replacement string using the following syntax: `@replace|SEARCH|REPLACE`. Any instances of `SEARCH` in the generated text will be replaced with `REPLACE`. Useful to tweak output that may generate things like "Christmas Day Eve" (`@replace|Day Eve|Eve`).
+* `[text]`: Text containing normal vocabulary words and/or substitution strings starting with a dollar sign. See "Text substitution" below.
 
 ### Format specifiers
 
@@ -77,7 +78,7 @@ These specify how text should be capitalised. A specifier in a given file capita
 
 The only case specifier supported so far is:
 
-* `@titlecase`. This specifies that strings returned by the current file will be capitalised in [Title Case](https://en.wiktionary.org/wiki/title_case).
+* `@titlecase`: This specifies that strings returned by the current file will be capitalised in [Title Case](https://en.wiktionary.org/wiki/title_case).
 
 ## Text substitution
 
@@ -94,7 +95,8 @@ The parser recursively generates random strings from referenced files until it b
 
 There are also special @-commands that produce substituted text:
 
-* `@recentyearN` - Generates a year number in the past, biased towards more recent years, and substitutes it in place. `N` is a number, which is interpreted as a scale factor for the logarithmic probability distribution. Most years generated will be within *N* yers of the present, but there is a long low probability tail.
+* `@randomN(A,B)+C` - Generates a random integer using the formula: (*N* die rolls of (a random integer from *a* to *b* inclusive)) + *C*. As well as `+`, the following operators are supported: `-`, `*`, `/` (performs integer division).
+* `@recentyearN` - Generates a year number in the past, biased towards more recent years, and substitutes it in place. `N` is a number, which is interpreted as a scale factor for the logarithmic probability distribution. Most years generated will be within *N* years of the present, but there is a long low probability tail.
 
 ### Conditional substitution
 
