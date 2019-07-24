@@ -17,19 +17,26 @@ body {
 10 random tavern names. Reload for more.
 </p>
 <ul>
-<li>
 <?php
 $command = escapeshellcmd('/usr/bin/python ../generique.py tavern/base 10');
 $output = shell_exec($command);
-$output = preg_replace('/\n/', "</li>\n<li>", rtrim($output));
 $output = preg_replace("/'/", "’", $output);
-echo $output;
+$lines = explode("\n", rtrim($output));
+foreach ($lines as $line)
+{
+    echo "<li>$line</i></li>\n";
+}
 ?>
-</li>
 </ul>
 
+<!-- footer -->
+<hr>
 <p>
-(Tavern art: <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> by <a href="https://commons.wikimedia.org/wiki/File:Bridge-medieval-fantasy-city.png">David Revoy</a>.)
+<i>Tavern art: <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> by <a href="https://commons.wikimedia.org/wiki/File:Bridge-medieval-fantasy-city.png">David Revoy</a>.</i>
 </p>
+<p>
+<i><a href="../">mezzacotta Random Generators Home</a></i>
+</p>
+
 </body>
 </html>
