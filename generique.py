@@ -163,8 +163,10 @@ class Vocab:
                     else:
                         result += word + ' '
 
+        # check if we need to "scare quote" the result
         if self.quotechance is not None and self.quotechance > random.random():
-            result = '\"' + result + '\"' + ' '
+            # add smart quotes HTML entities around the result
+            result = "&ldquo;" + result.rstrip() + "&rdquo;" + ' '
 
         # Return the result plus any replacements specified in this vocabulary file
         return (result, self.vocab_replacements)
@@ -264,8 +266,11 @@ class MezzaGenerator:
     # Expand a random line from a file, and neaten it
     def Generate(self, spec):
         result = self.Expand(spec)
-        # Make first letter of result upper case
-        result = ' ' + result[0].upper() + result[1:]
+        # Make first letter of result upper case, even if it's after a quote character
+        if result.startswith("&ldquo;"):
+            result = "&ldquo;" + result[7].upper() + result[8:]
+        else:
+            result = ' ' + result[0].upper() + result[1:]
 
         for key in self.replacements.keys():
             if key in result:
