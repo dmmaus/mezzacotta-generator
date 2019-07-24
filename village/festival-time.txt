@@ -1,5 +1,5 @@
 @format ~
-@include $time-holiday
+@include time-holiday
 @replace|Day Eve|Eve
 $noun-animal -moon
 $time-holiday Eve
