@@ -10,9 +10,10 @@ day before $time-holiday
 harvest
 harvest moon
 midsummer
+midwinter
 spring
-St $name-female 's Day
-St $name-male 's Day
+St $name-female-old 's Day
+St $name-male-old 's Day
 summer
 summer solstice
 vernal equinox

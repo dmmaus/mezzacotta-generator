@@ -2,23 +2,36 @@
 @format ~
 Advent Sunday
 All Hallow's Day
+All Soul's Day
 Ash Wednesday
 Beltane
 Boxing Day
+Candlemas
 Christmas
 Easter
+Epiphany
 Good Friday
+Hocktide
 Hogmanay
 Ides of March
 Imbolc
+Lammas
+Lughnasadh
+Maundy Thursday
 May Day
+Michaelmas
 Midsummer's Day
 Midwinter's Day
+Mothering Sunday
 New Year's Day
+Palm Sunday
 Pentecost
+Plough Monday
 Samhain
 Saturnalia
 Shrove Tuesday
+Twelfth Night
+Trinity SUnday
 Walpurgis Night
 Whitsunday
 Yule
