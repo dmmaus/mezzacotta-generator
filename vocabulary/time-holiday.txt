@@ -3,20 +3,27 @@
 Advent Sunday
 All Hallow's Day
 All Soul's Day
+Annunciation Day
+Ascension Thursday
 Ash Wednesday
+Bacchanalia
 Beltane
 Boxing Day
+Byzantine New Year
 Candlemas
 Christmas
 Easter
 Epiphany
 Good Friday
+Guy Fawkes Day
+Hanukkah
 Hocktide
 Hogmanay
-Ides of March
 Imbolc
 Lammas
 Lughnasadh
+Lunar New Year
+Lupercalia
 Maundy Thursday
 May Day
 Michaelmas
@@ -27,11 +34,14 @@ New Year's Day
 Palm Sunday
 Pentecost
 Plough Monday
+Roman New Year
+Rosalia
 Samhain
 Saturnalia
 Shrove Tuesday
 Twelfth Night
-Trinity SUnday
-Walpurgis Night
+Trinity Sunday
+Valentine's Day
+Walpurgisnacht
 Whitsunday
 Yule
