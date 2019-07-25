@@ -10,14 +10,23 @@
 10 random silly sentences with a small custom vocabulary, for test purposes. Reload for more.
 </p>
 <ul>
-<li>
 <?php
 $command = escapeshellcmd('/usr/bin/python ../generique.py test/base 10');
 $output = shell_exec($command);
-$output = preg_replace('/\n/', "</li>\n<li>", rtrim($output));
-echo $output;
+$output = preg_replace("/'/", "’", $output);
+$lines = explode("\n", rtrim($output));
+foreach ($lines as $line)
+{
+    echo "<li>$line</i></li>\n";
+}
 ?>
-</li>
 </ul>
+
+<!-- footer -->
+<hr>
+<p>
+<i><a href="../">mezzacotta Random Generators Home</a></i>
+</p>
+
 </body>
 </html>

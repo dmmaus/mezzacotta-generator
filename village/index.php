@@ -13,6 +13,7 @@
 <?php
 $command = escapeshellcmd('/usr/bin/python ../generique.py village/base village/festival-base 10');
 $output = shell_exec($command);
+$output = preg_replace("/'/", "’", $output);
 $lines = explode("\n", rtrim($output));
 foreach ($lines as $line)
 {
@@ -23,5 +24,12 @@ foreach ($lines as $line)
 }
 ?>
 </ul>
+
+<!-- footer -->
+<hr>
+<p>
+<i><a href="../">mezzacotta Random Generators Home</a></i>
+</p>
+
 </body>
 </html>

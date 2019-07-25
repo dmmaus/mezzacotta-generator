@@ -16,6 +16,7 @@ class Vocab:
         self.titlecase = False
         self.inflectionstring = None
         self.quotechance = None
+        self.vocab_replacements = {}
 
         # Get path and filename of vocabulary file. Path is relative to calling subdirectory.
         if '/' in base_spec:
@@ -56,6 +57,11 @@ class Vocab:
                             if vocab.GetInflections() == self.inflectionstring:
                                 self.includes.append({'vocab': vocab, 'size': vocab.GetSize()})
                                 self.includesize += vocab.GetSize()
+                    elif line.startswith('@replace'):
+                        # add specified replacements to the local vocabulary replacements dictionary
+                        split_line = line.split('|')
+                        if len(split_line) == 3:
+                            self.vocab_replacements[split_line[1]] = split_line[2]
                     else:
                         self.lines.append(line)
 
@@ -165,14 +171,16 @@ class Vocab:
                             result += word + ' '
 
             if self.quotechance is not None and self.quotechance > random.random():
-                result = '\"' + result + '\"' + ' '
+                # add smart quotes HTML entities around the result
+                result = "&ldquo;" + result.rstrip() + "&rdquo;" + ' '
 
             results[inflection] = result
 
         if len(inflections) == 1:
-            return results[inflections[0]]
+            return results[inflections[0]], self.vocab_replacements
         else:
-            return results
+            return results, self.vocab_replacements
+
 
 class MezzaGenerator:
     def __init__(self):
@@ -211,7 +219,10 @@ class MezzaGenerator:
             cap = self.vocabs[base].titlecase
 
         # Generate the random line of text
-        randomline = self.vocabs[base].RandomLine(inflection)
+        (randomline, vocab_replacements) = self.vocabs[base].RandomLine(inflection)
+        # Add the vocabulary file replacements to the replacement dictionary
+        for key in vocab_replacements.keys():
+            self.replacements[key] = vocab_replacements[key]
 
         result = ''
         # Keep track if the previous word was a plus sign, to handle capitalisation of conjoined words
@@ -231,7 +242,8 @@ class MezzaGenerator:
                     chance = int(word[0]) / 10.0
                     wordspec = word[1:]
                     chance_roll = chance > random.random()
-                    chance_failed = True
+                    if not chance_roll:
+                        chance_failed = True
                 else:
                     wordspec = word
 
@@ -265,8 +277,11 @@ class MezzaGenerator:
     # Expand a random line from a file, and neaten it
     def Generate(self, spec):
         result = self.Expand(spec)
-        # Make first letter of result upper case
-        result = ' ' + result[0].upper() + result[1:]
+        # Make first letter of result upper case, even if it's after a quote character
+        if result.startswith("&ldquo;"):
+            result = "&ldquo;" + result[7].upper() + result[8:]
+        else:
+            result = ' ' + result[0].upper() + result[1:]
 
         for key in self.replacements.keys():
             if key in result:

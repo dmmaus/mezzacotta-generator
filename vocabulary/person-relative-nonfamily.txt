@@ -27,6 +27,7 @@ ex-wife|ex-wives
 fan|fans
 fairy godmother
 friend
+friend-with-benefits|friends-with-benefits
 follower
 ghost
 girlfriend
@@ -48,7 +49,7 @@ neighbour
 nemesis|nemeses
 partner
 plaything
-protege
+prot&eacute;g&eacute;
 pupil
 relative
 room-mate

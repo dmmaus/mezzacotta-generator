@@ -1,57 +1,56 @@
 # Words for designating a person without referring to a profession
 @format ~|S
-human- $noun|$noun_S
-$noun-animal hunter
-$noun-animal keeper
-$noun-animal watcher
-$noun-animal wrangler
+@include person-relative
+@include person-relative-nonfamily
 # $instrument maker
 # $instrument player
 # $instrument virtuoso
-$noun-geography-landform farmer
-$noun-geography-landform -dweller
+$noun -eater
+$noun -lover
 $noun collector
 $noun dealer
-$noun -eater
 $noun inspector
-$noun -lover
 $noun maker
 $noun repairman|repairmen
 $noun researcher
-$object salesman|salesmen
 $noun seller
 $noun technician
 $noun thief|thieves
 $noun tycoon
-$person|$person_S of the sea
-$sport champion
-$sport promoter
-pro $sport player
-Olympic $sport competitor
-$sport coach|coaches
-$sport referee
-$sport player
-$noun-geography-structure worker
+$noun-animal hunter
+$noun-animal keeper
+$noun-animal watcher
+$noun-animal wrangler
+$noun-geography-landform -dweller
+$noun-geography-landform farmer
 $noun-geography-structure +dweller
 $noun-geography-structure guard
+$noun-geography-structure worker
+$noun-vehicle accident survivor
 $noun-vehicle driver
 $noun-vehicle maintainer
-$noun-vehicle accident survivor
 $noun-weapon maker
 $noun-weapon master
 $noun-weapon wielder
+$object salesman|salesmen
+$person|$person_S of the sea
+$sport champion
+$sport coach|coaches
+$sport player
+$sport promoter
+$sport referee
 anarchist
 babe
-baby|babies
+bearded woman|women
 bellringer
 bellydancer
-billionaire
 biker
 bikini model
+billionaire
 bimbo
 bird watcher
-bridesmaid
 bride
+bridesmaid
 bro
 bully|bullies
 bushranger
@@ -69,15 +68,16 @@ door-to-door $noun salesman|salesmen
 drug addict
 dude
 emo
-father
+eunuch
 fighter
+freedom fighter
 fundamentalist
 geek
 gold miner
 golfer
 goth
-granny|grannies
 graverobber
+guerilla
 guy
 hedonist
 hipster
@@ -85,31 +85,31 @@ hoon
 horseman|horsemen
 horserider
 hotshot
+human- $noun|$noun_S
 imposter
 jerk
-kid
 kleptomaniac
-libarian
 loser
 man|men
 maniac
 midget
 misfit
-mother
 murderer
-neckbeard
 ne'er-do-well
+neckbeard
 nerd
 ninja
 nonentity|nonentities
 noob
 octogenarian
+Olympic $sport competitor
 oracle
 orphan
 overlord
 person|people
 pioneer
 prankster
+pro $sport player
 prophet
 protester
 punk
@@ -119,7 +119,6 @@ scoundrel
 sea- $person|$person_S
 sentinel
 serial killer
-sibling
 skydiver
 slacker
 superhero|superheroes
@@ -128,7 +127,6 @@ teen
 teenager
 terrorist
 tourist
-twin
 underachiever
 vandal
 veteran

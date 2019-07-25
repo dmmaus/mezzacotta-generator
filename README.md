@@ -43,14 +43,15 @@ The Python generator code `generique.py` takes two or more arguments:
 
 ## Vocabulary file specification
 
-All vocabulary files (including the base vocabulary file) are text files assumed to have `.txt` extensions. Vocabulary files may contain the following:
+All vocabulary files (including the base vocabulary file) are text files assumed to have `.txt` extensions. Vocabulary files may contain lines starting with the following directives:
 
-* **Comments.** Lines starting with a `#` character are comments, ignored by the parser.
-* **Format specifier.** A line starting with `@format` is a format specifier. See "Format specifiers" below.
-* **Case specifier.** A line specifying how returned text from the current file is to be capitalised. See "Case specifiers" below.
-* **Quotation specifier.** A line starting with `@quoted` gives a numerical probability that strings returned by the current file will be enclosed in quote marks. Useful if you want "scare quotes" around stuff.
-* **Included files.** A line starting with `@include` loads the following file, as if it were reproduced in full within the current file. The parser checks that the `@format` specifier is the same, otherwise throws an error.
-* **Text, possibly with substitution strings.** Either vocabulary words, or substitution strings starting with a dollar sign. See "Text substitution" below.
+* `#`: Comments, ignored by the parser.
+* `@format`: A format specifier. See "Format specifiers" below.
+* `@XXXcase`: Specifies how returned text from the current file is to be capitalised. See "Case specifiers" below.
+* `@quoted`: Followed by a decimal probability (0 to 1) that strings returned by the current file will be enclosed in quote marks. Useful if you want "scare quotes" around stuff.
+* `@include`: Loads the following named file, as if it were reproduced in full within the current file. The parser checks that the `@format` specifier is the same, otherwise throws an error.
+* `@replace`: Specifies a replacement string using the following syntax: `@replace|SEARCH|REPLACE`. Any instances of `SEARCH` in the generated text will be replaced with `REPLACE`. Useful to tweak output that may generate things like "Christmas Day Eve" (`@replace|Day Eve|Eve`).
+* `[text]`: Text containing normal vocabulary words and/or substitution strings starting with a dollar sign. See "Text substitution" below. `#` can also be used on the same line to delineate a comment: `[text] # this is a comment`.
 
 ### Format specifiers
 
@@ -63,13 +64,13 @@ These are lines starting with `@format`. They tell the parser the format of infl
 
 Example text lines in various formats:
 
-* `dog` - A noun with a regular plural (`dogs`). The plural does not need to be specified.
+* `dog` - A noun with a regular plural formed simply by appending `s` (`dogs`). The plural does not need to be specified.
 * `fox|foxes`, `mouse|mice`, `fish|fish` - Nouns with an irregular plural.
 * `|butter` - Noun with no plural form (a mass noun). This syntax ignores all inflections and always returns the word as given.
-* `smart` - An adjective with regular comparative and superlative forms.
-* `big|bigger|biggest`, `bad|worse|worst`, `orange|more_orange|most_orange` - Adjectives with irregular comparative and superlative forms.
-* `walk` - A regular verb with fully regular endings.
-* `love|loves|loved|loving`, `eat|eats|ate|eating`, `have|has|had|having` - Irregular verbs.
+* `smart` - An adjective with regular comparative and superlative forms (`smarter|smartest`).
+* `big|bigger|biggest`, `bad|worse|worst`, `orange|more_orange|most_orange` - Adjectives with irregular comparative and superlative forms. (`bigger` and `biggest` require an extra `g` to be inserted.)
+* `walk` - A regular verb with fully regular inflection endings (`walks|walked|walking`).
+* `love|loves|loved|loving`, `eat|eats|ate|eating`, `have|has|had|having` - Irregular and irregularly spelt verbs.
 
 ### Case specifiers
 
@@ -77,7 +78,7 @@ These specify how text should be capitalised. A specifier in a given file capita
 
 The only case specifier supported so far is:
 
-* `@titlecase`. This specifies that strings returned by the current file will be capitalised in [Title Case](https://en.wiktionary.org/wiki/title_case).
+* `@titlecase`: This specifies that strings returned by the current file will be capitalised in [Title Case](https://en.wiktionary.org/wiki/title_case).
 
 ## Text substitution
 
@@ -94,7 +95,8 @@ The parser recursively generates random strings from referenced files until it b
 
 There are also special @-commands that produce substituted text:
 
-* `@recentyearN` - Generates a year number in the past, biased towards more recent years, and substitutes it in place. `N` is a number, which is interpreted as a scale factor for the logarithmic probability distribution. Most years generated will be within *N* yers of the present, but there is a long low probability tail.
+* `@randomN(A,B)+C` - Generates a random integer using the formula: (*N* die rolls of (a random integer from *A* to *B* inclusive)) + *C*. As well as `+`, the following operators are supported: `-`, `*`, `/` (performs integer division).
+* `@recentyearN` - Generates a year number in the past, biased towards more recent years, and substitutes it in place. `N` is a number, which is interpreted as a scale factor for the logarithmic probability distribution. Most years generated will be within *N* years of the present, but there is a long low probability tail.
 
 ### Conditional substitution
 
@@ -117,7 +119,7 @@ As a final pass, there are some automatic string substitutions made to tidy up t
 
 ### The difference between includes and substitutions
 
-Example: If we have two text files:
+Example: We have two text files:
 
 ```
 # dinosaur.txt
@@ -133,7 +135,7 @@ horse
 rabbit
 ```
 
-And we want to make a file `animal.txt` that could select either dinosaurs or mammals, we could do either:
+We want to make a file `animal.txt` that could select either dinosaurs or mammals, we could do either:
 
 ```
 # animal.txt
@@ -155,8 +157,10 @@ which would select each animal with equal probability 1/6.
 
 ## PHP
 
+The sample PHP code demonstrates how to call the Python generator and format returned lines into HTML. `dish/index.php` shows an example of HTML formatting output from multiple base generators in a single Python call.
+
 The sample PHP code does the following substitutions:
 
 * Apostrophes are replaced with curly apostrophes.
-* `dish/index.php` shows an example of HTML formatting output from multiple base generators in a single Python call.
 
+PHP is also responsible for the HTML page styling, which can be customised for each generator.
