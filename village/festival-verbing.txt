@@ -1,5 +1,6 @@
 @format ~
 $verb-transitive_ING
+$sport
 badgering
 baiting
 baking
