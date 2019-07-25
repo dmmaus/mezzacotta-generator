@@ -110,57 +110,69 @@ class Vocab:
             pass
         return str(total)
 
-    # Return a random line, based on an inflection
-    def RandomLine(self, inflection = '~'):
-        # Determine index of inflection
-        missing_inflection = ''
-        if not inflection in self.inflections:
-            missing_inflection = inflection
-            inflection = '~'
+    def GetStoreChoices(self):
+        result = {}
+        for cmd in self.store_cmds:
+            v = Vocab(cmd['spec'])
+            result[cmd['var']] = v.RandomLine(v.GetInflections().split('|'))
+        return result
 
-        inflection_idx = self.inflections.index(inflection)
+    # Return a random line, based on a list of inflections.
+    def RandomLine(self, inflections = ['~']):
+        if not isinstance(inflections, list):
+            inflections = [inflections]
 
-        # Choose a random line from the file, or any of its includes.
         line = self.RandomRawLine()
+        results = {} # dictionary for returning results of multiple inflections
 
-        # If there's no inflections in the line, then we form the inflection just by appending.
-        # Otherwise, find the specified inflection.
-        result = ''
+        universal_inflection = False
         if line.startswith('|'):
-            result = line[1:]
-        else:
-            if '|' not in line and inflection != '~':
-                result = line + inflection.lower()
-            else:
-                words = line.split()
+            universal_inflection = True
+            line = line[1:]
 
-                for word in words:
-                    if '|' in word:
-                        parts = word.split('|')
-                        if missing_inflection:
-                            result += parts[inflection_idx] + '[UNKNOWN INFLECTION: ' + missing_inflection + '] '
-                        else:
+        for inflection in inflections:
+            if inflection not in self.inflections:
+                results[inflection] = '[MISSING INFLECTION: ' + inflection + ' IN FILE: ' + self.base_spec + ']'
+                continue
+            inflection_idx = self.inflections.index(inflection)
+            result = ''
+            if universal_inflection:
+                result = line
+            else:
+                if '|' not in line and inflection != '~':
+                    result = line + inflection.lower() + ' '
+                else:
+                    words = line.split()
+
+                    for word in words:
+                        if '|' in word:
+                            parts = word.split('|')
                             result += parts[inflection_idx] + ' '
 
-                    # @recentyear command
-                    elif word.startswith('@recentyear'):
-                        try:
-                            scale = int(word[len('@recentyear'):])
-                        except ValueError:
-                            scale = 1
-                        result += str(int(datetime.now().year) + int(scale * math.log(random.random()))) + ' '
+                        # @recentyear command
+                        elif word.startswith('@recentyear'):
+                            try:
+                                scale = int(word[len('@recentyear'):])
+                            except ValueError:
+                                scale = 1
+                            result += str(int(datetime.now().year) + int(scale * math.log(random.random()))) + ' '
 
-                    # @random command
-                    elif word.startswith('@random'):
-                        result += self.RandomNumber(word[len('@random'):]) + ' '
+                        # @random command
+                        elif word.startswith('@random'):
+                            result += self.RandomNumber(word[len('@random'):]) + ' '
 
-                    else:
-                        result += word + ' '
+                        else:
+                            result += word + ' '
 
-        if self.quotechance is not None and self.quotechance > random.random():
-            result = '\"' + result + '\"' + ' '
+            if self.quotechance is not None and self.quotechance > random.random():
+                result = '\"' + result + '\"' + ' '
 
-        return result
+            results[inflection] = result
+
+        if len(inflections) == 1:
+            return results[inflections[0]]
+        else:
+            return results
 
 class MezzaGenerator:
     def __init__(self):
