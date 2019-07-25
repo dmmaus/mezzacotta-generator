@@ -1,0 +1,30 @@
+# Male and female honorifics
+@format ~|F
+Mr|Miss
+Mr|Miss
+Mr|Mrs
+Mr|Mrs
+Mr|Mrs
+Mr|Mrs
+Mr|Mrs
+Mr|Mrs
+Mr|Mrs
+Mr|Mrs
+Mr|Ms
+Mr|Ms
+Mr|Ms
+Mr|Ms
+Mr|Ms
+Mr|Ms
+Brother|Sister
+Father|Mother
+Lord|Lady
+Master|Miss
+Sir|Dame
+|Captain
+|Chancellor
+|Doctor
+|Dr
+|Professor
+|Reverend
+|The Honourable
