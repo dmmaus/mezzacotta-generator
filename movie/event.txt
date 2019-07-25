@@ -11,43 +11,81 @@ $noun ceremony|ceremonies
 $sport championship
 $sport match|matches
 $sport training session
+$noun-animal race
 $noun-geography-structure demolition
 $noun-geography-structure opening
+$noun-vehicle race
 $noun-vehicle test-drive
 announcement
+ball
+baby shower
 baptism
 bar mitzvah
 birth
 birthday party|parties
 breakfast
+bridal shower
 brunch|brunches
+buck's party|parties
+business function
+business meeting
+cabinet meeting
+christening
 church service
+clambake
 commitment ceremony|ceremonies
 concert
+convention
+cookout
 crime
+dance party|parties
 dinner
 execution
+family reunion
 farewell
+feast
+festival
+fiesta
 fight
 focus group
 funeral
+gala
+gathering
 graduation ceremony|ceremonies
+hen's night
+high school reunion
 interview
+jamboree
 lunch|lunches
 luncheon
 meal
 meeting
+memorial service
 operation
+papal audience
 parade
+parent-teacher night
 party|parties
 performance
+picnic
 play
 poetry reading
+political rally|rallies
+prom
 prosecution
 protest
+protest march|marches
+pub crawl
+race
 rally|rallies
 recital
 rehearsal
+reunion
+shindig
+support group meeting
+trade show
 trial
 vacation
+wake
 wedding
+wedding anniversary|anniversaries
