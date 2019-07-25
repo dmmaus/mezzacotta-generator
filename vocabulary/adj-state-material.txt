@@ -25,7 +25,9 @@ buried
 burning
 cheap
 coiled
+cold
 complicated
+cool
 corrupted
 cursed
 desecrated
@@ -54,6 +56,7 @@ greasy
 haunted
 hearty
 hidden
+hot
 hovering
 howling
 icy
@@ -67,6 +70,7 @@ lost
 magical
 meaty
 mnemonic
+moist
 musical
 mystic
 mythic
@@ -114,6 +118,7 @@ unkempt
 upside-down
 vibrating
 wailing
+warm
 wet
 whirling
 wiggly

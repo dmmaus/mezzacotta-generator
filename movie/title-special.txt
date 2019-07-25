@@ -1,93 +1,106 @@
 # Movie title formats based on a specific well known movie title. Snakes on a Plane is the poster-boy for this.
 @format ~
-$noun-animal_S on a $noun-vehicle
-We're the $movie/person
-Those ain't $noun_S
-You've got $noun_S
-You're $adj-person
-Battle of the $noun_S
-All is $artifact/adj-artifact
-About $noun-abstract
-$place $movie/person club
-The $artifact/adj-artifact life of $movie/person_S
-I, $movie/entity
-No $artifact/adj-artifact $movie/entity_S
-The $adj-person , the $adj-person and the $adj-person
-The $person-relation of the $movie/entity_S
-Once upon a time in $place
-Leaving $place
-The $noun-artifact-abstract of the $movie/entity_S
-$movie/person_S of the $artifact/adj-artifact $noun-artifact
-It's a $adj-person $movie/entity
-$noun-artifact-abstract street
-The $artifact/adj-artifact $movie/person rises
-Some Like it $artifact/adj-artifact
-4$artifact/adj-artifact $noun-geography-structure on the $noun-geography-landform
-A $movie/person goes to $place
-No $noun-geography-landform for $adj-person $movie/person_S
-$adj-person me
-Don't $verb-transitive $place
-$verb-transitive $movie/entity_S like a $movie/person
-Who $verb-transitive_S the $movie/entity ?
-The $movie/person always $verb-transitive_S the $noun
-What to $verb-transitive
-The $movie/person with the $artifact/adj-artifact $noun-bodypart
-Who $verb-transitive_S $movie/entity_S ?
 $adj-person
-No $movie/person is a $noun-geography-landform
-A $movie/genre about $movie/entity_S
-How the $movie/person $verb-transitive_S $movie/entity_S
-$noun-bodypart of the $movie/person
-Don't $verb-transitive the $movie/person_S
-All the $artifact/adj-artifact $noun_S
-How $artifact/adj-artifact is my $noun-geography-landform ?
-That $artifact/adj-artifact moment
-$movie/entity day
-Robo- $movie/person
-$movie/person academy
-$movie/entity , $movie/entity and $movie/multiple $artifact/adj-artifact $noun-artifact_S
-How to $verb-transitive your $movie/entity
-There will be $movie/entity_S
-A $noun-vehicle named $noun-artifact-abstract
-The $adj-person $movie/person_S Club
-That $artifact/adj-artifact $movie/entity
-The most $artifact/adj-artifact $movie/entity Ever
-The $noun-animal of $movie/entity Street
+$adj-person me
 $artifact/adj-artifact $noun-animal , $artifact/adj-artifact $noun-animal
-$noun-abstract at $place
-The $noun In Their $noun-bodypart_S
-$verb-transitive club
-The $noun-animal_S are coming
-$verb-transitive yourself
-An unsuitable job for a $movie/person
-Along came a $noun-animal
-Mission: $artifact/adj-artifact
-Very $artifact/adj-artifact things
-The war between $movie/person_S and $movie/person_S
-The way of the $noun-animal
-$noun +world
-The $movie/event planner
-We bought a $noun-geography-structure
-We of the $noun-geography-landform
-We're no $movie/person_S
-We're going to be $adj-person
-Where $noun-animal_S $verb-transitive
-Get him to $tavern/base
-Being $name-full-modern
+$movie/entity , $movie/entity and $movie/multiple $artifact/adj-artifact $noun-artifact_S
+$movie/entity day
+$movie/event at $name-female-modern 's                      # Breakfast at Tiffany's
 $movie/genre-adj stories to tell in $place
-Ready $movie/person $number-small
-A $artifact/adj-artifact place
-A $movie/person is born
+$movie/person academy
+$movie/person_S of the $artifact/adj-artifact $noun-artifact
+$name-female-modern 's $movie/event                         # Muriel's Wedding
+$name-full-modern Returns
+$name-honorific $name-surname-modern goes to $place-real    # Mr Smith Goes to Washington
+$name-male-modern $verb-transitive_S the $noun
+$name-modern $noun-animal
+$name-modern and the $noun-geography-landform of $number-big $noun_S
+$name-modern of $place-real                                 # Lawrence of Arabia
 $name-surname-modern 's $number-small
 $name-surname-modern 's game
-$number-small $movie/event_S and a $movie/event
-$name-female-modern 's $movie/event
-The $noun-animal $person-ruler
-The $movie/person who $verb-transitive_ED me
-$name-male-modern $verb-transitive_S the $noun
-$name-full-modern Returns
-$name-modern $noun-animal
+$noun +world                                                # Waterworld
+$noun wars                                                  # Star Wars
+$noun-abstract at $place
+$noun-animal_S on a $noun-vehicle                           # Snakes in a Plane
+$noun-artifact-abstract street
+$noun-bodypart of the $movie/person
+$number-small $movie/event_S and a $movie/event             # Four Weddings and a Funeral
 $number-small $noun_S outside $place
-$name-modern and the $noun-geography-landform of $number-big $noun_S
+$number-small $adj-personality $movie/person_S              # Twelve Angry Men
+$place $movie/person club
+$verb-transitive $movie/entity_S like a $movie/person
+$verb-transitive club                                       # Fight Club
+$verb-transitive yourself
+4$artifact/adj-artifact $noun-geography-structure on the $noun-geography-landform
+A $artifact/adj-artifact place
+A $movie/genre about $movie/entity_S
+A $movie/person goes to $place
+A $movie/person is born
 A $noun-animal 's purpose
+A $noun-vehicle named $noun-artifact-abstract
+About $noun-abstract
+All about $name-female-modern                               # All About Eve
+All is $artifact/adj-artifact
+All the $artifact/adj-artifact $noun_S
+Along came a $noun-animal                                   # Along Came a Spider
+An unsuitable job for a $movie/person                       # An Unsuitable Job for a Woman
+Battle of the $noun_S
+Being $name-full-modern
+Citizen $name-surname-modern                                # Citizen Kane
+Don't $verb-transitive $place
+Don't $verb-transitive the $movie/person_S
+Get him to $tavern/base
+Gone with the $noun-geography-weather                       # Gone With the Wind
+Goodbye $name-honorific $name-surname-modern                # Goodbye Mr Chips
 Goodbye $name-modern $noun-animal
+How $artifact/adj-artifact is my $noun-geography-landform ?
+How the $movie/person $verb-transitive_S $movie/entity_S
+How to $verb-transitive your $movie/entity
+I, $movie/entity                                            # I, Robot
+It's a $adj-person $movie/entity
+It's a $adj-opinion life                                    # It's a Wonderful Life
+Leaving $place
+Mission: $artifact/adj-artifact                             # Mission: Impossible
+No $artifact/adj-artifact $movie/entity_S
+No $movie/person is a $noun-geography-landform
+No $noun-geography-landform for $adj-person $movie/person_S # No Country for Old Men
+Once upon a time in $place                                  # Once Upon a Time in Hollywood
+Ready $movie/person $number-small
+Robo- $movie/person                                         # Robocop
+Singin' in the $noun-geography-weather
+Some Like it $artifact/adj-artifact
+That $artifact/adj-artifact $movie/entity
+That $artifact/adj-artifact moment
+The $adj-person , the $adj-person and the $adj-person
+The $adj-person $movie/person_S Club
+The $artifact/adj-artifact $movie/person rises
+The $artifact/adj-artifact life of $movie/person_S
+The $movie/event planner                                    # The Wedding Planner
+The $movie/person always $verb-transitive_S the $noun
+The $movie/person who $verb-transitive_ED me
+The $movie/person with the $artifact/adj-artifact $noun-bodypart
+The $noun In Their $noun-bodypart_S
+The $noun-animal $person-ruler                              # The Lion King
+The $noun-animal of $movie/entity Street
+The $noun-animal_S are coming
+The $noun-artifact-abstract of the $movie/entity_S
+The $person-relation of the $movie/entity_S
+The $person-relative                                        # The Godfather
+The most $artifact/adj-artifact $movie/entity Ever
+The war between $movie/person_S and $movie/person_S
+The way of the $noun-animal
+There will be $movie/entity_S
+Those ain't $noun_S
+To $verb-transitive a $animal                               # To Kill a Mockingbird
+Very $artifact/adj-artifact things
+We bought a $noun-geography-structure
+We of the $noun-geography-landform
+We're going to be $adj-person
+We're no $movie/person_S
+We're the $movie/person
+What to $verb-transitive
+Where $noun-animal_S $verb-transitive
+Who $verb-transitive_S $movie/entity_S ?
+Who $verb-transitive_S the $movie/entity ?
+You're $adj-person
+You've got $noun_S                                          # You've Got Mail
