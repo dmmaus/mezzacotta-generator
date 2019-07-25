@@ -5,3 +5,4 @@ Each $time-holiday , the village $person-profession-medieval_S assemble for the 
 For the past @random3(1,300) years, venue of the $village/festival-qualifier $village/festival-time
 15$person_S>People from as far away as $village/base gather here on $time-holiday for the $village/festival-qualifier
 Along with $village/base , the village shares hosting of the $village/festival-qualifier $village/festival-time
+$time-holiday is when the village's $person-profession-medieval_S compete against those of $village/base in the 4$village/festival-qualifier

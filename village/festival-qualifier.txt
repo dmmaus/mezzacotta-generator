@@ -1,5 +1,6 @@
 @format ~
 $person-ruler 's
+$person-profession-medieval 's
 annual
 bardic
 biennial
