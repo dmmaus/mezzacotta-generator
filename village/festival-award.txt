@@ -1,26 +1,26 @@
-@format ~
-becomes the village $person-profession-medieval until the following year
-has their $noun $verb-transitive_ED by the village $person-profession-medieval
-$verb-transitive_S the worst performer's $noun
-is awarded $artifact/base
-is awarded a $village/festival-noun
-is banished from the village for a year and a day
-is carried by the crowd all the way to $village/base
-is charged with organising the next event
-is crowned $person-ruler for the day
-is declared the most $adj-person of them all
-is declared village leader for the next year
-is dunked in the local stream
-is exiled to the local $noun-geography-landform_S
-is forced to clean up after the festival
-is hailed as far away as $village/base
-is garlanded with $noun-plant-flower_S
-is gifted a future grave spot in the nearby $noun-geography-landform
-is given a lifetime supply of $village/festival-noun_S
-is given the bill by the organising committee
-is married to the village $person-profession-medieval 's $person-relative
-is paraded through the village in a $noun-vehicle-land
-is required to change their name to $name-modern
-is thrown in gaol for the night
-is tied to a $noun-animal and paraded along the village high street
-spends a night wandering the $noun-geography-landform_S
+@format ~|S
+becomes|become the village $person-profession-medieval|$person-profession-medieval_S until the following year
+has|have their $noun|$noun_S $verb-transitive_ED by the village $person-profession-medieval
+$verb-transitive_S|$verb-transitive the worst performer's $noun
+is|are awarded $artifact/base
+is|are awarded a $village/festival-noun
+is|are banished from the village for a year and a day
+is|are carried by the crowd all the way to $village/base
+is|are charged with organising the next event
+is|are crowned $person-ruler|$person-ruler_S for the day
+is|are declared the most $adj-person of them all
+is|are declared village leader|leaders for the next year
+is|are dunked in the local stream
+is|are exiled to the local $noun-geography-landform_S
+is|are forced to clean up after the festival
+is|are hailed as far away as $village/base
+is|are garlanded with $noun-plant-flower_S
+is|are gifted a future grave spot in the nearby $noun-geography-landform
+is|are given a lifetime supply of $village/festival-noun_S
+is|are given the bill by the organising committee
+is|are married to the village $person-profession-medieval 's $person-relative|$person-relative_S
+is|are paraded through the village in a $noun-vehicle-land
+is|are required to change their name to $name-modern
+is|are thrown in gaol for the night
+is|are tied to a $noun-animal and paraded along the village high street
+spends|spend a night wandering the $noun-geography-landform_S

@@ -2,7 +2,8 @@
 Each year, @random2(1,100)*5 $village/festival-noun_S are $village/festival-givento the $village/festival-recipient .
 The prize is a $village/festival-noun .
 The prize is a lifetime supply of $village/festival-noun_S .
-The wearer of the best costume $village/festival-award .
-The winner $village/festival-award .
-The worst performer $village/festival-award .
+The wearer of the best costume 1$village/festival-judge $village/festival-award .
+The winner 2$village/festival-judge $village/festival-award .
+The worst performer 2$village/festival-judge $village/festival-award .
 A random onlooker $village/festival-award .
+The best $number-small competitors 2$village/festival-judge $village/festival-award_S .

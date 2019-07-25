@@ -1,12 +1,14 @@
 @format ~
 $verb-transitive_ING
 $sport
+arranging
 badgering
 baiting
 baking
 balancing
 brewing
 burning
+burying
 carving
 carrying
 catching
@@ -22,18 +24,23 @@ dragging
 eating
 fighting
 flinging
+frying
 growing
 harvesting
+hatching
+hiding
 hunting
 hurling
 impersonating
 jellying
 jumping
 kicking
+knitting
 leaping
 lifting
 miming
 painting
+poetry
 punching
 queuing
 racing
@@ -42,7 +49,9 @@ re-enactment
 ringing
 rolling
 running
+screaming
 scrimmaging
+selling
 shouting
 shying
 smoking
@@ -57,4 +66,5 @@ tupping
 twirling
 upping
 washing
+whacking
 wrestling

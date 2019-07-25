@@ -8,6 +8,7 @@ autumn
 autumnal equinox
 day after $time-holiday
 day before $time-holiday
+Hallowe'en
 harvest
 harvest moon
 Ides of March

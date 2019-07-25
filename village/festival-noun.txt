@@ -5,6 +5,8 @@ $noun-animal pie|pies
 $noun-item|$noun-item_S
 $person|$person_S
 $person-relative|$person-relative_S
+$noun-instrument-musical|$noun-instrument_S
+$noun-geography-structure|$noun-geography-structure_S
 afternoon tea
 ale|kegs_of_ale
 bagpipe

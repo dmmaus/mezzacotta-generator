@@ -1,11 +1,14 @@
 @format ~
 $person-ruler 's
 $person-profession-medieval 's
+ancient
 annual
 bardic
 biennial
 druidic
 famous
+grand
+local
 lunar
 national
 original
@@ -13,6 +16,7 @@ region's
 Royal
 traditional
 unique
+world-renowned
 world's largest
 world's most prestigious
 world's oldest

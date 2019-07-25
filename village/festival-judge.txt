@@ -1,0 +1,7 @@
+@format ~
+(as selected by the town's $person-profession-medieval_S )
+(as judged by old Mrs $name-surname-modern )
+(as chosen by the onlookers)
+(as judged by the previous year's winner)
+, determined as who can $verb-transitive the most $noun_S ,
+, determined as who first has their $noun-bodypart $verb-transitive_ED ,
