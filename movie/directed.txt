@@ -1,6 +1,7 @@
 @format ~
 Directed by $movie/director
 Directed by $movie/director
+The stunning directorial debut of $name-full-modern
 Written and directed by $movie/director
 A 5$artifact/adj-artifact film by $movie/director
 A 5$movie/genre-adj film by $movie/director

@@ -31,7 +31,7 @@
 3$adverb grow|grows up with 
 3$adverb imitate|imitates 
 3$adverb interview|interviews 
-3$adverb uncover|uncovers hidden truths about themself|themselves with 
+3$adverb uncover|uncovers hidden truths about themselves|themself with
 are|is 3$adverb attacked by 
 are|is 3$adverb betrayed by 
 are|is 3$adverb betrothed to 

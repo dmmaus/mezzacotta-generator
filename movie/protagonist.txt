@@ -1,0 +1,9 @@
+@format ~
+$name-full-modern , the most $adj-person $movie/person from $place
+$name-full-modern , a 5$adj-person $movie/person from $place ,
+a 5$adj-person $movie/person from $place named $name-full-modern
+$name-full-modern , who $verb-transitive_S $movie/character_S ,
+$name-full-male-modern , a $movie/person who $verb-transitive_ED his $person-relation ,
+$name-full-female-modern , a $movie/person who $verb-transitive_ED her $person-relation ,
+$name-full-modern , a 2$adj-person $movie/person who $verb-transitive_ED a $noun ,
+a $movie/person known only as $name-full-modern

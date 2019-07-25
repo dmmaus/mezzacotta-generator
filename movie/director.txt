@@ -4,6 +4,7 @@ Adam Shankman
 Aki Kaursmaki
 Alan Parker
 Alex Proyas
+Alejandro G. Iñárritu
 Alexander Payne
 Alfonso Cuaron
 Ang Lee
@@ -12,6 +13,8 @@ Atom Egoyan
 Barry Sonnenfeld
 Baz Luhrmann
 Ben Stiller
+Bernardo Bertolucci
+Bobcat Goldthwait
 Brad Bird
 Brett Ratner
 Brian De Palma
@@ -29,6 +32,7 @@ Clare Denis
 Clint Eastwood
 Clive Barker
 Coen Brothers
+Damien Chazelle
 Danny Boyle
 Dario Argento
 Darren Aronofsky
@@ -39,6 +43,7 @@ David O. Russell
 Dennis Dugan
 Dennis Hopper
 Dominic Sena
+Don Coscarelli
 Duncan Jones
 Edgar Wright
 Eli Roth
@@ -75,6 +80,7 @@ Jason Reitman
 Jean-Pierre Jeunet
 Jim Jarmusch
 Joe Dante
+Joel Coen
 Joel Schumacher
 John Cameron Mitchell
 John Carpenter
@@ -85,15 +91,19 @@ John Sayles
 John Singleton
 John Waters
 John Woo
+Jon Favreau
 Jonathan Demme
 Jonathan Glazer
 Joss Whedon
 Katheryn Bigelow
+Kenneth Anger
 Kenneth Branagh
 Kevin Costner
 Kevin Smith
 Larry and Andy Wachowski
 Lars von Trier
+Les Blank
+Lindsay Anderson
 Luc Besson
 M. Night Shyamalan
 Martin Brest
@@ -104,17 +114,20 @@ Mel Brooks
 Mel Gibson
 Michael Apted
 Michael Bay
+Michael Cimino
 Michael Haneke
 Michael Mann
 Michael Moore
 Michael Powell
 Michael Winterbottom
+Michelangelo Antonioni
 Michel Gondry
 Mike Figgis
 Mike Judge
 Mike Leigh
 Mike Newall
 Mike Nichols
+Milos Forman
 Miranda July
 Neil Jordon
 Neil LaBute
@@ -137,6 +150,7 @@ Peter Jackson
 Peter Weir
 Philip Noyce
 Quentin Tarantino
+Ramin Bahrani
 Renny Harlin
 Richard Curtis
 Richard Donner
@@ -146,6 +160,7 @@ Ridley Scott
 Ringo Lam
 Rob Reiner
 Rob Zombie
+Robert Altman
 Robert Redford
 Robert Rodriguez
 Robert Zemeckis
@@ -160,7 +175,10 @@ Sally Potter
 Sam Mendes
 Sam Raimi
 Scott Hicks
+Sean Baker
 Sean Penn
+Sergei M. Eisenstein
+Shane Black
 Sofia Coppola
 Spike Jonze
 Spike Lee

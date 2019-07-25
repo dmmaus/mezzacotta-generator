@@ -13,3 +13,6 @@ a $movie/character $movie/verb-plot-transitive_S a $movie/character and $movie/v
 a $movie/character $movie/verb-plot-transitive_S $movie/multiple $movie/character_S , who $movie/verb-group 2$movie/setting
 a $movie/character $movie/verb-plot-transitive_S a $movie/character , who $movie/verb-plot-transitive_S $movie/multiple $movie/character_S 2$movie/setting
 $movie/multiple $movie/character_S $movie/verb-plot-transitive a $movie/character , who $movie/verb-plot-transitive_S a $movie/character 2$movie/setting
+$movie/protagonist $movie/verb-plot-transitive_S a $movie/character 5$movie/setting
+$movie/multiple $movie/character_S $movie/verb-plot-transitive $movie/protagonist 5$movie/setting
+$movie/protagonist and a $movie/character $movie/verb-group 3$movie/setting
