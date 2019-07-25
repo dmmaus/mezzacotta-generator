@@ -1,4 +1,4 @@
-@format ~
+@format ~|S
 # events that people can attend
 $noun-instrument-musical lesson
 $noun-instrument-musical recital
@@ -7,9 +7,9 @@ $noun auction
 $noun exhibition
 $noun sale
 $noun study
-$noun ceremony
+$noun ceremony|ceremonies
 $sport championship
-$sport match
+$sport match|matches
 $sport training session
 $noun-geography-structure demolition
 $noun-geography-structure opening
@@ -18,11 +18,11 @@ announcement
 baptism
 bar mitzvah
 birth
-birthday party
+birthday party|parties
 breakfast
-brunch
+brunch|brunches
 church service
-commitment ceremony
+commitment ceremony|ceremonies
 concert
 crime
 dinner
@@ -31,21 +31,21 @@ farewell
 fight
 focus group
 funeral
-graduation ceremony
+graduation ceremony|ceremonies
 interview
-lunch
+lunch|lunches
 luncheon
 meal
 meeting
 operation
 parade
-party
+party|parties
 performance
 play
 poetry reading
 prosecution
 protest
-rally
+rally|rallies
 recital
 rehearsal
 trial

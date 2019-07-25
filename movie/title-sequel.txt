@@ -6,6 +6,8 @@
 II
 III
 IV
+Vol. 2
+Vol. 3
 : $artifact/base
 : $noun $noun
 : $noun $noun-artifact-abstract
@@ -48,3 +50,6 @@ part 3
 : the $artifact/adj-artifact ones
 : $noun-artifact-abstract war
 : A $noun wars story
+: $noun $noun-geography-landform
+: $adj-person $movie/person_S $verb-transitive no $noun_S
+: Welcome to the $noun-geography-landform

@@ -80,3 +80,14 @@ A $artifact/adj-artifact place
 A $movie/person is born
 $name-surname-modern 's $number-small
 $name-surname-modern 's game
+$number-small $movie/event_S and a $movie/event
+$name-female-modern 's $movie/event
+The $noun-animal $person-ruler
+The $movie/person who $verb-transitive_ED me
+$name-male-modern $verb-transitive_S the $noun
+$name-full-modern Returns
+$name-modern $noun-animal
+$number-small $noun_S outside $place
+$name-modern and the $noun-geography-landform of $number-big $noun_S
+A $noun-animal 's purpose
+Goodbye $name-modern $noun-animal
