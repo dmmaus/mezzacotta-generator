@@ -229,14 +229,15 @@ class MezzaGenerator:
         plus = False
 
         for word in randomline.split():
-            # Grab the number at the start of the string (if any)
-            chance_substring = ''
-            while word[0].isdigit():
-                chance_substring += word[0]
-                word = word[1:]
 
             # Words starting with $ are expanded using the file of the corresponding name
             if '$' in word:
+                # Grab the number at the start of the string (if any)
+                chance_substring = ''
+                while word[0].isdigit():
+                    chance_substring += word[0]
+                    word = word[1:]
+
                 alt_text = ''
                 if '>' in word:
                     alt_text = word[word.find('>') + 1:]
