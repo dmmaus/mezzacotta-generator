@@ -2,7 +2,7 @@
 And featuring $movie/act
 And $movie/act as the $movie/person
 Featuring $movie/act
-Introducing $movie/act
+Introducing $name-full-modern
 Special appearance by $movie/act
 With $movie/act
 With a special cameo by $movie/act
