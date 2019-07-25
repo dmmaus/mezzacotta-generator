@@ -229,6 +229,12 @@ class MezzaGenerator:
         plus = False
 
         for word in randomline.split():
+            # Grab the number at the start of the string (if any)
+            chance_substring = ''
+            while word[0].isdigit():
+                chance_substring += word[0]
+                word = word[1:]
+
             # Words starting with $ are expanded using the file of the corresponding name
             if '$' in word:
                 alt_text = ''
@@ -238,17 +244,14 @@ class MezzaGenerator:
 
                 chance_roll = False
                 chance_failed = False
-                if word[0].isdigit():
-                    chance = int(word[0]) / 10.0
-                    wordspec = word[1:]
+                if chance_substring != '':
+                    chance = int(chance_substring) / float(10 ** len(chance_substring))
                     chance_roll = chance > random.random()
                     if not chance_roll:
                         chance_failed = True
-                else:
-                    wordspec = word
 
-                if word.startswith('$') or chance_roll:
-                    result += self.Expand(wordspec[1:], cap = cap and not plus)
+                if chance_substring == '' or chance_roll:
+                    result += self.Expand(word[1:], cap = cap and not plus)
 
                 if alt_text != '' and chance_failed:
                     result += alt_text + ' '
