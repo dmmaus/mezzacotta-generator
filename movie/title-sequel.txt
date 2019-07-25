@@ -16,6 +16,7 @@ IV
 : origins
 : rebooted
 : reborn
+: uprising
 : the $noun-artifact-abstract
 : the $person-relation
 : retribution
@@ -36,6 +37,8 @@ IV
 : the $movie/story continues
 : the quest for $noun-artifact-abstract
 : $movie/person_S in $noun-clothing_S
+: day of the $noun_S
+: day of the $movie/person_S
 part 2
 part 3
 , episode 2
@@ -43,3 +46,5 @@ part 3
 : $movie/title
 3D
 : the $artifact/adj-artifact ones
+: $noun-artifact-abstract war
+: A $noun wars story

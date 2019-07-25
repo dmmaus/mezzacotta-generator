@@ -1,4 +1,6 @@
+# Movie title formats based on a specific well known movie title. Snakes on a Plane is the poster-boy for this.
 @format ~
+$noun-animal_S on a $noun-vehicle
 We're the $movie/person
 Those ain't $noun_S
 You've got $noun_S
@@ -71,3 +73,10 @@ We're no $movie/person_S
 We're going to be $adj-person
 Where $noun-animal_S $verb-transitive
 Get him to $tavern/base
+Being $name-full-modern
+$movie/genre-adj stories to tell in $place
+Ready $movie/person $number-small
+A $artifact/adj-artifact place
+A $movie/person is born
+$name-surname-modern 's $number-small
+$name-surname-modern 's game

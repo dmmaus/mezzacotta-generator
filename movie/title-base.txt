@@ -57,7 +57,6 @@ The 2$adj-person $movie/person of $place
 $noun-abstract
 $noun $movie/story
 $movie/story of $noun_S
-$noun-animal_S on a $noun-vehicle
 $place $noun-abstract
 A 4$artifact/adj-artifact $movie/event in a 4$artifact/adj-artifact $noun-geography-landform
 The $artifact/adj-artifact $movie/event
@@ -94,3 +93,8 @@ A $movie/person $verb-transitive_S a $movie/entity
 The $person-ruler of $place
 $noun-artifact-abstract $person-ruler
 $noun-artifact-abstract comes to $place
+$name-full-modern
+The $verb-transitive_ING of $name-full-modern
+$name-full-male-modern and his $noun_S
+$name-full-female-modern and her $noun_S
+$name-modern 's $noun
