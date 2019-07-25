@@ -1,6 +1,2 @@
 @format ~
-Home of the $village/festival-qualifier $village/festival-time $village/festival-noun 9$village/festival-verbing $village/festival-festival . 3$village/festival-prize
-Every year on $time-holiday , the village hosts the $village/festival-qualifier $village/festival-noun 9$village/festival-verbing $village/festival-festival . 3$village/festival-prize
-Each $time-holiday , the village $person-profession-medieval_S assemble for the $village/festival-qualifier $village/festival-noun 9$village/festival-verbing $village/festival-festival . 3$village/festival-prize
-For the past @random3(1,300) years, venue of the $village/festival-qualifier $village/festival-time $village/festival-noun 9$village/festival-verbing $village/festival-festival . 3$village/festival-prize
-People from as far away as $village/base gather here on $time-holiday for the $village/festival-qualifier $village/festival-noun 9$village/festival-verbing $village/festival-festival . 3$village/festival-prize
+$village/festival-intro $village/festival-activity

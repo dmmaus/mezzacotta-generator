@@ -1,11 +1,14 @@
 @format ~
+$person-ruler 's
 annual
 bardic
 biennial
 druidic
 famous
 lunar
+national
 original
+region's
 Royal
 traditional
 unique
@@ -13,3 +16,4 @@ world's largest
 world's most prestigious
 world's oldest
 world's only
+world's richest
