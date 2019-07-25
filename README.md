@@ -100,7 +100,7 @@ There are also special @-commands that produce substituted text:
 
 ### Conditional substitution
 
-A dollar sign may be preceded by a digit (1-9). This indicates that the attached substitution string will only be included with probability (digit/10). The script generates a random number between 0 and 1, if it is greater than the probability, then the attached substitution is skipped. This is useful for additional words such as adjectives that you only want to include sometimes, allowing you to tune the frequency of inclusion.
+A dollar sign may be preceded by a string of one or more digits. This indicates that the attached substitution string will only be included with probability 0.<digit_string>. The script generates a random number between 0 and 1, if it is greater than the probability, then the attached substitution is skipped. This is useful for additional words such as adjectives that you only want to include sometimes, allowing you to tune the frequency of inclusion.
 
 If the substitution string is followed by a `>` character and alternate text, the text following the `>` is treated as an "else" string, and returned if the first substitution is not selected. For example:
 
