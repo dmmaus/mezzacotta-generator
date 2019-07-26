@@ -39,6 +39,10 @@ Rosalia
 Samhain
 Saturnalia
 Shrove Tuesday
+the first $time-day-of-week in $time-month
+the last $time-day-of-week in $time-month
+the $time-day-of-week after $time-holiday
+the $time-day-of-week before $time-holiday
 Twelfth Night
 Trinity Sunday
 Valentine's Day

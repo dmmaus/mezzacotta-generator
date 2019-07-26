@@ -1,0 +1,8 @@
+@format ~|S
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
