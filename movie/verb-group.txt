@@ -217,3 +217,6 @@ are 3$adverb sent to $place to $verb-transitive themselves
 3$adverb stalk the streets of $place-city armed with $noun-weapon_S to do the bidding of a $movie/person
 3$adverb try to make their way home from $place in time for a long-awaited $movie/event
 3$adverb learn they've entered the territory of the most $adj-person $noun-animal in all of $place
+3$adverb seek the assistance of a $movie/character to help solve the mystery of who $verb-transitive_ED their $noun_S
+3$adverb discover that a $movie/character $verb-transitive_ED their $person-relation_S
+3$adverb $verb-transitive the $movie/character who is $verb-transitive_ING their $noun_S

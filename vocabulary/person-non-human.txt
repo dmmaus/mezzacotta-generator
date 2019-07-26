@@ -11,6 +11,8 @@ droid
 ewok
 fairy|fairies
 genie
+god
+half-man, half- $noun-animal
 lich|liches
 simulacrum|simulacra
 mermaid

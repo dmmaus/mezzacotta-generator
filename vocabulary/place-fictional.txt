@@ -14,6 +14,7 @@ Cyberspace
 Dominaria
 Earthsea
 El Dorado
+Eldraine
 Elysian Fields
 Emerald City
 Gondor
@@ -23,6 +24,7 @@ Heaven
 Hell
 Hogwarts
 Hyperboria
+Icewind Dale
 Innistrad
 Ishtar
 Ixilan
@@ -30,6 +32,7 @@ J&ouml;tunheim
 Khemed
 Kaladesh
 Kamigawa
+Knowhere
 Lemuria
 Lilliput
 Limbo
@@ -54,6 +57,7 @@ San Theodoros
 Shangri-La
 Smallville
 Syldavia
+Tarkir
 T&eacute;kumel
 Tel'aran'rhiod
 The Dreamlands
@@ -62,6 +66,7 @@ The Garden of Eden
 The Shire
 The Underworld
 The Upside Down
+The Vale of Shadows
 The Westlands
 Theros
 Utopia

@@ -6,6 +6,7 @@ beholder
 cockatrice
 demon
 devil
+djinn
 dragon
 dryad
 ettin

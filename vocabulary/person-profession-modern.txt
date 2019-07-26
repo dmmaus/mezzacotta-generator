@@ -73,6 +73,7 @@ criminal
 curator
 dancer
 data analyst
+data scientist
 dentist
 dermatologist
 detective
@@ -258,6 +259,7 @@ travel agent
 truck driver
 TV personality|personalities
 tycoon
+user experience designer
 veterinarian
 waiter
 waitress|waitresses
