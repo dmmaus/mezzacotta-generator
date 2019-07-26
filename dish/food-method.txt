@@ -3,7 +3,7 @@ $number bean
 $number -cheese
 $number choices of
 $number -day aged
-$number-flavour
+$number -flavour
 $number -hour
 $number -layer
 $number -minute

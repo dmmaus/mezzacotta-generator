@@ -97,7 +97,7 @@
 <br class="clear" />
 
 <div class="marquee">
-<a href="/generate/movie/"><img src="./Graphics/marquee_cinematique.png" width="451" height="281" border="0" alt="Mezzacotta Cinematique"></a>
+<a href="/generate/movie/"><img src="./Graphics/marquee_cinematique.png" srcset="./Graphics/marquee_cinematique_2x.png 2x" width="460" height="280" border="0" alt="Mezzacotta Cinematique"></a>
 </div>
 
 <div class="main">
@@ -112,7 +112,7 @@ foreach ($lines as $line)
     if ($i != 0)
     {
         ?>
-        <div class="marquee"><img src="./Graphics/separator.png"></div>
+        <div class="marquee"><img src="./Graphics/separator.png" srcset="./Graphics/separator_2x.png 2x" width="584" height="28"></div>
         <?php
     }
     $parts = explode("~~", $line);
@@ -123,8 +123,7 @@ foreach ($lines as $line)
     $synopsis = trim($parts[4]);
 
     echo "<div class=\"title\">$title</div>\n";
-    echo "<div class=\"cast\">$cast</div>\n";
-    echo "<div class=\"cast\">$directed</div>\n";
+    echo "<div class=\"cast\">$cast<br>$directed</div>\n";
     echo "<div class=\"rating\">$rating</div>\n";
     echo "<div class=\"synopsis\">$synopsis</div>\n";
     
@@ -133,7 +132,7 @@ foreach ($lines as $line)
 ?>
 
 <div class="marquee">
-<a href="/generate/movie/"><img src="./Graphics/coming_soon.png" width="387" height="85" border="0" alt="Coming Soon"></a>
+<a href="/generate/movie/"><img src="./Graphics/coming_soon.png" srcset="./Graphics/coming_soon_2x.png 2x" width="388" height="86" border="0" alt="Coming Soon"></a>
 </div>
 
 <div class="epilogue">
