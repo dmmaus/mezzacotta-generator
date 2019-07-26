@@ -2,6 +2,7 @@
 @include noun-monster
 $noun-animal - $noun-animal hybrid
 alien
+android
 artificial intelligence
 construct
 corpse
@@ -9,12 +10,11 @@ cyborg
 dinosaur
 droid
 ewok
-fairy|fairies
 genie
 god
+gynoid
 half-man, half- $noun-animal
-lich|liches
+half-man, half- $noun-monster
 simulacrum|simulacra
-mermaid
 robot
 smurf

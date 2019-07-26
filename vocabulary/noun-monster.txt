@@ -1,40 +1,148 @@
 @format ~|S
-@include noun-humanoid
+@include noun-monster-demon
+@include noun-monster-devil
+@include noun-monster-dragon
+@include noun-monster-humanoid
+aarakocra
+aboleth
 angel
+ankheg
+azer
+banshee
 basilisk
+behir
 beholder
+black pudding
+blight
+bugbear
+bulette
+bullywug
+carrion crwaler
+centaur
+chimera|chimerae
+chuul
+cloaker
 cockatrice
-demon
+couatl
+crawling claw
+cyclops|cyclopes
+darkmantle
+death knight
+demilich|demiliches
 devil
-djinn
-dragon
+displacer beast
+djinni|djinn
+doppelganger
+dracolich|dracoliches
+drider
 dryad
+duergar
+efreeti|efreet
+elemental
+empyrean
+ettercap
 ettin
+flameskull
+flumph|flumphes
+fomorian
+galeb duhr
+gargoyle
+gelatinous cube
 ghost
+ghoul
+gibbering mouther
+|gith
 gnoll
+golem
+gorgon grell
+green slime
+grey ooze
+grick
+griffon
+grimlock
 gryphon
+hag
 harpy|harpies
+hell hound
+helmed horror
 hippogriff
-kobold
+homunculus|homunculi
+hook horror
+hydra
+illithid
+intellect devourer
+invisible stalker
+jackalwere
+kenku
 kraken
+kuo-toa|kuo-toa
+lamia
 lich|liches
+|lizardfolk
+lycanthrope
+magmin
+manticore
 medusa|medusae
+mephit
+|merfolk
 mermaid
 merman|mermen
+merrow
+mimic
+mind flayer
+minotaur
+modron
 mummy|mummies
+myconid
+naga
+neo-otyugh
+nightmare
+nothic
+ochre jelly|jellies
+ooze
+otyugh
+owlbear
 pegasus|pegasi
+peryton
+piercer
+purple worm
+quaggoth
+rakshasa
+remorhaz|remorhazes
+revenant
 roc
+roper
+rust monster
+|sahuagin
+salamander
 satyr
+scarecrow
+shadow
+shambling mound
+shield guardian
 skeleton
+slaad|slaadi
 spectre
+sphinx|sphinxes
 spirit
+sprite
+stirge
+tarrasque
+|thri-keen
+treant
 troglodyte
 troll
+umber hulk
 unicorn
 vampire
 wight
+will-o'-wisp
 wraith
 wurm
 wyrm
 wyvern
+xorn
+yeti
+|yuan-ti
+yugoloth
 zombie

@@ -8,7 +8,9 @@ goblin
 halfling
 hobbit
 hobgoblin
+kobold
 leprechaun
 nymph
 ogre
 orc
+pixie

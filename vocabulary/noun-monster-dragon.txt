@@ -1,0 +1,16 @@
+@format ~|S
+black dragon
+blue dragon
+brass dragon
+bronze dragon
+copper dragon
+dragon
+dragon turtle
+faerie dragon
+gold dragon
+green dragon
+pseudodragon
+red dragon
+shadow dragon
+silver dragon
+white dragon
