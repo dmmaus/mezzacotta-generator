@@ -32,7 +32,7 @@ $noun-vehicle maintainer
 $noun-weapon maker
 $noun-weapon master
 $noun-weapon wielder
-$object salesman|salesmen
+$noun-item salesman|salesmen
 $person|$person_S of the sea
 $sport champion
 $sport coach|coaches
