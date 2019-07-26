@@ -1,5 +1,5 @@
 @format ~|S
-@include person-profession-medieval
+# The movie version of person doesn't include the medieval professions.
 @include person-profession-modern
 @include person-non-profession
 @include person-non-human
