@@ -31,6 +31,7 @@ ditch
 don
 dorf
 dow
+dyke
 efract
 erary
 eter
@@ -88,6 +89,7 @@ port
 quay
 rigg
 rith
+scott
 sex
 shaw
 shire
