@@ -1,12 +1,12 @@
 # Movie title formats based on a specific well known movie title. Snakes on a Plane is the poster-boy for this.
 @format ~
 $adj-person
-$adj-person me
-$artifact/adj-artifact $noun-animal , $artifact/adj-artifact $noun-animal
-$movie/entity , $movie/entity and $movie/multiple $artifact/adj-artifact $noun-artifact_S
+$adj-person me                                              # Despicable Me
+$artifact/adj-artifact $noun-animal , $artifact/adj-artifact $noun-animal                       # Crouching Tiger, Hidden Dragon
+$movie/entity , $movie/entity and $number-small $artifact/adj-artifact $noun-artifact_S
 $movie/entity day
 $movie/event at $name-female-modern 's                      # Breakfast at Tiffany's
-$movie/genre-adj stories to tell in $place
+$movie/genre-adj stories to tell in $place                  # Scary stories to tell in the dark
 $movie/person academy
 $movie/person_S of the $artifact/adj-artifact $noun-artifact
 $name-female-modern 's $movie/event                         # Muriel's Wedding
@@ -16,8 +16,8 @@ $name-male-modern $verb-transitive_S the $noun
 $name-modern $noun-animal
 $name-modern and the $noun-geography-landform of $number-big $noun_S
 $name-modern of $place-real                                 # Lawrence of Arabia
-$name-surname-modern 's $number-small
-$name-surname-modern 's game
+$name-surname-modern 's $number-small                       # Ocean's 11
+$name-surname-modern 's game                                # Ender's Game
 $noun +world                                                # Waterworld
 $noun wars                                                  # Star Wars
 $noun-abstract at $place
@@ -25,7 +25,7 @@ $noun-animal_S on a $noun-vehicle                           # Snakes in a Plane
 $noun-artifact-abstract street
 $noun-bodypart of the $movie/person
 $number-small $movie/event_S and a $movie/event             # Four Weddings and a Funeral
-$number-small $noun_S outside $place
+$number-small $noun_S outside $place                        # 3 Billboards outside Ebbing (or whatever it is)
 $number-small $adj-personality $movie/person_S              # Twelve Angry Men
 $place $movie/person club
 $verb-transitive $movie/entity_S like a $movie/person
@@ -35,9 +35,9 @@ $verb-transitive yourself
 A $artifact/adj-artifact place
 A $movie/genre about $movie/entity_S
 A $movie/person goes to $place
-A $movie/person is born
-A $noun-animal 's purpose
-A $noun-vehicle named $noun-artifact-abstract
+A $movie/person is born                                     # A Star is Born
+A $noun-animal 's purpose                                   # A Dog's Purpose
+A $noun-vehicle named $noun-artifact-abstract               # A Streetcar Named Desire
 About $noun-abstract
 All about $name-female-modern                               # All About Eve
 All is $artifact/adj-artifact
@@ -45,21 +45,21 @@ All the $artifact/adj-artifact $noun_S
 Along came a $noun-animal                                   # Along Came a Spider
 An unsuitable job for a $movie/person                       # An Unsuitable Job for a Woman
 Battle of the $noun_S
-Being $name-full-modern
+Being $name-full-modern                                     # Being John Malkovich
 Citizen $name-surname-modern                                # Citizen Kane
 Don't $verb-transitive $place
 Don't $verb-transitive the $movie/person_S
-Get him to $tavern/base
+Get him to $tavern/base                                     # Get Him to the Greek
 Gone with the $noun-geography-weather                       # Gone With the Wind
 Goodbye $name-honorific $name-surname-modern                # Goodbye Mr Chips
 Goodbye $name-modern $noun-animal
-How $artifact/adj-artifact is my $noun-geography-landform ?
+How $artifact/adj-artifact is my $noun-geography-landform ? # How Green is my Valley?
 How the $movie/person $verb-transitive_S $movie/entity_S
-How to $verb-transitive your $movie/entity
+How to $verb-transitive your $movie/entity                  # How to Train Your Dragon
 I, $movie/entity                                            # I, Robot
 It's a $adj-person $movie/entity
 It's a $adj-opinion life                                    # It's a Wonderful Life
-Leaving $place
+Leaving $place                                              # Leaving Las Vegas
 Mission: $artifact/adj-artifact                             # Mission: Impossible
 No $artifact/adj-artifact $movie/entity_S
 No $movie/person is a $noun-geography-landform
@@ -77,7 +77,7 @@ The $artifact/adj-artifact $movie/person rises
 The $artifact/adj-artifact life of $movie/person_S
 The $movie/event planner                                    # The Wedding Planner
 The $movie/person always $verb-transitive_S the $noun
-The $movie/person who $verb-transitive_ED me
+The $movie/person who $verb-transitive_ED me                # The Spy Who Loved Me
 The $movie/person with the $artifact/adj-artifact $noun-bodypart
 The $noun In Their $noun-bodypart_S
 The $noun-animal $person-ruler                              # The Lion King
@@ -89,12 +89,12 @@ The $person-relative                                        # The Godfather
 The most $artifact/adj-artifact $movie/entity Ever
 The war between $movie/person_S and $movie/person_S
 The way of the $noun-animal
-There will be $movie/entity_S
+There will be $movie/entity_S                               # There Will Be Blood
 Those ain't $noun_S
-To $verb-transitive a $animal                               # To Kill a Mockingbird
+$verb-transitive a $noun-animal                             # To Kill a Mockingbird
 Very $artifact/adj-artifact things
-We bought a $noun-geography-structure
-We of the $noun-geography-landform
+We bought a $noun-geography-structure                       # We Bought a Zoo
+We of the $noun-geography-landform                          # We of the Never-Never
 We're going to be $adj-person
 We're no $movie/person_S
 We're the $movie/person
