@@ -76,7 +76,7 @@ Valhalla
 Wakanda
 Waterdeep|Waterdhavian|Waterdhavians
 Westeros|Westerosi|Westerosi
-Willy Wonka's Chocolate Factory
+Willy Wonka's Chocolate Factory|Factory_worker|Factory_workers
 Wonderland|Wonderlander|Wonderlanders
 Xanadu|Xanadian|Xanadians
 Zendikar|Zendikari|Zendikaris
