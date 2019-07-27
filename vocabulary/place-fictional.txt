@@ -16,7 +16,7 @@ Dominaria
 Earthsea|resident_of_Earthsea|residents_of_Earthsea
 El Dorado|Doradan|Doradans
 Eldraine|Eldrainean|Eldrainean
-Elysian Fields
+Elysian_Fields|Elysian|Elysians
 Emerald City|Cityite|Cityites
 Faer&ucirc;n|Faer&ucirc;nian|Faer&ucirc;nians
 Gondor|Gondorian|Gondorians
