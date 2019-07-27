@@ -1,195 +1,195 @@
 # real countries; fictional ones go in place-fictional.txt
-@format ~
-Afghanistan
+@format ~|N|NS
+Afghanistan|Afghan|Afghans
 Albania
 Algeria
 Andorra
 Angola
-Antigua and Barbuda
-Argentina
+Antigua_and_Barbuda|Antiguan|Antiguans
+Argentina|Argentinian|Argentinians
 Armenia
 Australia
 Austria
-Azerbaijan
-Bahamas
-Bahrain
-Bangladesh
-Barbados
-Belarus
-Belgium
-Belize
-Benin
-Bhutan
+Azerbaijan|Azerbaijani|Azerbaijanis
+Bahamas|Bahamian|Bahamians
+Bahrain|Bahraini|Bahrainis
+Bangladesh|Bangladeshi|Bangladeshis
+Barbados|Barbadian|Barbadians
+Belarus|Belarusian|Belarusians
+Belgium|Belgian|Belgians
+Belize|Belizean|Belizeans
+Benin|Beninese|Beninese
+Bhutan|Bhutanese|Bhutanese
 Bolivia
-Bosnia and Herzegovina
+Bosnia_and_Herzegovina|Bosnian|Bosnians
 Botswana
-Brazil
-Brunei Darussalam
+Brazil|Brazilian|Brazilians
+Brunei|Bruneian|Bruneians
 Bulgaria
-Burkina Faso
-Burundi
+Burkina_Faso|Burkinab&eacute;|Burkinab&eacute;
+Burundi|Burundian|Burundians
 Cambodia
-Cameroon
-Canada
-Cape Verde
-Central African Republic
-Chad
-Chile
-China
+Cameroon|Cameroonian|Cameroonians
+Canada|Canadian|Candaians
+Cape Verde|Verdean|Verdeans
+Central_African_Republic|Central_African|Central_Africans
+Chad|Chadian|Chadians
+Chile|Chilean|Chileans
+China|Chinese|Chinese
 Colombia
-Comoros
-Congo
-Democratic Republic of the Congo
+Comoros|Comoron|Comorons
+Congo|Congolese|Congolese
+Democratic_Republic_of_the_Congo|Congolese|Congolese
 Costa Rica
-C&ocirc;te d'Ivoire
+C&ocirc;te_d'Ivoire|Ivorian|Ivorians
 Croatia
 Cuba
-Cyprus
-Czech Republic
-Denmark
-Djibouti
+Cyprus|Cypriot|Cypriots
+Czechia|Czech|Czechs
+Denmark|Dane|Danes
+Djibouti|Djiboutian|Djiboutians
 Dominica
-Dominican Republic
-Ecuador
-Egypt
-El Salvador
+Dominican_Republic|Dominican|Dominicans
+Ecuador|Ecuadorian|Ecuadorians
+Egypt|Egyptian|Egyptians
+El_Salvador|Salvadoran|Salvadorans
 Equatorial Guinea
 Eritrea
 Estonia
 Ethiopia
-Fiji
-Finland
-France
-Gabon
+Fiji|Fijian|Fijians
+Finland|Finn|Finns
+France|Frenchman|Frenchmen
+Gabon|Gabonese|Gabonese
 Gambia
 Georgia
-Germany
-Ghana
-Greece
-Grenada
+Germany|German|Germans
+Ghana|Ghanaian|Ghanaians
+Greece|Greek|Greeks
+Grenada|Grenadian|Grenadians
 Guatemala
 Guinea
-Guinea-Bissau
-Guyana
-Haiti
-Honduras
-Hungary
-Iceland
+Guinea-Bissau|Bissau-Guinean|Bissau-Guineans
+Guyana|Guyanese|Guyanese
+Haiti|Haitian|Haitians
+Honduras|Honduran|Hondurans
+Hungary|Hungarian|Hungarians
+Iceland|Icelander|Icelanders
 India
 Indonesia
-Iran
-Iraq
-Ireland
-Israel
-Italy
+Iran|Iranian|Iranians
+Iraq|Iraqi|Iraqis
+Ireland|Irishman|Irishmen
+Israel|Israeli|Israelis
+Italy|Italian|Italians
 Jamaica
-Japan
-Jordan
-Kazakhstan
+Japan|Japanese|Japanese
+Jordan|Jordanian|Jordanians
+Kazakhstan|Kazakhstani|Kazakhstanis
 Kenya
-Kiribati
+Kiribati|IiKiribati|I-Kiribati
 North Korea
 South Korea
-Kuwait
-Kyrgyzstan
-Laos
+Kuwait|Kuwaiti|Kuwaitis
+Kyrgyzstan|Kyrgyzstani|Kyrgyzstanis
+Laos|Laotian|Laotians
 Latvia
-Lebanon
-Lesotho
+Lebanon|Lebanese|Lebanese
+Lesotho|Mosotho|Basotho
 Liberia
 Libya
-Liechtenstein
+Liechtenstein|Liechtensteiner|Liechtensteiners
 Lithuania
-Luxembourg
-The former Yugoslav Republic of Macedonia
-Madagascar
-Malawi
+Luxembourg|Luxembourger|Luxembourgers
+Madagascar|Malagasy|Malagasy
+Malawi|Malawian|Malawians
 Malaysia
-Maldives
-Mali
-Malta
-Marshall Islands
+Maldives|Maldivian|Maldivian
+Mali|Malian|Malians
+Malta|Maltese|Maltese
+Marshall Islands|Islander|Islanders
 Mauritania
-Mauritius
-Mexico
+Mauritius|Mauritian|Mauritians
+Mexico|Mexican|Mexicans
 Micronesia
 Moldova
-Monaco
+Monaco|Monegasque|Monegasque
 Mongolia
-Montenegro
-Morocco
-Mozambique
-Myanmar
+Montenegro|Montenegrin|Montenegrins
+Morocco|Moroccan|Moroccans
+Mozambique|Mozambican|Mozambicans
+Myanmar|Burmese|Burmese
 Namibia
-Nauru
-Nepal
-Netherlands
-New Zealand
+Nauru|Nauruan|Nauruans
+Nepal|Nepali|Nepali
+Netherlands|Dutchman|Dutchmen
+New Zealand|Zealander|Zealanders
 Nicaragua
-Niger
+Niger|Nigerien|Nigeriens
 Nigeria
-Norway
-Oman
-Pakistan
-Palau
-Panama
+North Macedonia
+Norway|Norwegian|Norwegians
+Oman|Omani|Omanis
+Pakistan|Pakistani|Pakistanis
+Palau|Palauan|Palauans
+Panama|Panamanian|Panamanians
 Papua New Guinea
-Paraguay
-Peru
-Philippines
-Poland
-Portugal
-Qatar
+Paraguay|Paraguayan|Paraguayans
+Peru|Peruvian|Peruvians
+Philippines|Filipino|Filipinos
+Poland|Pole|Poles
+Portugal|Portuguese|Portuguese
+Qatar|Qatari|Qataris
 Romania
-Russian Federation
+Russia
 Rwanda
-Saint Kitts and Nevis
+Saint_Kitts_and_Nevis|Kittitian|Kittitians
 Saint Lucia
-Saint Vincent and the Grenadines
+Saint_Vincent_and_the_Grenadines|Saint_Vincentian|Saint_Vincentians
 Samoa
-San Marino
-Sao Tome and Principe
+San_Marino|Sammarinese|Sammarinese
+S&atilde;o_Tom&eacute;_and_Pr&iacute;ncipe|S&atilde;o_Tom&eacute;an|S&atilde;o_Tom&eacute;ans
 Saudi Arabia
-Senegal
+Senegal|Senegalese|Senegalese
 Serbia
-Seychelles
-Sierra Leone
-Singapore
+Seychelles|Seychellois|Seychelloises
+Sierra Leone|Leonean|Leoneans
+Singapore|Singaporean|Singaporeans
 Slovakia
 Slovenia
-Solomon Islands
+Solomon Islands|Islander|Islanders
 Somalia
 South Africa
-South Sudan
-Spain
+South Sudan|Sudanese|Sudanese
+Spain|Spaniard|Spaniards
 Sri Lanka
-Sudan
-Suriname
-Swaziland
-Sweden
-Switzerland
+Sudan|Sudanese|Sudanese
+Suriname|Surinamer|Surinamers
+Swaziland|Swazi|Swazis
+Sweden|Swede|Swedes
+Switzerland|Swiss|Swiss
 Syria
-Tajikistan
+Tajikistan|Tajikistani|Tajikistanis
 Tanzania
-Thailand
-Timor-Leste
-Togo
+Thailand|Thai|Thais
+Timor-Leste|Timorese|Timorese
+Togo|Togolese|Togolese
 Tonga
-Trinidad and Tobago
+Trinidad_and_Tobago|Trinidadian|Trinidadians
 Tunisia
-Turkey
-Turkmenistan
-Tuvalu
+Turkey|Turk|Turks
+Turkmenistan|Turkmen|Turkmens
+Tuvalu|Tuvaluan|Tuvaluans
 Uganda
-Ukraine
-United Arab Emirates
-United Kingdom
-United States
-Uruguay
-Uzbekistan
-Vanuatu
+Ukraine|Ukrainian|Ukrainians
+United_Arab_Emirates|Emirian|Emirians
+United_Kingdom|Briton|Britons
+United_States|American|Americans
+Uruguay|Uruguayan|Uruguayans
+Uzbekistan|Uzbekistani|Uzbekistanis
+Vanuatu|Ni-Vanuatu|Ni-Vanuatu
 Venezuela
-Vietnam
-Yemen
+Vietnam|Vietnamese|Vietnamese
+Yemen|Yemeni|Yemenis
 Zambia
-Zimbabwe
+Zimbabwe|Zimbabwean|Zimbabweans

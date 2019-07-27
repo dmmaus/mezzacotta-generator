@@ -1,99 +1,98 @@
 # real cities; fictional ones go in place-fictional.txt
-@format ~
-Adelaide
-Albuquerque
-Alexandria
-Amsterdam
+@format ~|N|NS
+Adelaide|Adelaidean|Adelaideans
+Albuquerque|Burque&ntilde;o|Burque&ntilde;os
+Alexandria|Alexandrine|Alexandrines
+Amsterdam|Amsterdammer|Amsterdammers
 Ankara
-Athens
-Auckland
-Baghdad
-Bangalore
-Bangkok
-Barcelona
-Beijing
-Beirut
-Berlin
-Boston
-Brussels
-Budapest
-Buenos Aires
-Cairo
-Cape Town
-Cardiff
+Athens|Athenian|Athenians
+Auckland|Aucklander|Aucklanders
+Baghdad|Baghdadi|Baghdadis
+Bangalore|Bangalorean|Bangaloreans
+Bangkok|Bangkokian|Bangkokians
+Barcelona|Barcelonian|Barcelonians
+Beijing|Beijinger|Beijingers
+Beirut|Beiruti|Beirutis
+Berlin|Berliner|Berliners
+Boston|Bostonian|Bostonians
+Brussels|Bruxellois|Bruxelloises
+Budapest|Budapester|Budapesters
+Buenos_Aires|Porte&ntilde;o|Porte&ntilde;os
+Cairo|Cairene|Cairenes
+Cape_Town|Capetonian|Capetonians
+Cardiff|Cardiffian|Cardiffians
 Casablanca
-Chicago
-Copenhagen
-Dallas
-Dubai
-Dublin
-Edinburgh
-Florence
-Frankfurt
-Jakarta
-Jerusalem
-Johannesburg
-Hanoi
+Chicago|Chicagoan|Chicagoans
+Copenhagen|Copenhagener|Copenhageners
+Dallas|Dallasite|Dallasites
+Dubai|Dubaite|Dubaites
+Dublin|Dubliner|Dubliners
+Edinburgh|Edinburger|Edinburgers
+Florence|Florentine|Florentines
+Frankfurt|Frankfurter|Frankfurters
+Hanoi|Hanoian|Hanoians
 Havana
-Helsinki
-Ho Chi Min City
-Honolulu
-Houston
-Istanbul
+Helsinki|Helsinkian|Helsinkians
+Ho_Chi_Min_City|Saigoner|Saigoners
+Honolulu|Honolulan|Honolulans
+Houston|Houstonian|Houstonians
+Istanbul|Istanbulite|Istanbulites
 Jakarta
-Karachi
-Kathmandu
-Kiev
-Kuala Lumpur
-Kyoto
-Lagos
-Las Vegas
-Lima
-Lisbon
-London
-Los Angeles
-Madrid
-Manila
-Melbourne
-Mexico City
-Miami
-Milan
-Minsk
-Monaco
-Monte Carlo
-Montreal
-Moscow
-Mumbai
-Nairobi
-New Delhi
-New Orleans
-New York
+Jerusalem|Jerusalemite|Jerusalemites
+Johannesburg|Johannesburger|Johannesburgers
+Karachi|Karachiite|Karachiites
+Kathmandu|Kathmanduite|Kathmanduites
+Kiev|Kievan|Kievans
+Kuala Lumpur|Lumpurite|Lumpurites
+Kyoto|Kyotoite|Kyotoites
+Lagos|Lagosian|Lagosians
+Las Vegas|Vegan|Vegans
+Lima|Lime&ntilde;o|Lime&ntilde;os
+Lisbon|Lisboeta|Lisboetas
+London|Londoner|Londoners
+Los_Angeles|Angeleno|Angelenos
+Madrid|Madrile&ntilde;o|Madrile&ntilde;os
+Manila|Manile&ntilde;o|Manile&ntilde;os
+Melbourne|Melburnian|Melburnians
+Mexico_City|Capitalino|Capitalinos
+Miami|Miamian|Miamians
+Milan|Milanite|Milanites
+Minsk|Minskite|Minskites
+Monaco|Monegasque|Monegasque
+Monte Carlo|Carloan|Carloans
+Montreal|Montrealer|Montrealers
+Moscow|Muscovite|Muscovites
+Mumbai|Mumbaikar|Mumbaikars
+Nairobi|Nairobian|Nairobians
+New Delhi|Delhian|Delhians
+New Orleans|Orleanian|Orleanians
+New York|Yorker|Yorkers
 Osaka
-Oslo
-Paris
-Pittsburgh
-Prague
-Rio de Janeiro
-Rome
-Saint Petersburg
-San Francisco
-Santiago
-Sao Paolo
-Seattle
-Seoul
-Shanghai
-Singapore
-Stockholm
-Sydney
-Tehran
-Tel Aviv
-Tokyo
-Toronto
-Vatican City
-Venice
+Oslo|Oslovian|Oslovians
+Paris|Parisian|Parisians
+Pittsburgh|Pittsburgher|Pittsburghers
+Prague|Praguer|Praguers
+Rio_de_Janeiro|Carioca|Cariocas
+Rome|Roman|Romans
+Saint Petersburg|Petersburgian|Petersburgians
+San Francisco|Franciscan|Franciscans
+Santiago|Santiagan|Santiagans
+Sao_Paolo|Paulistano|Paulistanos
+Seattle|Seattleite|Seattleites
+Seoul|Seoulite|Seoulites
+Shanghai|Shanghaine|Shanghaines
+Singapore|Singaporean|Singaporeans
+Stockholm|Stockholmer|Stockholmers
+Sydney|Sydneysider|Sydneysiders
+Tehran|Tehrani|Tehranis
+Tel Aviv|Avivian|Avivians
+Tokyo|Tokyoite|Tokyoites
+Toronto|Torontonian|Torontonians
+Vatican_City|Vaticanite|Vaticanites
+Venice|Venetian|Venetians
 Wagga Wagga
-Warsaw
-Washington DC
-York
-Zagreb
-Zurich
+Warsaw|Varsovian|Varsovians
+Washington_D.C.|Washingtonian|Washingtonians
+York|Yorker|Yorkers
+Zagreb|Zagreber|Zagrebers
+Zurich|Zuricher|Zurichers

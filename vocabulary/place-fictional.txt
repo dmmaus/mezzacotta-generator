@@ -1,80 +1,82 @@
 # fictional and mythological places
-@format ~
+@format ~|N|NS
 Alara
-Albion
-&Aacute;lfheim
-Asgard
-Atlantis
-Avalon
-Azkaban
-Barsoom
+Albion|Albionite|Albionites
+&Aacute;lfheim|&Aacute;lfheimer|&Aacute;lfheimers
+Asgard|Asgardian|Asgardians
+Atlantis|Atlantean|Atlanteans
+Avalon|Avalonian|Avalonian
+Azkaban|Prisoner_of_Azkaban|Prisoners_of_Azkaban
+Barsoom|Barsoomian|Barsoomians
 Borduria
-Camelot
-Cyberspace
+Brobdingnag|Brobdingnagean|Brobdingnageans
+Camelot|Camelotite|Camelotites
+Cyberspace|denizen_of_Cyberspace|denizens_of_Cyberspace
 Dominaria
-Earthsea
-El Dorado
-Eldraine
+Earthsea|resident_of_Earthsea|residents_of_Earthsea
+El Dorado|Doradan|Doradans
+Eldraine|Eldrainean|Eldrainean
 Elysian Fields
-Emerald City
-Gondor
-Gotham City
-Hades
-Heaven
-Hell
-Hogwarts
-Hyperboria
-Icewind Dale
-Innistrad
-Ishtar
-Ixilan
-J&ouml;tunheim
-Khemed
-Kaladesh
+Emerald City|Cityite|Cityites
+Faer&ucirc;n|Faer&ucirc;nian|Faer&ucirc;nians
+Gondor|Gondorian|Gondorians
+Gotham_City|Gothamite|Gothamites
+Hades|Hadean|Hadeans
+Heaven|denizen_of_Heaven|denizens_of_Heaven
+Hell|denizen_of_Hell|denizens_of_Hell
+Hogwarts|Hogwartsian|Hogwartsians
+Hyperborea
+Icewind Dale|Daler|Dalers
+Innistrad|Innistradian|Innistradians
+Ishtar|Ishatri|Ishatris
+Ixilan|Ixilani|Ixilanis
+J&ouml;tunheim|J&ouml;tunheimer|J&ouml;tunheimers
+Khemed|Khemedi|Khemedis
+Kaladesh|Kaladeshi|Kaladeshis
 Kamigawa
-Knowhere
+Knowhere|Knowherean|Knowhereans
 Lemuria
-Lilliput
-Limbo
-Lorwyn
-Metropolis
-Middle-earth
-Midgard
-Mirrodin
-Mount Olympus
-Mumuland
+Lilliput|Lilliputian|Lilliputians
+Limbo|denizen_of_Limbo|denizens_of_Limbo
+Lorwyn|Lorwynner|Lorwynner
+Metropolis|Metropoliser|Metropolisers
+Middle-earth|Middle-earther|Middle-earthers
+Midgard|Midgardian|Midgardians
+Mirrodin|Mirran|Mirrans
+Mount_Olympus|Olympian|Olympians
+Mumuland|Mumulander|Mumulanders
 Narnia
-Neverland
-Neverwinter
-Niflheim
-Oz
-Pellucidar
-Purgatory
-R'lyeh
+Neverland|Neverlander|Neverlanders
+Neverwinter|Neverwinterite|Neverwinterites
+Niflheim|Niflheimer|Niflheimers
+Oz|Ozite|Ozites
+Pellucidar|Pellucidarian|Pellucidarians
+Purgatory|denizen_of_Purgatory|denizens_of_Purgatory
+R'lyeh|denizen_of_R'lyeh|denizens_of_R'lyeh
 Ravnica
 Ruritania
-San Theodoros
-Shangri-La
-Smallville
+San Theodoros|Theodorean|Theodoreans
+Shangri-La|resident_of_Shangri-La|residents_of_Shangri-La
+Smallville|Smallviller|Smallvillers
 Syldavia
-Tarkir
-T&eacute;kumel
-Tel'aran'rhiod
-The Dreamlands
-The Forgotten Realms
-The Garden of Eden
-The Shire
-The Underworld
-The Upside Down
-The Vale of Shadows
-The Westlands
-Theros
+Tarkir|Tarkiri|Tarkiris
+T&eacute;kumel|T&eacute;kumelite|T&eacute;kumelites
+Tel'aran'rhiod|Tel'aran'rhioder|Tel'aran'rhioders
+The_Dreamlands|Dreamlander|Dreamlanders
+The_Forgotten_Realms|Faer&ucirc;nian|Faer&ucirc;nians
+The_Garden_of_Eden|dweller_of_The_Garden_of_Eden|dwellers_of_The_Garden_of_Eden
+The_Shire|resident_of_The_Shire|residents_of_The_Shire
+The_Underworld|Underworlder|Underworlders
+The_Upside_Down|denizen_of_The_Upside_Down|denizens_of_The_Upside_Down
+The_Vale_of_Shadows|denizen_of_The_Vale_of_Shadows|denizens_of_The_Vale_of_Shadows
+The_Westlands|Westlander|Westlanders
+Theros|Therosian|Therosians
 Utopia
 Valhalla
 Wakanda
-Waterdeep
-Westeros
+Waterdeep|Waterdhavian|Waterdhavians
+Westeros|Westerosi|Westerosi
 Willy Wonka's Chocolate Factory
-Wonderland
-Xanadu
-Zendikar
+Wonderland|Wonderlander|Wonderlanders
+Xanadu|Xanadian|Xanadians
+Zendikar|Zendikari|Zendikaris

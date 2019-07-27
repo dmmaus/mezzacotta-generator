@@ -1,109 +1,114 @@
 # real "proper noun" places that are not countries or cities; may be historical
-@format ~
+@format ~|N|NS
 Abyssinia
 Africa
 Akkadia
 Antarctica
 America
-Ancient Egypt
-Ancient Greece
-Ancient Rome
+Ancient Egypt|Egyptian|Egyptians
+Ancient Greece|Greek|Greeks
+Ancient Rome|Roman|Romans
 Arabia
-Aragon
+Aragon|Aragonian|Aragonians
 Asia
 Assyria
-Austria-Hungary
-Babylon
-Benelux
+Austria-Hungary|Austria-Hungarian|Austria-Hungarians
+Babylon|Babylonian|Babylonians
+Benelux|Beneluxian|Beneluxians
 Biafra
 Bohemia
-Brittany
-Burma
+Brittany|Breton|Bretons
+Burma|Burmese|Burmese
 California
-Capri
-Ceylon
+Capri|Capreso|Capresi
+Ceylon|Ceylonese|Ceylonese
 Confederate States of America
-Corfu
+Corfu|Corfiote|Corfiotes
 Corsica
-Crete
+Crete|Cretan|Cretans
 Czechoslovakia
 Dalmatia
-Disneyland
-England
-Europe
-Florida
-French Indochina
-Greenland
-Gondwanaland
-Hawaii
+Disneyland|Disneylander|Disneylanders
+Earth|Earthling|Earthlings
+England|Englishman|Englishmen
+Europe|European|Europeans
+Florida|Floridian|Floridians
+French Indochina|Indochinese|Indochinese
+Greenland|Greenlander|Greenlanders
+Gondwanaland|Gondwanalander|Gondwanalanders
+Hawaii|Hawaii_Islander|Hawaii_Islanders
 Iberia
-Jupiter
-Macchu Pichu
+Jupiter|Jovian|Jovians
+Macchu_Pichu|Inca|Incas
 Manchuria
-Mars
+Mars|Martian|Martians
+Mercury|Mercurian|Mercurians
 Mesopotamia
 Moldavia
-Nazi Germany
+Nazi Germany|German|Germans
+Neptune|Neptunian|Neptunians
 North America
-Northern Ireland
+Northern Ireland|Irishman|Irishmen
 Oceania
-Outer Space
+Outer_Space|Alien|Aliens
 Parthia
+Pluto|Plutonian|Plutonians
 Prussia
 Rhodesia
-Santorini
+Santorini|Santorinian|Santorinians
 Sardinia
-Scotland
-Sherwood Forest
-Siam
-Sicily
+Saturn|Saturnian|Saturnians
+Scotland|Scot|Scots
+Sherwood Forest|Forester|Foresters
+Siam|Siamese|Siamese
+Sicily|Sicilian|Sicilians
 South America
 South-East Asia
 Sparta
-Stonehenge
+Stonehenge|Druid|Druids
 Sumeria
-Texas
-The Alps
-The Amazon Jungle
-The Andes
-The Antarctic
-The Arctic
-The Atlantic Ocean
-The Balkans
-The Belgian Congo
-The Black Forest
-The Caribbean
-The French Riviera
-The Galapagos
-The Great Barrier Reef
-The Great Lakes
-The Himalayas
-The Holy Roman Empire
-The Indian Ocean
-The Isle of Mann
-The Isle of Skye
-The Middle East
-The Moon
-The Ottoman Empire
-The Pacific Ocean
-The Roman Empire
-The Sahara Desert
-The Sun
-The U.S.S.R.
-Thrace
-Tibet
-Tikal
+Texas|Texan|Texans
+The_Alps|Alpiner|Alpiners
+The_Amazon_Jungle|Amazonian|Amazonians
+The_Andes|Andean|Andeans
+The_Antarctic|Antarctican|Antarcticans
+The_Arctic|Arctican|Arcticans
+The_Atlantic_Ocean|Atlantean|Atlanteans
+The_Balkans|Balkan|Balkans
+The_Belgian_Congo|Belgian_Congolese|Belgian_Congolese
+The_Black_Forest|Black_Forester|Black_Foresters
+The_Caribbean|Carib|Caribs
+The_French_Riviera|French_Rivieran|French_Rivierans
+The_Gal&aacute;pagos|Gal&aacute;pagon|Gal&aacute;pagons
+The_Great_Barrier_Reef|Great_Barrier_Reefer|Great_Barrier_Reefers
+The_Great_Lakes|Great_Lakean|Great_Lakeans
+The_Himalayas|Himalayan|Himalayans
+The_Holy_Roman_Empire|Holy_Roman|Holy_Romans
+The_Indian_Ocean|Indian_Oceaner|Indian_Oceaners
+The_Isle_of_Man|Manx|Manx
+The_Isle_of_Skye
+The_Middle_East|Middle_Eastener|Middle_Easteners
+The_Moon|Selenian|Selenians
+The_Ottoman_Empire|Ottoman|Ottomans
+The_Pacific_Ocean|Pacific_Oceaner|Pacific_Oceaners
+The_Roman_Empire|Roman|Romans
+The_Sahara_Desert|Saharan|Saharans
+The_Sun|Solarian|Solarians
+The_U.S.S.R.|Soviet|Soviets
+Thrace|Thracian|Thracians
+Tibet|Tibetan|Tibetans
+Tikal|Mayan|Mayans
 Transylvania
-Troy
-Uranus
-Van Dieman's Land
-Venus
-Vichy France
-Wales
+Troy|Trojan|Trojans
+Uranus|Uranian|Uranians
+Van_Dieman's_Land|Vandemonian|Vandemonians
+Venus|Venerean|Venereans
+Vichy France|Frenchman|Frenchmen
+Wales|Welshman|Welshmen
 Wallachia
-Yellowstone National Park
-Yosemite
+Yellowstone_National_Park|Yellowstoner|Yellowstoners
+Yosemite|Yosemitan|Yosemitans
 Yugoslavia
-Zaire
-Zanzibar
-Zululand
+Zaire|Zairean|Zaireans
+Zanzibar|Zanzibari|Zanzibaris
+Zululand|Zulu|Zulus
