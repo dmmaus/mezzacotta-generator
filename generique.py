@@ -153,7 +153,11 @@ class Vocab:
                     for word in words:
                         if '|' in word:
                             parts = word.split('|')
-                            result += parts[inflection_idx] + ' '
+                            try:
+                                result += parts[inflection_idx] + ' '
+                            except IndexError:
+                                print "[ERROR: NOT ENOUGH INFLECTIONS. FILE: " + self.base_spec + ": " + word + "]"
+                                sys.exit()
 
                         # @recentyear command
                         elif word.startswith('@recentyear'):
