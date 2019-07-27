@@ -14,6 +14,7 @@ dove
 drake
 duck
 eagle
+emu
 falcon
 finch|finches
 flamingo
@@ -23,8 +24,9 @@ hawk
 hen
 heron
 hummingbird
-ibis
+ibis|ibises
 kingfisher
+kookaburra
 lark
 macaw
 magpie

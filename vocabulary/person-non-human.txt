@@ -1,5 +1,6 @@
 @format ~|S
-@include noun-monster
+$noun-monster-humanoid
+$noun-monster
 $noun-animal - $noun-animal hybrid
 alien
 android
