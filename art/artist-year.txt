@@ -1,0 +1,49 @@
+@format ~
+$place-country @random3(1,8)+1400 - @random3(1,8)+1450
+$place-country @random3(1,8)+1425 - @random3(1,8)+1475
+$place-country @random3(1,8)+1450 - @random3(1,8)+1500
+$place-country @random3(1,8)+1475 - @random3(1,8)+1525
+$place-country @random3(1,8)+1500 - @random3(1,8)+1550
+$place-country @random3(1,8)+1525 - @random3(1,8)+1575
+$place-country @random3(1,8)+1550 - @random3(1,8)+1600
+$place-country @random3(1,8)+1575 - @random3(1,8)+1625
+$place-country @random3(1,8)+1600 - @random3(1,8)+1650
+$place-country @random3(1,8)+1625 - @random3(1,8)+1675
+$place-country @random3(1,8)+1650 - @random3(1,8)+1700
+$place-country @random3(1,8)+1675 - @random3(1,8)+1725
+$place-country @random3(1,8)+1700 - @random3(1,8)+1750
+$place-country @random3(1,8)+1725 - @random3(1,8)+1775
+$place-country @random3(1,8)+1750 - @random3(1,8)+1800
+$place-country @random3(1,8)+1775 - @random3(1,8)+1825
+$place-country @random3(1,8)+1800 - @random3(1,8)+1850
+$place-country @random3(1,8)+1825 - @random3(1,8)+1875
+$place-country @random3(1,8)+1850 - @random3(1,8)+1900
+$place-country @random3(1,8)+1875 - @random3(1,8)+1925
+$place-country @random3(1,8)+1900 - @random3(1,8)+1950
+$place-country @random3(1,8)+1925 - @random3(1,8)+1975
+$place-country @random3(1,8)+1930 - present
+$place-country @random3(1,8)+1940 - present
+$place-country @random3(1,8)+1950 - present
+$place-country @random3(1,8)+1975 - present
+born $place-city @random3(1,8)+1400 , died $place-city @random3(1,8)+1450
+born $place-city @random3(1,8)+1425 , died $place-city @random3(1,8)+1475
+born $place-city @random3(1,8)+1450 , died $place-city @random3(1,8)+1500
+born $place-city @random3(1,8)+1475 , died $place-city @random3(1,8)+1525
+born $place-city @random3(1,8)+1500 , died $place-city @random3(1,8)+1550
+born $place-city @random3(1,8)+1525 , died $place-city @random3(1,8)+1575
+born $place-city @random3(1,8)+1550 , died $place-city @random3(1,8)+1600
+born $place-city @random3(1,8)+1575 , died $place-city @random3(1,8)+1625
+born $place-city @random3(1,8)+1600 , died $place-city @random3(1,8)+1650
+born $place-city @random3(1,8)+1625 , died $place-city @random3(1,8)+1675
+born $place-city @random3(1,8)+1650 , died $place-city @random3(1,8)+1700
+born $place-city @random3(1,8)+1675 , died $place-city @random3(1,8)+1725
+born $place-city @random3(1,8)+1700 , died $place-city @random3(1,8)+1750
+born $place-city @random3(1,8)+1725 , died $place-city @random3(1,8)+1775
+born $place-city @random3(1,8)+1750 , died $place-city @random3(1,8)+1800
+born $place-city @random3(1,8)+1775 , died $place-city @random3(1,8)+1825
+born $place-city @random3(1,8)+1800 , died $place-city @random3(1,8)+1850
+born $place-city @random3(1,8)+1825 , died $place-city @random3(1,8)+1875
+born $place-city @random3(1,8)+1850 , died $place-city @random3(1,8)+1900
+born $place-city @random3(1,8)+1875 , died $place-city @random3(1,8)+1925
+born $place-city @random3(1,8)+1900 , died $place-city @random3(1,8)+1950
+born $place-city @random3(1,8)+1925 , died $place-city @random3(1,8)+1975
