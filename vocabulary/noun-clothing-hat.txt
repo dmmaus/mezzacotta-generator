@@ -1,0 +1,43 @@
+# things worn on the head
+@format ~|S
+balaclava
+baseball cap
+beanie
+beret
+boater
+bonnet
+bowler
+cap
+cloche
+crown
+deerstalker
+diadem
+dunce cap
+fedora
+fez|fezes
+flat cap
+hard hat
+hat
+headband
+helm
+helmet
+homburg
+hood
+jester's cap
+mortarboard
+Panama hat
+party hat
+pith helmet
+porkpie hat
+skullcap
+slouch hat
+sombrero
+stetson
+tiara
+top hat
+toque
+tricorne
+turban
+wig
+wimple
+witch's hat

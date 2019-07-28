@@ -1,9 +1,35 @@
 @format ~|S
+asterism
+asteroid
+black hole
+brown dwarf
 comet
 constellation
+dark nebula|nebulae
+dwarf planet
 eclipse
+galaxy|galaxies
+galaxy cluster
+|gegenschein
+globular cluster
+meteor
+meteoroid
 moon
+nebula|nebulae
+neutron star
+nova|novae
 planet
+planetary nebula|nebulae
+planetoid
+pulsar
+quasar
+red dwarf
+red giant
+shooting star
 star
 sun
+supernova|supernovae
+supernova remnant
+white dwarf
 world
+zodiacal light
