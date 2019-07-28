@@ -24,6 +24,7 @@ $number-small $noun-bodypart studies (for $art/artwork-title )
 $number-small $person_S
 $number-small 1$adjective $noun_S
 $place-city $person_S with $noun_S
+$verb-intransitive_ING nude
 $verb-transitive_ING the $noun_S of $village/base
 $verb-transitive_ING a $person on $time-holiday
 $village/base at $time-holiday
@@ -34,10 +35,13 @@ a $person $verb-transitive_ING her $person-relation 's $noun-bodypart
 a $person $verb-transitive_ING his $person-relation 's $noun-bodypart
 a day at $village/base
 colour study (for $art/artwork-title )
+composition in $adj-colour and $adj-colour
+composition No. @random3(0,10)+1
 composition of $art/element-geometric_S and 5$art/adj-arrangement $art/element-geometric_S
 composition sketch of $person (for $art/artwork-title )
 composition study (for $art/artwork-title )
 composition with $noun_S
+impression, $noun
 landscape of $place
 landscape of $place ( $art/anything )
 landscape with $noun-geography-structure , $village/base

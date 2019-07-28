@@ -3,6 +3,7 @@ baptism
 birth
 burial
 coronation
+creation
 death
 exile
 feast
