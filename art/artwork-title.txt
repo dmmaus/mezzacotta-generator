@@ -65,7 +65,7 @@ still life with $noun
 still life with $dish/base
 study of $art/feature-basic
 the $noun-abstract of $noun-abstract
-^the $noun-abstract of $noun-abstract in the $noun-bodypart of someone $adj-state-animate
+the $noun-abstract of $noun-abstract in the $noun-bodypart of someone $adj-state-animate
 the $art/event-myth of Saint $name-forename-old
 the $art/event-place of $place-city
 the $movie/event of $figure
