@@ -32,6 +32,7 @@ $person $verb-transitive_ING a $noun
 $person with $noun_S
 $person with a $noun
 $place-city $person_S with $noun_S
+$time-day-of-week $time-of-day on the $noun-geography-landform of $place-city
 $verb-intransitive_ING nude
 $verb-transitive_ING the $noun_S of $village/base
 $verb-transitive_ING a $person on $time-holiday
@@ -55,6 +56,7 @@ landscape of $place
 landscape of $place ( $art/anything )
 landscape with $noun-geography-structure , $village/base
 nude of $name-full-modern
+nude $verb-transitive_ING a $noun
 portrait of $name-full-modern
 portrait of $name-full-male-modern with $number-small of his $person-relation_S
 portrait of $name-full-female-modern with $number-small of her $person-relation_S
@@ -87,3 +89,4 @@ the $person of the $noun
 the $place-country_N
 untitled
 untitled ( $art/anything )
+view of $place-city

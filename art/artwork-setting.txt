@@ -1,0 +1,5 @@
+@format ~
+beside a $noun-furniture
+in a doorway
+in a garden
+in a mirror
