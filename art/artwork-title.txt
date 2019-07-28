@@ -1,0 +1,73 @@
+@format ~
+$art/art-title - known as $art/art-title
+$art/anything ( $art/anything )
+$art/anything - $art/anything
+$art/anything / $art/anything
+$adj-person $person in a $noun-clothing
+$adj-person $person_S
+$adj-person $person_S at the $noun-instrument-musical
+$figure and $figure
+$figure $verb-transitive_ING the $noun-animal_S of $place
+$figure-mythology and the $noun-monster
+$name-forename-modern and $name-forename-modern
+$name-forename-modern $verb-transitive_ING the $noun_S
+$name-forename-modern 's $adj-person
+$noun-geography-landform landscape with $person_S
+$noun-geography-structure , $village/base
+$noun_S and $noun_S
+$noun_S and $noun_S ( $place )
+$noun_S of $place
+$person $verb-transitive_ING a $noun
+$person with $noun_S
+$person with a $noun
+$number-small $noun-bodypart studies (for $art/artwork-title )
+$number-small $person_S
+$number-small 1$adjective $noun_S
+$place-city $person_S with $noun_S
+$verb-transitive_ING the $noun_S of $village/base
+$verb-transitive_ING a $person on $time-holiday
+$village/base at $time-holiday
+( $art/anything ) $art/anything
+a $noun-geography-landform near $place-city
+a $person
+a $person $verb-transitive_ING her $person-relation 's $noun-bodypart
+a $person $verb-transitive_ING his $person-relation 's $noun-bodypart
+a day at $village/base
+colour study (for $art/artwork-title )
+composition of $art/element-geometric_S and 5$art/adj-arrangement $art/element-geometric_S
+composition sketch of $person (for $art/artwork-title )
+composition study (for $art/artwork-title )
+composition with $noun_S
+landscape of $place
+landscape of $place ( $art/anything )
+landscape with $noun-geography-structure , $village/base
+nude of $name-full-modern
+portrait of $name-full-modern
+portrait of $name-full-male-modern with $number-small of his $person-relation_S
+portrait of $name-full-female-modern with $number-small of her $person-relation_S
+portrait of a $person
+portrait of a $person dressed in a 2$adj-colour-modifier $adj-colour-basic $noun-clothing
+portrait of an unknown $person with a $noun
+portrait of the artist's $person-relation
+self-portrait
+self-portrait ( $art/anything )
+self-portrait as $figure
+self-portrait with a $noun
+still life with $artifact/base
+still life with $noun
+still life with $dish/base
+study of $art/feature-basic
+the $art/event-myth of Saint $name-forename-old
+the $art/event-place of $place-city
+the $movie/event of $figure
+the $person 's $movie/event
+the $number-small $person-relation_S of $figure $verb-transitive_ING their $person-relation_S
+the $person
+the $person_S
+the $person $verb-transitive_S her own $noun
+the $person $verb-transitive_S his own $noun
+the $person and her $person-relation
+the $person and his $person-relation
+the $place-country_N
+untitled
+untitled ( $art/anything )

@@ -1,0 +1,18 @@
+@format ~|S
+angle
+arc
+circle
+curve
+diagonal
+figure
+hexagon
+oblong
+pentagon
+rectangle
+shape
+spiral
+square
+squiggle
+stripe
+triangle
+zig-zag

@@ -1,0 +1,11 @@
+# 'Basic' or fundamental features of an artwork.
+@format ~
+colour
+composition
+contrast
+pattern
+perspective
+repetition
+tonality
+tone
+texture

@@ -36,7 +36,7 @@ grandchild|grandchildren
 grandson
 granny|grannies
 great aunt
-great grandchild
+great grandchild|grandchildren
 great granddaughter
 great grandfather
 great grandmother
@@ -62,7 +62,7 @@ son
 son
 son-in-law|sons-in-law
 spouse
-stepchild
+stepchild|stepchildren
 stepdaughter
 stepfather
 stepmother

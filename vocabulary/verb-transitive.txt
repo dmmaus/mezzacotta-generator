@@ -235,7 +235,6 @@ ring|rings|rang|ringing
 rob|robs|robbed|robbing
 rub|rubs|rubbed|rubbing
 run|runs|ran|running with
-salvages|salvage
 save|saves|saved|saving
 sculpt
 see|sees|saw|seeing

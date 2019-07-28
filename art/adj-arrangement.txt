@@ -1,0 +1,12 @@
+@format ~
+aligned
+arrayed
+criss-crossing
+grid-form
+haphazardly arranged
+hidden
+horizontal
+overlapping
+stacked
+unaligned
+vertical

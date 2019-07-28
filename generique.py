@@ -145,6 +145,7 @@ class Vocab:
             if universal_inflection:
                 result = line
             else:
+                # There's a bug here: if there's no '|' in the file, but the line ends in a word with $, it appends the inflection and gets an unknown file.
                 if '|' not in line and inflection != '~':
                     result = line + inflection.lower() + ' '
                 else:
@@ -276,7 +277,7 @@ class MezzaGenerator:
 
             else:
                 if cap and not plus and word not in non_cap_words:
-                    word = word.capitalize()
+                    word = word[0].upper() + word[1:]
                 plus = False
                 result += word + ' '
 

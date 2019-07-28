@@ -1,0 +1,10 @@
+@format ~
+$adjective
+$noun
+$adverb
+$name-forename-modern
+$person
+$place
+$verb-transitive_ED
+$figure-mythology
+$adverb

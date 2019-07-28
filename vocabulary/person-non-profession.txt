@@ -2,9 +2,9 @@
 @format ~|S
 @include person-relative
 @include person-relative-nonfamily
-# $instrument maker
-# $instrument player
-# $instrument virtuoso
+$noun-instrument-musical maker
+$noun-instrument-musical player
+$noun-instrument-musical virtuoso
 $noun -eater
 $noun -lover
 $noun collector
@@ -34,6 +34,7 @@ $noun-weapon master
 $noun-weapon wielder
 $noun-item salesman|salesmen
 $person|$person_S of the sea
+$place-country_N|$place-country_NS
 $sport champion
 $sport coach|coaches
 $sport player

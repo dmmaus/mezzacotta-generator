@@ -1,0 +1,8 @@
+@format ~
+battle
+conversion
+destruction
+founding
+invasion
+judgment
+siege

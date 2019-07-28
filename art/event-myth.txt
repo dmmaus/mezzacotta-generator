@@ -1,0 +1,14 @@
+@format ~
+baptism
+birth
+burial
+coronation
+death
+exile
+feast
+inception
+restoration
+sacrifice
+martyrdom
+transfiguration
+veneration

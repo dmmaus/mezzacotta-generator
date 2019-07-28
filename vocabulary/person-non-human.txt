@@ -14,8 +14,8 @@ ewok
 genie
 god
 gynoid
-half-man, half- $noun-animal
-half-man, half- $noun-monster
+half-man, half- $noun-animal|$noun-animal_S
+half-man, half- $noun-monster|$noun-monster_S
 simulacrum|simulacra
 robot
 smurf

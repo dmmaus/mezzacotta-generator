@@ -220,3 +220,5 @@ are 3$adverb sent to $place to $verb-transitive themselves
 3$adverb seek the assistance of a $movie/character to help solve the mystery of who $verb-transitive_ED their $noun_S
 3$adverb discover that a $movie/character $verb-transitive_ED their $person-relation_S
 3$adverb $verb-transitive the $movie/character who is $verb-transitive_ING their $noun_S
+3$adverb seek to reverse a spell that turned their $person-relation_S into $noun_S
+3$adverb try to reverse a spell that $verb-transitive_ED their $noun_S
