@@ -1,5 +1,5 @@
 @format ~
-$art/art-title - known as $art/art-title
+$art/artwork-title - known as $art/artwork-title
 $art/anything ( $art/anything )
 $art/anything - $art/anything
 $art/anything / $art/anything
