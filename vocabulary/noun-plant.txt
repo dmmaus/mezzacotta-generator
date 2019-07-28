@@ -1,6 +1,6 @@
 # Plants or parts of plants
 @format ~|S
-$noun-plant-flower|$noun-plant-flower_S
+@include $noun-plant-flower
 blossom
 bush|bushes
 flower

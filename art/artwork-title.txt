@@ -7,22 +7,25 @@ $adj-person $person in a $noun-clothing
 $adj-person $person_S
 $adj-person $person_S at the $noun-instrument-musical
 $figure and $figure
+$figure in $place-fictional
 $figure $verb-transitive_ING the $noun-animal_S of $place
 $figure-mythology and the $noun-monster
 $name-forename-modern and $name-forename-modern
 $name-forename-modern $verb-transitive_ING the $noun_S
 $name-forename-modern 's $adj-person
+$noun-bodypart of a $person-non-profession
 $noun-geography-landform landscape with $person_S
 $noun-geography-structure , $village/base
+$noun-plant_S
 $noun_S and $noun_S
 $noun_S and $noun_S ( $place )
 $noun_S of $place
-$person $verb-transitive_ING a $noun
-$person with $noun_S
-$person with a $noun
 $number-small $noun-bodypart studies (for $art/artwork-title )
 $number-small $person_S
 $number-small 1$adjective $noun_S
+$person $verb-transitive_ING a $noun
+$person with $noun_S
+$person with a $noun
 $place-city $person_S with $noun_S
 $verb-intransitive_ING nude
 $verb-transitive_ING the $noun_S of $village/base
@@ -61,6 +64,8 @@ still life with $artifact/base
 still life with $noun
 still life with $dish/base
 study of $art/feature-basic
+the $noun-abstract of $noun-abstract
+^the $noun-abstract of $noun-abstract in the $noun-bodypart of someone $adj-state-animate
 the $art/event-myth of Saint $name-forename-old
 the $art/event-place of $place-city
 the $movie/event of $figure
