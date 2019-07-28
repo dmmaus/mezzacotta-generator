@@ -1,5 +1,5 @@
 @format ~
-$art/artwork-title - known as $art/artwork-title
+$art/artwork-title  ( known as $art/artwork-title )
 $art/anything ( $art/anything )
 $art/anything - $art/anything
 $art/anything / $art/anything
@@ -9,6 +9,7 @@ $adj-person $person_S at the $noun-instrument-musical
 $figure and $figure
 $figure $verb-transitive_ING the $noun-animal_S of $place
 $figure-mythology and the $noun-monster
+$figure-mythology $verb-transitive_ING $figure-mythology
 $name-forename-modern and $name-forename-modern
 $name-forename-modern $verb-transitive_ING the $noun_S
 $name-forename-modern 's $adj-person
@@ -20,6 +21,7 @@ $noun_S of $place
 $person $verb-transitive_ING a $noun
 $person with $noun_S
 $person with a $noun
+$person with $noun , $noun and $noun
 $number-small $noun-bodypart studies (for $art/artwork-title )
 $number-small $person_S
 $number-small 1$adjective $noun_S
@@ -33,6 +35,7 @@ a $person
 a $person $verb-transitive_ING her $person-relation 's $noun-bodypart
 a $person $verb-transitive_ING his $person-relation 's $noun-bodypart
 a day at $village/base
+allegory on the $noun-artifact-abstract of $figure
 colour study (for $art/artwork-title )
 composition of $art/element-geometric_S and 5$art/adj-arrangement $art/element-geometric_S
 composition sketch of $person (for $art/artwork-title )
@@ -68,6 +71,7 @@ the $person $verb-transitive_S her own $noun
 the $person $verb-transitive_S his own $noun
 the $person and her $person-relation
 the $person and his $person-relation
+the $person of the $noun
 the $place-country_N
 untitled
 untitled ( $art/anything )

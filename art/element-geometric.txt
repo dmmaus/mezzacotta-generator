@@ -2,10 +2,12 @@
 angle
 arc
 circle
+corner
 curve
 diagonal
 figure
 hexagon
+line
 oblong
 pentagon
 rectangle
@@ -13,6 +15,7 @@ shape
 spiral
 square
 squiggle
+star
 stripe
 triangle
 zig-zag
