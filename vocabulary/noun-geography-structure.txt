@@ -16,6 +16,7 @@ chapel|chapels
 church|churches
 citadel
 city|cities
+clock tower
 cottage
 dam
 dock
@@ -32,9 +33,11 @@ garden
 gate
 graveyard
 haystack
+hotel
 house
 hovel
 hut
+inn
 labyrinth
 lighthouse
 market
@@ -48,14 +51,17 @@ palace
 path
 pier
 port
+pub
 road
 shack
+shop
 shrine
 sign
 slum
 smelter
 smithy|smithies
 statue
+stone circle
 tavern
 temple
 tomb
