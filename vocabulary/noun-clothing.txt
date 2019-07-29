@@ -2,7 +2,7 @@
 @format ~|S
 $noun-clothing-accessory|$noun-clothing-accessory_S
 $noun-clothing-hat|$noun-clothing-hat_S
-$noun-clothing-show|$noun-clothing-shoe_S
+$noun-clothing-shoe|$noun-clothing-shoe_S
 apron
 ball gown
 belt
