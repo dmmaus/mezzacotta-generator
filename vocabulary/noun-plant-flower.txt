@@ -1,3 +1,4 @@
+# Specific types of flower. "flower" is in noun-plant
 @format ~|S
 begonia
 carnation

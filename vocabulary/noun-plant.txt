@@ -1,20 +1,30 @@
-# Plants or parts of plants
+# Plants or parts of plants. Specific types of tree or flower are in the included files.
 @format ~|S
 @include $noun-plant-flower
+@include $noun-plant-tree
+bark
 blossom
+branch
 bush|bushes
+cactus|cacti
 flower
+fruit
 grass|grasses
 herb
-juniper
-oak
-pine
+leaf
+petal
+root
+seed
 seedling
 shamrock
 shrub
+stalk
+stem
 stick
 stump
+succulent
 tree
+trunk
+twig
 vine
 weed
-willow

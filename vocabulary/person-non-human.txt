@@ -1,6 +1,6 @@
 @format ~|S
-$noun-monster-humanoid
-$noun-monster
+$noun-monster-humanoid|$noun-monster-humanoid_S
+$noun-monster|$noun-monster_S
 $noun-animal - $noun-animal hybrid
 alien
 android

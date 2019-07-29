@@ -1,18 +1,71 @@
 # Anything that is typically worn or carried by a person as an accessory
 @format ~|S
-boot
-cane
+$noun-clothing-accessory|$noun-clothing-accessory_S
+$noun-clothing-hat|$noun-clothing-hat_S
+$noun-clothing-show|$noun-clothing-shoe_S
+apron
+ball gown
+belt
+|bloomers
+blouse
+bow tie
+|boxers
+bra
+brassiere
+|briefs
+cape
+cardigan
 cloak
 coat
-crown
+dinner jacket
+dress|dresses
+evening gown
 garter
-hat
-helm
-monocle
-pipe
+girdle
+gown
+Hawaiian shirt
+jacket
+|jeans
+jersey
+jumper
+jumpsuit
+|knickers
+lapel
+loincloth
+miniskirt
+|overalls
+overcoat
+|pants
+parka
+poncho
+pullover
+|pyjamas
+raincoat
 robe
-shield
+shawl
+shirt
+singlet
+skirt
+smock
+sock
+|stockings
+sundress|sundresses
 surcoat
+sweater
+swimsuit
 tabard
-trousers|trousers
-wig
+tank top
+tie
+|tights
+toga
+trenchcoat
+|trousers
+|trunks
+turtleneck
+tuxedo
+|underpants
+undershirt
+uniform
+vest
+wedding dress|dresses
+wetsuit

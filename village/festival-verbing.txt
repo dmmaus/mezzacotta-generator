@@ -12,10 +12,12 @@ burying
 carving
 carrying
 catching
+cheddaring
 cleaning
 climbing
 collecting
 cooking
+crafting
 dancing
 decorating
 debating
@@ -38,6 +40,7 @@ kicking
 knitting
 leaping
 lifting
+making
 miming
 painting
 poetry
@@ -52,6 +55,7 @@ running
 screaming
 scrimmaging
 selling
+shearing
 shouting
 shying
 smoking

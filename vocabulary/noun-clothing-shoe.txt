@@ -1,0 +1,24 @@
+# Footwear
+@format ~|S
+ballet shoe
+boot
+brogue
+clog
+galosh|galoshes
+go-go boot
+gumboot
+high heeled shoe
+loafer
+Mary Jane
+moccasin
+moon boot
+mukluk
+platform shoe
+sandal
+sandshoe
+shoe
+slipper
+sneaker
+stiletto
+ugg boot
+wellington boot

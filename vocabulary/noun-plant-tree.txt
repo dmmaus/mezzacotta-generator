@@ -1,0 +1,53 @@
+# Specific types of tree. "tree" is in noun-plant
+@format ~|S
+acacia
+apple tree
+ash|ashes
+aspen
+baobab
+beech|beeches
+birch|birches
+bloodwood
+cedar
+cherry tree
+chestnut tree
+coconut palm
+cottonwood
+cypress|cypresses
+elm
+eucalyptus|eucalyptuses
+fig tree
+fir
+ginkgo biloba
+gum tree
+hawthorn
+hazel
+hemlock
+hickory|hickories
+hornbeam
+ironwood
+jacaranda
+juniper
+larch|larches
+laurel
+mahogany|mahoganies
+mangrove
+maple
+myrtle
+oak
+olive tree
+orange tree
+palm
+paperbark
+pine
+poplar
+redwood
+rubber tree
+sequoia
+spruce
+sycamore
+tamarisk
+walnut tree
+willow
+yew
+yucca

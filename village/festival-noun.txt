@@ -12,45 +12,61 @@ ale|kegs_of_ale
 bagpipe
 barn
 beard
+beehive
 beer|kegs_of_beer
 bell
 bog
 bonfire
 boot
 caber
-cake
 cakes_and_ale|cakes_and_ale
 cheese|wheels_of_cheese
+Chelsea bun
 cider|kegs_of_cider
 cornfield maze
 cowpat
+cricket bat
 crumpet
 egg
 eel
 fire
+|fish and chips
+fruitcake
 full English breakfast
+golfball
+greased $noun-animal|$noun-animal_S
 greased pig
 greased pole
 haggis|haggises
 hat
+hedgerow
 human tower
 husband
 kilt
 King James Bible
+log
 maypole
 menhir
 moustache
 |mud
+peat bog
+penny-farthing
 pie
 pork pie
 potato|potatoes
+roast dinner
 sausage
 sausage roll
 scarecrow
 scone
+scythe
 snowman|snowmen
 snuff|boxes_of_snuff
+steam engine
 telephone box|boxes
 turnip
+umbrella
+Welsh cake
 whisky|barrels_of_whisky
 wife|wives
+Yorkshire pudding

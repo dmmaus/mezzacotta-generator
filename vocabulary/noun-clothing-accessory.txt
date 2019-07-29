@@ -1,0 +1,23 @@
+# Anything that is typically carried by a person as an accessory
+@format ~|S
+bag
+bracelet
+cane
+|earrings
+|glasses
+glove
+handbag
+handkerchief
+mitten
+monocle
+necklace
+pipe
+purse
+ring
+scarf|scarves
+shield
+shopping bag
+|sunglasses
+umbrella
+wallet
+walking stick
