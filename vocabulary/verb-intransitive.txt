@@ -31,11 +31,13 @@ collapse|collapses|collapsed|collapsing
 come|comes|came|coming
 consist
 continue|continues|continued|continuing
+converse|converses|conversed|conversing
 cost
 cough
 creep|creeps|crept|creeping
 croak
 cry|cries|cried|crying
+dance|dances|danced|dancing
 depart
 depend
 die|dies|died|dying
@@ -141,6 +143,7 @@ relent
 remain
 resign
 respond
+rest
 result
 revolt
 rise|rises|rose|rising
@@ -175,11 +178,13 @@ sniffle|sniffles|sniffled|sniffling
 snooze|snoozes|snoozed|snoozing
 snore|snores|snored|snoring
 soak
+speak|speaks|spoke|speaking
 spin|spins|spun|spinning
 spit|spits|spat|spitting
 split|splits|split|splitting
 sprint
 squawk
+squat|squats|squatted|squatting
 squeak
 squint
 stagger

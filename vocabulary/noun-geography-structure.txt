@@ -9,10 +9,9 @@ bridge|bridges
 building
 campfire
 castle
-castle|castles
-catacomb|catacombs
-cathedral|cathedrals
-chapel|chapels
+catacomb
+cathedral
+chapel
 church|churches
 citadel
 city|cities
@@ -32,6 +31,7 @@ garden
 gate
 graveyard
 haystack
+highway
 house
 hovel
 hut
@@ -48,6 +48,7 @@ palace
 path
 pier
 port
+quarry|quarries
 road
 shack
 shrine

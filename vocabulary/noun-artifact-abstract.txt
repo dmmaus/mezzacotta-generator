@@ -142,6 +142,7 @@ gas
 generosity
 glee
 gloom
+glory
 gold
 goodness
 grace
