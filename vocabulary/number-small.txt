@@ -2,10 +2,19 @@
 # See also: number-big
 @format ~
 two
+two
+two
+three
+three
 three
 four
+four
+four
+five
 five
 six
+six
+seven
 seven
 eight
 nine

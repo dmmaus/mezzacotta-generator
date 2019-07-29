@@ -93,6 +93,7 @@ The_Ottoman_Empire|Ottoman|Ottomans
 The_Pacific_Ocean|Pacific_Oceaner|Pacific_Oceaners
 The_Roman_Empire|Roman|Romans
 The_Sahara_Desert|Saharan|Saharans
+The_Spanish_Republic|Spanish_Republican|Spanish_Republicans
 The_Sun|Solarian|Solarians
 The_U.S.S.R.|Soviet|Soviets
 Thrace|Thracian|Thracians

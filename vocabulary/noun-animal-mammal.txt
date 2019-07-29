@@ -7,6 +7,7 @@ badger
 bat
 bear
 beaver
+bilby|bilbies
 boar
 buffalo|buffalo
 bull
@@ -21,6 +22,7 @@ cow
 deer|deer
 dog
 dolphin
+echidna
 elephant
 ewe
 ferret
@@ -39,6 +41,7 @@ horse
 hound
 kangaroo
 kitten
+koala
 lamb
 leopard
 lion
@@ -63,6 +66,7 @@ rat
 rhinoceros|rhinoceroses
 seal
 sheep|sheep
+stoat
 sow
 squirrel
 stag
@@ -70,6 +74,7 @@ stallion
 steed
 stoat
 tiger
+wallaby|wallabies
 weasel
 whale
 wolf|wolves

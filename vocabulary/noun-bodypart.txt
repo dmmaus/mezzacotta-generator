@@ -10,6 +10,7 @@ bone
 brain
 breast
 buttock
+calf|calves
 cheek
 chest
 chin
@@ -17,9 +18,12 @@ claw
 ear
 elbow
 eye
+eyebrow
+eyelid
 fang
 fin
 finger
+fingernail
 flipper
 foot|feet
 fur
@@ -32,6 +36,7 @@ jaw
 knee
 leg
 lip
+liver
 mind
 mouth
 neck
@@ -39,9 +44,12 @@ nose
 nostril
 shoulder
 skull
+spine
 tail
 toe
+toenail
 tooth|teeth
+tongue
 torso
 tusk
 wing

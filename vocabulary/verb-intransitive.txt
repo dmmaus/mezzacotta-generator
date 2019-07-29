@@ -69,6 +69,7 @@ flow
 fly|flies|flew|flying
 freeze|freezes|froze|freezing
 gallop
+gamble|gambles|gambled|gambling
 gargle|gargles|gargled|gargling
 gesticulate|gesticulates|gesticulated|gesticulating
 gesture|gestures|gestured|gesturing
@@ -189,6 +190,7 @@ squeak
 squint
 stagger
 stand|stands|stood|standing
+stare|stares|stared|staring
 stay
 stink|stinks|stank|stinking
 stop|stops|stopped|stopping

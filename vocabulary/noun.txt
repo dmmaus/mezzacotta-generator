@@ -1,15 +1,10 @@
 # Top level category for nouns.
 # May want to specify a custom noun file for generators that don't want all of these possibilities.
 @format ~|S
-$noun-abstract|$noun-abstract_S
-$noun-animal|$noun-animal_S
-$noun-animal|$noun-animal_S
-$noun-bodypart|$noun-bodypart_S
-$noun-celestial|$noun-celestial_S
-$noun-food|$noun-food_S
-$noun-item|$noun-item_S
-$noun-item|$noun-item_S
-$noun-item|$noun-item_S
-$noun-item|$noun-item_S
-$noun-geography|$noun-geography_S
-$noun-plant|$noun-plant_S
+@include noun-abstract
+@include noun-animal
+@include noun-celestial
+@include noun-food
+@include noun-item
+@include noun-geography
+@include noun-plant

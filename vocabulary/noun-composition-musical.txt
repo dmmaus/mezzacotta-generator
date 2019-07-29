@@ -1,0 +1,29 @@
+@format ~|S
+anthem
+aria
+ballad
+canticle
+carol
+chant
+chorale
+chorus|choruses
+composition
+death march|marches
+dirge
+ditty|ditties
+elegy|elegies
+folk song
+hymn
+knell
+lullaby|lullabies
+opera
+piece|pieces
+psalm
+refrain
+requiem
+shanty|shanties
+song
+symphony|symphonies
+tune
+verse
+waltz|waltzes

@@ -39,7 +39,6 @@ Hezron
 Hosea
 Irad
 Isaac
-Isaac
 Isaiah
 Jacob
 James
@@ -81,7 +80,6 @@ Nahshon
 Nahum
 Nathan
 Nicodemus
-Noah
 Noah
 Obadiah
 Obed

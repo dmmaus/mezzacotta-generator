@@ -3,3 +3,9 @@ morning
 afternoon
 evening
 night
+sunrise
+sunset
+dawn
+dusk
+mid-day
+midnight

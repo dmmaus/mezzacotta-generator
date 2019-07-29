@@ -1,4 +1,5 @@
 @format ~|S
+$dish/ingredient
 ale
 apple
 beer
