@@ -1,11 +1,14 @@
 @format ~
 abode
+allure
 apparel
+appeal
 beauty
 body
 charm
 coiffure
 complexion
+confidence
 costume
 figure
 genius
@@ -14,9 +17,14 @@ health
 house
 intellect
 mind
+piety
+pizzazz
 posture
 speech
+standing
+status
 style
 vigor
 visage
+wealth
 wit
