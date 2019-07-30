@@ -82,3 +82,4 @@ The $tavern/noun-tavernsign of the $tavern/animal 's $noun-bodypart
 The $tavern/noun-tavernsign of the 3$number $tavern/animal_S
 The $tavern/noun-tavernsign of the $person-profession-medieval
 The $tavern/noun-tavernsign of the $person-profession-medieval 's $noun
+The $insult/target .

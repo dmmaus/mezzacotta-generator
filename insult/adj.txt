@@ -176,3 +176,4 @@ virulent
 wanton
 wayward
 weedy
+zero-charisma
