@@ -27,6 +27,7 @@ $noun-weapon-historic -impaled
 $person-profession-medieval -kissing
 $person-relative +less
 accursed
+addle- $noun-bodypart +ed
 adulterated
 arrogant
 artless

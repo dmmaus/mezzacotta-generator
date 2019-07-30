@@ -1,7 +1,10 @@
 @format ~|S
+-collector
 -eater
+-fancier
+-fondler
 -licker
 -lover
 -smeller
--fancier
--collector
+-snorter
+-snuffler

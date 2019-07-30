@@ -1,7 +1,13 @@
 @format ~|S
+agglomeration
 bag
+blob
+box|boxes
 bucket
 bunch|bunches
+covey
+flock
 grab-bag
-box|boxes
+multitude
+pack
 sack
