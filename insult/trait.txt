@@ -1,0 +1,22 @@
+@format ~
+abode
+apparel
+beauty
+body
+charm
+coiffure
+complexion
+costume
+figure
+genius
+grace
+health
+house
+intellect
+mind
+posture
+speech
+style
+vigor
+visage
+wit

@@ -1,11 +1,18 @@
 @format ~
-akin to
-akin to that of
-as
-belike
-belike that of
-belike to
-even more $insult/adj than
-kindred to
-like
-moreso $insult/adj than
+$insult/is akin to
+$insult/is akin to that of
+$insult/is as
+$insult/is as $insult/adj as
+$insult/is belike
+$insult/is belike that of
+$insult/is belike to
+$insult/is even more $insult/adj than
+$insult/is kindred to
+$insult/is like
+$insult/is like unto
+$insult/is moreso $insult/adj than
+$insult/is twinned with
+$verb-transitive_ED
+smelled of
+looks like
+is known as

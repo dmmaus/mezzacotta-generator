@@ -1,2 +1,4 @@
-@format ~|S
-05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing|$insult/thing_S
+@format ~
+$noun-bodypart-human
+$person-relative
+$insult/trait

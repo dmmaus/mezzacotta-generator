@@ -60,7 +60,9 @@ bony
 boorish
 bug-eyed
 bulbous
+callipygian
 capric
+castrated
 catawumpus
 cheap
 churlish
@@ -74,6 +76,7 @@ crooked- $noun-bodypart-human +ed
 debauched
 decrepit
 deformed
+diminuitive
 dismal-dreaming
 dissembling
 dizzy- $noun-bodypart-human +ed
@@ -93,6 +96,7 @@ frumpish
 froward
 gangrenous
 gibbering
+gormless
 greasy
 hasty-witted
 hell-hated
@@ -102,6 +106,7 @@ impertinent
 incestuous
 incontinent
 jaundiced
+lack-witted
 lecherous
 leprous
 loggerheaded
@@ -161,6 +166,7 @@ tardy-gaited
 tickle- $noun-bodypart-human +ed
 toad-spotted
 toxic
+threepenny
 thrice- $verb-transitive_ED
 tumescent
 twice- $verb-transitive_ED
@@ -173,7 +179,9 @@ verminous
 vile
 viperous
 virulent
+vomitorious
 wanton
 wayward
 weedy
+woebegone
 zero-charisma

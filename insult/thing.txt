@@ -37,6 +37,7 @@ charlatan
 chimneysweep
 churl
 clout
+cockalorum
 codpiece
 cowplop
 coxcomb
@@ -83,11 +84,13 @@ meadow-muffin
 measle
 milk-drinker
 moldwarp
+mollycoddle
 mongoose
 mountebank
 muck-spout
 mugwump
 mumblecrust
+mumpsimus
 ne'er-do-well
 ninny|ninnies
 ninnyhammer
@@ -97,6 +100,7 @@ outhouse
 pantaloon
 parasite
 peasant
+pillock
 pimp
 poltroon
 prune
@@ -122,6 +126,7 @@ skeever-butt
 slubberdegullion
 smellfungus|smellfungi
 snollygoster
+snowflake
 snoutband
 snowberry|snowberries
 son of a $insult/thing|$insult/thing_S

@@ -1,13 +1,16 @@
 @format ~|S
 agglomeration
 bag
+barrel
 blob
 box|boxes
 bucket
 bunch|bunches
+crate
 covey
 flock
 grab-bag
 multitude
 pack
 sack
+ship-load
