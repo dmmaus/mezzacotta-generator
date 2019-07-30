@@ -11,7 +11,7 @@ $insult/is kindred to
 $insult/is like
 $insult/is like unto
 $insult/is moreso $insult/adj than
-$insult/is twinned with
+$insult/is twin to
 $verb-transitive_ED
 smelled of
 looks like

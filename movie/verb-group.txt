@@ -222,5 +222,5 @@ are 3$adverb sent to $place to $verb-transitive themselves
 3$adverb $verb-transitive the $movie/character who is $verb-transitive_ING their $noun_S
 3$adverb seek to reverse a spell that turned their $person-relation_S into $noun_S
 3$adverb try to reverse a spell that $verb-transitive_ED their $noun_S
-are 3$adverb accused of being $insult/target_S
-3$adverb go on a quest to prove they are not $insult/target_S
+are 3$adverb accused of being $insult/subject_S
+3$adverb go on a quest to prove they are not $insult/subject_S

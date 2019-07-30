@@ -17,6 +17,7 @@ $noun-monster_S -meat
 $noun-monster|$noun-monster_S
 $person|$person_S
 $insult/set|$insult/set_S of $insult/thing_S
+apple-john
 baggage
 bard
 bedswerver
@@ -69,6 +70,7 @@ harlot
 hayseed
 hedge-wizard
 hooligan
+joithead
 jolthead
 knave
 layabout
@@ -83,6 +85,7 @@ maggot
 meadow-muffin
 measle
 milk-drinker
+miscreant
 moldwarp
 mollycoddle
 mongoose
@@ -101,18 +104,21 @@ pantaloon
 parasite
 peasant
 pillock
+pignut
 pimp
 poltroon
 prune
 pumpion
 puddle-grifter
 pustule
+puttock
 puturelle
 quisby|quisbies
 rakefire
 rascal
 redolence
 saddle- $noun-animal|$noun-animal_S
+sauce-box
 scalawag
 scapegrace
 scarecrow
@@ -122,7 +128,9 @@ scum-whiffer
 sharecropper
 shyster
 simpleton
+skainsmate
 skeever-butt
+skinflint
 slubberdegullion
 smellfungus|smellfungi
 snollygoster
@@ -147,6 +155,7 @@ turd
 underpart
 vagabond
 varlet
+vassal
 villain
 wetfoot
 whey-face

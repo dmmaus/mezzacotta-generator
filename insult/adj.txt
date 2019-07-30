@@ -71,6 +71,7 @@ contagious
 contaminated
 cuckolded
 corpulent
+cozening
 craven
 crooked- $noun-bodypart-human +ed
 debauched
@@ -171,6 +172,7 @@ thrice- $verb-transitive_ED
 tumescent
 twice- $verb-transitive_ED
 unfavourable
+unlicked
 unmuzzled
 unrighteous
 unsanitary

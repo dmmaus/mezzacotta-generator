@@ -45,7 +45,7 @@ a $person
 a $person $verb-transitive_ING her $person-relation 's $noun-bodypart-human
 a $person $verb-transitive_ING his $person-relation 's $noun-bodypart-human
 a day at $village/base
-a $insult/target
+a $insult/subject
 allegory on the $noun-artifact-abstract of $figure
 colour study (for $art/artwork-title )
 composition in $adj-colour and $adj-colour

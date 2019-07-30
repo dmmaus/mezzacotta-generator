@@ -7,4 +7,4 @@ The winner 2$village/festival-judge $village/festival-award .
 The worst performer 2$village/festival-judge $village/festival-award .
 A random onlooker $village/festival-award .
 The best $number-small competitors 2$village/festival-judge $village/festival-award_S .
-The losers are declared to be $insult/target_S .
+The losers are declared to be $insult/subject_S .

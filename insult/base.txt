@@ -1,13 +1,15 @@
 @format ~
-Dost thou $verb-transitive a $insult/adj $insult/thing ?
-At birth thou wert $village/festival-givento a $insult/adj $insult/thing
-I hath seen better $noun-bodypart-human_S on a 4$insult/adj $insult/set of $insult/adj $noun-animal_S
-Thou art a 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S
-Thou art the 3$insult/adj $person-relation of a $insult/adj $insult/thing
-Thou wert begat between a 4$insult/adj $insult/thing and a 4$insult/adj $insult/thing
-Thy $noun-bodypart-human $insult/like a 4$insult/adj $insult/thing
-Thy $insult/target 8$insult/like a $insult/adj 4$insult/adj $insult/thing
-You 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing
-You 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S
-You $person-relation of a $insult/adj $insult/thing
-Your $person-relation $verb-transitive_S a $insult/adj $insult/thing
+05$insult/interjection A 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S called, they want their $insult/adj $noun-bodypart-human back!
+05$insult/interjection At birth thou wert $village/festival-givento a $insult/adj $insult/thing
+05$insult/interjection Dost thou $verb-transitive a $insult/adj $insult/thing ?
+05$insult/interjection I hath seen better $noun-bodypart-human_S on a 4$insult/adj $insult/set of $insult/adj $noun-animal_S
+05$insult/interjection I mistook thee for a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing
+05$insult/interjection That $noun-clothing makes you look less $insult/adj
+05$insult/interjection Thou art a 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S
+05$insult/interjection Thou art the 3$insult/adj $person-relation of a $insult/adj $insult/thing
+05$insult/interjection Thou wert begat between a 4$insult/adj $insult/thing and a 4$insult/adj $insult/thing
+05$insult/interjection Thy $insult/target $insult/like a $insult/adj 4$insult/adj $insult/thing
+05$insult/interjection You 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing
+05$insult/interjection You 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S
+05$insult/interjection You $person-relation of a $insult/adj $insult/thing
+05$insult/interjection Your $person-relation $verb-transitive_S a $insult/adj $insult/thing
