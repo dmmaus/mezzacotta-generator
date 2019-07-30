@@ -22,6 +22,7 @@ bard
 bedswerver
 birdbrain
 blackguard
+blatherskite
 boob
 boozer
 botchling
@@ -71,6 +72,7 @@ jolthead
 knave
 layabout
 lewdster
+lickspittle
 lightweight
 loiter-sack
 lout
@@ -82,11 +84,13 @@ measle
 milk-drinker
 moldwarp
 mongoose
+mountebank
 muck-spout
 mugwump
 mumblecrust
 ne'er-do-well
 ninny|ninnies
+ninnyhammer
 |no- $noun-bodypart_S
 nutter
 outhouse
@@ -95,17 +99,20 @@ parasite
 peasant
 pimp
 poltroon
+prune
 pumpion
 puddle-grifter
 pustule
 puturelle
 quisby|quisbies
+rakefire
 rascal
 redolence
 saddle- $noun-animal|$noun-animal_S
 scalawag
 scapegrace
 scarecrow
+scobberlotcher
 scullion
 scum-whiffer
 sharecropper
@@ -114,6 +121,7 @@ simpleton
 skeever-butt
 slubberdegullion
 smellfungus|smellfungi
+snollygoster
 snoutband
 snowberry|snowberries
 son of a $insult/thing|$insult/thing_S
@@ -141,3 +149,4 @@ wine-bibber
 witch|witches
 wretch|wretches
 yaldson
+zounderkite

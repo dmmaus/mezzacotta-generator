@@ -15,17 +15,21 @@ $dish/food-method
 $noun -brained
 $noun -festooned
 $noun -vexing
-$noun-animal -bitten
+$noun-animal -begat
 $noun-animal -biting
+$noun-animal -bitten
 $noun-animal -eaten
+$noun-animal -faced
 $noun-animal -fowling
-$noun-animal -snouted
-$noun-animal -ish
-$noun-animal -witted
 $noun-animal -headed
+$noun-animal -ish
 $noun-animal -poxed
 $noun-animal -ridden
+$noun-animal -snouted
+$noun-animal -spawned
+$noun-animal -witted
 $noun-animal - $verb-transitive_ING
+$noun-animal-invertebrate -infested
 $noun-bodypart +less
 $noun-bodypart -licking
 $noun-geography-landform -born
@@ -49,11 +53,14 @@ bardish
 base
 bedraggled
 beggarly
+bescumbered
 beslubbering
 blasphemous
 bony
+boorish
 bug-eyed
 bulbous
+capric
 catawumpus
 cheap
 churlish
@@ -102,6 +109,7 @@ lopsided
 lumpish
 maggoty
 malignant
+malodorous
 mammering
 mangled
 miserly
@@ -117,6 +125,7 @@ oily
 overweening
 parasitic
 paunchy
+pediculous
 peevish
 perfidious
 pernicious
