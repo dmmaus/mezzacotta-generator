@@ -199,6 +199,7 @@ class MezzaGenerator:
             "?.":"?", " )":")", "( ":"(", "_":" ", "- ":"-", " -":"-", " +":"", ",,":",",
             "+ ":"", " + ":"", " A the ":" The ", " a the ":" the "
             }
+        self.replacements_custom = {}
 
     # Perform full expansion of a random line from a file
     def Expand(self, spec, cap = False):
@@ -225,9 +226,9 @@ class MezzaGenerator:
 
         # Generate the random line of text
         (randomline, vocab_replacements) = self.vocabs[base].RandomLine(inflection)
-        # Add the vocabulary file replacements to the replacement dictionary
+        # Add the vocabulary file replacements to the custom replacement dictionary
         for key in vocab_replacements.keys():
-            self.replacements[key] = vocab_replacements[key]
+            self.replacements_custom[key] = vocab_replacements[key]
 
         result = ''
         # Keep track if the previous word was a plus sign, to handle capitalisation of conjoined words
@@ -292,9 +293,14 @@ class MezzaGenerator:
         else:
             result = ' ' + result[0].upper() + result[1:]
 
+        # Do the general replacements
         for key in self.replacements.keys():
             if key in result:
                 result = result.replace(key, self.replacements[key])
+        # Do any custom replacements
+        for key in self.replacements_custom.keys():
+            if key in result:
+                result = result.replace(key, self.replacements_custom[key])
 
         #remove duplicate spaces
         result = re.sub(' +', ' ', result)
