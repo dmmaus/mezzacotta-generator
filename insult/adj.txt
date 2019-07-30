@@ -63,7 +63,7 @@ contaminated
 cuckolded
 corpulent
 craven
-^crooked- $noun-bodypart +ed
+crooked- $noun-bodypart +ed
 debauched
 decrepit
 deformed
