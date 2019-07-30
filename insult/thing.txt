@@ -41,6 +41,8 @@ death-token
 demi- $noun|$noun_S
 devil
 discharge
+dotard
+doxy
 drunkard
 dunderhead
 eunuch
@@ -50,6 +52,7 @@ fortune-teller
 goon-sack
 gudgeon
 haggard
+harlot
 hayseed
 hedge-wizard
 hooligan
@@ -73,7 +76,9 @@ ninny
 nutter
 outhouse
 pantaloon
+parasite
 peasant
+pimp
 poltroon
 pumpion
 puddle-grifter
@@ -97,10 +102,13 @@ stench|stenches
 stink
 stool
 strumpet
+tart
 thief|thieves
 toadstool
 tosspot
 treehugger
+trollop
+trull
 turd
 underpart
 vagabond

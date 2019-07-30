@@ -10,6 +10,7 @@ $noun -festooned
 $noun -vexing
 $noun-animal -bitten
 $noun-animal -biting
+$noun-animal -eaten
 $noun-animal -fowling
 $noun-animal -snouted
 $noun-animal -ish
@@ -26,21 +27,30 @@ $noun-monster-humanoid -skinned
 $noun-weapon-historic -impaled
 $person-profession-medieval -kissing
 $person-relative +less
+aberrant
+abominable
+abysmal
 accursed
 addle- $noun-bodypart +ed
 adulterated
 arrogant
 artless
 at-disadvantage
+baleful
 baneful
 bardish
 bedraggled
 beslubbering
+blasphemous
 bony
+bug-eyed
+bulbous
 catawumpus
+cheap
 cockered
 contagious
 contaminated
+corpulent
 craven
 debauched
 decrepit
@@ -62,21 +72,27 @@ full-gorged
 fractious
 frumpish
 froward
+gangrenous
+gibbering
 greasy
 hasty-witted
 hell-hated
 hideous
 ill-nurtured
 impertinent
+incestuous
 incontinent
+jaundiced
 lecherous
 leprous
 loggerheaded
 lopsided
 lumpish
+maggoty
 malignant
 mammering
 mangled
+monstrous
 motherless
 muddy-mottled
 murky
@@ -84,7 +100,9 @@ naughty
 nefarious
 never- $verb-intransitive_ING
 odiferous
+oily
 overweening
+parasitic
 paunchy
 peevish
 perfidious
@@ -97,13 +115,20 @@ pox-marked
 puke- $noun-clothing +ed
 pustulent
 rancorous
+repugnant
+repulsive
 roguish
 rough-hewn
 ruinous
 sanctimonious
 saucy
+scrofulous
+scurvy
 shameless
 slanderous
+slobbering
+slovenly
+sluggish
 snobbish
 spittle- $noun-clothing +ed
 spleeny
@@ -115,14 +140,17 @@ tickle- $noun-bodypart +ed
 toad-spotted
 toxic
 thrice- $verb-transitive_ED
+tumescent
 twice- $verb-transitive_ED
 unfavourable
 unmuzzled
 unrighteous
 unsanitary
 vainglorious
+verminous
 vile
 viperous
 virulent
+wanton
 wayward
 weedy
