@@ -1,0 +1,13 @@
+# Body parts found only on animals, not on humans
+@format ~|S
+antler
+claw
+fang
+fin
+flipper
+fur
+hoof|hooves
+horn
+tail
+tusk
+wing
