@@ -1,0 +1,18 @@
+@format ~
+$insult/interjection $insult/interjection
+'sblood!
+alack!
+alas and alack!
+ay!
+egad!
+fie!
+forsooth!
+gad!
+gadzooks!
+god's wounds!
+marry!
+pish!
+prithee!
+quotha!
+sirrah!
+zounds!
