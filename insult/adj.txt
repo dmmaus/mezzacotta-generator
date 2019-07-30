@@ -114,6 +114,7 @@ jaundiced
 lack-witted
 lecherous
 leprous
+light-blinded
 loggerheaded
 lopsided
 lumpish

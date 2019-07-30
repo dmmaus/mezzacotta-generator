@@ -4,6 +4,7 @@ $insult/interjection $insult/interjection
 alack!
 alas and alack!
 ay!
+blood and ashes!
 egad!
 fie!
 forsooth!

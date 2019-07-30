@@ -9,6 +9,7 @@ bunch|bunches
 crate
 covey
 flock
+glob
 grab-bag
 mass
 multitude
