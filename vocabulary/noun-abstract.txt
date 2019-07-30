@@ -142,6 +142,7 @@ fortune
 freedom
 friendship
 gloom
+glory|glories
 grace
 grandeur
 harmony|harmonies
