@@ -21,6 +21,7 @@ apple-john
 baggage
 bard
 bedswerver
+bilge-stone
 birdbrain
 blackguard
 blatherskite
@@ -54,6 +55,7 @@ doxy
 drate-poke
 driggle-draggle
 drunkard
+dunce
 dunderhead
 eunuch
 feculence
@@ -77,6 +79,7 @@ knave
 layabout
 lewdster
 lickspittle
+lightskirt
 lightweight
 loiter-sack
 lout
