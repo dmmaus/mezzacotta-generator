@@ -7,10 +7,14 @@ $adj-person $person in a $noun-clothing
 $adj-person $person_S
 $adj-person $person_S at the $noun-instrument-musical
 $figure and $figure
+$figure and the $noun-animal
 $figure in $place-fictional
 $figure $verb-transitive_ING the $noun-animal_S of $place
 $figure-mythology and the $noun-monster
 $figure-mythology $verb-transitive_ING $figure-mythology
+2$verb-intransitive_ING $person with $noun_S
+2$verb-intransitive_ING $person with a $noun
+2$verb-intransitive_ING $person with $noun , $noun and $noun
 $name-forename-modern and $name-forename-modern
 $name-forename-modern $verb-transitive_ING the $noun_S
 $name-forename-modern 's $adj-person
@@ -21,10 +25,8 @@ $noun-plant_S
 $noun_S and $noun_S
 $noun_S and $noun_S ( $place )
 $noun_S of $place
+$noun-composition-musical to $place
 $person $verb-transitive_ING a $noun
-$person with $noun_S
-$person with a $noun
-$person with $noun , $noun and $noun
 $number-small $noun-bodypart studies (for $art/artwork-title )
 $number-small $person_S
 $number-small 1$adjective $noun_S
@@ -47,6 +49,7 @@ allegory on the $noun-artifact-abstract of $figure
 colour study (for $art/artwork-title )
 composition in $adj-colour and $adj-colour
 composition No. @random3(0,10)+1
+composition No. @random3(0,10)+1 ( $art/anything )
 composition of $art/element-geometric_S and 5$art/adj-arrangement $art/element-geometric_S
 composition sketch of $person (for $art/artwork-title )
 composition study (for $art/artwork-title )
@@ -70,9 +73,10 @@ self-portrait as $figure
 self-portrait with a $noun
 still life with $artifact/base
 still life with $noun
-still life with $dish/base
+still life with $dish/ingredient_S
 study of $art/feature-basic
 the $noun-abstract of $noun-abstract
+the $noun-abstract of $noun_S
 the $noun-abstract of $noun-abstract in the $noun-bodypart of someone $adj-state-animate
 the $art/event-myth of Saint $name-forename-old
 the $art/event-place of $place-city
@@ -81,6 +85,7 @@ the $person 's $movie/event
 the $number-small $person-relation_S of $figure $verb-transitive_ING their $person-relation_S
 the $person
 the $person_S
+the $person 's $noun-bodypart
 the $person $verb-transitive_S her own $noun
 the $person $verb-transitive_S his own $noun
 the $person and her $person-relation
