@@ -13,5 +13,7 @@ $insult/is like unto
 $insult/is moreso $insult/adj than
 $insult/is twin to
 $verb-transitive_ED
+appears as
 smelled of
 is known as
+resembled
