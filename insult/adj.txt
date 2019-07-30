@@ -16,6 +16,8 @@ $noun-animal -ish
 $noun-animal -witted
 $noun-animal -headed
 $noun-animal -poxed
+$noun-animal -ridden
+$noun-animal - $verb-transitive_ING
 $noun-bodypart +less
 $noun-bodypart -licking
 $noun-geography-landform -born
@@ -78,6 +80,7 @@ mangled
 motherless
 muddy-mottled
 murky
+naughty
 nefarious
 never- $verb-intransitive_ING
 odiferous
@@ -96,6 +99,7 @@ pustulent
 rancorous
 roguish
 rough-hewn
+ruinous
 sanctimonious
 saucy
 shameless
@@ -110,9 +114,11 @@ tardy-gaited
 tickle- $noun-bodypart +ed
 toad-spotted
 toxic
+thrice- $verb-transitive_ED
 twice- $verb-transitive_ED
 unfavourable
 unmuzzled
+unrighteous
 unsanitary
 vainglorious
 vile

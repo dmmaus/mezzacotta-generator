@@ -3,6 +3,7 @@ agglomeration
 bag
 blob
 box|boxes
+bucket
 bunch|bunches
 covey
 flock
