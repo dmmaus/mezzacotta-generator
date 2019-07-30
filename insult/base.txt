@@ -3,7 +3,7 @@
 05$insult/interjection At birth thou wert $village/festival-givento a $insult/adj $insult/thing
 05$insult/interjection Dost thou $verb-transitive a $insult/adj $insult/thing ?
 05$insult/interjection I hath seen better $noun-bodypart-human_S on a 4$insult/adj $insult/set of $insult/adj $noun-animal_S
-05$insult/interjection I mistook thee for a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing
+6$insult/interjection I mistook thee for a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing
 05$insult/interjection That $noun-clothing makes you look less $insult/adj
 05$insult/interjection Thou art a 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S
 05$insult/interjection Thou art the 3$insult/adj $person-relation of a $insult/adj $insult/thing

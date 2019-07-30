@@ -60,6 +60,7 @@ feculence
 felon
 fopdoodle
 fortune-teller
+frump
 fustilarian
 fustyplug
 gobermouch|gobermouches
@@ -137,7 +138,7 @@ snollygoster
 snowflake
 snoutband
 snowberry|snowberries
-son of a $insult/thing|$insult/thing_S
+son|sons of a $insult/thing
 sot
 sponge
 stench|stenches

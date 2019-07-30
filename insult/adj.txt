@@ -11,6 +11,7 @@ $adj-person
 $adj-person
 $adjective $noun-bodypart-human +ed
 $dish/ingredient -eating
+$dish/ingredient -witted
 $dish/food-method
 $noun -brained
 $noun -festooned
@@ -90,11 +91,12 @@ fen-sucked
 festering
 fickle
 flab-waisted
+fleering
 fool-borne
-full-gorged
 fractious
 frumpish
 froward
+full-gorged
 gangrenous
 gibbering
 gormless
@@ -119,6 +121,7 @@ malodorous
 mammering
 mangled
 miserly
+mongrel
 monstrous
 motherless
 muddy-mottled
