@@ -11,7 +11,7 @@ And $movie/actress as herself
 With $movie/actor in his most $artifact/adj-artifact performance yet
 With $movie/actress in her most $artifact/adj-artifact performance yet
 Featuring $movie/act in this year's most $adj-person role
-And $movie/act 's $noun-bodypart
+And $movie/act 's $noun-bodypart-human
 Also with $movie/act 's $person-relation
 With music by $movie/act performed on the $noun-instrument-musical
 And the entire cast of <i>_ $movie/title _</i>

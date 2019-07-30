@@ -18,7 +18,7 @@ $figure-mythology $verb-transitive_ING $figure-mythology
 $name-forename-modern and $name-forename-modern
 $name-forename-modern $verb-transitive_ING the $noun_S
 $name-forename-modern 's $adj-person
-$noun-bodypart of a $person-non-profession
+$noun-bodypart-human of a $person-non-profession
 $noun-geography-landform landscape with $person_S
 $noun-geography-structure , $village/base
 $noun-plant_S
@@ -42,8 +42,8 @@ $village/base at $time-holiday
 ( $art/anything ) $art/anything
 a $noun-geography-landform near $place-city
 a $person
-a $person $verb-transitive_ING her $person-relation 's $noun-bodypart
-a $person $verb-transitive_ING his $person-relation 's $noun-bodypart
+a $person $verb-transitive_ING her $person-relation 's $noun-bodypart-human
+a $person $verb-transitive_ING his $person-relation 's $noun-bodypart-human
 a day at $village/base
 allegory on the $noun-artifact-abstract of $figure
 colour study (for $art/artwork-title )
@@ -77,7 +77,7 @@ still life with $dish/ingredient_S
 study of $art/feature-basic
 the $noun-abstract of $noun-abstract
 the $noun-abstract of $noun_S
-the $noun-abstract of $noun-abstract in the $noun-bodypart of someone $adj-state-animate
+the $noun-abstract of $noun-abstract in the $noun-bodypart-human of someone $adj-state-animate
 the $art/event-myth of Saint $name-forename-old
 the $art/event-place of $place-city
 the $movie/event of $figure
@@ -85,7 +85,7 @@ the $person 's $movie/event
 the $number-small $person-relation_S of $figure $verb-transitive_ING their $person-relation_S
 the $person
 the $person_S
-the $person 's $noun-bodypart
+the $person 's $noun-bodypart-human
 the $person $verb-transitive_S her own $noun
 the $person $verb-transitive_S his own $noun
 the $person and her $person-relation

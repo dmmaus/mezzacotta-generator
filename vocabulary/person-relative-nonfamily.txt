@@ -1,6 +1,6 @@
 # Non-family relationships
 @format ~|S
-$noun-bodypart|$noun_bodypart_S
+$noun-bodypart-human|$noun-bodypart-human_S
 acquaintance
 ancestor
 apprentice

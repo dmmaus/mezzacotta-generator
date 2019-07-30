@@ -6,10 +6,10 @@
 @replace|spineed|spined
 @replace|toeed|toed
 @replace|tongueed|tongued
-$adj-colour-basic - $noun-bodypart
+$adj-colour-basic - $noun-bodypart-human
 $adj-person
 $adj-person
-$adjective $noun-bodypart -ed
+$adjective $noun-bodypart-human +ed
 $dish/ingredient -eating
 $dish/food-method
 $noun -brained
@@ -30,7 +30,7 @@ $noun-animal -spawned
 $noun-animal -witted
 $noun-animal - $verb-transitive_ING
 $noun-animal-invertebrate -infested
-$noun-bodypart +less
+$noun-bodypart-human +less
 $noun-bodypart -licking
 $noun-geography-landform -born
 $noun-monster -borne
@@ -42,7 +42,7 @@ aberrant
 abominable
 abysmal
 accursed
-addle- $noun-bodypart +ed
+addle- $noun-bodypart-human +ed
 adulterated
 arrogant
 artless
@@ -70,13 +70,13 @@ contaminated
 cuckolded
 corpulent
 craven
-crooked- $noun-bodypart +ed
+crooked- $noun-bodypart-human +ed
 debauched
 decrepit
 deformed
 dismal-dreaming
 dissembling
-dizzy- $noun-bodypart +ed
+dizzy- $noun-bodypart-human +ed
 dread-bolted
 dung-ridden
 dusty
@@ -158,7 +158,7 @@ spoony
 swollen-headed
 tallow-faced
 tardy-gaited
-tickle- $noun-bodypart +ed
+tickle- $noun-bodypart-human +ed
 toad-spotted
 toxic
 thrice- $verb-transitive_ED

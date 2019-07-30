@@ -2,10 +2,10 @@
 At birth thou wert $village/festival-givento a $insult/adj $insult/thing
 I hath seen better $noun-bodypart-human_S on a 4$insult/adj $insult/set of $insult/adj $noun-animal_S
 Thou art a 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S
-Thou art the $person-relation of a $insult/adj $insult/thing
+Thou art the 3$insult/adj $person-relation of a $insult/adj $insult/thing
 Thou wert begat between a 4$insult/adj $insult/thing and a 4$insult/adj $insult/thing
-Thy $noun-bodypart is $insult/like a 4$insult/adj $insult/thing
-Thy $person-relative art a $insult/adj 4$insult/adj $insult/thing
+Thy $noun-bodypart-human is $insult/like a 4$insult/adj $insult/thing
+Thy $person-relative art 3$insult/like a $insult/adj 4$insult/adj $insult/thing
 You 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing
 You 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S
 You $person-relation of a $insult/adj $insult/thing
