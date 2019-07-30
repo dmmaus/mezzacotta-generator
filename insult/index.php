@@ -7,11 +7,11 @@
 <body>
 <h1>Random RPG Insults</h1>
 <p>
-5 random insults, perfect for directing at villainous scum. Reload for more.
+10 random insults, perfect for directing at villainous scum. Reload for more.
 </p>
 <ul>
 <?php
-$command = escapeshellcmd('/usr/bin/python ../generique.py insult/base 5');
+$command = escapeshellcmd('/usr/bin/python ../generique.py insult/base 10');
 $output = shell_exec($command);
 $output = preg_replace("/'/", "’", $output);
 $lines = explode("\n", rtrim($output));
