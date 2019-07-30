@@ -8,6 +8,7 @@ flipper
 fur
 hoof|hooves
 horn
+snout
 tail
 tusk
 wing

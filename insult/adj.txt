@@ -13,6 +13,7 @@ $adjective $noun-bodypart-human +ed
 $dish/ingredient -eating
 $dish/ingredient -witted
 $dish/food-method
+$insult/adj and $insult/adj
 $noun -brained
 $noun -festooned
 $noun -vexing

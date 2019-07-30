@@ -1,18 +1,20 @@
 @format ~
+@replace|!'|! '
 $insult/interjection $insult/interjection
 'sblood!
-alack!
-alas and alack!
-ay!
-egad!
-fie!
-forsooth!
-gad!
-gadzooks!
-god's wounds!
-marry!
-pish!
-prithee!
-quotha!
-sirrah!
-zounds!
+Alack!
+Alas and alack!
+Ay!
+Egad!
+Fie!
+Forsooth!
+Gad!
+Gadzooks!
+God's wounds!
+Marry!
+Pish!
+Prithee!
+Quotha!
+Sirrah!
+Tosh!
+Zounds!

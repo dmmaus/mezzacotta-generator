@@ -45,7 +45,9 @@ nipple
 nose
 nostril
 palm
+pate
 pinky|pinkies
+scalp
 shoulder
 skull
 sole
