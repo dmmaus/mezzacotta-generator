@@ -1,5 +1,6 @@
 @format ~|S
 bag
+bucket
 bunch|bunches
 grab-bag
 box|boxes
