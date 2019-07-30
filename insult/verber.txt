@@ -1,0 +1,7 @@
+@format ~|S
+-eater
+-licker
+-lover
+-smeller
+-fancier
+-collector

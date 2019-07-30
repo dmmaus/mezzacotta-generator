@@ -1,0 +1,110 @@
+@format ~|S
+$dish/ingredient -eater
+$insult/thing $insult/verber|$insult/verber_S
+$insult/thing $insult/verber|$insult/verber_S
+$insult/thing $insult/verber|$insult/verber_S
+$insult/thing - $insult/thing|$insult/thing_S
+$noun -fetcher
+$noun -head
+$noun-animal -baiter
+$noun-animal -pie
+$noun-animal dropping
+$noun-animal - $noun-animal|$noun-animal_S
+$noun-geography-landform -dweller
+$noun-bodypart -beast
+$noun-monster_S -meat
+$noun-monster|$noun-monster_S
+$person|$person_S
+$insult/set|$insult/set_S of $insult/thing_S
+baggage
+bard
+birdbrain
+blackguard
+boob
+boozer
+botchling
+brute
+buffoon
+bumpkin
+canker
+carbunkle
+catawump
+clack-dish
+charlatan
+chimneysweep
+codpiece
+cowplop
+coxcomb
+cretin
+dastard
+death-token
+demi- $noun|$noun_S
+devil
+discharge
+drunkard
+dunderhead
+eunuch
+feculence
+felon
+fortune-teller
+goon-sack
+gudgeon
+haggard
+hayseed
+hedge-wizard
+hooligan
+jolthead
+knave
+layabout
+lewdster
+lightweight
+lout
+lowlife|lowlives
+maggot
+meadow-muffin
+measle
+milk-drinker
+moldwarp
+mongoose
+mugwump
+ne'er-do-well
+ninny
+|no- $noun-bodypart_S
+nutter
+outhouse
+pantaloon
+peasant
+poltroon
+pumpion
+puddle-grifter
+pustule
+rascal
+redolence
+scalawag
+scapegrace
+scarecrow
+scullion
+scum-whiffer
+sharecropper
+shyster
+simpleton
+skeever-butt
+snowberry|snowberries
+sponge
+stench|stenches
+stink
+stool
+strumpet
+thief|thieves
+toadstool
+tosspot
+treehugger
+turd
+underpart
+vagabond
+varlet
+villain
+whey-face
+wine-bibber
+witch|witches
+wretch|wretches

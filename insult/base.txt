@@ -1,0 +1,4 @@
+@format ~
+You 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing
+You 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S
+You $person-relation of a $insult/adj $insult/thing
