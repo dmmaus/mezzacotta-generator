@@ -15,3 +15,5 @@ $insult/interjection Thou hast the $insult/target of a much less $insult/adj $in
 05$insult/interjection You 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S
 05$insult/interjection You $person-relation of a $insult/adj $insult/thing
 05$insult/interjection Your $person-relation $verb-transitive_S a $insult/adj $insult/thing
+01$insult/interjection Does your $person-relation know you are a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing ?
+05$insult/interjection $verb-transitive me with a $insult/adj $noun if I've ever seen such a 4$insult/adj $insult/thing .

@@ -93,6 +93,7 @@ fickle
 flab-waisted
 fleering
 fool-borne
+forsaken
 fractious
 frumpish
 froward
@@ -120,11 +121,13 @@ malignant
 malodorous
 mammering
 mangled
+mangy
 miserly
 mongrel
 monstrous
 motherless
 muddy-mottled
+mumbling
 murky
 naughty
 nefarious
