@@ -1,4 +1,11 @@
 @format ~
+@replace|bellyed|bellied
+@replace|calfed|calved
+@replace|kneeed|kneed
+@replace|noseed|nosed
+@replace|spineed|spined
+@replace|toeed|toed
+@replace|tongueed|tongued
 $adj-colour-basic - $noun-bodypart
 $adj-person
 $adj-person
@@ -39,6 +46,7 @@ at-disadvantage
 baleful
 baneful
 bardish
+base
 bedraggled
 beggarly
 beslubbering
@@ -48,12 +56,14 @@ bug-eyed
 bulbous
 catawumpus
 cheap
+churlish
 cockered
 contagious
 contaminated
 cuckolded
 corpulent
 craven
+^crooked- $noun-bodypart +ed
 debauched
 decrepit
 deformed

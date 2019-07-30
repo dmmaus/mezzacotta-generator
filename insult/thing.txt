@@ -19,6 +19,7 @@ $person|$person_S
 $insult/set|$insult/set_S of $insult/thing_S
 baggage
 bard
+bedswerver
 birdbrain
 blackguard
 boob
@@ -30,13 +31,16 @@ bumpkin
 canker
 carbunkle
 catawump
-clack-dish
+clack-dish|clack-dishes
 charlatan
 chimneysweep
+churl
+clout
 codpiece
 cowplop
 coxcomb
 cretin
+cumberwold
 dastard
 death-token
 demi- $noun|$noun_S
@@ -44,12 +48,18 @@ devil
 discharge
 dotard
 doxy
+drate-poke
+driggle-draggle
 drunkard
 dunderhead
 eunuch
 feculence
 felon
+fopdoodle
 fortune-teller
+fustilarian
+fustyplug
+gobermouch|gobermouches
 goon-sack
 gudgeon
 haggard
@@ -62,17 +72,21 @@ knave
 layabout
 lewdster
 lightweight
+loiter-sack
 lout
 lowlife|lowlives
+lubberwort
 maggot
 meadow-muffin
 measle
 milk-drinker
 moldwarp
 mongoose
+muck-spout
 mugwump
+mumblecrust
 ne'er-do-well
-ninny
+ninny|ninnies
 |no- $noun-bodypart_S
 nutter
 outhouse
@@ -84,8 +98,11 @@ poltroon
 pumpion
 puddle-grifter
 pustule
+puturelle
+quisby|quisbies
 rascal
 redolence
+saddle- $noun-animal|$noun-animal_S
 scalawag
 scapegrace
 scarecrow
@@ -96,8 +113,11 @@ shyster
 simpleton
 skeever-butt
 slubberdegullion
+smellfungus|smellfungi
+snoutband
 snowberry|snowberries
 son of a $insult/thing|$insult/thing_S
+sot
 sponge
 stench|stenches
 stink
@@ -115,7 +135,9 @@ underpart
 vagabond
 varlet
 villain
+wetfoot
 whey-face
 wine-bibber
 witch|witches
 wretch|wretches
+yaldson
