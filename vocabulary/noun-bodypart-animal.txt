@@ -1,14 +1,32 @@
 # Body parts found only on animals, not on humans
 @format ~|S
+antenna|antennae
 antler
 claw
+dewlap
 fang
+fetlock
 fin
 flipper
+foreleg
 fur
+gill
+hind leg
+hock
 hoof|hooves
 horn
+mandible
+muzzle
+paw
+shank
+shell
 snout
 tail
+thorax|thoraxes
+trunk
 tusk
+udder
+wattle
+whisker
 wing
+|withers
