@@ -3,6 +3,7 @@
 @replace|calfed|calved
 @replace|kneeed|kneed
 @replace|noseed|nosed
+@replace|pateed|pated
 @replace|spineed|spined
 @replace|toeed|toed
 @replace|tongueed|tongued

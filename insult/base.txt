@@ -1,5 +1,5 @@
 @format ~
-05$insult/interjection $verb-transitive me with a $insult/adj $noun if I've ever seen such a 4$insult/adj $insult/thing .
+^05$insult/interjection $verb-transitive me with a $insult/adj $noun if I've ever seen such a 4$insult/adj $insult/thing .
 05$insult/interjection A 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S called, they want their $insult/adj $noun-bodypart-human back!
 05$insult/interjection At birth thou wert $village/festival-givento a $insult/adj $insult/thing .
 05$insult/interjection Dost thou $verb-transitive a $insult/adj $insult/thing ?
