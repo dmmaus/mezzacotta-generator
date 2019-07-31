@@ -15,6 +15,7 @@
 -licker
 -lotcher
 -lover
+-seller
 -slobberer
 -smeller
 -sniffer

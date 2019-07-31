@@ -39,6 +39,7 @@ $noun-monster-humanoid -skinned
 $noun-weapon-historic -impaled
 $person-profession-medieval -kissing
 $person-relative +less
+$insult/adj excuse for a
 aberrant
 abominable
 abysmal
@@ -48,6 +49,7 @@ adulterated
 arrogant
 artless
 at-disadvantage
+baldy-backed
 baleful
 baneful
 bardish
@@ -70,6 +72,7 @@ churlish
 cockered
 contagious
 contaminated
+craven-tailed
 cuckolded
 corpulent
 cozening
@@ -85,6 +88,7 @@ dizzy- $noun-bodypart-human +ed
 dread-bolted
 dung-ridden
 dusty
+entrail-eating
 envenomed
 errant
 fen-sucked
@@ -116,6 +120,7 @@ lecherous
 leprous
 light-blinded
 loggerheaded
+loppylugged
 lopsided
 lumpish
 maggoty
@@ -180,6 +185,7 @@ thrice- $verb-transitive_ED
 tumescent
 twice- $verb-transitive_ED
 unfavourable
+unlettered
 unlicked
 unmuzzled
 unrighteous

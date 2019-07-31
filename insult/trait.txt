@@ -10,6 +10,7 @@ coiffure
 complexion
 confidence
 costume
+countenance
 figure
 genius
 grace
