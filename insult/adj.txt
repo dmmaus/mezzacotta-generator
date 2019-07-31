@@ -76,6 +76,7 @@ contagious
 contaminated
 craven-tailed
 cuckolded
+comet-crossed
 corpulent
 cozening
 craven
@@ -109,9 +110,11 @@ gangrenous
 gibbering
 gormless
 greasy
+grim-look'd
 hasty-witted
 hell-hated
 hideous
+home-spun
 ill-nurtured
 impertinent
 incestuous
@@ -143,6 +146,7 @@ nefarious
 never- $verb-intransitive_ING
 odiferous
 oily
+overripe
 overweening
 parasitic
 paunchy
@@ -178,8 +182,10 @@ spittle- $noun-clothing +ed
 spleeny
 spoony
 swollen-headed
+star-crossed
 tallow-faced
 tardy-gaited
+tart-tongued
 tickle- $noun-bodypart-human +ed
 toad-spotted
 toxic

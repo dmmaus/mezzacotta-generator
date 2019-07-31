@@ -7,6 +7,7 @@
 05$insult/interjection $verb-transitive me with a $insult/adj $noun if I've ever seen such a 4$insult/adj $insult/thing .
 01$insult/interjection Art thou a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing , or merely $verb-transitive_ED by one?
 05$insult/interjection I hath seen better $noun-bodypart-human_S on a 4$insult/adj $insult/set of $insult/adj $noun-animal_S .
+05$insult/interjection I hath seen a 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S with greater $insult/trait than thee.
 8$insult/interjection  I mistook thee for a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing .
 05$insult/interjection That $noun-clothing makes you look less $insult/adj .
 8$insult/interjection  Thou hast the $insult/trait of a $insult/adj $insult/thing .
@@ -20,4 +21,3 @@ $insult/interjection   Thou hast the $insult/target of a much less $insult/adj $
 05$insult/interjection You 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S .
 05$insult/interjection You $person-relation of a $insult/adj $insult/thing .
 05$insult/interjection Your $person-relation $verb-transitive_S a $insult/adj $insult/thing .
-
