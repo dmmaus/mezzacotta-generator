@@ -16,6 +16,12 @@ is|art like unto
 is|art moreso $insult/adj than
 is|art twin to
 $verb-transitive_ED|$verb-transitive_ED
-appeareth|appearst as
+appeareth|appearst belike
+imitateth|imitatest
+mimicketh|mimickst
+mirroreth|mirrorest
+reeketh|reekst of
 smelleth|smellst of
+stinketh|stinkst of
+reflecteth|reflectst
 resembleth|resemblest
