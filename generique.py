@@ -282,12 +282,6 @@ class MezzaGenerator:
     # Expand a random line from a file, and neaten it
     def Generate(self, spec):
         result = self.Expand(spec)
-        # Make first letter of result upper case, even if it's after a quote character
-        if result.startswith("&ldquo;"):
-            result = "&ldquo;" + result[7].upper() + result[8:]
-        else:
-            result = ' ' + result[0].upper() + result[1:]
-
         # Do the general replacements
         for key in self.replacements.keys():
             if key in result:
@@ -298,10 +292,33 @@ class MezzaGenerator:
                 result = result.replace(key, self.replacements_custom[key])
 
         #remove duplicate spaces
-        result = re.sub(' +', ' ', result)
+        result = re.sub(' +', ' ', result.strip())
+        
+        # Make sentence case by default
+        # Make first letter of result upper case, even if it's after a quote character
+        if result.startswith("&ldquo;"):
+            result = "&ldquo;" + result[7].upper() + result[8:]
+        else:
+            result = result[0].upper() + result[1:]
+        # capitalise first non-space character after each sentence-ending punctuation mark
+        if '. ' in result:
+            bits = []
+            for bit in result.split('. '):
+                bits.append(bit[0].upper() + bit[1:])
+            result = '. '.join(bits)
+        if '! ' in result:
+            bits = []
+            for bit in result.split('! '):
+                bits.append(bit[0].upper() + bit[1:])
+            result = '! '.join(bits)
+        if '? ' in result:
+            bits = []
+            for bit in result.split('? '):
+                bits.append(bit[0].upper() + bit[1:])
+            result = '? '.join(bits)
 
         # Remove surrounding space and return
-        return result.strip()
+        return result
 
 
 if __name__ == '__main__':

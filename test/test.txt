@@ -4,3 +4,4 @@ Testing chance syntax: 5$test/i>half
 Chances without substitutions: 5red_red>black_black
 Chance of two substitutions: 5$test/noun>$test/verb
 Chance with no alt text: 5chance
+mary had a little lamb. its fleece was white as snow! and everywhere that mary went? the lamb was sure to go.
