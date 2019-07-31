@@ -1,8 +1,9 @@
 @format ~|S
 $dish/ingredient -eater
-$insult/thing $insult/verber|$insult/verber_S
-$insult/thing $insult/verber|$insult/verber_S
-$insult/thing $insult/verber|$insult/verber_S
+$insult/material - $insult/verber|$insult/verber_S
+$insult/thing - $insult/verber|$insult/verber_S
+$insult/thing - $insult/verber|$insult/verber_S
+$insult/thing - $insult/verber|$insult/verber_S
 $insult/thing - $insult/thing|$insult/thing_S
 $insult/thing|$insult/thing_S that $verb-transitive_S|$verb-transitive $insult/thing_S
 $insult/thing -nugget

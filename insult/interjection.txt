@@ -2,6 +2,7 @@
 @replace|!'|! '
 $insult/interjection $insult/interjection
 $verb-transitive me with a 4$insult/adj $noun-tool !
+$verb-transitive mine $person-relative !
 'sblood!
 Alack!
 Alas and alack!
