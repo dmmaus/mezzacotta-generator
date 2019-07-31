@@ -1,13 +1,50 @@
 @format ~|S
 anvil
+auger
+awl
+axe
+ball-peen hammer
 bellows|bellows
+bill-hook
+bodkin
+chisel
+clamp
+claw hammer
+corkscrew
+drawknife
+drill
+file
 forge
 fork
+gimlet
 hammer
+jig
 knife|knives
+ladder
+mallet
 marlinspike
+mattock
+maul
 nail
+pestle
+plane
 pliers|pliers
 plough
+ploughshare
+rake
+saw
+saw horse
+scauper
+screwdriver
+scutcher
+scythe
+shovel
+sickle
+sledgehammer
+spade
+spirit level
+spokeshave
 spoon
+trowel
+vice
 wheel
