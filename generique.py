@@ -305,7 +305,7 @@ class MezzaGenerator:
         if result.startswith("&ldquo;"):
             result = "&ldquo;" + result[7].upper() + result[8:]
         else:
-            result = ' ' + result[0].upper() + result[1:]
+            result = result[0].upper() + result[1:]
         # capitalise first non-space character after each sentence-ending punctuation mark
         if '. ' in result:
             bits = []
@@ -323,7 +323,7 @@ class MezzaGenerator:
                 bits.append(bit[0].upper() + bit[1:])
             result = '? '.join(bits)
 
-        return result
+        return result.strip()
 
 
 if __name__ == '__main__':
