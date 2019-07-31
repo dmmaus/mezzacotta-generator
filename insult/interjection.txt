@@ -1,19 +1,22 @@
 @format ~
+@replace|!'|! '
 $insult/interjection $insult/interjection
+$verb-transitive me with a 4$insult/adj $noun-tool !
 'sblood!
-alack!
-alas and alack!
-ay!
-blood and ashes!
-egad!
-fie!
-forsooth!
-gad!
-gadzooks!
-god's wounds!
-marry!
-pish!
-prithee!
-quotha!
-sirrah!
-zounds!
+Alack!
+Alas and alack!
+Ay!
+Blood and ashes!
+Egad!
+Fie!
+Forsooth!
+Gad!
+Gadzooks!
+God's wounds!
+Marry!
+Pish!
+Prithee!
+Quotha!
+Sirrah!
+Tosh!
+Zounds!

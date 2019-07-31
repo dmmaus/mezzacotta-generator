@@ -235,9 +235,10 @@ class MezzaGenerator:
         plus = False
 
         for word in randomline.split():
-
-            # Words starting with $ are expanded using the file of the corresponding name
-            if '$' in word:
+        
+            # First see if the word is a conditional and resolve the conditional probability
+            # Don't trigger conditional parsing if the word is a pure integer number
+            if not word.isdigit():
                 # Grab the number at the start of the string (if any)
                 chance_substring = ''
                 while word[0].isdigit():
@@ -249,23 +250,17 @@ class MezzaGenerator:
                     alt_text = word[word.find('>') + 1:]
                     word = word[:word.find('>')]
 
-                chance_roll = False
-                chance_failed = False
                 if chance_substring != '':
                     chance = int(chance_substring) / float(10 ** len(chance_substring))
-                    chance_roll = chance > random.random()
-                    if not chance_roll:
-                        chance_failed = True
+                    if random.random() > chance:
+                        word = alt_text
 
-                if chance_substring == '' or chance_roll:
-                    result += self.Expand(word[1:], cap = cap and not plus)
-
-                if alt_text != '' and chance_failed:
-                    result += alt_text + ' '
-
+            # Words starting with $ are expanded using the file of the corresponding name
+            if '$' in word:
+                result += self.Expand(word[1:], cap = cap and not plus)
                 plus = False
 
-            elif word == "+" or word[0] == "-":
+            elif word != '' and (word == "+" or word[0] == "-"):
                 plus = True
                 # Go back and capitalise the previous word fragment if necessary
                 # Needed to capitalise fragments that are in non_cap_words, when joined with +
@@ -277,7 +272,7 @@ class MezzaGenerator:
                 result += word + ' '
 
             else:
-                if cap and not plus and word not in non_cap_words:
+                if len(word) > 1 and cap and not plus and word not in non_cap_words:
                     word = word[0].upper() + word[1:]
                 plus = False
                 result += word + ' '

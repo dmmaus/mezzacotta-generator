@@ -1,3 +1,6 @@
 @format ~
 Here's a line from the combined file: $test/i
 Testing chance syntax: 5$test/i>half
+Chances without substitutions: 5red_red>black_black
+Chance of two substitutions: 5$test/noun>$test/verb
+Chance with no alt text: 5chance

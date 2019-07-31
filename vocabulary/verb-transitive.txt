@@ -194,6 +194,7 @@ pay
 perform|performs|performed|performing with
 pick
 pick|picks|picked|picking on
+pickle|pickles|pickled|pickling
 place|places|placed|placing
 play|plays|played|playing with
 point|points|pointed|pointing at
