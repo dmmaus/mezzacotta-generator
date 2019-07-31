@@ -284,7 +284,7 @@ class MezzaGenerator:
         result = self.Expand(spec)
         
         # remove duplicate spaces
-        result = re.sub(' +', ' ', result.strip())
+        result = re.sub(' +', ' ', result)
         
         # Do the general replacements
         for key in self.replacements.keys():
@@ -295,12 +295,17 @@ class MezzaGenerator:
             if key in result:
                 result = result.replace(key, self.replacements_custom[key])
 
+        # Strip leading space and any trailing spaces
+        # Needs to be after the replacements to ensure the a->an replacement works at start of result
+        result = result.strip()
+
         # Make sentence case by default
         # Make first letter of result upper case, even if it's after a quote character
+        # Need to add a space at the beginning to ensure a-> an replacement works properly
         if result.startswith("&ldquo;"):
             result = "&ldquo;" + result[7].upper() + result[8:]
         else:
-            result = result[0].upper() + result[1:]
+            result = ' ' + result[0].upper() + result[1:]
         # capitalise first non-space character after each sentence-ending punctuation mark
         if '. ' in result:
             bits = []
