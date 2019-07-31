@@ -282,6 +282,10 @@ class MezzaGenerator:
     # Expand a random line from a file, and neaten it
     def Generate(self, spec):
         result = self.Expand(spec)
+        
+        # remove duplicate spaces
+        result = re.sub(' +', ' ', result.strip())
+        
         # Do the general replacements
         for key in self.replacements.keys():
             if key in result:
@@ -291,9 +295,6 @@ class MezzaGenerator:
             if key in result:
                 result = result.replace(key, self.replacements_custom[key])
 
-        #remove duplicate spaces
-        result = re.sub(' +', ' ', result.strip())
-        
         # Make sentence case by default
         # Make first letter of result upper case, even if it's after a quote character
         if result.startswith("&ldquo;"):
@@ -317,7 +318,6 @@ class MezzaGenerator:
                 bits.append(bit[0].upper() + bit[1:])
             result = '? '.join(bits)
 
-        # Remove surrounding space and return
         return result
 
 
