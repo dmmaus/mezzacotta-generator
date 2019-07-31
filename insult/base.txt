@@ -11,7 +11,7 @@
 $insult/interjection   Thou hast the $insult/target of a much less $insult/adj $insult/thing .
 05$insult/interjection Thou art a 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S .
 05$insult/interjection Thou art the 3$insult/adj $person-relation of a $insult/adj $insult/thing .
-05$insult/interjection Thou $insult/islike a $insult/adj $insult/thing , only moreso $insult/adj .
+05$insult/interjection Thou $insult/islike_ARE a $insult/adj $insult/thing , only moreso $insult/adj .
 05$insult/interjection Thou wert begat between a 4$insult/adj $insult/thing and a 4$insult/adj $insult/thing .
 05$insult/interjection Thy $insult/target $insult/islike a $insult/adj 4$insult/adj $insult/thing .
 05$insult/interjection You 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing .
