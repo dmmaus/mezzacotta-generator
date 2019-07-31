@@ -16,7 +16,9 @@ arrest
 attack
 attract
 ask
+assure
 avoid
+bake|bakes|baked|baking
 beat|beats|beat|beating
 befriend
 believe|believes|believed|believing in
@@ -178,6 +180,7 @@ mix|mixes|mixed|mixing
 mock
 move|moves|moved|moving
 need
+neglect
 notice|notices|noticed|noticing
 obey
 obsess|obsesses|obsessed|obsessing over
@@ -191,6 +194,7 @@ own
 pass|passes|passed|passing
 paint
 pay
+peel
 perform|performs|performed|performing with
 pick
 pick|picks|picked|picking on
@@ -236,6 +240,7 @@ ring|rings|rang|ringing
 rob|robs|robbed|robbing
 rub|rubs|rubbed|rubbing
 run|runs|ran|running with
+satisfy|satisfies|satisfied|satisfying
 save|saves|saved|saving
 sculpt
 see|sees|saw|seeing
@@ -249,6 +254,7 @@ shoot|shoots|shot|shooting
 shout|shouts|shouted|shouting at
 shove|shoves|shoved|shoving
 show
+shrink|shrinks|shrunk|shrinking
 shut|shuts|shut|shutting
 sing|sings|sang|singing with
 sing|sings|sang|singing to
@@ -277,6 +283,7 @@ survive|survives|survived|surviving
 take|takes|took|taking
 talk|talks|talked|talking to
 teach|teaches|taught|teaching
+tear|tears|tore|tearing
 tell|tells|told|telling
 test
 thank
@@ -301,6 +308,7 @@ wash|washes|washed|washing
 watch|watches|watched|watching
 weaken
 wear|wears|wore|wearing
+whip|whips|whipped|whipping
 win|wins|won|winning
 wipe|wipes|wiped|wiping
 wish|wishes|wished|wishing for

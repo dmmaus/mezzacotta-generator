@@ -5,6 +5,7 @@ $insult/thing $insult/verber|$insult/verber_S
 $insult/thing $insult/verber|$insult/verber_S
 $insult/thing - $insult/thing|$insult/thing_S
 $insult/thing|$insult/thing_S that $verb-transitive_S|$verb-transitive $insult/thing_S
+$insult/thing -nugget
 $noun -fetcher
 $noun -head
 $noun-animal -baiter
@@ -28,6 +29,7 @@ blatherskite
 boob
 boozer
 botchling
+braggart
 brute
 buffoon
 bumpkin
@@ -87,6 +89,7 @@ loiter-sack
 lout
 lowlife|lowlives
 lubberwort
+macaroni
 maggot
 meadow-muffin
 measle
@@ -99,15 +102,19 @@ mountebank
 muck-spout
 mugwump
 mumblecrust
-mumpsimus
+mumpsimus|mumpsimuses
+namby-pamby
 ne'er-do-well
+nincompoop
 ninny|ninnies
 ninnyhammer
 |no- $noun-bodypart_S
 nutter
 outhouse
 pantaloon
+pantywaist
 parasite
+peacock
 peasant
 pillock
 pignut
