@@ -31,7 +31,7 @@ $noun-animal -ridden
 $noun-animal -snouted
 $noun-animal -spawned
 $noun-animal -witted
-$noun-animal - $verb-transitive_ING
+$noun-animal - $verb-transitive-simple_ING
 $noun-animal-invertebrate -encrusted
 $noun-animal-invertebrate -infested
 $noun-bodypart-human +less
@@ -193,9 +193,9 @@ tickle- $noun-bodypart-human +ed
 toad-spotted
 toxic
 threepenny
-thrice- $verb-transitive_ED
+thrice- $verb-transitive-simple_ED
 tumescent
-twice- $verb-transitive_ED
+twice- $verb-transitive-simple_ED
 unfavourable
 unlettered
 unlicked
