@@ -76,6 +76,7 @@ haggard
 harlot
 hayseed
 hedge-wizard
+hobby-horse
 hooligan
 joithead
 jolthead
@@ -120,6 +121,7 @@ peasant
 pillock
 pignut
 pimp
+plunder-squatch
 poltroon
 prune
 pumpion

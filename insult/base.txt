@@ -9,7 +9,7 @@
 05$insult/interjection At birth thou wert $village/festival-givento a $insult/adj $insult/thing .
 05$insult/interjection Dost thou $verb-transitive a $insult/adj $insult/thing ?
 01$insult/interjection Doth thy $person-relation knoweth thou art a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing ?
-05$insult/interjection Hast thy 5$insult/trait>$noun-bodypart-human been $insult/made from a 4$insult/adj $insult/set of 4$insult/adj $insult/material with a $noun-tool ?
+05$insult/interjection Hast thy 5$insult/trait>$noun-bodypart-human been $insult/made from a 4$insult/adj $insult/set of 4$insult/adj $insult/material with a 9$noun-tool>$noun-weapon-historic ?
 05$insult/interjection I hath seen better $noun-bodypart-human_S on a 4$insult/adj $insult/set of $insult/adj $noun-animal_S .
 05$insult/interjection I hath seen a 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S with 3far less $insult/adj $insult/trait than thee.
 8$insult/interjection  I mistook thee for a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing .

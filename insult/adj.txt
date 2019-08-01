@@ -188,6 +188,7 @@ swollen-headed
 star-crossed
 tallow-faced
 tardy-gaited
+tarred-and-feathered
 tart-tongued
 tickle- $noun-bodypart-human +ed
 toad-spotted
