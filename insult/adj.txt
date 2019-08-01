@@ -1,4 +1,5 @@
 @format ~
+# replacements for $noun-bodypart-human +ed
 @replace|bellyed|bellied
 @replace|calfed|calved
 @replace|kneeed|kneed
@@ -7,6 +8,41 @@
 @replace|spineed|spined
 @replace|toeed|toed
 @replace|tongueed|tongued
+# replacements for $insult/apparel +ed
+@replace|axeed|axed
+@replace|baged|bagged
+@replace|barbuteed|barbuted
+@replace|bardicheed|bardiched
+@replace|blouseed|bloused
+@replace|brassiereed|brassiered
+# race condition between following two due to keys being returned in random order... not sure how to fix this
+@replace|caped|capped
+@replace|capeed|caped
+@replace|caneed|caned
+@replace|clubed|clubbed
+@replace|codpieceed|codpieced
+@replace|costumeed|costumed
+@replace|girdleed|girdled
+@replace|glaiveed|glaived
+@replace|gloveed|gloved
+@replace|hated|hatted
+@replace|lanceed|lanced
+@replace|maceed|maced
+@replace|mitreed|mitred
+@replace|monocleed|monocled
+@replace|necklaceed|necklaced
+@replace|pikeed|piked
+@replace|pipeed|piped
+@replace|purseed|pursed
+@replace|robeed|robed
+@replace|ruffleed|ruffled
+@replace|shoeed|shoed
+@replace|sickleed|sickled
+@replace|spectaclesed|spectacled
+@replace|tricorneed|tricorned
+@replace|vambraceed|vambraced
+@replace|whiped|whipped
+@replace|wimpleed|wimpled
 $adj-colour-basic - $noun-bodypart-human
 $adj-person
 $adj-person
