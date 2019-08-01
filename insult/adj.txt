@@ -162,7 +162,7 @@ plume-plucked
 polluted
 pompous
 pox-marked
-puke- $noun-clothing +ed
+puke- $insult/apparel +ed
 pustulent
 rancorous
 repugnant
@@ -181,7 +181,7 @@ slobbering
 slovenly
 sluggish
 snobbish
-spittle- $noun-clothing +ed
+spittle- $insult/apparel +ed
 spleeny
 spoony
 swollen-headed

@@ -1,0 +1,86 @@
+# Specialised list of worn items suitable for a fantasy setting
+@format ~|S
+# Regular clothing items, could be moved out to noun-clothing-medieval
+apron
+gown
+belt
+|bloomers
+blouse
+brassiere
+cape
+cloak
+coat
+garter
+girdle
+jacket
+|knickers
+loincloth
+overcoat
+|pants
+robe
+shawl
+skirt
+shirt
+smock
+sock
+stocking
+surcoat
+tabard
+|tights
+toga
+trenchcoat
+uniform
+costume
+vest
+# Accessories and hats
+bag
+bracelet
+cane
+earring
+|spectacles
+glove
+handkerchief
+neckerchief
+mitten
+monocle
+necklace
+pipe
+purse
+ring
+shield
+umbrella
+walking stick
+beret
+bonnet
+cap
+crown
+diadem
+dunce cap
+hat
+helm
+hood
+jester's cap
+skullcap
+tiara
+tricorne
+turban
+wig
+wimple
+witch's hat
+# Weapons
+@include noun-weapon-historic
+# Armour
+|chainmail
+|ringmail
+|leather armour
+|studded leather armour
+helmet
+jack
+barbute
+|plate armour
+pauldron
+breastplate
+gauntlet
+|greaves
+bracer
+vambrace

@@ -28,5 +28,6 @@ slime
 slop
 sludge
 snot
+spittle
 swill
 vomitus
