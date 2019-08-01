@@ -55,6 +55,7 @@ relative
 room-mate
 servant
 spouse
+squire
 student
 stunt double
 teacher
