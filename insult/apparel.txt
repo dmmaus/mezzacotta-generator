@@ -1,118 +1,118 @@
 # Specialised list of worn items suitable for a fantasy setting
 @format ~|S
 # Regular clothing items, could be moved out to noun-clothing-medieval
-apron
-gown
-belt
 |bloomers
+|knickers
+|pants
+|tights
+|trousers
+apron
+belt
 blouse
 brassiere
 cape
 cloak
 coat
+codpiece
+costume
+cuff
+doublet
 garter
 girdle
+gown
 jacket
-|knickers
+jerkin
 loincloth
+mantle
+neck-ruffle
 overcoat
-|pants
 robe
 shawl
-skirt
 shirt
+skirt
 smock
 sock
 stocking
 surcoat
 tabard
-|tights
 toga
 trenchcoat
+tunic
 uniform
-costume
 vest
 vestment
-jerkin
-tunic
-|trousers
-cuff
-neck-ruffle
-codpiece
-doublet
-mantle
 # Accessories, hats and shoes
-bag
-bracelet
-brooch
-buckle
-cane
-earring
+|shoon
 |spectacles
-glove
-handkerchief
-neckerchief
-mitten
-monocle
-necklace
-pipe
-purse
-ring
-sash
-scarf
-shield
-umbrella
-walking stick
+bag
 beret
 bonnet
+boot
+bracelet
+brogue
+brooch
+buckle
+cameo
+cane
 cap
-crown
+clog
 cowl
+crown
 diadem
 dunce cap
+earring
+emblem
+glove
+hair-pin
+handkerchief
 hat
+headdress
 helm
 hood
 jester's cap
+kerchief
+locket
+medallion
 mitre
+mitten
+monocle
+neckerchief
+necklace
+pendant
+pipe
+purse
+ring
+sandal
+sash
+scarf
+shield
+shoe
 skullcap
+slipper
 tiara
+toe ring
 tricorne
 turban
+umbrella
+walking stick
 wig
 wimple
 witch's hat
-headdress
-kerchief
-boot
-brogue
-clog
-sandal
-|shoon
-shoe
-slipper
-pendant
-toe ring
-cameo
-emblem
-locket
-medallion
-hair-pin
 # Weapons
 @include noun-weapon-historic
 # Armour
 |chainmail
-|ringmail
+|greaves
 |leather armour
+|plate armour
+|ringmail
 |studded leather armour
+barbute
+bracer
+breastplate
+chestplate
+gauntlet
 helmet
 jack
-barbute
-|plate armour
 pauldron
-chestplate
-breastplate
-gauntlet
-|greaves
-bracer
 vambrace
