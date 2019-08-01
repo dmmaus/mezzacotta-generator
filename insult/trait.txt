@@ -19,6 +19,7 @@ confidence
 costume
 countenance
 demeanour
+fame
 figure
 finesse
 garb

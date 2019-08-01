@@ -2,3 +2,4 @@
 $noun-bodypart-human
 $person-relative
 $insult/trait
+$insult/apparel

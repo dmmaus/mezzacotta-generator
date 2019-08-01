@@ -32,9 +32,20 @@ trenchcoat
 uniform
 costume
 vest
-# Accessories and hats
+vestment
+jerkin
+tunic
+|trousers
+cuff
+neck-ruffle
+codpiece
+doublet
+mantle
+# Accessories, hats and shoes
 bag
 bracelet
+brooch
+buckle
 cane
 earring
 |spectacles
@@ -47,6 +58,8 @@ necklace
 pipe
 purse
 ring
+sash
+scarf
 shield
 umbrella
 walking stick
@@ -54,12 +67,14 @@ beret
 bonnet
 cap
 crown
+cowl
 diadem
 dunce cap
 hat
 helm
 hood
 jester's cap
+mitre
 skullcap
 tiara
 tricorne
@@ -67,6 +82,22 @@ turban
 wig
 wimple
 witch's hat
+headdress
+kerchief
+boot
+brogue
+clog
+sandal
+|shoon
+shoe
+slipper
+pendant
+toe ring
+cameo
+emblem
+locket
+medallion
+hair-pin
 # Weapons
 @include noun-weapon-historic
 # Armour
@@ -79,6 +110,7 @@ jack
 barbute
 |plate armour
 pauldron
+chestplate
 breastplate
 gauntlet
 |greaves
