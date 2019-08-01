@@ -16,7 +16,7 @@ arrest
 attack
 attract
 ask
-assure
+assure|assures|assured|assuring
 avoid
 bake|bakes|baked|baking
 beat|beats|beat|beating
@@ -218,7 +218,7 @@ push|pushes|pushed|pushing
 raise|raises|raised|raising
 reach|reaches|reached|reaching
 read|reads|read|reading
-realize|realizes|realized|realizing
+realise|realises|realised|realising
 receive|receives|received|receiving
 recognize|recognizes|recognized|recognizing
 record|records|recorded|recording
@@ -297,7 +297,7 @@ treat
 turn
 understand|understands|understood|understanding
 use|uses|used|using
-upset
+upset|upsets|upset|upsetting
 violate|violates|violated|violating
 visit
 wait|waits|waited|waiting for
