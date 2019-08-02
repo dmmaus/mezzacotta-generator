@@ -13,8 +13,10 @@ herbalist
 necromancer
 nose plug
 physician
+potion|potions of healing
 poultice
 priest
 shaman
+tonic
 undertaker
 wise woman|women

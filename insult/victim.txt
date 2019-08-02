@@ -8,10 +8,12 @@ crone
 elderly_person|elderly
 god-fearing person|people
 good person|people
+goodwife|goodwives
 infant
 lady|ladies
 maiden
 mother
+noble
 nun
 old woman|women
 person|people

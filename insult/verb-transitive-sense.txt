@@ -1,8 +1,11 @@
 @format ~|S|ED|ING
+behold|beholds|beheld|beholding
 espy|espies|espied|espying
+discover
 feel|feels|felt|feeling
 glimpse|glimpses|glimpsed|glimpsing
 hear|hears|heard|hearing
+learn|learns|learnt|learning of
 notice|notices|noticed|noticing
 observe|observes|observed|observing
 see|sees|saw|seeing

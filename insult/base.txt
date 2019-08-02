@@ -8,8 +8,6 @@
 01$insult/interjection Art thou a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing , or 5merely>simply $verb-transitive-simple_ED by one?
 01$insult/interjection Art thou a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing , or 5merely>solely $insult/islike_ARE one?
 01$insult/interjection Art thou a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing , or 5merely>solely hast the 5$noun-bodypart>$insult/trait of one?
-# Just committing following one before bedtime - might develop it a bit more with additional files.
-8$insult/interjection  Art thou soothly as 5$dish/wine-intensifier $insult/adj as thou appearst? twould 5seem>appear 5impossible>preposterous!
 05$insult/interjection At birth thou wert $village/festival-givento a $insult/adj $insult/thing .
 05$insult/interjection Dost thou $verb-transitive a $insult/adj $insult/thing ?
 01$insult/interjection Doth thy $person-relation knoweth thou art a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing ?
@@ -32,5 +30,9 @@ $insult/interjection   Thou hast the $insult/target of a much less $insult/adj $
 05$insult/interjection Your $person-relation $verb-transitive_S a $insult/adj $insult/thing .
 05$insult/interjection Wast thou $verb-transitive-simple_ED by a 7$insult/adj $insult/thing , or is that 5simply>merely how thy $insult/target is?
 05$insult/interjection Wast thou $verb-transitive-simple_ED by a 7$insult/adj $insult/thing , or is thy $insult/target normally so $insult/adj ?
+#
 # development zone
+#
+8$insult/interjection  Art thou soothly as 5$dish/wine-intensifier $insult/adj as thou appearst? twould 5seem>appear 5impossible>preposterous!
+05$insult/interjection $insult/verb-transitive-fix thine $insult/adj $insult/target , lest it $verb-transitive-simple the village's $insult/victim_S
 #
