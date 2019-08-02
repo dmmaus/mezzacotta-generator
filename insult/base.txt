@@ -33,6 +33,6 @@ $insult/interjection   Thou hast the $insult/target of a much less $insult/adj $
 #
 # development zone
 #
-8$insult/interjection  Art thou soothly as 5$dish/wine-intensifier $insult/adj as thou appearst? twould 5seem>appear 5impossible>preposterous!
+08$insult/interjection  Art thou soothly as 5$dish/wine-intensifier $insult/adj as thou appearst? twould 5seem>appear 5impossible>preposterous!
 05$insult/interjection $insult/verb-transitive-fix thine $insult/adj $insult/target , lest it $verb-transitive-simple the village's $insult/victim_S
 #
