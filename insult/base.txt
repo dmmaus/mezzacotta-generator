@@ -2,6 +2,8 @@
 @replace|of that of|of
 @replace|ed that of|ed
 05$insult/interjection $verb-transitive me with a $insult/adj $noun if I've ever seen such a 4$insult/adj $insult/thing .
+05$insult/interjection 5After>Upon $insult/verb-transitive-sense_ING thy $insult/trait , the $insult/victim_S of the village hath need of a $insult/remedy .
+05$insult/interjection 5Even>E'en a $insult/remedy couldst not $insult/verb-transitive-fix 5thee_of thy 05$dish/wine-intensifier $insult/adj $insult/trait .
 05$insult/interjection A 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S called, they want their $insult/adj $noun-bodypart-human back!
 01$insult/interjection Art thou a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing , or 5merely>simply $verb-transitive-simple_ED by one?
 01$insult/interjection Art thou a 05$dish/wine-intensifier $insult/adj 4$insult/adj $insult/thing , or 5merely>solely $insult/islike_ARE one?
@@ -30,3 +32,5 @@ $insult/interjection   Thou hast the $insult/target of a much less $insult/adj $
 05$insult/interjection Your $person-relation $verb-transitive_S a $insult/adj $insult/thing .
 05$insult/interjection Wast thou $verb-transitive-simple_ED by a 7$insult/adj $insult/thing , or is that 5simply>merely how thy $insult/target is?
 05$insult/interjection Wast thou $verb-transitive-simple_ED by a 7$insult/adj $insult/thing , or is thy $insult/target normally so $insult/adj ?
+# development zone
+#

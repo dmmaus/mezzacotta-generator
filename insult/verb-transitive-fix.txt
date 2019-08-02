@@ -1,0 +1,7 @@
+@format ~|S|ED|ING
+cure|cures|cured|curing
+fix|fixes|fixed|fixing
+mend
+heal
+rectify|rectifies|rectified|rectifying
+repair

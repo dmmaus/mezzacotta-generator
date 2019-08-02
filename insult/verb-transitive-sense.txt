@@ -1,0 +1,13 @@
+@format ~|S|ED|ING
+espy|espies|espied|espying
+feel|feels|felt|feeling
+glimpse|glimpses|glimpsed|glimpsing
+hear|hears|heard|hearing
+notice|notices|noticed|noticing
+observe|observes|observed|observing
+see|sees|saw|seeing
+sense|senses|sensed|sensing
+smell|smells|smelt|smelling
+spot|spots|spotted|spotting
+taste|tastes|tasted|tasting
+touch|touches|touched|touching

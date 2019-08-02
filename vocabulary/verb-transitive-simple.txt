@@ -163,6 +163,7 @@ need
 neglect
 notice|notices|noticed|noticing
 obey
+observe|observes|observed|observing
 obtain
 offend
 offer
@@ -176,6 +177,7 @@ peel
 pick
 pickle|pickles|pickled|pickling
 place|places|placed|placing
+pollute|pollutes|polluted|polluting
 prefer|prefers|preferred|preferring
 prepare|prepares|prepared|preparing
 present
@@ -216,6 +218,7 @@ sculpt
 see|sees|saw|seeing
 sell|sells|sold|selling
 send|sends|sent|sending
+sense|senses|sensed|sensing
 serenade|serenades|serenaded|serenading
 serve|serves|served|serving
 shake|shakes|shook|shaking
@@ -226,7 +229,9 @@ show
 shrink|shrinks|shrunk|shrinking
 shut|shuts|shut|shutting
 slap|slaps|slapped|slapping
+smell|smells|smelt|smelling
 smoke|smokes|smoked|smoking
+spot|spots|spotted|spotting
 start
 stop|stops|stopped|stopping
 study|studies|studied|studying

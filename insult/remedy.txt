@@ -1,0 +1,20 @@
+@format ~|S
+bag|bags on the head
+bandage
+blindfold
+burial
+curative
+doctor
+druid
+exorcism
+exorcist
+healer
+herbalist
+necromancer
+nose plug
+physician
+poultice
+priest
+shaman
+undertaker
+wise woman|women

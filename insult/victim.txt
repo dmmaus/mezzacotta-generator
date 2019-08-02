@@ -1,0 +1,19 @@
+@format ~|S
+$noun-animal-mammal|$noun-animal-mammal_S
+$person-profession-medieval|$person-profession-medieval_S
+babe
+child|children
+citizen
+crone
+elderly_person|elderly
+god-fearing person|people
+good person|people
+infant
+lady|ladies
+maiden
+mother
+nun
+old woman|women
+person|people
+unwed girl
+virgin
