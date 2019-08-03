@@ -5,6 +5,7 @@ from datetime import datetime
 import math
 import re
 import string
+import collections
 
 class Vocab:
     # Constructor. Open the specified base file, parse the format specificiation, and load lines.
@@ -190,16 +191,16 @@ class Vocab:
 class MezzaGenerator:
     def __init__(self):
         self.vocabs = {}
-        self.replacements = {
+        self.replacements = collections.OrderedDict({
             " .":".", " ,":",", " '":"'", " !":"!", " ?":"?", " _":"", " :":":", " ;":";",
             " a a":" an a", " a e":" an e"," a o":" an o"," a u":" an u"," a i":" an i",
             " a A":" an A", " a E":" an E"," a O":" an O"," a U":" an U"," a I":" an I",
             " A A":" An A", " A E":" An E"," A O":" An O"," A U":" An U"," A I":" An I",
             " A a":" An a", " A e":" An e"," A o":" An o"," A u":" An u"," A i":" An i",
-            "?.":"?", " )":")", "( ":"(", "_":" ", "- ":"-", " -":"-", " +":"", ",,":",",
+            "?.":"?", "?'":"? '", "!'":"! '", ".'":". '",
+            " )":")", "( ":"(", "_":" ", "- ":"-", " -":"-", " +":"", ",,":",",
             "+ ":"", " + ":"", " A the ":" The ", " a the ":" the "
-            }
-        self.replacements_custom = {}
+            })
 
     # Perform full expansion of a random line from a file
     def Expand(self, spec, cap = False):
@@ -226,9 +227,9 @@ class MezzaGenerator:
 
         # Generate the random line of text
         (randomline, vocab_replacements) = self.vocabs[base].RandomLine(inflection)
-        # Add the vocabulary file replacements to the custom replacement dictionary
+        # Add the vocabulary file replacements to the end of the ordered replacement dictionary
         for key in vocab_replacements.keys():
-            self.replacements_custom[key] = vocab_replacements[key]
+            self.replacements[key] = vocab_replacements[key]
 
         result = ''
         # Keep track if the previous word was a plus sign, to handle capitalisation of conjoined words
@@ -286,14 +287,10 @@ class MezzaGenerator:
         # remove duplicate spaces
         result = re.sub(' +', ' ', result)
         
-        # Do the general replacements
+        # Do the general replacements and custom replacements
         for key in self.replacements.keys():
             if key in result:
                 result = result.replace(key, self.replacements[key])
-        # Do any custom replacements
-        for key in self.replacements_custom.keys():
-            if key in result:
-                result = result.replace(key, self.replacements_custom[key])
 
         # Strip leading space and any trailing spaces
         # Needs to be after the replacements to ensure the a->an replacement works at start of result

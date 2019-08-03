@@ -1,2 +1,6 @@
 @format ~
-$name-full-modern
+$name-male-modern=ARTIST_FORENAME $name-surname-modern=ARTIST_SURNAME *ARTIST_FORENAME *ARTIST_SURNAME
+# yields:
+#   [bill]=ARTIST_FORENAME [murray]=ARTIST_SURNAME *ARTIST_FORENAME *ARTIST_SURNAME
+# post-processed to:
+#    bill murray
