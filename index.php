@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<title>Random Generator Test - mezzacotta</title>
+<title>mezzacotta Generator: Random text for all purposes</title>
 </head>
 <body>
 <h1>mezzacotta Generator</h1>
@@ -12,8 +12,10 @@ A generic, extensible, customisable random text generator. The code is <a href="
 <ul>
 <li><a href="tavern/">Fantasy tavern names</a></li>
 <li><a href="artifact/">Fantastic artifacts</a></li>
-<li><a href="game/">Board game descriptions</a></li>
 <li><a href="village/">Village names and festival descriptions</a></li>
+<li><a href="insult/">Fantasy insults</a></li>
+<br>
+<li><a href="game/">Board game descriptions</a></li>
 <li><a href="dish/">mezzacotta Café, version 2</a> - the reincarnation of the original <a href="/mezzacafe/">mezzacotta Café</a> with all-new code. HTML formatting work still to be done.</li>
 <li><a href="movie/">mezzacotta Cinématique, version 2</a> - the reincarnation of the original <a href="/cinematique/">mezzacotta Cinématique</a> with all-new code. HTML formatting work still to be done.</li>
 </ul>
