@@ -1,0 +1,4 @@
+@format ~
+*ARTISTFORENAME *ARTISTSURNAME painted this
+Another fine work from *HONORIFIC *ARTISTSURNAME
+*HONORIFIC *ARTISTSURNAME presents *PRONOUN first painting
