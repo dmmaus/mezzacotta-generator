@@ -202,6 +202,12 @@ class MezzaGenerator:
             "+ ":"", " + ":"", " A the ":" The ", " a the ":" the "
             })
 
+    def appendResult(self, a, b, varname):
+        if varname is None:
+            return a + b
+        else:
+            return a + '{' + varname + ':'+ b.rstrip() + '} '
+
     # Perform full expansion of a random line from a file
     def Expand(self, spec, cap = False):
 
@@ -256,10 +262,21 @@ class MezzaGenerator:
                     if random.random() > chance:
                         word = alt_text
 
+
+            # Any part after '=' is the variable name to record for post-processig.
+            varname = None
+            if '=' in word:
+                varname = word[word.find('=') + 1:]
+                word = word[:word.find('=')]
+
             # Words starting with $ are expanded using the file of the corresponding name
             if '$' in word:
-                result += self.Expand(word[1:], cap = cap and not plus)
+                expansion = self.Expand(word[1:], cap = cap and not plus)
+                result = self.appendResult(result, expansion, varname)
                 plus = False
+
+            elif varname is not None:
+                result = self.appendResult(result, word, varname)
 
             elif word != '' and (word == "+" or word[0] == "-"):
                 plus = True
@@ -322,6 +339,41 @@ class MezzaGenerator:
 
         return result.strip()
 
+# Post process the combined result of all the specified bases, harvesting any declarations and substituting them
+# when indicated by *
+def PostProcess(input_str):
+    text = input_str
+    result = ''
+
+    d = {}
+
+    while '{' in text:
+        pos1 = text.find('{')
+        pos2 = text.find('}')
+
+        dec = text[pos1 + 1:pos2]
+        if ':' in dec:
+            d[dec[:dec.find(':')]] = dec[dec.find(':')+1:]
+
+        if pos1 == 0:
+            pre = ''
+        else:
+            pre = text[:pos1 - 1]
+        post = text[pos2 + 1:]
+
+        text = pre + post
+
+    split_text = text.split()
+    for word in split_text:
+        if word.startswith('*'):
+            try:
+                result += d[word[1:]] + ' '
+            except KeyError:
+                result += '[UNKNOWN VARIABLE: ' + word[1:] + ']'
+        else:
+            result += word + ' '
+
+    return result
 
 if __name__ == '__main__':
 
@@ -336,10 +388,14 @@ if __name__ == '__main__':
         bases = sys.argv[1:]
 
     for n in range(num):
+        result = ''
         for idx in range(len(bases)):
-            print gen.Generate(bases[idx]),
+            result += gen.Generate(bases[idx])
             if idx < len(bases) - 1:
-                print '~~',
-            else:
-                print
+                result += ' ~~ '
+
+        if '{' in result:
+            result = PostProcess(result)
+
+        print result
 
