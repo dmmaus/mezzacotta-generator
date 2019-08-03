@@ -1,4 +1,4 @@
 @format ~
-*ARTISTFORENAME *ARTISTSURNAME painted this
-Another fine work from *HONORIFIC *ARTISTSURNAME
-*HONORIFIC *ARTISTSURNAME presents *PRONOUN first painting
+$art/name-ref painted this during a visit to 7$place>$village/base
+Another fine work from $art/name-ref
+$art/name-ref presents *PRONOUN first painting
