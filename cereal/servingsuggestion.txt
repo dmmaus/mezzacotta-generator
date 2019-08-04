@@ -3,7 +3,9 @@ $cereal/adj-opinion when served as $dish/food-presentation
 Add some more *INGREDIENT for extra flavour!
 Also available in $cereal/ingredient flavour
 Also available in a low- *INGREDIENT version
+Available *INGREDIENT -free too
 Best served with $cereal/liquid
+Free collectable 5$noun-animal>$noun-monster toy inside the box!
 Enjoy with $cereal/liquid
 Have you tried our extra- *INGREDIENT version?
 Part of this complete breakfast, with $dish/ingredient_S and a $cereal/vessel of $dish/ingredient_S

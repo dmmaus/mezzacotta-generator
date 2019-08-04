@@ -11,6 +11,7 @@ coffee
 |cinnamon
 cranberry|cranberries
 froot
+|honey
 |milk
 nut
 peanut

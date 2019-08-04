@@ -1,9 +1,9 @@
 @format ~
 @titlecase
-$cereal/adj-property *INGREDIENT *PIECES    $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
-$cereal/adj-property *PIECES                $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
-$cereal/adj-property *INGREDIENT            $cereal/ingredient_S=INGREDIENT $cereal/piece_S=PIECES
-*INGREDIENT *PIECES                         $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
-$cereal/ingredient *INGREDIENT *PIECES      $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
-$cereal/ingredient *PIECES of *INGREDIENT   $cereal/ingredient_S=INGREDIENT $cereal/piece_S=PIECES
-$cereal/title 5$cereal/piece>*INGREDIENT    $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
+$cereal/adj-property *INGREDIENT *PIECES                          $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
+$cereal/adj-property *PIECES                                      $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
+$cereal/adj-property *INGREDIENT                                  $cereal/ingredient_S=INGREDIENT $cereal/piece_S=PIECES
+*INGREDIENT *PIECES                                               $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
+$cereal/ingredient *INGREDIENT *PIECES                            $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
+5$cereal/ingredient>$cereal/adj-property *PIECES of *INGREDIENT   $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
+$cereal/title 5$cereal/piece>*INGREDIENT                          $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
