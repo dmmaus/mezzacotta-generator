@@ -206,16 +206,16 @@ class Vocab:
 class MezzaGenerator:
     def __init__(self):
         self.vocabs = {}
-        self.replacements = collections.OrderedDict({
-            " .":".", " ,":",", " '":"'", " !":"!", " ?":"?", " _":"", " :":":", " ;":";",
-            " a a":" an a", " a e":" an e"," a o":" an o"," a u":" an u"," a i":" an i",
-            " a A":" an A", " a E":" an E"," a O":" an O"," a U":" an U"," a I":" an I",
-            " A A":" An A", " A E":" An E"," A O":" An O"," A U":" An U"," A I":" An I",
-            " A a":" An a", " A e":" An e"," A o":" An o"," A u":" An u"," A i":" An i",
-            "?.":"?", "?'":"? '", "!'":"! '", ".'":". '",
-            " )":")", "( ":"(", "_":" ", "- ":"-", " -":"-", " +":"", ",,":",",
-            "+ ":"", " + ":"", " A the ":" The ", " a the ":" the ", " ^+":""
-            })
+        self.replacements = collections.OrderedDict([
+            (" .","."), (" ,(","),("), (" '","'"), (" !","!"), (" ?","?"), (" _",""), (" :",":"), (" ;",";"),
+            (" a a"," an a"),(" a e"," an e"),(" a o"," an o"),(" a u"," an u"),(" a i"," an i"),
+            (" a A"," an A"),(" a E"," an E"),(" a O"," an O"),(" a U"," an U"),(" a I"," an I"),
+            (" A A"," An A"),(" A E"," An E"),(" A O"," An O"),(" A U"," An U"),(" A I"," An I"),
+            (" A a"," An a"),(" A e"," An e"),(" A o"," An o"),(" A u"," An u"),(" A i"," An i"),
+            ("?.","?"),("!.","!"),("?'","? '"),("!'","! '"),(".'",". '"),
+            (" )",")"),("( ","("),("_"," "),("- ","-"),(" -","-"),(" +",""),(",,",","),
+            ("+ ",""),(" + ",""),(" A the "," The "),(" a the "," the "),(" ^+","")
+            ])
 
     def appendResult(self, a, b, varname):
         if varname is None:
@@ -321,9 +321,11 @@ class MezzaGenerator:
         result = re.sub(' +', ' ', result)
         
         # Do the general replacements and custom replacements
-        for key in self.replacements.keys():
+        if debug:
+            print "PRE-REPLACEMENTS: " + result
+        for (key, value) in self.replacements.items():
             if key in result:
-                result = result.replace(key, self.replacements[key])
+                result = result.replace(key, value)
 
         # Strip leading space and any trailing spaces
         # Needs to be after the replacements to ensure the a->an replacement works at start of result
@@ -402,12 +404,12 @@ if __name__ == '__main__':
 
         if '{' in result:
             if debug:
-                print result
+                print "PRE-POSTPROCESS: " + result
             result = PostProcess(result)
 
         if '^' in result:
             if debug:
-                print result
+                print "PRE-PROCESSCAPS: " + result
             result = ProcessCaps(result)
 
         # Make sentence case by default
