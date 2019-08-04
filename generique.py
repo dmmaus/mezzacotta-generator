@@ -356,6 +356,7 @@ def PostProcess(input_str):
 
     d = {}
 
+    # Assemble dictionary of replacements
     while '{' in text:
         pos1 = text.find('{')
         pos2 = text.find('}')
@@ -373,22 +374,11 @@ def PostProcess(input_str):
 
         text = pre + post
 
-    split_text = text.split()
-    for word in split_text:
-        if word.startswith('*'):
-            try:
-                result += d[word[1:]] + ' '
-            except KeyError:
-                result += '[UNKNOWN VARIABLE: ' + word[1:] + ']'
-        elif word.startswith('^*'):
-            try:
-                result += '^' + d[word[2:]] + ' '
-            except KeyError:
-                result += '[UNKNOWN VARIABLE: ' + word[2:] + ']'
-        else:
-            result += word + ' '
+    # Do the replacements
+    for key in d.keys():
+        text = re.sub('\*' + key, d[key], text)
 
-    return result
+    return text
 
 def ProcessCaps(input_str):
     s = input_str
