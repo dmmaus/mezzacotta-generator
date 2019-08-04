@@ -294,7 +294,7 @@ class MezzaGenerator:
                 resultlist = result.split()
                 # Capitalise if: the second previous word was not also a plus sign; or previous word is the only word
                 if cap and ((len(resultlist) > 1 and "+" not in resultlist[-2]) or len(resultlist) == 1):
-                    resultlist[-1] = resultlist[-1].capitalize()
+                    resultlist[-1] = CapIt(resultlist[-1])
                 result = string.join(resultlist)
                 result += word + ' '
 
@@ -391,16 +391,16 @@ def PostProcess(input_str):
     return result
 
 def ProcessCaps(input_str):
-    result = ''
-    for word in input_str.split():
-        if word.startswith('^'):
-            result += word[1].upper()
-            if len(word) > 2:
-                result += word[2:]
-            result += ' '
-        else:
-            result += word + ' '
-    return result
+    s = input_str
+    while '^' in s:
+        pos = s.find('^')
+        pre = s[:pos]
+        post = s[pos + 1:]
+        s = pre + post[0].upper()
+        if len(post) > 1:
+            s += post[1:]
+
+    return s
 
 if __name__ == '__main__':
 
@@ -422,11 +422,11 @@ if __name__ == '__main__':
                 result += ' ~~ '
 
         if '{' in result:
-            #print result
+            print result
             result = PostProcess(result)
 
         if '^' in result:
-            #print result
+            print result
             result = ProcessCaps(result)
 
         print result
