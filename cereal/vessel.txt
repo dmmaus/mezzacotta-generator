@@ -1,5 +1,6 @@
 @format ~|S
 bowl
+cup
 dish|dishes
 glass|glasses
 mug
