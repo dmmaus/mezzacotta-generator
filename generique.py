@@ -207,7 +207,7 @@ class MezzaGenerator:
             " A a":" An a", " A e":" An e"," A o":" An o"," A u":" An u"," A i":" An i",
             "?.":"?", "?'":"? '", "!'":"! '", ".'":". '",
             " )":")", "( ":"(", "_":" ", "- ":"-", " -":"-", " +":"", ",,":",",
-            "+ ":"", " + ":"", " A the ":" The ", " a the ":" the "
+            "+ ":"", " + ":"", " A the ":" The ", " a the ":" the ", " ^+":""
             })
 
     def appendResult(self, a, b, varname):
