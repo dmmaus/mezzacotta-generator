@@ -2,6 +2,8 @@
 $cereal/property - $cereal/property-verbed
 all-natural
 artificial
+artifically-flavoured
+extruded
 functional
 GMO
 macrobiotic
@@ -9,3 +11,4 @@ non-nutritive
 organic
 probiotic
 superfood
+wild

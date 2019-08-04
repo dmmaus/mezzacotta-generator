@@ -17,5 +17,6 @@ marshmallow
 |rocky road
 soft caramel
 |sugar
+toffee
 wafer
 waffle

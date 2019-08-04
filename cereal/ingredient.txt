@@ -1,4 +1,5 @@
 @format ~|S
+@quoted 0.04
 @include cereal/ingredient-cereal
 @include cereal/ingredient-lolly
 @include cereal/ingredient-other

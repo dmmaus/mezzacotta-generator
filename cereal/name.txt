@@ -5,4 +5,5 @@ $cereal/adj-property *PIECES                $cereal/ingredient=INGREDIENT $cerea
 $cereal/adj-property *INGREDIENT            $cereal/ingredient_S=INGREDIENT $cereal/piece_S=PIECES
 *INGREDIENT *PIECES                         $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
 $cereal/ingredient *INGREDIENT *PIECES      $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
+$cereal/ingredient *PIECES of *INGREDIENT   $cereal/ingredient_S=INGREDIENT $cereal/piece_S=PIECES
 $cereal/title 5$cereal/piece>*INGREDIENT    $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES

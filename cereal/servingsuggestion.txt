@@ -1,3 +1,7 @@
 @format ~
 Enjoy with $cereal/liquid
 Best served with $cereal/liquid
+Why not try it with $dish/ingredient_S on the side?
+Serve in a $cereal/vessel of $cereal/liquid
+$cereal/adj-opinion when served as $dish/food-presentation
+Part of this complete breakfast, with $dish/ingredient_S and a $cereal/vessel of $dish/ingredient_S

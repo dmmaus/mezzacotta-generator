@@ -9,8 +9,10 @@ ancient grain
 |millet
 |muesli
 |quinoa
+|rice
 |rye
 |sorghum
+|spelt
 |wheat
 |whole wheat
 grain

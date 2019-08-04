@@ -1,0 +1,7 @@
+@format ~|S
+bowl
+dish|dishes
+glass|glasses
+mug
+plate
+platter

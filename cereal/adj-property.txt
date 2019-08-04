@@ -1,16 +1,22 @@
 @format ~
 $cereal/ingredient-lolly -coated
 $cereal/adj-property - $cereal/ingredient
+$dish/food-method
+air-fried
 all-
+basically just
 bite-sized
 chewy
 crispy
 crunchy
 dried
 flaked
+fried
+frooty
 frosted
 frosty
 fruity
+fun
 glazed
 golden
 honey-
@@ -22,9 +28,12 @@ mini
 nutri-
 only
 rainbow
+rolled
 shredded
 special
 sugar-
+super-
 sweet
+sweetened
 tasty
 toasted

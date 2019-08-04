@@ -31,8 +31,10 @@ piece
 pop
 puff
 ring
+round
 shred
 smack
+star
 stick|stix
 straw
 treat

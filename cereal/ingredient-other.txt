@@ -1,17 +1,27 @@
 @format ~|S
+$dish/ingredient|$dish/ingredient_S
 almond
+apricot
 apple
 berry|berries
+biscuit
+cashew
+|chia
+coffee
 |cinnamon
 cranberry|cranberries
 froot
+|milk
 nut
 peanut
 |peanut butter
 pecan
+pineapple
 pumpkin
+pumpkinseed
 raisin
 spice
+strawberry|strawberries
 sultana
 sunflower seed
 walnut
