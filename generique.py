@@ -15,6 +15,13 @@ def CapIt(s):
 def UnCapIt(s):
     return s.replace('^', '')
 
+# Make first letter of string a capital letter
+def Capitalise(s):
+    if (len(s) > 1):
+        return s[0].upper() + s[1:]
+    else:
+        return s.upper()
+
 class Vocab:
     # Constructor. Open the specified base file, parse the format specificiation, and load lines.
     def __init__(self, base_spec):
@@ -322,30 +329,6 @@ class MezzaGenerator:
         # Needs to be after the replacements to ensure the a->an replacement works at start of result
         result = result.strip()
 
-        # Make sentence case by default
-        # Make first letter of result upper case, even if it's after a quote character
-        # Need to add a space at the beginning to ensure a-> an replacement works properly
-        if result.startswith("&ldquo;"):
-            result = "&ldquo;" + result[7].upper() + result[8:]
-        else:
-            result = CapIt(result)
-        # capitalise first non-space character after each sentence-ending punctuation mark
-        if '. ' in result:
-            bits = []
-            for bit in result.split('. '):
-                bits.append(CapIt(bit))
-            result = '. '.join(bits)
-        if '! ' in result:
-            bits = []
-            for bit in result.split('! '):
-                bits.append(CapIt(bit))
-            result = '! '.join(bits)
-        if '? ' in result:
-            bits = []
-            for bit in result.split('? '):
-                bits.append(CapIt(bit))
-            result = '? '.join(bits)
-
         return result.strip()
 
 # Post process the combined result of all the specified bases, harvesting any declarations and substituting them
@@ -376,6 +359,9 @@ def PostProcess(input_str):
 
     # Do the replacements
     for key in d.keys():
+        # Insert ^ before each word of a replacement string if to be capitalised
+        text = re.sub('\^\*' + key, '^' + d[key].replace(' ', ' ^'), text)
+        # otherwise just do the replacement
         text = re.sub('\*' + key, d[key], text)
 
     return text
@@ -386,9 +372,7 @@ def ProcessCaps(input_str):
         pos = s.find('^')
         pre = s[:pos]
         post = s[pos + 1:]
-        s = pre + post[0].upper()
-        if len(post) > 1:
-            s += post[1:]
+        s = pre + Capitalise(post)
 
     return s
 
@@ -425,6 +409,34 @@ if __name__ == '__main__':
             if debug:
                 print result
             result = ProcessCaps(result)
+
+        # Make sentence case by default
+        # Make first letter of result upper case, even if it's after a quote character
+        if result.startswith("&ldquo;"):
+            result = "&ldquo;" + result[7].upper() + result[8:]
+        else:
+            result = Capitalise(result)
+        # capitalise first non-space character after each sentence-ending punctuation mark
+        if '. ' in result:
+            bits = []
+            for bit in result.split('. '):
+                bits.append(Capitalise(bit))
+            result = '. '.join(bits)
+        if '! ' in result:
+            bits = []
+            for bit in result.split('! '):
+                bits.append(Capitalise(bit))
+            result = '! '.join(bits)
+        if '? ' in result:
+            bits = []
+            for bit in result.split('? '):
+                bits.append(Capitalise(bit))
+            result = '? '.join(bits)
+        if '~~ ' in result:
+            bits = []
+            for bit in result.split('~~ '):
+                bits.append(Capitalise(bit))
+            result = '~~ '.join(bits)
 
         print result
 
