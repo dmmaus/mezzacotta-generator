@@ -7,7 +7,7 @@ berry|berries
 biscuit
 cashew
 |chia
-coffee
+|coffee
 |cinnamon
 cranberry|cranberries
 froot

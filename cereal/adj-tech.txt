@@ -2,7 +2,7 @@
 $cereal/property - $cereal/property-verbed
 all-natural
 artificial
-artifically-flavoured
+artificially-flavoured
 extruded
 functional
 GMO
