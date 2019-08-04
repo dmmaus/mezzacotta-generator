@@ -1,0 +1,18 @@
+@format ~|S
+almond
+apple
+berry|berries
+|cinnamon
+cranberry|cranberries
+froot
+nut
+peanut
+|peanut_butter
+pecan
+pumpkin
+raisin
+spice
+sultana
+sunflower seed
+walnut
+wattle seed

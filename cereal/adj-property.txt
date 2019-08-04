@@ -1,0 +1,17 @@
+@format ~
+$cereal/ingredient-lolly -coated
+$cereal/adj-property - $cereal/ingredient
+all-
+chewy
+crispy
+crunchy
+dried
+flaked
+frosted
+glazed
+honey-
+shredded
+sugar-
+sweet
+tasty
+toasted

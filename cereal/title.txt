@@ -1,0 +1,9 @@
+@format ~
+admiral
+cap'n
+captain
+choco
+count
+double
+general
+sir

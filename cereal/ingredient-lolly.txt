@@ -1,0 +1,17 @@
+@format ~|S
+candy|candies
+caramel
+chocolate
+|cocoa
+cookie
+gummi
+hard caramel
+|honey
+honeycomb
+lolly|lollies
+marshmallow
+|rocky road
+soft caramel
+|sugar
+wafer
+waffle

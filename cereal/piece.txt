@@ -1,0 +1,25 @@
+@format ~|S
+bit
+|bix
+bomb
+burst
+|chex
+chunk
+cluster
+crisp
+crunch|crunches
+finger
+flake
+hunk
+jack
+lump
+#|-meal
+nugget
+O
+piece
+pop
+puff
+shred
+stick|stix
+straw
+treat

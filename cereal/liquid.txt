@@ -1,0 +1,10 @@
+@format ~
+almond milk
+chocolate milk
+cold milk
+golden syrup
+hot milk
+maple syrup
+orange juice
+soy milk
+warm milk

@@ -1,0 +1,12 @@
+@format ~
+augmented
+boosted
+dense
+embellished
+enhanced
+enriched
+filled
+fortified
+free
+packed
+stuffed

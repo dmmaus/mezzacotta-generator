@@ -1,0 +1,4 @@
+@format ~|S
+@include cereal/ingredient-cereal
+@include cereal/ingredient-lolly
+@include cereal/ingredient-other

@@ -1,0 +1,7 @@
+@format ~
+@titlecase
+$cereal/adj-property $cereal/ingredient=INGREDIENT *INGREDIENT $cereal/piece_S=PIECES *PIECES
+$cereal/adj-property $cereal/ingredient_S=INGREDIENT *INGREDIENT $cereal/piece_S=PIECES
+$cereal/ingredient=INGREDIENT *INGREDIENT $cereal/piece_S=PIECES *PIECES
+$cereal/ingredient $cereal/ingredient=INGREDIENT *INGREDIENT $cereal/piece_S=PIECES *PIECES
+$cereal/title $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES 5$cereal/piece>*INGREDIENT
