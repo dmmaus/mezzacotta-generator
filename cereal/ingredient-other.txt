@@ -7,7 +7,7 @@ cranberry|cranberries
 froot
 nut
 peanut
-|peanut_butter
+|peanut butter
 pecan
 pumpkin
 raisin

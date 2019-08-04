@@ -1,5 +1,5 @@
 @format ~|S
-|brown_sugar
+|brown sugar
 candy|candies
 caramel
 chocolate
@@ -12,9 +12,9 @@ hard caramel
 honeycomb
 lolly|lollies
 marshmallow
-|palm_sugar
-|raw_sugar
-|rocky_road
+|palm sugar
+|raw sugar
+|rocky road
 soft caramel
 |sugar
 wafer
