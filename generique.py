@@ -13,9 +13,7 @@ def CapIt(s):
     return s
 
 def UnCapIt(s):
-    if s.startswith('^'):
-        return s[1:]
-    return s
+    return s.replace('^', '')
 
 class Vocab:
     # Constructor. Open the specified base file, parse the format specificiation, and load lines.
