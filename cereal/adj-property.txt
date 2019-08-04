@@ -2,6 +2,7 @@
 $cereal/ingredient-lolly -coated
 $cereal/adj-property - $cereal/ingredient
 $dish/food-method
+@random(4,8) -grain
 air-fried
 all-
 basically just
@@ -33,6 +34,8 @@ rolled
 shredded
 special
 sugar-
+sun-dried
+sun-kissed
 super-
 sweet
 sweetened

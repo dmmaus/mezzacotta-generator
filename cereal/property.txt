@@ -5,7 +5,9 @@ carbohydrate
 cholesterol
 collagen
 corn syrup
+crunch
 energy
+fat
 fibre
 flavour
 fructose

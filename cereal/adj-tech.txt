@@ -1,17 +1,28 @@
 @format ~
+@quoted 0.05
 $cereal/property - $cereal/property-verbed
+activated
 all-natural
+anti-oxidated
 artificial
 artificially-flavoured
+energy boosting
 extruded
 fortified
 functional
 GMO
+healthy
+high GI
+imitation
+low GI
 macrobiotic
 non-nutritive
 organic
 probiotic
 pure
+super-
 superfood
+vegan
+whole
 whole-grain
 wild

@@ -10,3 +10,5 @@ fortified
 free
 packed
 stuffed
+supplemented
+upgraded

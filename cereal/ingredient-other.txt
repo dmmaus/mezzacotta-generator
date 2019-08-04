@@ -20,6 +20,7 @@ cranberry|cranberries
 fig
 flapjack
 froot
+|guarana
 |honey
 |milk
 nut
