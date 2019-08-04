@@ -5,11 +5,15 @@ ancient grain
 |buckwheat
 |corn
 |granola
+|malt
 |millet
 |muesli
 |quinoa
 |rye
 |sorghum
 |wheat
+|whole_wheat
+grain
+multigrain
 oat
 whole-grain

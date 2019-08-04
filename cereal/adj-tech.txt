@@ -1,3 +1,11 @@
 @format ~
-non-nutritive
 $cereal/property - $cereal/property-verbed
+all-natural
+artificial
+functional
+GMO
+macrobiotic
+non-nutritive
+organic
+probiotic
+superfood

@@ -2,15 +2,28 @@
 $cereal/ingredient-lolly -coated
 $cereal/adj-property - $cereal/ingredient
 all-
+bite-sized
 chewy
 crispy
 crunchy
 dried
 flaked
 frosted
+frosty
+fruity
 glazed
+golden
 honey-
+just
+lucky
+macro
+malted
+mini
+nutri-
+only
+rainbow
 shredded
+special
 sugar-
 sweet
 tasty

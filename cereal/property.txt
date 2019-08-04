@@ -1,9 +1,21 @@
 @format ~
+amino acid
+antioxidant
 carbohydrate
+cholesterol
+collagen
+corn syrup
 energy
+fibre
 flavour
+fructose
+gelatin
+glucose
 gluten
 mineral
 nutrition
+omega-3
+polysaccharide
+protein
 sucrose
 vitamin

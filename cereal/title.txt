@@ -5,5 +5,10 @@ captain
 choco
 count
 double
+franken
 general
+king
+prince
+princess
+queen
 sir

@@ -1,16 +1,20 @@
 @format ~|S
+|brown_sugar
 candy|candies
 caramel
 chocolate
 |cocoa
 cookie
+cupcake
 gummi
 hard caramel
 |honey
 honeycomb
 lolly|lollies
 marshmallow
-|rocky road
+|palm_sugar
+|raw_sugar
+|rocky_road
 soft caramel
 |sugar
 wafer

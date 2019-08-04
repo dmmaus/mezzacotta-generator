@@ -1,7 +1,8 @@
 @format ~
 @titlecase
-$cereal/adj-property $cereal/ingredient=INGREDIENT *INGREDIENT $cereal/piece_S=PIECES *PIECES
-$cereal/adj-property $cereal/ingredient_S=INGREDIENT *INGREDIENT $cereal/piece_S=PIECES
-$cereal/ingredient=INGREDIENT *INGREDIENT $cereal/piece_S=PIECES *PIECES
-$cereal/ingredient $cereal/ingredient=INGREDIENT *INGREDIENT $cereal/piece_S=PIECES *PIECES
-$cereal/title $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES 5$cereal/piece>*INGREDIENT
+$cereal/adj-property *INGREDIENT *PIECES    $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
+$cereal/adj-property *PIECES                $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
+$cereal/adj-property *INGREDIENT            $cereal/ingredient_S=INGREDIENT $cereal/piece_S=PIECES
+*INGREDIENT *PIECES                         $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
+$cereal/ingredient *INGREDIENT *PIECES      $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
+$cereal/title 5$cereal/piece>*INGREDIENT    $cereal/ingredient=INGREDIENT $cereal/piece_S=PIECES
