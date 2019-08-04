@@ -1,7 +1,11 @@
 @format ~
-Enjoy with $cereal/liquid
-Best served with $cereal/liquid
-Why not try it with $dish/ingredient_S on the side?
-Serve in a $cereal/vessel of $cereal/liquid
 $cereal/adj-opinion when served as $dish/food-presentation
+Add some more *INGREDIENT for extra flavour!
+Also available in $cereal/ingredient flavour
+Also available in a low- *INGREDIENT version
+Best served with $cereal/liquid
+Enjoy with $cereal/liquid
+Have you tried our extra- *INGREDIENT version?
 Part of this complete breakfast, with $dish/ingredient_S and a $cereal/vessel of $dish/ingredient_S
+Serve in a $cereal/vessel of $cereal/liquid
+Why not try it with $dish/ingredient_S on the side?

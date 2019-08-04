@@ -2,6 +2,7 @@
 |brown sugar
 candy|candies
 caramel
+|carob
 chocolate
 |cocoa
 cookie
