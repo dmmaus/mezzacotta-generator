@@ -7,6 +7,16 @@ import re
 import string
 import collections
 
+def CapIt(s):
+    if not s.startswith('^'):
+        return '^' + s
+    return s
+
+def UnCapIt(s):
+    if s.startswith('^'):
+        return s[1:]
+    return s
+
 class Vocab:
     # Constructor. Open the specified base file, parse the format specificiation, and load lines.
     def __init__(self, base_spec):
@@ -206,6 +216,7 @@ class MezzaGenerator:
         if varname is None:
             return a + b
         else:
+            b = b.replace('^', '')
             return a + '{' + varname + ':'+ b.rstrip() + '} '
 
     # Perform full expansion of a random line from a file
@@ -291,7 +302,7 @@ class MezzaGenerator:
 
             else:
                 if len(word) > 1 and cap and not plus and word not in non_cap_words:
-                    word = word[0].upper() + word[1:]
+                    word = CapIt(word)
                 plus = False
                 result += word + ' '
 
@@ -319,22 +330,22 @@ class MezzaGenerator:
         if result.startswith("&ldquo;"):
             result = "&ldquo;" + result[7].upper() + result[8:]
         else:
-            result = result[0].upper() + result[1:]
+            result = CapIt(result)
         # capitalise first non-space character after each sentence-ending punctuation mark
         if '. ' in result:
             bits = []
             for bit in result.split('. '):
-                bits.append(bit[0].upper() + bit[1:])
+                bits.append(CapIt(bit))
             result = '. '.join(bits)
         if '! ' in result:
             bits = []
             for bit in result.split('! '):
-                bits.append(bit[0].upper() + bit[1:])
+                bits.append(CapIt(bit))
             result = '! '.join(bits)
         if '? ' in result:
             bits = []
             for bit in result.split('? '):
-                bits.append(bit[0].upper() + bit[1:])
+                bits.append(CapIt(bit))
             result = '? '.join(bits)
 
         return result.strip()
@@ -353,7 +364,8 @@ def PostProcess(input_str):
 
         dec = text[pos1 + 1:pos2]
         if ':' in dec:
-            d[dec[:dec.find(':')]] = dec[dec.find(':')+1:]
+            key = dec[:dec.find(':')]
+            d[key] = dec[dec.find(':')+1:]
 
         if pos1 == 0:
             pre = ''
@@ -370,9 +382,26 @@ def PostProcess(input_str):
                 result += d[word[1:]] + ' '
             except KeyError:
                 result += '[UNKNOWN VARIABLE: ' + word[1:] + ']'
+        elif word.startswith('^*'):
+            try:
+                result += '^' + d[word[2:]] + ' '
+            except KeyError:
+                result += '[UNKNOWN VARIABLE: ' + word[2:] + ']'
         else:
             result += word + ' '
 
+    return result
+
+def ProcessCaps(input_str):
+    result = ''
+    for word in input_str.split():
+        if word.startswith('^'):
+            result += word[1].upper()
+            if len(word) > 2:
+                result += word[2:]
+            result += ' '
+        else:
+            result += word + ' '
     return result
 
 if __name__ == '__main__':
@@ -395,7 +424,12 @@ if __name__ == '__main__':
                 result += ' ~~ '
 
         if '{' in result:
+            #print result
             result = PostProcess(result)
+
+        if '^' in result:
+            #print result
+            result = ProcessCaps(result)
 
         print result
 
