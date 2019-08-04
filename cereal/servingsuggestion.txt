@@ -10,5 +10,6 @@ Free collectable 5$noun-animal>$noun-monster toy inside the box!
 Enjoy with $cereal/liquid
 Have you tried our extra- *INGREDIENT version?
 Part of this complete breakfast, with $dish/ingredient_S and a $cereal/vessel of $dish/ingredient_S
+Product of 2$village/base>$place
 Serve in a $cereal/vessel of $cereal/liquid
 Why not try it with $dish/ingredient_S on the side?

@@ -1,19 +1,29 @@
 @format ~|S
 $dish/ingredient|$dish/ingredient_S
+$noun-animal|$noun-animal_S
 almond
 apricot
 apple
+|bacon
+banana
 berry|berries
+blueberry|blueberries
 biscuit
 cashew
+|chai
 |chia
+|cocoa
 |coffee
 |cinnamon
+|cream
 cranberry|cranberries
+fig
+flapjack
 froot
 |honey
 |milk
 nut
+orange
 peanut
 |peanut butter
 pecan

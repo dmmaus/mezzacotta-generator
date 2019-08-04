@@ -2,6 +2,7 @@
 bon-bon
 |brown sugar
 butterscotch|butterscotches
+cake
 candy|candies
 caramel
 |carob
@@ -15,15 +16,19 @@ gummi
 hard caramel
 |honey
 honeycomb
+|ice cream
+jelly|jellies
 liquorice
 lolly|lollies
 marshmallow
+marzipan
 nougat
 |palm sugar
 |raw sugar
 |rocky road
 soft caramel
 |sugar
+|syrup
 toffee
 wafer
 waffle
