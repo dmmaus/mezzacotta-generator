@@ -1,0 +1,4 @@
+@format ~
+$dish/food-presentation
+$dish/ingredient
+5flavour>taste of $dish/quality

@@ -13,6 +13,7 @@ $verb-transitive_ED by a $person-profession-medieval
 &agrave; la mode
 &agrave; l'orange
 $number-small ways
+, 5flavour>taste of $dish/quality
 a choux
 abomination
 aged in clay vessels lined with beeswax

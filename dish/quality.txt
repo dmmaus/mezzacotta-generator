@@ -1,0 +1,6 @@
+@format ~
+$noun-abstract
+autumn
+spring
+summer
+winter
