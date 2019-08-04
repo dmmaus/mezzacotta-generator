@@ -422,11 +422,11 @@ if __name__ == '__main__':
                 result += ' ~~ '
 
         if '{' in result:
-            print result
+            #print result
             result = PostProcess(result)
 
         if '^' in result:
-            print result
+            #print result
             result = ProcessCaps(result)
 
         print result
