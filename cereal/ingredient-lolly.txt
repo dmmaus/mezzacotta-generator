@@ -1,5 +1,7 @@
 @format ~|S
+bon-bon
 |brown sugar
+butterscotch|butterscotches
 candy|candies
 caramel
 |carob
@@ -7,12 +9,16 @@ chocolate
 |cocoa
 cookie
 cupcake
+fondant
+gumdrop
 gummi
 hard caramel
 |honey
 honeycomb
+liquorice
 lolly|lollies
 marshmallow
+nougat
 |palm sugar
 |raw sugar
 |rocky road
