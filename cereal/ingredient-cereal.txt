@@ -12,7 +12,7 @@ ancient grain
 |rye
 |sorghum
 |wheat
-|whole_wheat
+|whole wheat
 grain
 multigrain
 oat
