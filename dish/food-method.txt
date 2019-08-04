@@ -49,6 +49,7 @@ artificial
 artificially coloured
 artificially flavoured
 artificially sweetened
+artisanal
 ashed
 aspic of
 assorted
@@ -464,6 +465,7 @@ hand-picked
 hand-plucked
 hand-pulled
 hand-rolled
+hand-selected
 hand-stirred
 hand-tossed
 hard
@@ -580,6 +582,7 @@ liver-cleansing
 living
 loaded
 local
+local farm
 locally-sourced
 locally produced
 loose
@@ -857,6 +860,7 @@ shoulder of
 shredded
 shucked
 Sicilian
+silky
 simmered
 sinful
 singed
