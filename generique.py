@@ -398,6 +398,11 @@ if __name__ == '__main__':
     # Generate each of the base file names listed on the command line
     bases = sys.argv[1:-1]
 
+    debug = False
+    if bases[0] == '-d':
+        bases.pop(0)
+        debug = True
+
     try:
         num = int(sys.argv[-1])
     except ValueError:
@@ -412,11 +417,13 @@ if __name__ == '__main__':
                 result += ' ~~ '
 
         if '{' in result:
-            #print result
+            if debug:
+                print result
             result = PostProcess(result)
 
         if '^' in result:
-            #print result
+            if debug:
+                print result
             result = ProcessCaps(result)
 
         print result
