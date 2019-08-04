@@ -1,0 +1,11 @@
+@format ~
+vitamin A_ # needed to avoid A->An substitution
+vitamin B
+vitamin C
+vitamin D
+vitamin E
+vitamin K
+calcium
+iron
+antioxidants
+folic acid

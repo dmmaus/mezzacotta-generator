@@ -5,6 +5,7 @@ Also available in $cereal/ingredient flavour
 Also available in a low- *INGREDIENT version
 Available *INGREDIENT -free too
 Best served with $cereal/liquid
+Contains twice the $cereal/nutrient of 3$dish/food-method $dish/ingredient 3$dish/food-presentation
 Free collectable 5$noun-animal>$noun-monster toy inside the box!
 Enjoy with $cereal/liquid
 Have you tried our extra- *INGREDIENT version?
