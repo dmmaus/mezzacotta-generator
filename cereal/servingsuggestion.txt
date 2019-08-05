@@ -32,5 +32,5 @@ Recommended serving size with $cereal/liquid contains @random2(1,100)+20 % of th
 See our website for our famously $cereal/adj-opinion $cereal/adj-property *ING1 $cereal/piece_S recipe!
 Serve in a $cereal/vessel of $cereal/liquid .
 Take our $cereal/health challenge. Try it for @random(3,6)*2 weeks and see the difference!
-The breakfast of $person_S !
+The breakfast of 1$insult/thing_S>$person_S !
 Why not try it with $dish/ingredient_S on the side?
