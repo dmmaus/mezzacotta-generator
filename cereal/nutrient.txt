@@ -1,11 +1,25 @@
 @format ~
+antioxidants
+beta-carotene
+biotin
+calcium
+folic acid
+iodine
+iron
+magnesium
+niacin
+potassium
+riboflavin
+sodium
+thiamine
 vitamin A_ # needed to avoid A->An substitution
-vitamin B
+vitamin B1
+vitamin B2
+vitamin B3
+vitamin B6
+vitamin B12
 vitamin C
 vitamin D
 vitamin E
 vitamin K
-calcium
-iron
-antioxidants
-folic acid
+zinc

@@ -1,4 +1,5 @@
 @format ~|S
+ball
 bit
 |bix
 bliss bomb
@@ -28,7 +29,6 @@ krisp
 krunch|krunches
 loop
 lump
-#|-meal
 nugget
 nut
 O
@@ -43,6 +43,7 @@ smack
 star
 stick|stix
 straw
+tetrahedron
 treat
 waffle
 X
