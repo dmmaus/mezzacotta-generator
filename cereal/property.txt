@@ -1,6 +1,7 @@
 @format ~
 amino acid
 antioxidant
+calorie
 carbohydrate
 cholesterol
 collagen
@@ -14,6 +15,7 @@ fructose
 gelatin
 glucose
 gluten
+kilojoule
 mineral
 nutrition
 omega-3

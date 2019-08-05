@@ -1,14 +1,28 @@
 @format ~
 almond milk
 chocolate milk
+clotted cream
+coconut milk
+coffee
+cola
 cold milk
+cream
+espresso
+full cream dairy milk
+goat milk
 golden syrup
 hot milk
+ice cream
 low-fat milk
 maple syrup
 milk shake
+oat milk
 orange juice
+raw milk
+rice milk
 soy milk
 warm milk
 water
+whipped cream
+whole milk
 yoghurt

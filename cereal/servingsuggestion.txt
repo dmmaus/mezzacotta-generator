@@ -1,15 +1,36 @@
 @format ~
-$cereal/adj-opinion when served as $dish/food-presentation
+### replacements to make "when served as $dish/food-presentation" more grammarful
+@replace| as &agrave; | &agrave; #      when served as &agrave; X -> when served &agrave; X
+@replace| as as | as #                  when served as as X       -> when served as X
+@replace| as au | au #                  when served as au X       -> when served au X
+@replace| as con | con #                when served as con X      -> when served con X
+@replace| as cooked | cooked #          when served as cooked X   -> when served cooked X
+@replace| as en | en #                  when served as en X       -> when served en X
+@replace| as from | from #              when served as from X     -> when served from X
+@replace| as in | in #                  when served as in X       -> when served in X
+@replace| as on | on #                  when served as on X       -> when served on X
+@replace| as served | #                 when served as served X   -> when served X
+@replace| as with| with#                when served as with X     -> when served with X
+@replace| as wrapped | wrapped #        when served as wrapped X  -> when served wrapped X
+###
+$cereal/adj-opinion when served as $dish/food-presentation .
+$insult/interjection They're $cereal/adj-opinion !
+$name-forename-modern the ^ $noun-animal says, 6"They're>"They'rrrre $cereal/adj-opinion !"
 Add some more *INGREDIENT for extra flavour!
-Also available in $cereal/ingredient flavour
-Also available in a low- *INGREDIENT version
-Available *INGREDIENT -free too
-Best served with $cereal/liquid
-Contains twice the $cereal/nutrient of 3$dish/food-method $dish/ingredient 3$dish/food-presentation
+Also available in $cereal/ingredient flavour.
+Also available in a low- *INGREDIENT version.
+Available *INGREDIENT -free too.
+Best served with $cereal/liquid .
+Contains twice the $cereal/nutrient of 3$dish/food-method $dish/ingredient 3$dish/food-presentation .
 Free collectable 5$noun-animal>$noun-monster toy inside the box!
-Enjoy with $cereal/liquid
+Enjoy with $cereal/liquid .
 Have you tried our extra- *INGREDIENT version?
-Part of this complete breakfast, with $dish/ingredient_S and a $cereal/vessel of $dish/ingredient_S
-Product of 2$village/base>$place
-Serve in a $cereal/vessel of $cereal/liquid
+May assist in improving $cereal/health as part of a $cereal/property -controlled diet and exercise program.
+Part of a complete breakfast, with $dish/ingredient_S and a $cereal/vessel of $dish/ingredient_S .
+Product of 2$village/base>$place .
+Recommended serving size with $cereal/liquid contains @random2(1,100)+20 % of the recommended daily intake of $cereal/nutrient .
+See our website for our famously $cereal/adj-opinion $cereal/adj-property *INGREDIENT $cereal/piece_S recipe!
+Serve in a $cereal/vessel of $cereal/liquid .
+^Take our $cereal/health challenge. Try it for @random(3,6)*2 weeks and see the difference!
+The breakfast of $person_S !
 Why not try it with $dish/ingredient_S on the side?

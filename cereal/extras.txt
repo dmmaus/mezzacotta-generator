@@ -1,0 +1,6 @@
+@format ~
+5bonus>extra 8$cereal/ingredient-lolly>$cereal/ingredient-other $cereal/piece_S
+5bonus>extra $cereal/adj-opinion 8$cereal/ingredient-lolly>$cereal/ingredient-other $cereal/piece_S
+5bonus>extra $cereal/adj-property 8$cereal/ingredient-lolly>$cereal/ingredient-other $cereal/piece_S
+5bonus>extra $cereal/adj-tech 8$cereal/ingredient-lolly>$cereal/ingredient-other $cereal/piece_S
+5bonus>extra $cereal/piece_S of $cereal/adj-property 8$cereal/ingredient-lolly>$cereal/ingredient-other

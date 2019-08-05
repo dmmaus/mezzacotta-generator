@@ -11,7 +11,7 @@
 </p>
 <ul>
 <?php
-$command = escapeshellcmd('/usr/bin/python ../generique.py cereal/name cereal/description 10');
+$command = escapeshellcmd('/usr/bin/python ../generique.py cereal/name cereal/description cereal/servingsuggestion 10');
 $output = shell_exec($command);
 $output = preg_replace("/'/", "’", $output);
 $lines = explode("\n", rtrim($output));
@@ -20,7 +20,8 @@ foreach ($lines as $line)
     $parts = explode("~~", $line);
     $name = trim($parts[0]);
     $description = trim($parts[1]);
-    echo "<li>$name<br><i>$description</i></li>\n<br>\n";
+    $serving = trim($parts[2]);
+    echo "<li>$name<br><i>$description</i><br><i>$serving</i></li>\n<br>\n";
 }
 ?>
 </ul>

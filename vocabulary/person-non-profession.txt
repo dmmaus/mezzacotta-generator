@@ -57,6 +57,7 @@ bully|bullies
 bushranger
 camper
 centurion
+champion
 chap
 chav
 checkout chick
@@ -88,6 +89,7 @@ horserider
 hotshot
 human- $noun|$noun_S
 imposter
+iron man|men
 jerk
 kleptomaniac
 loser

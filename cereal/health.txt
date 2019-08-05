@@ -1,0 +1,25 @@
+@format ~
+acumen
+agility
+alertness
+balance
+BMI
+brainpower
+complexion
+concentration
+constitution
+dexterity
+energy levels
+eyesight
+fitness
+fortitude
+happiness
+health
+muscle-mass
+prosperity
+stamina
+strength
+vigour
+vitality
+weight control
+well-being
