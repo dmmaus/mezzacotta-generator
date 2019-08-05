@@ -16,11 +16,22 @@ def UnCapIt(s):
     return s.replace('^', '')
 
 # Make first letter of string a capital letter
+# Ignore spaces and HTML smart quote identities at start of string
 def Capitalise(s):
-    if (len(s) > 1):
-        return s[0].upper() + s[1:]
+    if len(s) > 1:
+        if s.startswith("&ldquo;"):
+            if len(s) > 7:
+                return "&ldquo;" + Capitalise(s[7:])
+            else:
+                return "&ldquo;"
+        else:
+            if s.startswith(" "):
+                return " " + Capitalise(s[1:])
+            else:
+                return s[0].upper() + s[1:]
     else:
         return s.upper()
+
 
 class Vocab:
     # Constructor. Open the specified base file, parse the format specificiation, and load lines.
@@ -216,7 +227,7 @@ class MezzaGenerator:
             ("?.","?"),("!.","!"),("?'","? '"),("!'","! '"),(".'",". '"),
             (" )",")"),("( ","("),("- ","-"),(" -","-"),(" +",""),(",,",","),
             ("+ ",""), (" + ",""), (" ^+",""), ("^ ","^"),
-            ("&ldquo; ","&ldquo;"), (" &rdquo;","&rdquo;"),
+            ("&ldquo; ","&ldquo;"), (" &rdquo;","&rdquo;"), (" ^&rdquo;","&rdquo;"),
             (" _",""), ("_"," ")
             ])
 
@@ -419,11 +430,7 @@ if __name__ == '__main__':
             result = ProcessCaps(result)
 
         # Make sentence case by default
-        # Make first letter of result upper case, even if it's after a quote character
-        if result.startswith("&ldquo;"):
-            result = "&ldquo;" + result[7].upper() + result[8:]
-        else:
-            result = Capitalise(result)
+        result = Capitalise(result)
         # capitalise first non-space character after each sentence-ending punctuation mark
         if '. ' in result:
             bits = []
