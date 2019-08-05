@@ -15,7 +15,7 @@
 ###
 $cereal/adj-opinion when served as $dish/food-presentation .
 $insult/interjection They're $cereal/adj-opinion !
-$name-forename-modern the ^ $noun-animal says, 6"They're>"They'rrrre $cereal/adj-opinion !"
+$name-forename-modern the ^ $noun-animal says, 6&ldquo;They're>&ldquo;They'rrrre $cereal/adj-opinion !&rdquo;
 Add some more *INGREDIENT for extra flavour!
 Also available in $cereal/ingredient flavour.
 Also available in a low- *INGREDIENT version.
