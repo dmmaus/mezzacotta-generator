@@ -1,11 +1,19 @@
 @format ~
-*PIECES of *INGREDIENT
-*PIECES of *INGREDIENT
-*PIECES of *INGREDIENT
-*PIECES of *INGREDIENT , $cereal/ingredient , and $cereal/ingredient
-*INGREDIENT *PIECES
-*INGREDIENT *PIECES
-*INGREDIENT *PIECES
-$cereal/ingredient -infused *INGREDIENT *PIECES
-$cereal/ingredient -flavoured *INGREDIENT *PIECES
-$cereal/piece -shaped *INGREDIENT *PIECES
+*PIECES of *ING1
+*PIECES of *ING1
+*PIECES of *ING1
+*PIECES of *ING1 and *ING2
+*PIECES of *ING1 , $cereal/ingredient , and *ING2
+*ING1 *PIECES
+*ING1 *PIECES
+*ING1 *PIECES
+*ING1 *PIECES and *ING2
+*ING1 *PIECES , $cereal/ingredient , and *ING2
+*ING1 - coated *ING2
+*ING1 - filled *ING2
+*ING1 - flavoured *ING2
+*ING1 - infused *ING2
+*ING2
+$cereal/ingredient -flavoured *ING1 *PIECES
+$cereal/ingredient -infused *ING1 *PIECES
+$cereal/piece -shaped *ING1 *PIECES
