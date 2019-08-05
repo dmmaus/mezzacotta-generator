@@ -22,5 +22,6 @@ $cereal/title *ING1 : $cereal/ingredient &amp; *ING2         $cereal/ingredient=
 $cereal/name-abstract 4! : *ING1 &amp; *ING2                 $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 $cereal/name-abstract *PIECES : *ING1 &amp; *ING2            $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 $cereal/adj-property $cereal/name-abstract *PIECES : *ING1 &amp; *ING2    $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
+$cereal/name-abstract 5extra>plus : *ING1 &amp; *ING2        $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 $cereal/name-abstract *ING1 *PIECES                          $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 *ING1 $cereal/name-abstract *PIECES                          $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES

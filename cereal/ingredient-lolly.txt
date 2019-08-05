@@ -1,7 +1,7 @@
 @format ~|S
 bon-bon
 |brown sugar
-butterscotch|butterscotches
+|butterscotch
 cake
 candy|candies
 caramel
