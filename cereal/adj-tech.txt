@@ -1,5 +1,5 @@
 @format ~
-@quoted 0.05
+@quoted 0.03
 $cereal/property - $cereal/property-verbed
 activated
 all-natural

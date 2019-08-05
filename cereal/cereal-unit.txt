@@ -7,6 +7,7 @@
 *ING1 *PIECES
 *ING1 *PIECES
 *ING1 *PIECES
+*ING1 $cereal/piece *PIECES
 *ING1 *PIECES and *ING2
 *ING1 *PIECES , $cereal/ingredient , and *ING2
 *ING1 - coated *ING2
