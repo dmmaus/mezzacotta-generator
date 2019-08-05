@@ -192,8 +192,8 @@ class Vocab:
                             result += word + ' '
 
             if self.quotechance is not None and self.quotechance > random.random():
-                # add smart quotes HTML entities around the result
-                result = "&ldquo;" + result.rstrip() + "&rdquo;" + ' '
+                # add smart quotes HTML entities around the result, with spaces to avoid messing up replacements
+                result = "&ldquo; " + result.rstrip() + " &rdquo;" + ' '
 
             results[inflection] = result
 
@@ -216,6 +216,7 @@ class MezzaGenerator:
             ("?.","?"),("!.","!"),("?'","? '"),("!'","! '"),(".'",". '"),
             (" )",")"),("( ","("),("- ","-"),(" -","-"),(" +",""),(",,",","),
             ("+ ",""), (" + ",""), (" ^+",""), ("^ ","^"),
+            ("&ldquo; ","&ldquo;"), (" &rdquo;","&rdquo;"),
             (" _",""), ("_"," ")
             ])
 
