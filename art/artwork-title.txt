@@ -17,7 +17,7 @@ $figure-mythology $verb-transitive_ING $figure-mythology
 2$verb-intransitive_ING $person with $noun , $noun and $noun
 $name-forename-modern and $name-forename-modern
 $name-forename-modern $verb-transitive_ING the $noun_S
-$name-forename-modern 's $adj-person
+$name-forename-modern 's 3$art/anything>$adj-person
 $noun-bodypart-human of a $person-non-profession
 $noun-geography-landform landscape with $person_S
 $noun-geography-structure , $village/base
@@ -61,6 +61,7 @@ landscape of $place ( $art/anything )
 landscape with $noun-geography-structure , $village/base
 nude of $name-full-modern
 nude $verb-transitive_ING a $noun
+nude with $adjective $noun-bodypart-human
 portrait of $name-full-modern
 portrait of $name-full-male-modern with $number-small of his $person-relation_S
 portrait of $name-full-female-modern with $number-small of her $person-relation_S
@@ -89,8 +90,7 @@ the $person_S
 the $person 's $noun-bodypart-human
 the $person $verb-transitive_S her own $noun
 the $person $verb-transitive_S his own $noun
-the $person and her $person-relation
-the $person and his $person-relation
+the $person and 5his>her $person-relation
 the $person of the $noun
 the $place-country_N
 untitled

@@ -3,6 +3,7 @@ admiral
 cap'n
 captain
 choco
+commander
 count
 double
 franken-
