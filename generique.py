@@ -215,7 +215,7 @@ class MezzaGenerator:
             (" A the "," The "),(" a the "," the "),
             ("?.","?"),("!.","!"),("?'","? '"),("!'","! '"),(".'",". '"),
             (" )",")"),("( ","("),("- ","-"),(" -","-"),(" +",""),(",,",","),
-            ("+ ",""),(" + ",""),(" ^+",""),
+            ("+ ",""), (" + ",""), (" ^+",""), ("^ ","^"),
             (" _",""), ("_"," ")
             ])
 
@@ -329,6 +329,9 @@ class MezzaGenerator:
             if key in result:
                 result = result.replace(key, value)
 
+        # remove duplicate spaces again - more may have been inserted by custom replacements
+        result = re.sub(' +', ' ', result)
+        
         # Strip leading space and any trailing spaces
         # Needs to be after the replacements to ensure the a->an replacement works at start of result
         result = result.strip()
