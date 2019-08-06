@@ -3,8 +3,12 @@ albatross|albatrosses
 auk
 bird
 bird|birds of paradise
+brush turkey
+buzzard
 canary
+cassowary|cassowaries
 cock
+cockatoo
 cockerel
 cormorant
 crane
@@ -18,7 +22,9 @@ emu
 falcon
 finch|finches
 flamingo
+galah
 gannet
+goose|geese
 gull
 hawk
 hen
@@ -49,14 +55,17 @@ quail
 raven
 robin
 rooster
+seagull
 shearwater
 shrike
 sparrow
+spoonbill
 starling
 stork
 swallow
 swan
 swift
+tawny frogmouth
 tern
 thrush|thrushes
 turkey
