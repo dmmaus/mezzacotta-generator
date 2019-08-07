@@ -273,9 +273,9 @@ class MezzaGenerator:
 
         for word in randomline.split():
         
-            # First see if the word is a conditional and resolve the conditional probability
+            # First see if the word is a conditional (starts with a digit) and resolve the conditional probability
             # Don't trigger conditional parsing if the word is a pure integer number
-            if not word.isdigit():
+            if word[0].isdigit() and not word.isdigit():
                 # Grab the number at the start of the string (if any)
                 chance_substring = ''
                 while word[0].isdigit():
