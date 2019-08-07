@@ -1,5 +1,6 @@
 @format ~
 $noun-abstract
+$place
 autumn
 spring
 summer

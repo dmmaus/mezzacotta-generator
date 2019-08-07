@@ -1,4 +1,5 @@
 @format ~
+@replace|/,|/
 $verb-transitive_ED by a $person-profession-medieval
 (available gluten-free on request)
 (available vegan on request)
