@@ -1,6 +1,7 @@
 @format ~
+@replace|SPACE| # to fix removal of space before 'n'
 &amp;
-'n'
+SPACE'n'
 &agrave; la
 accented with
 accentuated with

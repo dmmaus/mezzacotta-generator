@@ -51,7 +51,7 @@ Balmain bug
 bamboo shoot
 banana
 |bangers
-|bangers 'n' mash
+|bangers_'n' mash
 |barley
 |barramundi
 |basil
@@ -113,7 +113,7 @@ broad bean
 |brown rice
 |brown sugar
 Brussels sprout
-|bubble 'n' squeak
+|bubble_'n' squeak
 |Buddha's fingers
 |buckwheat
 |buffalo
@@ -328,6 +328,7 @@ fig
 |filet mignon
 |fish
 fish finger
+|fish_'n' chips
 |five spice powder
 |flank steak
 flapjack
@@ -868,7 +869,7 @@ sugar cube
 sugar snap pea
 sultana
 |sungold
-|surf 'n' turf
+|surf_'n' turf
 |sushi
 |swan
 swede
