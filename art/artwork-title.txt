@@ -42,8 +42,7 @@ $village/base at $time-holiday
 ( $art/anything ) $art/anything
 a $noun-geography-landform near $place-city
 a $person
-a $person $verb-transitive_ING her $person-relation 's $noun-bodypart-human
-a $person $verb-transitive_ING his $person-relation 's $noun-bodypart-human
+a $person $verb-transitive_ING 5his>her $person-relation 's $noun-bodypart-human
 a day at $village/base
 a $insult/subject
 allegory on the $noun-artifact-abstract of $figure
@@ -88,8 +87,7 @@ the $number-small $person-relation_S of $figure $verb-transitive_ING their $pers
 the $person
 the $person_S
 the $person 's $noun-bodypart-human
-the $person $verb-transitive_S her own $noun
-the $person $verb-transitive_S his own $noun
+the $person $verb-transitive_S 5his>her own $noun
 the $person and 5his>her $person-relation
 the $person of the $noun
 the $place-country_N

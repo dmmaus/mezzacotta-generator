@@ -1,4 +1,6 @@
 @format ~
+$name-surname-modern
+$person-profession-medieval
 $dish/winery-name and $dish/winery-name
 Achilles
 Albion
