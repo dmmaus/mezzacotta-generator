@@ -1,6 +1,6 @@
 @format ~
-MATCHED WITH, FROM OUR CELLARS:
-OUR EXPERT SOMMELIER SUGGESTS:
-PERFECTLY PAIRED WITH:
-THE IDEAL ACCOMPANIMENT FOR:
-WITH THIS DISH MAY WE RECOMMEND:
+matched with, from our cellars:
+our expert sommelier suggests:
+perfectly paired with:
+the ideal accompaniment for:
+with this dish may we recommend:
