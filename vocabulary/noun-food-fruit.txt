@@ -3,21 +3,32 @@ apple
 apricot
 avocado|avocadoes
 banana
+berry|berries
 blackberry|blackberries
+blackcurrant
 blood orange
 blueberry|blueberries
 boysenberry|boysenberries
+breadfruit
+|Buddha's hand
 cantaloupe
 cape gooseberry|gooseberries
 caperberry|caperberries
+carambola
 cherry|cherries
 |citrus
+clementine
+cloudberry|cloudberries
+crabapple
 cranberry|cranberries
+currant
+custard apple
 date
 |dragonfruit
 durian
 elderberry|elderberries
 fig
+finger lime
 fruit
 |fruit mince
 |fruit salad
@@ -29,6 +40,7 @@ guava
 |honeydew
 horned melon
 huckleberry|huckleberries
+jackfruit
 key lime
 kiwano
 kiwifruit
@@ -37,6 +49,7 @@ lemon
 lime
 lingonberry|lingonberries
 loganberry|loganberries
+loquat
 |longan
 lychee
 |mandarin
@@ -44,12 +57,14 @@ mango|mangoes
 mangosteen
 melon
 mulberry|mulberries
+muskmelon
 nectarine
 orange
 orange rind
 |pandan
 papaya
 |passionfruit
+pawpaw
 peach|peaches
 pear
 |peel
@@ -58,6 +73,7 @@ pineapple
 plantain
 plum
 pomegranate
+pomelo
 prickly pear
 prune
 quandong
@@ -65,13 +81,18 @@ quince
 raisin
 rambutan
 raspberry|raspberries
-red currant
+redcurrant
 |rhubarb
+riberry|riberries
 rockmelon
+rose apple
 rosella
+sapodilla
+starfruit
 strawberry|strawberries
 sultana
+tamarillo
 tamarind
-tangerine
 tangelo
+tangerine
 watermelon

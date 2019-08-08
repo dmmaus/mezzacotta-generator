@@ -2,18 +2,23 @@
 @format ~|S
 Anzac biscuit
 biscuit
+bun
+|butterscotch
 cake
 |cakes and ale
 |candy
+|caramel
 |choux pastry
 |chocolate
 chocolate crackle
 |confectionary
 cookie
 |cotton candy
+|cr&egrave;me anglaise
 |cr&egrave;me caramel
 |custard
 |dark chocolate
+|dulce de leche
 Easter egg
 |fairy floss
 flapjack

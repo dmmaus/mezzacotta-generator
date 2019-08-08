@@ -3,19 +3,24 @@
 |applesauce
 |balsamic
 |balsamic vinegar
+|barbecue sauce
 |bearnaise sauce
-|butterscotch
-|caramel
+|b&eacute;chamel sauce
+|Bordelaise sauce
+|catsup
 |cheese sauce
 |chili sauce
+|chipotle sauce
 |cider vinegar
 |chutney
 |dip
-|dulce de leche
+|espagnole sauce
 |gravy
 |gremolata
 |guacamole
+|hollandaise sauce
 |hummus
+|ketchup
 |lemon juice
 |maple syrup
 |mayonnaise
@@ -27,6 +32,7 @@
 |pesto
 pickle
 |rice vinegar
+|romesco
 |salsa
 |salted caramel
 sauce
@@ -37,6 +43,8 @@ sauce
 |syrup
 |tabasco
 |tahini sauce
+|tomato sauce
+|velout&eacute; sauce
 |verjuice
 |verjus
 |vinegar

@@ -1,21 +1,20 @@
 @format ~|S
 @quoted 0.01
-@include noun-food-meat
-@include noun-food-fruit
-@include noun-food-nut
-@include noun-food-vegetable
-@include noun-food-grain
-@include noun-food-spice
-@include noun-food-dairy
-@include noun-food-condiment
 @include noun-food-alcohol
-@include noun-food-nonalcohol
-@include noun-food-ingredient
-@include noun-food-sweet
+@include noun-food-condiment
+@include noun-food-dairy
 @include noun-food-dish
+@include noun-food-fruit
+@include noun-food-grain
+@include noun-food-ingredient
+@include noun-food-meat
+@include noun-food-nonalcohol
+@include noun-food-nut
+@include noun-food-spice
+@include noun-food-sweet
+@include noun-food-vegetable
 |$number-small choices
 |$number-small veg
-flower
 |food
 |leftovers
 |palate cleanser

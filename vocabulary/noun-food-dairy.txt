@@ -1,13 +1,18 @@
 @format ~|S
 |blue cheese
 |brie
+|Brillat-Savarin cheese
 |butter
+|butterfat
 |buttermilk
+|caerphilly
 |camembert
 |cheddar
 |cheese
 |cheese platter
+|clotted cream
 |colby
+|condensed milk
 |cottage cheese
 |cream
 |cream cheese
@@ -15,25 +20,42 @@
 |cr&egrave;me fra&icirc;che
 |curd
 |curds &amp; whey
+|double cream
+|edam
 |feta
 |fromage blanc
+|ghee
 |goat's cheese
 |goat's milk
 |gorgonzola
+|gouda
 |gruyere
 |halloumi
+|havarti
+|heavy cream
+|Jarlsberg cheese
+|labneh
+|Limburger cheese
 |mascarpone
 |milk
+|Monterey Jack cheese
 |mozzarella
-|parmesan cheese
+|Neufch&acirc;tel
+|paneer
+|Parmesan cheese
 |pecorino
+|quark
 |queso
+|queso blanco
+|red Leicester
 |ricotta
 |Romano
 |Roquefort
 |skim milk
 |sour cream
 |Stilton
+|Stinking Bishop cheese
+|string cheese
 |Swiss cheese
 |Wensleydale
 |whipped cream
