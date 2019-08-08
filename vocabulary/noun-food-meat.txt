@@ -10,7 +10,6 @@ baby octopus|octopuses
 |backstrap
 |bacon
 Balmain bug
-|balogna
 |bangers
 |barramundi
 |beef
@@ -22,6 +21,7 @@ Balmain bug
 |blood pudding
 |blue swimmer crab
 |boar
+|bologna
 |bone marrow
 |bonito
 |bovine
