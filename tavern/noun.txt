@@ -1,0 +1,9 @@
+# Custom noun file for taverns.
+@format ~|S
+@include noun-abstract
+@include noun-animal
+@include noun-celestial
+@include tavern/food
+@include noun-item
+@include noun-geography
+@include noun-plant

@@ -1,23 +1,15 @@
+# Big list of all sorts of food items.
 @format ~|S
-$dish/ingredient
-ale
-apple
-beer
-cider
-cutlet
-egg
-haunch|haunches
-joint
-leek
-onion
-pint
-potato|potatoes
-pumpkin
-roast
-sausage
-shot
-soup
-steak
-stew
-turnip
-wine
+@include noun-food-alcohol
+@include noun-food-condiment
+@include noun-food-dairy
+@include noun-food-dish
+@include noun-food-fruit
+@include noun-food-grain
+@include noun-food-ingredient
+@include noun-food-meat
+@include noun-food-nonalcohol
+@include noun-food-nut
+@include noun-food-spice
+@include noun-food-sweet
+@include noun-food-vegetable

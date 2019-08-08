@@ -1,0 +1,24 @@
+# Foods particularly suitable for taverns, with just a single possibility of more general foods.
+@format ~|S
+$dish/ingredient
+ale
+apple
+beer
+cider
+cutlet
+egg
+haunch|haunches
+joint
+leek
+onion
+pint
+potato|potatoes
+pumpkin
+roast
+sausage
+shot
+soup
+steak
+stew
+turnip
+wine
