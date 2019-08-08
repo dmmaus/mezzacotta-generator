@@ -1,0 +1,40 @@
+@format ~|S
+|blue cheese
+|brie
+|butter
+|buttermilk
+|camembert
+|cheddar
+|cheese
+|cheese platter
+|colby
+|cottage cheese
+|cream
+|cream cheese
+|cr&egrave;me
+|cr&egrave;me fra&icirc;che
+|curd
+|curds &amp; whey
+|feta
+|fromage blanc
+|goat's cheese
+|goat's milk
+|gorgonzola
+|gruyere
+|halloumi
+|mascarpone
+|milk
+|mozzarella
+|parmesan cheese
+|pecorino
+|queso
+|ricotta
+|Romano
+|Roquefort
+|skim milk
+|sour cream
+|Stilton
+|Swiss cheese
+|Wensleydale
+|whipped cream
+|yoghurt

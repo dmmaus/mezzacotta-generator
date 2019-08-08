@@ -1,0 +1,77 @@
+@format ~|S
+apple
+apricot
+avocado|avocadoes
+banana
+blackberry|blackberries
+blood orange
+blueberry|blueberries
+boysenberry|boysenberries
+cantaloupe
+cape gooseberry|gooseberries
+caperberry|caperberries
+cherry|cherries
+|citrus
+cranberry|cranberries
+date
+|dragonfruit
+durian
+elderberry|elderberries
+fig
+fruit
+|fruit mince
+|fruit salad
+|fruita di mostarda
+gooseberry|gooseberries
+grape
+|grapefruit
+guava
+|honeydew
+horned melon
+huckleberry|huckleberries
+key lime
+kiwano
+kiwifruit
+kumquat
+lemon
+lime
+lingonberry|lingonberries
+loganberry|loganberries
+|longan
+lychee
+|mandarin
+mango|mangoes
+mangosteen
+melon
+mulberry|mulberries
+nectarine
+orange
+orange rind
+|pandan
+papaya
+|passionfruit
+peach|peaches
+pear
+|peel
+persimmon
+pineapple
+plantain
+plum
+pomegranate
+prickly pear
+prune
+quandong
+quince
+raisin
+rambutan
+raspberry|raspberries
+red currant
+|rhubarb
+rockmelon
+rosella
+strawberry|strawberries
+sultana
+tamarind
+tangerine
+tangelo
+watermelon

@@ -1,0 +1,69 @@
+# Sweet dishes that are not basic ingredients.
+@format ~|S
+Anzac biscuit
+biscuit
+cake
+|cakes and ale
+|candy
+|choux pastry
+|chocolate
+chocolate crackle
+|confectionary
+cookie
+|cotton candy
+|cr&egrave;me caramel
+|custard
+|dark chocolate
+Easter egg
+|fairy floss
+flapjack
+|frosting
+|fruitcake
+|fudge
+|gingerbread
+gummi worm
+|ice cream
+ice cream cone
+|icing
+|jam
+|jello
+|jelly
+jelly bean
+|jelly babies
+|junket
+lamington
+Lifesaver
+lolly|lollies
+M&amp;M
+Mars Bar
+marshmallow
+|marzipan
+meringue
+|milk chocolate
+mille-fueille
+Oreo
+|pannacotta
+|pastry
+|pavlova
+|peanut brittle
+petit four
+|phyllo pastry
+pikelet
+|praline
+profiterole
+pudding
+|puff pastry
+|rocky road
+|rum &amp; raisin
+|Sacher torte
+scone
+|sherbet
+|shortbread
+|shortcrust pastry
+|tiramisu
+|toffee
+|Turkish delight
+twinkie
+waffle
+|white chocolate
+|xocolatl

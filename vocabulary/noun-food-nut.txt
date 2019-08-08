@@ -1,0 +1,27 @@
+# Nuts and seeds
+@format ~|S
+almond
+betel nut
+|black sesame
+Brazil nut
+candlenut
+cashew
+chestnut
+coconut
+coffee bean
+hazelnut
+lotus seed
+macadamia
+nut
+peanut
+pecan
+|pepitas
+pine nut
+pistachio
+poppy seed
+pumpkin seed
+seed
+|sesame
+sesame seed
+walnut
+|wattleseed

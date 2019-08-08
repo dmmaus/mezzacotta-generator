@@ -1,0 +1,125 @@
+@format ~|S
+|alfalfa
+artichoke
+|arugula
+|asparagus
+|aubergine
+baked bean
+bamboo shoot
+bean
+beet
+|beetroot
+bell pepper
+|betel leaves
+|black bean
+|bocconcini
+|bok choy
+borlotti bean
+broad bean
+|broccoli
+|broccolini
+Brussels sprout
+|Buddha's fingers
+|butternut
+|cabbage
+capsicum
+carrot
+|cassava
+|cauliflower
+|celeriac
+|celery
+champignon
+chat potato|potatoes
+cherry tomato|tomatoes
+chick pea
+|chicory
+choko|chokoes
+cornichon
+courgette
+|creamed corn
+|cress
+cucumber
+|duxelles
+|eggplant
+enoki mushroom
+endive
+eschalot
+fava bean
+|fennel
+fiddlehead
+|frijoles
+fungus|fungi
+gherkin
+globe artichoke
+gourd
+|greens
+Jerusalem artichoke
+|kale
+kidney bean
+|kohlrabi
+leaf vegetable
+leek
+lentil
+|lettuce
+|lotus root
+|matsutake
+|mesclun
+|mixed leaves
+|mizuna leaf
+mung bean
+mushroom
+|mushy peas
+nasturtium
+|nori
+|okra
+olive
+onion
+|pandan leaf
+parsnip
+pea
+|pepadew
+|pommes
+|porcini
+portobello mushroom
+potato|potatoes
+pumpkin
+|radicchio
+radish|radishes
+|Romanesco
+runner bean
+rutabaga
+|salsify
+|samphire
+scallion
+|seaweed
+shallot
+shiitake mushroom
+|shiso
+shoot
+snake bean
+snow pea
+|sorrel
+soybean
+|spinach
+split pea
+spring onion
+spud
+|squash
+string bean
+sugar snap pea
+swede
+sweet potato|potatoes
+|Swiss chard
+tomatillo|tomatilloes
+tomato|tomatoes
+turnip
+vegetable
+veggie
+|vine leaves
+|warrigal greens
+water chestnut
+|watercress
+|wintermelon
+yam
+zucchini
+zucchini flower

@@ -1,0 +1,75 @@
+# Basic food ingredients used in cooking.
+# Dairy ingredients (butter, milk, etc.) are in noun-food-dairy.
+@format ~|S
+|agar
+|algae
+|artificial colouring
+|artificial flavouring
+|artificial sweetener
+|avruga
+|baking powder
+|bean curd
+|bean paste
+|bird's nest
+|bread-making flour
+breadcrumb
+|brine
+|brown sugar
+|caffeine
+|carrageenen
+|caster sugar
+|caviar
+|cholesterol
+|cocoa butter
+|coconut cream
+|coconut milk powder
+|cod liver oil
+|cornflour
+|dripping
+duck egg
+|duck fat
+egg
+egg yolk
+egg white
+|emulsifier
+|eucalyptus
+|fat
+|flour
+flower
+|gelatin
+|glucose
+|gluten
+|golden syrup
+|grapeseed oil
+|honey
+|honeycomb
+|hundreds &amp; thousands
+|ice
+|icing sugar
+|instant coffee
+|lard
+|lemon rind
+|margarine
+|meat substitute
+|molasses
+|nothing
+|palm sugar
+|red bean paste
+|rice paper
+|rock sugar
+|roe
+|rose water
+|royal jelly
+|silken tofu
+|spring water
+|stuffing
+|suet
+|sugar
+sugar cube
+|textured vegetable protein
+|thickener
+|tofu
+|treacle
+|unicorn's tears
+|yeast
+|yolk

@@ -1,0 +1,44 @@
+@format ~|S
+|aioli
+|applesauce
+|balsamic
+|balsamic vinegar
+|bearnaise sauce
+|butterscotch
+|caramel
+|cheese sauce
+|chili sauce
+|cider vinegar
+|chutney
+|dip
+|dulce de leche
+|gravy
+|gremolata
+|guacamole
+|hummus
+|lemon juice
+|maple syrup
+|mayonnaise
+|mint sauce
+|mirin
+|miso
+|oil
+|olive oil
+|pesto
+pickle
+|rice vinegar
+|salsa
+|salted caramel
+sauce
+|sauerkraut
+|skordalia
+|Special Sauce
+|squid ink
+|syrup
+|tabasco
+|tahini sauce
+|verjuice
+|verjus
+|vinegar
+|white sauce
+|Worcestershire sauce

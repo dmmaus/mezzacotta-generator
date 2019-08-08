@@ -1,0 +1,24 @@
+@format ~|S
+|chai
+|Coca Cola
+|coffee
+|cola
+|cordial
+|Dr Pepper
+|Earl Grey tea
+|Fanta
+|green tea
+|iced tea
+juice
+|kombucha
+|lapsang souchong tea
+|lemonade
+|mineral water
+|oolong
+|Pepsi
+|rooibos
+|soda
+|soft drink
+|tea
+|tonic water
+|water

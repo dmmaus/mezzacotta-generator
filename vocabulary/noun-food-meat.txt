@@ -1,0 +1,288 @@
+@format ~|S
+|aardvark
+|abalone
+|albacore
+|alligator
+|alpaca
+|anchovy
+|antelope
+baby octopus|octopuses
+|backstrap
+|bacon
+Balmain bug
+|balogna
+|bangers
+|barramundi
+|beef
+|beefsteak
+|beef shin
+|bird
+|black pudding
+|blade steak
+|blood pudding
+|blue swimmer crab
+|boar
+|bone marrow
+|bonito
+|bovine
+brain
+|bratwurst
+|brisket
+|buffalo
+buffalo wing
+|cabanossi
+|calamari
+|calf's liver
+|camel
+|capybara
+|caramel
+|caribou
+|carne asada
+|carp
+|catch of the day
+|catfish
+|cattle
+|cephalopod
+|chateaubriand
+|chicken
+|chicken breast fillet
+|chicken feet
+chicken liver
+|chicken loaf
+|chicken mince
+chicken wing
+chop
+chorizo
+|chuck steak
+clam
+cocktail frankfurt
+|cod
+|cold cuts
+|corned beef
+|cow
+|cowrie
+crab
+|crab meat
+crawdad
+|crawfish
+|crayfish
+cricket
+|crocodile
+|cuttlefish
+|deer
+|devon
+|dodo
+|dolphin meat
+|drumstick
+|duck
+|duck leg
+|duck wing
+|dungeness crab
+eel
+|emu
+escargot
+|ewe
+|eye fillet
+|filet mignon
+|fish
+fish finger
+|flank steak
+|flounder
+|foie gras
+|forcemeat
+|fowl
+frankfurt
+frog's leg
+|fugu
+|game hen
+|gazelle
+|gefilte fish
+|gnu
+|goat
+|goose
+|goose liver
+|gristle
+|grouse
+|guineafowl
+|guinea pig
+|haddock
+|halibut
+|ham
+|ham hock
+|hare
+|heart
+|hen
+|herring
+|hocks
+|hog
+|hogget
+|horse
+|horse meat
+|jerky
+|John Dory
+|kangaroo
+kidney
+|kingfish
+kipper
+|lamb
+lamb chop
+lamb shank
+lamb's brain
+|lamb's fry
+|langoustine
+|leg ham
+|liver
+|liverwurst
+|llama
+|lobster
+|loin chop
+|lutefisk
+|mammal
+|marron
+marrow
+|mastodon
+|meat
+meatball
+|meatloaf
+|mince
+|minced meat
+|monkfish
+|moose
+Moreton Bay Bug
+|mortadella
+mussel
+|mutton
+|mystery meat
+|ocean trout
+octopus|octopuses
+|offal
+|osso bucco
+|ostrich
+|oxtail
+oyster
+|pancetta
+|partridge
+|pastrami
+|p&acirc;t&eacute;
+|peacock
+|peafowl
+|penguin
+|pepperoni
+|perch
+|pheasant
+|pig
+|pig trotters
+|pigeon
+|pike
+|placenta
+|pork
+|pork belly
+pork chop
+pork rib
+|porterhouse steak
+|poultry
+prawn
+|prosciutto
+|ptarmigan
+|puffer fish
+|quail
+|rabbit
+|ranch steak
+|reindeer
+rib
+|rib eye
+|rib steak
+|ribeye steak
+rissole
+|roadkill
+|roast beef
+|rock lobster
+rock oyster
+rodent
+|rooster
+|round steak
+|rump steak
+|salami
+|salmon
+sardine
+|sashimi
+sausage
+scallop
+|scampi
+|Scotch fillet
+|seafood
+|sea bass
+|sea cucumber
+|sea urchin
+|seal
+|shark
+|shark fin
+|sheep
+|shellfish
+|shoulder
+|shoulder fillet
+shrimp
+|silverside
+|sirloin
+|skirt steak
+snail
+|snake meat
+|snapper
+snout
+|soft shell crab
+|spam
+|spangled emperor
+spare rib
+spatchcock
+|speck
+|spotted owl
+|springbok
+|squab
+|squid
+|stag
+steak
+|strip steak
+|suckling pig
+|surf_'n' turf
+|sushi
+|swan
+|sweetbreads
+|swordfish
+|T-bone
+|tenderloin
+|tilefish
+|tortoise
+|treasure of the sea
+|tripe
+|trout
+|tuna
+|turducken
+|turkey
+|turtle
+|ungulate (even-toed)
+|ungulate (odd-toed)
+|unicorn
+|veal
+|venison
+|vicu&ntilde;a
+vole
+|vongole
+|wallaby
+|walrus
+|warthog
+|water buffalo
+|weisswurst
+|whale
+whelk
+|white pudding
+|whitebait
+|whiting
+|wild boar
+|wildebeest
+wing
+witchetty grub
+|woolly mammoth
+|wurst
+yabby|yabbies
+|yak
+|zebra

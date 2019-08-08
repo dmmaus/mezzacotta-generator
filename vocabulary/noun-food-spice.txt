@@ -1,0 +1,78 @@
+# Herbs and spices
+@format ~|S
+|aniseed
+|basil
+|bay leaves
+|black pepper
+|botanicals
+caper
+caraway seed
+|cardamom
+|carob
+|chamomile
+chili pepper
+chive
+|cilantro
+|cinnamon
+|cloves
+|cocoa
+|coriander
+|cracked pepper from a $number-small -foot grinder
+|cumin
+|curry
+|curry powder
+|dill
+|dukkah
+elderflower
+|fenugreek
+|five spice powder
+|Fleur de Sel
+|galangal
+|garam masala
+|garlic
+|ginger
+herb
+|horseradish
+|jalape&ntilde;o
+|jasmine
+|lavender
+|lemon myrtle
+|lemon zest
+|lemongrass
+|licorice
+|marjoram
+micro-herb
+|mint
+|mint leaf
+|mustard
+|nutmeg
+|oregano
+|paprika
+|parsley
+pepper
+pepperberry|pepperberries
+peppercorn
+|peppermint
+|pollen
+|rock salt
+|rose-coloured salt from the Himalayas
+|rosemary
+|saffron
+|sage
+|salmiak
+|salt
+|salt made from human tears
+|sambal oelek
+|sea salt
+|spearmint
+spice
+|star anise
+stock cube
+|tarragon
+|thyme
+truffle
+|vanilla
+vanilla bean
+violet
+|wasabi
+|za'atar

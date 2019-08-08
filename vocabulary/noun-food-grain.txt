@@ -1,0 +1,31 @@
+@format ~|S
+|amaranth
+|ancient grains
+|Arborio rice
+|barley
+|basmati rice
+|bran
+|brown rice
+|buckwheat
+|cereal
+|corn
+|corn on the cob
+|couscous
+|farro
+|freekah
+grain
+|grits
+|jasmine rice
+oat
+|oatmeal
+|polenta
+|porridge
+|rice
+|rye
+|semolina
+|sorghum
+|sticky rice
+|tapioca
+|wheat
+|wheatgerm
+|white rice

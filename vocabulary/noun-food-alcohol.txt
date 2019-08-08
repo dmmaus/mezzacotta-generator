@@ -1,0 +1,49 @@
+@format ~|S
+|absinthe
+|alcohol
+|ale
+|Angostura bitters
+|apple cider
+|armagnac
+|beer
+|bitters
+|booze
+|brandy
+|Campari
+|champagne
+|cider
+|cognac
+|Frangelico
+|gin
+|Grand Marnier
+|grappa
+|Guinness
+|Irish cream
+|J&auml;germeister
+|Kahl&uaceute;a
+|lager
+|limoncello
+|Midori
+|mulled wine
+|ouzo
+|pi&ntilde;a colada
+|pisco
+|port
+|port wine
+|porter
+|red wine
+|ros&eacute; wine
+|rum
+|sake
+|sangria
+|schnapps
+|sherry
+|shiraz
+|stout
+|tequila
+|vermouth
+|vodka
+|whisky
+|white wine
+|wine
+wine cooler

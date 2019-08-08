@@ -1,0 +1,90 @@
+# Savoury dishes that are not basic ingredients.
+@format ~|S
+|antipasto
+|baguette
+|bangers_'n' mash
+|bread
+|bread and butter
+|brioche
+|bubble_'n' squeak
+bun
+|bush tucker
+|cheeseburger
+chip
+|ciabatta
+corn chip
+corn flake
+|cornbread
+crumpet
+|cuisine
+|damper
+|dhal
+dim sim
+|dough
+falafel
+|fettuccine
+|fish_'n' chips
+|focaccia
+|fries
+|gnocchi
+|granola
+gyoza
+|haggis
+hamburger
+hash brown
+Hokkien noodle
+hot dog
+|huevos
+|lavosh
+|linguine
+|macaroni
+|mash
+|matzo
+|McDonald's
+|meat and three veg
+meat pie
+|melba toast
+|moussaka
+|muesli
+naan
+|nachos
+noodle
+|orecchiette
+papadum
+|pasta
+pasta spiral
+|peanut butter
+|pita bread
+|pizza
+|popcorn
+|pumpernickel
+|ramen
+|ravioli
+rice bubble
+rice cracker
+|rice vermicelli
+|risotto
+roll
+|roti
+|salad
+samosa
+sandwich|sandwiches
+sausage roll
+|scrapple
+|soup
+|sourdough
+|spaghetti
+|sp&auml;tzle
+spring roll
+|tabouli
+|tagliatelle
+|toast
+|tofurkey
+|tortellini
+|Turkish bread
+udon noodle
+|Vegemite
+|vermicelli
+|waldorf salad
+|weet-bix
+wonton
