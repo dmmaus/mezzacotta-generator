@@ -1,0 +1,2 @@
+@format ~
+$digits/ten + $digits/ten + $digits/ten + $digits/ten + $digits/ten + $digits/ten + $digits/ten + $digits/ten + $digits/ten + $digits/ten
