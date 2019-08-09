@@ -1,5 +1,5 @@
 @format ~|S
-$person-relative 's $person-relative
+$person-relative 's $person-relative|$person-relative_S
 adopted child|children
 aunt
 baby|babies
