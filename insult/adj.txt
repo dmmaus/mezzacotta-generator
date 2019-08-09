@@ -119,6 +119,7 @@ corpulent
 cozening
 craven
 crooked- $noun-bodypart-human +ed
+crusty
 debauched
 decrepit
 deformed
@@ -137,6 +138,7 @@ festering
 fickle
 flab-waisted
 fleering
+folly-fallen
 fool-borne
 formless
 forsaken
