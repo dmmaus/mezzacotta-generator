@@ -15,3 +15,8 @@ while competing in $sport
 to $verb-transitive a $noun
 while $verb-intransitive_ING
 on behalf of a $person
+while riding a $noun-animal
+under the influence of $noun-food
+on their birthday
+while at a $sport match
+if for the direct benefit of a 2$adj-person $person

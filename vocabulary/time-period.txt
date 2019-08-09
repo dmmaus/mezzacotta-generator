@@ -1,0 +1,11 @@
+@format ~
+second
+minute
+hour
+day
+week
+month
+season
+year
+decade
+century

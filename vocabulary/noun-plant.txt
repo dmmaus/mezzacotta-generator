@@ -11,7 +11,7 @@ flower
 fruit
 grass|grasses
 herb
-leaf
+leaf|leaves
 petal
 root
 seed
