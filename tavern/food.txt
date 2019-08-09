@@ -1,6 +1,6 @@
 # Foods particularly suitable for taverns, with just a single possibility of more general foods.
 @format ~|S
-$dish/ingredient
+$noun-food
 ale
 apple
 beer
