@@ -1,0 +1,4 @@
+@format ~
+In $place , it is illegal to $verb-transitive your $noun_S 8$law/context
+In $place , $person_S can be arrested for $verb-transitive_ING 4$adj-person $law/victim_S 2$law/context
+If your $noun-bodypart-human is too $adjective in $place 1$law/context , you may be fined up to @random(50,900) dollars.

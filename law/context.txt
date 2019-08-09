@@ -1,0 +1,6 @@
+@format ~
+in the presence of a $person
+on $time-day-of-week
+at $time-holiday
+during $time-month
+while $verb-transitive_ING a $noun
