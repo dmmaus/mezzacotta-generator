@@ -1,6 +1,10 @@
 @format ~
+at $time-holiday
+5before>after $time-hour
+during $time-month
+if doing so &ldquo; $adverb &rdquo;
+in a 5$noun-geography-structure>$noun-geography-landform
 in the presence of a $person
 on $time-day-of-week
-at $time-holiday
-during $time-month
 while $verb-transitive_ING a $noun
+while wearing a 3$adj-colour $noun-clothing

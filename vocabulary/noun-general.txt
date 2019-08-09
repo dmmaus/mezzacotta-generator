@@ -55,7 +55,7 @@ shampoo
 tin can
 can opener
 razor
-toothbrush
+toothbrush|toothbrushes
 bell
 watch
 credit card
