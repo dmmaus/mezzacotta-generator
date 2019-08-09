@@ -5,7 +5,7 @@
 <title>Random Laws from around the world - mezzacotta</title>
 </head>
 <body>
-<h1>Random Villages</h1>
+<h1>Random Laws</h1>
 <p>
 10 random weird laws from around the world. Reload for more.
 </p>

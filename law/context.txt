@@ -8,3 +8,10 @@ in the presence of a $person
 on $time-day-of-week
 while $verb-transitive_ING a $noun
 while wearing a 3$adj-colour $noun-clothing
+in a $noun-vehicle
+at a $movie/event
+with a 1$noun>$noun-weapon
+while competing in $sport
+to $verb-transitive a $noun
+while $verb-intransitive_ING
+on behalf of a $person
