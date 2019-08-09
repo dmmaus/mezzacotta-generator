@@ -1,22 +1,24 @@
 @format ~
-at $time-holiday
-5before>after $time-hour
-during $time-month
-if doing so &ldquo; $adverb &rdquo;
-in a 5$noun-geography-structure>$noun-geography-landform
-in the presence of a $person
-on $time-day-of-week
-while $verb-transitive_ING a $noun
-while wearing a 3$adj-colour $noun-clothing
-in a $noun-vehicle
+5after>before 5$time-hour>$time-of-day
+5at>during $time-holiday
 at a $movie/event
-with a 1$noun>$noun-weapon
-while competing in $sport
-to $verb-transitive a $noun
-while $verb-intransitive_ING
-on behalf of a $person
-while riding a $noun-animal
-under the influence of $noun-food
-on their birthday
-while at a $sport match
+during $time-month
+for the purpose of $verb-intransitive_ING
+if doing so &ldquo; $adverb &rdquo;
 if for the direct benefit of a 2$adj-person $person
+in a $noun-vehicle
+in a 5$noun-geography-structure>$noun-geography-landform
+5in_the_presence_of>with a $person
+5less>more than $number-small times a $time-period
+on $time-day-of-week
+on behalf of a 1$adj-person $person
+to $verb-transitive a $noun
+under the influence of $noun-food
+while $verb-intransitive_ING
+while $verb-transitive_ING a $noun
+while at a $sport match
+while competing in $sport
+while riding a $noun-animal
+while wearing a 3$adj-colour $noun-clothing
+with a 1$noun>$noun-weapon
+with a $noun-animal

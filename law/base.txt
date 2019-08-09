@@ -1,19 +1,20 @@
 @format ~
-$noun_S are banned in $place , except where allowed for $verb-intransitive_ING , or $law/context
-a $person from $place must not $verb-transitive $noun_S with 5his>her $noun-bodypart , except $law/context
-5labelling>calling someone a &ldquo; $insult/subject &rdquo; in $place may result in legal procedings , except $law/context
-if your $noun-bodypart-human is too $adjective in $place 1$law/context , you may be fined up to @random(50,900) dollars
-in $place , $person_S can be arrested for $verb-transitive_ING 4$adj-person $law/victim_S 2$law/context
-in $place , $person_S who have had their $noun-bodypart-human_S $verb-transitive_ED by a 3$adj-person 1$noun-animal>$person may qualify for compensation
-in $place , $verb-transitive_ING a $noun is only permitted while wearing a $adj-colour $noun-clothing
-in $place , $verb-transitive_ING your 5$person-relation>$noun is only permissible $law/context
-in $place , if a $person requests to $verb-transitive your $noun , you must let them
-in $place , it is illegal to $verb-transitive your $noun_S 9$law/context
-it is forbidden to dress your 8$noun-animal>$person-relative in $noun-clothing_S 2$law/context in $place
-residents of $place may only $verb-transitive $law/victim_S if they own at least @random(2,12) 1$adj-person $noun-animal_S
-stockpiling more than @random(2,50) +kg of $noun-food_S attracts a government tariff in $place
-$place 's driving code forbids being in control of a $noun-vehicle while $adj-person
-visitors to $place are warned that $verb-transitive_ING the local 5$noun-animal_S>$person-profession-medieval_S risks a @random(1,5) month prison term
-nobody in $place is permitted to teach their pet $noun-animal to $verb-transitive a $noun 2$law/context
-residents of $place are required to $verb-transitive their 8$law/victim>$noun-bodypart-human at least $number-small times every $time-period
-don't travel in a $noun-vehicle with a $noun-animal in $place ; it's illegal, unless $law/context
+$noun_S are 2outlawed>banned in $law/place , except where allowed for $verb-intransitive_ING , or $law/context
+a $person from $law/place must not $verb-transitive $noun_S with 5his>her $noun-bodypart , except $law/context
+5labelling>calling someone a &ldquo; $insult/subject &rdquo; in $law/place may result in 5a_fine>legal_procedings , except $law/context
+if one's $noun-bodypart-human is too $adjective in $law/place 1$law/context , they may be fined up to @random(50,900) dollars
+in $law/place , $person_S can be arrested for $verb-transitive_ING 4$adj-person $law/victim_S 2$law/context
+in $law/place , $person_S who have 1not>_ had their $noun-bodypart-human_S $verb-transitive_ED by a 3$adj-person 1$noun-animal>$person may qualify for compensation
+in $law/place , $verb-transitive_ING a $noun is only permitted while wearing $adj-colour $noun-clothing_S
+in $law/place , $verb-transitive_ING your 5$person-relation>$noun is only permissible $law/context
+in $law/place , if a $person 5asks>requests to $verb-transitive your $noun , you must 5allow>let them
+in $law/place , it is illegal to $verb-transitive your $noun_S 9$law/context
+it is 1taboo>forbidden to dress your 8$noun-animal_S>$person-relative_S in $noun-clothing_S 2$law/context in $law/place
+5residents>inhabitants of $law/place may only $verb-transitive $law/victim_S if they own at least $number-small 1$adj-person $noun-animal_S
+5stockpiling>amassing more than @random(2,50) +kg of 2$dish/food-method $noun-food_S 1$dish/food-presentation attracts a government tariff in $law/place
+$law/place 's driving code forbids being in control of a $noun-vehicle while $adj-person
+5visitors>tourists to $law/place are warned that $verb-transitive_ING the local 5$noun-animal_S>$person-profession-medieval_S risks a @random(1,5) month prison term
+9nobody>everybody in $law/place is permitted to teach their pet $noun-animal to $verb-transitive a $noun 2$law/context
+3citizens>residents of $law/place are required to $verb-transitive their 8$law/victim>$noun-bodypart-human at least $number-small times every $time-period
+5don't>never travel in a $noun-vehicle with a $noun-animal in $law/place ; it's 5illegal>forbidden, unless $law/context
+a slew of draconian laws in $law/place outlaws $verb-intransitive_ING , $verb-intransitive_ING 5,>_ and 4$verb-transitive_ING $noun_S

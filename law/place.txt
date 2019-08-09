@@ -1,0 +1,6 @@
+@format ~|N|NS
+$place-city|$place-city_N|$place-city_NS
+$place-city|$place-city_N|$place-city_NS
+$place-country|$place-country_N|$place-country_NS
+$place-country|$place-country_N|$place-country_NS
+$place-real|$place-real_N|$place-real_NS
