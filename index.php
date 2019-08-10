@@ -13,11 +13,11 @@ A generic, extensible, customisable random text generator. The code is <a href="
 <li><a href="tavern/">Fantasy tavern names</a></li>
 <li><a href="artifact/">Fantastic artifacts</a></li>
 <li><a href="village/">Village names and festival descriptions</a></li>
-<li><a href="insult/">Fantasy insults</a></li>
+<li><a href="insult/">Mockery Most Vicious</a> - fantasy insults, perfect for when your <i>D&amp;D</i> bard unleashes Vicious Mockery</li>
 <br>
 <li><a href="game/">Board game descriptions</a></li>
-<li><a href="dish/">mezzacotta Café, version 2</a> - the reincarnation of the original <a href="/mezzacafe/">mezzacotta Café</a> with all-new code. HTML formatting work still to be done.</li>
-<li><a href="movie/">mezzacotta Cinématique, version 2</a> - the reincarnation of the original <a href="/cinematique/">mezzacotta Cinématique</a> with all-new code. HTML formatting work still to be done.</li>
+<li><a href="dish/">mezzacotta Café version 2</a> - the reincarnation of the original <a href="/mezzacafe/">mezzacotta Café</a> with all-new code.</li>
+<li><a href="movie/">mezzacotta Cinématique version 2</a> - the reincarnation of the original <a href="/cinematique/">mezzacotta Cinématique</a> with all-new code.</li>
 </ul>
 </body>
 </html>
