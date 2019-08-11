@@ -1,4 +1,5 @@
-# A catch-all place for nouns that are just generic objects, such as found around the house, office or school.
+# A catch-all place for nouns that are just generic objects.
+# Contents of this file may periodically be refactored into new noun categories.
 # NO:
 #   - animals
 #   - structures
@@ -10,53 +11,5 @@
 #   - vehicles
 #   - clothing
 #   - furniture
+#   - household/office items
 @format ~|S
-pencil
-ruler
-compass|compasses
-pen
-marker
-pencil case
-eraser
-phone
-telephone
-book
-lamp
-box
-light bulb
-clock
-wallet
-thermometer
-plate
-bowl
-cup
-mug
-teacup
-frying pan
-saucepan
-vase
-jug
-image
-painting
-photograph
-frame
-backpack
-cord
-charger
-iron
-ironing board
-quilt
-blanket
-pillow
-cushion
-towel
-soap
-shampoo
-tin can
-can opener
-razor
-toothbrush|toothbrushes
-bell
-watch
-credit card
-coin

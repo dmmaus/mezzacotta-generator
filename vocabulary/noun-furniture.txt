@@ -1,15 +1,21 @@
 # Furniture - includes rooms and architectural features.
 @format ~|S
 archway
+bathroom
+bed
 bench|benches
-candle
+bookcase
 chair
 chimney
+closet
+coffee table
 door
 fireplace
 hearth
 kitchen
+lamp
 lantern
+laundry
 light
 mantel
 oven
@@ -17,4 +23,5 @@ sconce
 stool
 table
 throne
+wardrobe
 window
