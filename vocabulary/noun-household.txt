@@ -9,13 +9,17 @@
 #   - weapons
 @format ~|S
 backpack
+basket
 bell
 blanket
+board game
 book
 bowl
-box
+box|boxes
+butter knife|knives
 can opener
 candle
+card
 charger
 clock
 coin
@@ -24,15 +28,23 @@ cord
 credit card
 cup
 cushion
+die|dice
 eraser
+fork
 frame
+fridge
 frying pan
+game
+hourglass|hourglasses
 image
 iron
 ironing board
 jug
+kettle
 light bulb
 marker
+microwave oven
+mixing bowl
 mug
 painting
 pen
@@ -46,15 +58,22 @@ quilt
 razor
 ruler
 saucepan
+saucer
 shampoo
 soap
+spatula
+speaker
+spoon
+tablet
 teacup
 telephone
 thermometer
 tin can
+toaster
 toothbrush|toothbrushes
 toothpaste
 towel
 vase
 wallet
 watch
+wine glass|glasses

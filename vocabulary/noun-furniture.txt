@@ -2,15 +2,28 @@
 @format ~|S
 archway
 bathroom
+balcony|balconies
+bar
 bed
+bedside table
 bench|benches
 bookcase
+carpet
 chair
 chimney
 closet
+clothes dryer
 coffee table
+cornice
+desk
 door
+drawer
+ensuite
+entertainment unit
+entryway
 fireplace
+fountain
+gazebo
 hearth
 kitchen
 lamp
@@ -18,10 +31,22 @@ lantern
 laundry
 light
 mantel
+ottoman
 oven
+pergola
+pillar
+rug
+side table
+skirting board
+sofa
 sconce
+staircase
 stool
 table
 throne
+throw rug
+tile
+wall
 wardrobe
+washing machine
 window

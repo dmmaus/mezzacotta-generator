@@ -5,7 +5,7 @@ a $person from $law/place must not $verb-transitive $law/noun_S with 5his>her $n
 if your $noun-bodypart-human is 5insufficiently>too $adjective in $law/place 1$law/context , you may be fined up to @random(5,600) dollars
 in $law/place , $person_S can be arrested for $verb-transitive_ING 4$adj-person $law/victim_S 2$law/context
 in $law/place , $person_S who have 1not>_ had their $noun-bodypart-human_S $verb-transitive_ED by a 3$adj-person 1$noun-animal>$person may qualify for compensation
-in $law/place , $verb-transitive_ING a $law/noun is only permitted while wearing $adj-colour $noun-clothing_S
+in $law/place , $verb-transitive_ING a $law/noun is only 5permitted>authorised while 9wearing>$verb-transitive_ING $adj-colour $noun-clothing_S
 in $law/place , $verb-transitive_ING your 5$person-relation>$law/noun is only permissible $law/context
 in $law/place , if a $person 5asks>requests to $verb-transitive your $law/noun , you must 5allow>let them
 in $law/place , it is illegal to $verb-transitive your $law/noun_S 5$law/context>$law/exception
@@ -17,6 +17,6 @@ $law/place 's driving code forbids being in control of a $noun-vehicle while $ad
 9nobody>everybody in $law/place is permitted to teach their pet $noun-animal to $verb-transitive a $law/noun 2$law/context 2$law/exception
 3citizens>residents of $law/place are required to $verb-transitive their 8$law/victim>$noun-bodypart-human at least $number-small times every $time-period
 5don't>never travel in a $noun-vehicle with a $noun-animal in $law/place ; it's 5illegal>forbidden 1$law/context>$law/exception
-a slew of draconian laws in $law/place outlaws $verb-intransitive_ING , $verb-intransitive_ING 5,>_ and 4$verb-transitive_ING $law/noun_S
+a slew of draconian laws in $law/place outlaws $verb-intransitive_ING , $verb-intransitive_ING 5,>_ and 4$verb-transitive_ING 9$law/noun_S>$insult/subject_S
 in $law/place , no 5+body>$person shall perform a $noun-composition-musical about 5$adj-person>$artifact/adj-artifact 5$law/noun_S>$person_S 3$law/context>$law/exception
-5amongst>for the $law/place_NS , if 2one>someone is 5more>less $adj-person than their $person-relation , they are 7required_by_law>obliged to become a $person
+5amongst>for the $law/place_NS , if 2one>someone is 5more>less $adj-person than their $person-relation , they are 7required_by_law>obliged to 75become>$verb-transitive a $person
