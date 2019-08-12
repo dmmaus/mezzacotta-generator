@@ -1,0 +1,60 @@
+# Generic objects found around the home or office
+# Following items have separate files:
+#   - clothing
+#   - furniture
+#   - musical instruments
+#   - structures
+#   - tools
+#   - vehicles
+#   - weapons
+@format ~|S
+backpack
+bell
+blanket
+book
+bowl
+box
+can opener
+candle
+charger
+clock
+coin
+compass|compasses
+cord
+credit card
+cup
+cushion
+eraser
+frame
+frying pan
+image
+iron
+ironing board
+jug
+light bulb
+marker
+mug
+painting
+pen
+pencil
+pencil case
+phone
+photograph
+pillow
+plate
+quilt
+razor
+ruler
+saucepan
+shampoo
+soap
+teacup
+telephone
+thermometer
+tin can
+toothbrush|toothbrushes
+toothpaste
+towel
+vase
+wallet
+watch

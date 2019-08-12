@@ -1,11 +1,26 @@
 @format ~
-morning
 afternoon
+dawn
+daybreak
+dusk
+early afternoon
+early evening
+early morning
 evening
+high noon
+late afternoon
+late evening
+late morning
+late night
+mid-afternoon
+midday
+midnight
+moonrise
+moonset
+morning
 night
+nightfall
+noon
+pre-dawn
 sunrise
 sunset
-dawn
-dusk
-mid-day
-midnight

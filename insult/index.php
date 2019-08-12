@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<title>Random RPG Insults - mezzacotta</title>
+<title>Mockery Most Vicious - mezzacotta</title>
 </head>
 <body>
-<h1>Random RPG Insults</h1>
+<h1>Mockery Most Vicious</h1>
 <p>
-10 random insults, perfect for directing at villainous scum. Reload for more.
+10 random fantasy insults, perfect for using when your <i>D&amp;D</i> bard unleashes Vicious Mockery! Reload for more.
 </p>
 <ul>
 <?php
