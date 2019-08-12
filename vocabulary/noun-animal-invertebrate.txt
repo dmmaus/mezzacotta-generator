@@ -7,7 +7,7 @@ butterfly|butterflies
 centipede
 clam
 cockle
-cockroach
+cockroach|cockroaches
 crab
 dragonfly|dragonflies
 flea

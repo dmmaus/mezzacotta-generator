@@ -12,13 +12,14 @@ in a 5$noun-geography-structure>$noun-geography-landform
 5less>more than $number-small times a $time-period
 on $time-day-of-week
 on behalf of a 1$adj-person $person
-to $verb-transitive a $noun
+to $verb-transitive a $law/noun
 under the influence of $noun-food
 while $verb-intransitive_ING
-while $verb-transitive_ING a $noun
+while $verb-transitive_ING a $law/noun
 while at a $sport match
 while competing in $sport
+while playing the $noun-instrument-musical
 while riding a $noun-animal
 while wearing a 3$adj-colour $noun-clothing
-with a 1$noun>$noun-weapon
+with a 1$law/noun>$noun-weapon
 with a $noun-animal

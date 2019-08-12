@@ -1,0 +1,8 @@
+@format ~|S
+# leave out celestial nouns and ingredients
+@include noun-abstract
+@include noun-animal
+@include noun-item
+@include noun-geography
+@include noun-plant
+@include noun-artifact
