@@ -1,11 +1,13 @@
 @format ~
-second
-minute
-hour
+century
 day
-week
+decade
+fortnight
+hour
+millennium
+minute
 month
 season
+second
+week
 year
-decade
-century
