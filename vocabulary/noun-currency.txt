@@ -1,0 +1,32 @@
+@format ~|S
+baht
+bitcoin
+cent
+denarius|denarii
+Deutschemark
+dollar
+dollar
+dollar
+dollar
+dollar
+|drachma
+|euro
+farthing
+florin
+franc
+galactic credit
+gold piece
+guinea
+|lira
+penny|pence
+peso
+piece|pieces of eight
+pound
+pound|pounds sterling
+ruble
+rupee
+septim
+shekel
+silver piece
+shilling
+yen

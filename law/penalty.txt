@@ -1,0 +1,6 @@
+@format ~|THEY
+you|they may be fined up to @random(5,600) $noun-currency_S
+you|they may be fined up to @random(5,600) $noun-currency_S
+your|their $law/noun|$law/noun_S may be 8confiscated>$verb-transitive_ED by the 95police>$person_S
+you|they risk a $number-small - 5month>$time-period 8prison>jail 5term>sentence
+you|they are 7required_by_law>obliged to 75become>$verb-transitive a $person
