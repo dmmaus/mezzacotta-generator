@@ -1,22 +1,26 @@
 @format ~|S
-baht
+|baht
 bitcoin
 cent
 denarius|denarii
-Deutschemark
+Deutschmark
 dollar
 dollar
 dollar
 dollar
 dollar
 |drachma
+ducat
 |euro
 farthing
 florin
 franc
 galactic credit
+galleon
 gold piece
+guilder
 guinea
+knut
 |lira
 penny|pence
 peso
@@ -26,7 +30,10 @@ pound|pounds sterling
 ruble
 rupee
 septim
+sestertius|sestertii
 shekel
+sickle
 silver piece
 shilling
-yen
+|yen
+zloty|zloties

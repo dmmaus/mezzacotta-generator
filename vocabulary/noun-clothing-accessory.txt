@@ -1,19 +1,16 @@
-# Anything that is typically carried by a person as an accessory
+# Anything that is typically carried by a person as an accessory.
+# Jewellery goes in noun-clothing-jewellery.
 @format ~|S
 bag
-bracelet
 cane
-|earrings
 |glasses
 glove
 handbag
 handkerchief
 mitten
 monocle
-necklace
 pipe
 purse
-ring
 scarf|scarves
 shield
 shopping bag

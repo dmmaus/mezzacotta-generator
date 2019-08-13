@@ -1,15 +1,19 @@
 @format ~|S
+bag
 barrel
 bottle
 bowl
+box|boxes
 bucket
 cauldron
 chalice
 chest
+crate
 cup
 flagon
 flask
 glass|glasses
+goblet
 keg
 kettle
 mug

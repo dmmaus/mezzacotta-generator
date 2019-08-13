@@ -1,0 +1,51 @@
+# Jewellery and typically bejewelled items, e.g. sceptres.
+@format ~|S
+amulet
+anklet
+armband
+bangle
+baton
+bauble
+bead
+bracelet
+brooch|brooches
+cameo
+censer
+chalice
+chatelaine
+choker
+circlet
+coronet
+crown
+cufflink
+cup
+diadem
+diamond
+|earrings
+emerald
+gem
+gemstone
+goblet
+grail
+hairpin
+hatpin
+heirloom
+icon
+idol
+jewel
+locket
+medal
+medallion
+necklace
+orb
+pendant
+pin
+ring
+ruby|rubies
+sceptre
+signet
+talisman
+tiara
+tie clip
+toe ring
+torc
