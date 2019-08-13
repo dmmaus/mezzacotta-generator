@@ -3,6 +3,7 @@
 @include noun-abstract
 @include noun-animal
 @include noun-celestial
+@include noun-clothing-jewellery
 @include tavern/food
 @include noun-item
 @include noun-geography

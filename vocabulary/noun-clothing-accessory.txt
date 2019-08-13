@@ -1,6 +1,7 @@
 # Anything that is typically carried by a person as an accessory.
 # Jewellery goes in noun-clothing-jewellery.
 @format ~|S
+$noun-clothing-jewellery|$noun-clothing-jewellery_S
 bag
 cane
 |glasses
