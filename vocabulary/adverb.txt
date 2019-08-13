@@ -1,12 +1,17 @@
 @format ~
+abundantly
 accidentally
+actively
 actually
 almost
 also
 always
 amazingly
 anxiously
+apparently
 arrogantly
+austerely
+automatically
 awkwardly
 barely
 basically
@@ -19,9 +24,11 @@ brazenly
 brightly
 calculatingly
 calmly
+candidly
 carefully
 cautiously
 chaotically
+comfortably
 commonly
 completely
 constantly
@@ -38,6 +45,7 @@ defiantly
 definitely
 deliberately
 depressingly
+directly
 disgustingly
 dishonestly
 disrespectfully
@@ -56,6 +64,7 @@ fastidiously
 festively
 figuratively
 finally
+fittingly
 flamboyantly
 foolishly
 frantically
@@ -67,10 +76,12 @@ gently
 glamourously
 gleefully
 glumly
+gracefully
 greedily
 grimly
 happily
 hardly
+hastily
 hauntingly
 helpfully
 herocially
@@ -79,6 +90,9 @@ horrendously
 hurtfully
 illegally
 impressively
+inadequately
+indirectly
+indiscreetly
 innocently
 innovatingly
 intentionally
@@ -91,8 +105,11 @@ keenly
 kindly
 knowingly
 kookily
+lawfully
 lazily
+lethargically
 like,
+listlessly
 literally
 logically
 longingly
@@ -117,6 +134,7 @@ normally
 notably
 obediently
 obnoxiously
+obtusely
 obviously
 officially
 often
@@ -148,11 +166,13 @@ quirkily
 radically
 rapidly
 rarely
+rashly
 really
 recklessly
 reluctantly
 relentlessly
 richly
+righteously
 rudely
 sacredly
 sadly
@@ -168,7 +188,9 @@ shyly
 silently
 sinfully
 slightly
+sloppily
 slowly
+smoothly
 smugly
 solemnly
 sometimes
@@ -186,9 +208,9 @@ technically
 tenderly
 thoroughly
 thoughtfully
+totally
 trickily
 triumphantly
-... um, 
 unbelievably
 uncarefully
 unexpectedly
@@ -204,9 +226,12 @@ usually
 vainly
 viciously
 violently
+virtuously
 vividly
+voluntarily
 weakly
 weirdly
+wholeheartedly
 willingly
 wisely
 wistfully
