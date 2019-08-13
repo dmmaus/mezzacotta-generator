@@ -7,5 +7,9 @@ $place-country|$place-country_N|$place-country_NS
 $place-country|$place-country_N|$place-country_NS
 $place-country|$place-country_N|$place-country_NS
 $place-country|$place-country_N|$place-country_NS
+$place-state|$place-state_N|$place-state_NS
+$place-state|$place-state_N|$place-state_NS
+$place-state|$place-state_N|$place-state_NS
+$place-real|$place-real_N|$place-real_NS
 $place-real|$place-real_N|$place-real_NS
 _|villager_of|villagers_of $village/name-simple

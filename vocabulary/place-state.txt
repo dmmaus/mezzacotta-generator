@@ -1,0 +1,79 @@
+@format ~|N|NS
+#
+# US States
+#
+Alabama|Alabamian|Alabamians
+Alaska|Alaskan|Alaskans
+Arizona|Arizonan|Arizonans
+Arkansas|Arkansan|Arkansan
+California|Californian|Californians
+Colorado|Coloradan|Coloradans
+Connecticut|Connecticuter|Connecticuters
+Delaware|Delawarean|Delawareans
+Florida|Floridian|Floridians
+Georgia|Georgian|Georgians
+Hawaii|Hawaiian|Hawaiians
+Idaho|Idahoan|Idahoan
+Illinois|Illinoisan|Illinoisans
+Indiana|Hoosier|Hoosiers
+Iowa|Iowan|Iowans
+Kansas|Kansan|Kansans
+Kentucky|Kentuckian|Kentuckians
+Louisiana|Louisianian|Louisianians
+Maine|Mainer|Mainers
+Maryland|Marylander|Marylander
+Massachusetts|Massachusettsan|Massachusettsans
+Michigan|Michiganian|Michiganians
+Minnesota|Minnesotan|Minnesotans
+Mississippi|Mississippian|Mississippians
+Missouri|Missourian|Missourians
+Montana|Montanan|Montanans
+Nebraska|Nebraskan|Nebraskans
+Nevada|Nevadan|Nevadans
+New Hampshire|Hampshirite|Hampshirites
+New Jersey|Jerseyan|Jerseyans
+New Mexico|Mexican|Mexicans
+New York|Yorker|Yorkers
+North Carolina|Carolinian|Carolinians
+North Dakota|Dakotan|Dakotans
+Ohio|Ohioan|Ohioans
+Oklahoma|Oklahoman|Oklahomans
+Oregon|Oregonian|Oregonians
+Pennsylvania|Pennsylvanian|Pennsylvanians
+Rhode Island|Islander|Islanders
+South Carolina|Carolinian|Carolinians
+South Dakota|Dakotan|Dakotans
+Tennessee|Tennessean|Tennesseans
+Texas|Texan|Texans
+Utah|Utahn|Utahns
+Vermont|Vermonter|Vermonters
+Virginia|Virginian|Virginians
+Washington|Washingtonian|Washingtonians
+West Virginia|Virginian|Virginians
+Wisconsin|Wisconsinite|Wisconsinites
+Wyoming|Wyomingite|Wyomingites
+#
+# Australian States
+#
+Australian_Capital_Territory|Canberran|Canberrans
+New South Wales|Welshman|Welshmen
+Northern Territory|Territorian|Territorians
+Queensland|Queenslander|Queenslanders
+South Australia|Australian|Australians
+Victoria|Victorian|Victorians
+Western Australia|Australian|Australians
+#
+# Canadian Provinces
+#
+Alberta|Albertan|Albertans
+British Columbia|Columbian|Columbians
+Manitoba|Manitobian|Manitobians
+New Brunswick|Brunswicker|Brunswickers
+Newfoundland|Newfoundlander|Newfoundlanders
+Northwest Territories|Territorian|Territorians
+Nova Scotia|Scotian|Scotians
+Ontario|Ontarian|Ontarians
+Prince Edward Island|Islander|Islanders
+Quebec|Quebecker|Quebeckers
+Saskatchewan|Saskatchewanian|Saskatchewanians
+Yokon|Yukoner|Yukoners

@@ -1,5 +1,6 @@
 @format ~|N|NS
 @include place-city
 @include place-country
+@include place-state
 @include place-real
 @include place-fictional
