@@ -2,6 +2,7 @@
 5after>before 5$time-hour>$time-of-day
 5at>during $time-holiday
 at a $movie/event
+at $village/festival-time
 during $time-month
 for the purpose of $verb-intransitive_ING
 if doing so &ldquo; $adverb &rdquo;

@@ -1,0 +1,20 @@
+@format ~
+# General formats for descriptions:
+# statements about roles, and the goals that the players have.
+# statements about the general flow of play
+#   eg "the game is played over 5 rounds, with a new animal card displayed for each"
+#   eg "player collect planet dice over a series of auctions"
+# statements about the global triggered conditions in the game:
+#   some 'trigger' causes a 'result'
+#   eg, "at the start of the game" "the animal deck is shuffled and dealt out"  (could force setup-type statements here)
+#   eg, "when a player has no lantern tiles" "a new round begins"
+# statements about the actions of individual players:
+#   mix-and-match between an item and it's source, and it's destination
+# statements about the winner , or point scoring, or end conditions
+# statements offering strategic advice
+#   eg, "beware the golden bandicoot card, worth -30 points"
+# statements generally selling the game
+#   eg, "it's a cavalcade of fun"
+#   eg, "a game of conquest, trade and war"
+#   eg, "do you have what it takes?"
+$game/desc-intro $game/desc-roles 95$game/desc-goal>.

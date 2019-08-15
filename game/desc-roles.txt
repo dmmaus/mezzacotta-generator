@@ -1,0 +1,5 @@
+@format ~
+Players take on the roles of *PLACE 's most $adj-person *PERS1
+One player is the $game/person of *PLACE , while the others take on the roles of the *PERS1
+Transported to the land of *PLACE , the players 5choose>select roles of 5various>unique *PERS1
+Everyone 5is>acts_as one of the 3$adj-person *PERS1 of *PLACE (except for the most $adj-person player who is a $game/person instead)

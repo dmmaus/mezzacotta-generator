@@ -14,9 +14,10 @@ it is 1taboo>forbidden to dress your 8$noun-animal_S>$person-relative_S in $noun
 5stockpiling>amassing more than @random(2,50) +kg of 2$dish/food-method $noun-food_S 1$dish/food-presentation attracts a government tariff in $law/place
 $law/place 's driving code forbids being in control of a $noun-vehicle while $adj-person
 5visitors>tourists to $law/place are warned that if 5caught>found $verb-transitive_ING the local 5$noun-animal_S>$person-profession-medieval_S , $law/penalty
-9nobody>everybody in $law/place is permitted to teach their pet $noun-animal to $verb-transitive a $law/noun 2$law/context 2$law/exception
+9nobody>everybody in $law/place is permitted to 5teach>train their pet $noun-animal to $verb-transitive a $law/noun 2$law/context 2$law/exception
 3citizens>residents of $law/place are required to $verb-transitive their 8$law/victim>$noun-bodypart-human at least $number-small times every $time-period
 5don't>never travel in a $noun-vehicle with a $noun-animal in $law/place ; it's 5illegal>forbidden 1$law/context>$law/exception
 a slew of draconian laws in $law/place outlaws $verb-intransitive_ING , $verb-intransitive_ING 5,>_ and 4$verb-transitive_ING 9$law/noun_S>$insult/subject_S
 in $law/place , no 5+body>$person shall perform a $noun-composition-musical about 5$adj-person>$artifact/adj-artifact 5$law/noun_S>$person_S 3$law/context>$law/exception
 5amongst>for the $law/place_NS , if 2one>someone is 5more>less $adj-person than their $person-relation , $law/penalty_THEY
+$law/place_NS must renew their $law/noun - $verb-transitive_ING license every $time-period , 5or>lest $law/penalty_THEY

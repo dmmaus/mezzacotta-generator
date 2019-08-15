@@ -1,0 +1,5 @@
+@format ~|S|ED|ING
+compete|competes|competed|competing
+race|races|raced|racing
+try|tries|tried|trying
+vie|vies|vied|vying

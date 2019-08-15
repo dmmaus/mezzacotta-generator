@@ -1,0 +1,2 @@
+# Statements about the general setup of the game, putting token/cards on the board, or giving things to players
+the $noun-artifact deck is shuffled and random(2,12) cards dealt to each player

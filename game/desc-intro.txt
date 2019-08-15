@@ -1,0 +1,2 @@
+@format ~
+This is a 3$game/game-supercategory 8$game/game-mechanic-tag 8$game/game-mechanic-tag 8$adj-genre $game/game-category game 5$game/game-feature 8$game/playercount .
