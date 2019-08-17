@@ -1,6 +1,7 @@
 @format ~
 abode
 acumen
+agility
 allure
 apparel
 appeal
@@ -9,8 +10,10 @@ aspect
 bearing
 beauty
 body
+brains
 charisma
 charm
+cleverness
 coiffure
 comeliness
 complexion
@@ -19,9 +22,13 @@ confidence
 constitution
 costume
 countenance
+cunning
 demeanour
 dexterity
+elegance
+fairness
 fame
+features
 figure
 finesse
 gait
@@ -29,22 +36,31 @@ garb
 genius
 grace
 habit
+handsomeness
 health
 house
 humour
+ingenuity
 intellect
+looks
 manner
 mind
 piety
 pizzazz
 posture
+prowess
 raiment
 reputation
+savoir faire
+shrewdness
+skills
+sophistication
 speech
 standing
 status
 strength
 style
+talents
 vestment
 vigor
 visage

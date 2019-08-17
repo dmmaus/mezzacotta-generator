@@ -4,4 +4,5 @@ fix|fixes|fixed|fixing
 mend
 heal
 rectify|rectifies|rectified|rectifying
+redress|redresses|redressed|redressing
 repair

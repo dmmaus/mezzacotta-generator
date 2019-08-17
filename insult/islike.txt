@@ -14,7 +14,7 @@ is|art like unto
 is|art moreso $insult/adj than
 is|art twin to
 $verb-transitive-simple_ED|$verb-transitive-simple_ED
-appeareth|appearst belike
+$insult/verb-transitive-appear_ETH|$insult/verb-transitive-appear_ST belike
 imitateth|imitatest
 mimicketh|mimickst
 mirroreth|mirrorest
