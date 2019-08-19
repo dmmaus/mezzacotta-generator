@@ -13,7 +13,7 @@ $noun-animal -baiter
 $noun-animal -pie
 $noun-animal dropping
 $noun-animal - $noun-animal|$noun-animal_S
-$noun-animal +plot
+$noun-animal +plop
 $noun-geography-landform -dweller
 $noun-bodypart -beast
 $noun-monster_S -meat
