@@ -7,17 +7,27 @@ $verb-transitive mine $person-relative !
 Alack!
 Alas and alack!
 Ay!
+Bah!
 Blood and ashes!
 Egad!
+Fiddlesticks!
 Fie!
 Forsooth!
 Gad!
 Gadzooks!
 God's wounds!
+Good grief!
+Haha!
+Hush!
 Marry!
+Oh my!
+Oops...
 Pish!
 Prithee!
 Quotha!
 Sirrah!
+So...
 Tosh!
+Whoa...
+Zing!
 Zounds!

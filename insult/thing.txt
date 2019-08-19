@@ -13,6 +13,7 @@ $noun-animal -baiter
 $noun-animal -pie
 $noun-animal dropping
 $noun-animal - $noun-animal|$noun-animal_S
+$noun-animal +plot
 $noun-geography-landform -dweller
 $noun-bodypart -beast
 $noun-monster_S -meat
@@ -77,6 +78,7 @@ harlot
 hayseed
 hedge-wizard
 hobby-horse
+hobby- $noun-animal
 hooligan
 joithead
 jolthead
@@ -122,6 +124,7 @@ pillock
 pignut
 pimp
 plunder-squatch
+pock-mark
 poltroon
 prune
 pumpion

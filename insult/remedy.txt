@@ -1,4 +1,5 @@
 @format ~|S
+alchemist
 bag|bags on the head
 bandage
 blindfold
@@ -6,17 +7,24 @@ burial
 curative
 doctor
 druid
+elixir
+enchantress
 exorcism
 exorcist
+fortune-teller
 healer
 herbalist
+medicine man|men
 necromancer
 nose plug
 physician
 potion|potions of healing
 poultice
 priest
+restorative
+scientist
 shaman
+surgeon
 tonic
 undertaker
 wise woman|women

@@ -5,7 +5,7 @@ acolyte
 adventurer
 alchemist
 apothecary|apothecaries
-apprentice $movie/person-profession-medieval-cinematic
+apprentice $movie/person-profession-medieval-cinematic|$movie/person-profession-medieval-cinematic_S
 archer
 artisan
 assassin

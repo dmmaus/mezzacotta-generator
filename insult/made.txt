@@ -1,9 +1,16 @@
 @format ~
+assembled
+built
 carven
+cast
 cloven
+contrived
+created
 fashioned
+forged
 formed
 hacked
 hammered
 hewn
+shaped
 wrought

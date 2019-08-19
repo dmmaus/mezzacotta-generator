@@ -35,5 +35,5 @@ $insult/interjection   Thou hast the $insult/target of a much less $insult/adj $
 #
 08$insult/interjection  Art thou soothly as 5$dish/wine-intensifier $insult/adj as thou $insult/verb-transitive-appear_ST ? 'twould $insult/verb-transitive-appear 5impossible>preposterous !
 05$insult/interjection $insult/verb-transitive-fix thine $insult/adj $insult/target , lest it $verb-transitive-simple the village's $insult/victim_S
-'tis 5clear>obvious thou hast minned thy $insult/trait , $insult/trait , and $insult/trait , but 5prithee what hast thou maxed?
+'tis 5clear>obvious thou hast minned thy $insult/trait , $insult/trait , and 6$insult/adj $insult/trait , but 5prithee what hast thou maxed?
 #

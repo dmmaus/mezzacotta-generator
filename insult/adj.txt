@@ -72,6 +72,8 @@ $noun-animal-invertebrate -encrusted
 $noun-animal-invertebrate -infested
 $noun-bodypart-human +less
 $noun-bodypart -licking
+$noun-food -eating
+$noun-food -witted
 $noun-geography-landform -born
 $noun-monster -borne
 $noun-monster-humanoid -skinned
@@ -133,6 +135,7 @@ dusty
 entrail-eating
 envenomed
 errant
+ever- $verb-intransitive_ING
 fen-sucked
 festering
 fickle
@@ -151,6 +154,7 @@ gibbering
 gormless
 greasy
 grim-look'd
+hairy- $noun-bodypart-human +ed
 hasty-witted
 hell-hated
 hideous
@@ -214,11 +218,13 @@ scabrous
 scrofulous
 scurvy
 shameless
+silly
 slanderous
 slobbering
 slovenly
 sluggish
 snobbish
+special
 spittle- $insult/apparel +ed
 spleeny
 spoony
