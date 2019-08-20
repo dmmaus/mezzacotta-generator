@@ -50,6 +50,7 @@ $adjective $noun-bodypart-human +ed
 $dish/ingredient -eating
 $dish/ingredient -witted
 $dish/food-method
+$dish/wine-grape - $noun-bodypart-human +ed
 $insult/adj and $insult/adj
 $noun -brained
 $noun -festooned
@@ -72,11 +73,13 @@ $noun-animal-invertebrate -encrusted
 $noun-animal-invertebrate -infested
 $noun-bodypart-human +less
 $noun-bodypart -licking
+$noun-bodypart-animal -faced
 $noun-food -eating
 $noun-food -witted
 $noun-geography-landform -born
 $noun-monster -borne
 $noun-monster-humanoid -skinned
+$noun-plant -bearded
 $noun-weapon-historic -impaled
 $person-profession-medieval -kissing
 $person-relative +less
@@ -101,6 +104,7 @@ bescabbed
 bescumbered
 beslubbering
 blasphemous
+blathering
 bony
 boorish
 bug-eyed
@@ -111,6 +115,7 @@ castrated
 catawumpus
 cheap
 churlish
+clanless
 cockered
 contagious
 contaminated
@@ -122,6 +127,7 @@ cozening
 craven
 crooked- $noun-bodypart-human +ed
 crusty
+dankish
 debauched
 decrepit
 deformed
@@ -163,7 +169,9 @@ ill-nurtured
 impertinent
 incestuous
 incontinent
+jarring
 jaundiced
+jelly-boned
 lack-witted
 lecherous
 leprous
@@ -203,21 +211,26 @@ piddling
 plume-plucked
 polluted
 pompous
+pottle-deep
 pox-marked
+pribbling
 puke- $insult/apparel +ed
 pustulent
+rabid
 rancorous
 repugnant
 repulsive
 roguish
 rough-hewn
 ruinous
+runty
 sanctimonious
 saucy
 scabrous
 scrofulous
 scurvy
 shameless
+shrunken
 silly
 slanderous
 slobbering
@@ -247,6 +260,7 @@ unlicked
 unmuzzled
 unrighteous
 unsanitary
+useless
 vainglorious
 verminous
 vile
@@ -254,7 +268,9 @@ viperous
 virulent
 vomitorious
 wanton
+warty
 wayward
 weedy
 woebegone
+yeasty
 zero-charisma

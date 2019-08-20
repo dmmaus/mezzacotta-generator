@@ -16,13 +16,17 @@ $noun-animal - $noun-animal|$noun-animal_S
 $noun-animal +plop
 $noun-geography-landform -dweller
 $noun-bodypart -beast
+$noun-bodypart
 $noun-monster_S -meat
 $noun-monster|$noun-monster_S
+5$noun-monster>$noun-animal-mammal -barf
 $person|$person_S
 $insult/set|$insult/set_S of $insult/thing_S
+abomination
 apple-john
 baggage
 bard
+barnacle
 bedswerver
 bilge-stone
 birdbrain
@@ -32,8 +36,10 @@ boob
 boozer
 botchling
 braggart
+breadcrumb
 brute
 buffoon
+bum-baily|bum-bailies
 bumpkin
 canker
 carbunkle
@@ -42,6 +48,7 @@ clack-dish|clack-dishes
 charlatan
 chimneysweep
 churl
+clotpole
 clout
 cockalorum
 codpiece
@@ -70,6 +77,8 @@ fortune-teller
 frump
 fustilarian
 fustyplug
+5garbage>rubbish - $insult/set|$insult/set_S
+gleeking
 gobermouch|gobermouches
 goon-sack
 gudgeon
@@ -164,6 +173,7 @@ stench|stenches
 stink
 stool
 strumpet
+taffer
 tart
 thief|thieves
 toadstool
@@ -176,6 +186,7 @@ vagabond
 varlet
 vassal
 villain
+wagtail
 wetfoot
 whey-face
 wine-bibber
