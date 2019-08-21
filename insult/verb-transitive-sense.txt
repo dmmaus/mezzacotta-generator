@@ -8,7 +8,7 @@ hear|hears|heard|hearing
 learn|learns|learnt|learning of
 notice|notices|noticed|noticing
 observe|observes|observed|observing
-see|sees|saw|seeing
+see|sees|seen|seeing
 sense|senses|sensed|sensing
 smell|smells|smelt|smelling
 spot|spots|spotted|spotting

@@ -5,12 +5,16 @@ barrel
 blob
 box|boxes
 bucket
+bulk
 bunch|bunches
 crate
 covey
 flock
 glob
 grab-bag
+heap
+hoard
+lump
 mass
 mound
 multitude
@@ -18,4 +22,7 @@ pack
 pile
 sack
 ship-load
+stack
+throng
+troop
 wagon-load

@@ -3,6 +3,7 @@
 @replace|bellyed|bellied
 @replace|calfed|calved
 @replace|kneeed|kneed
+@replace|hiped|hipped
 @replace|noseed|nosed
 @replace|pateed|pated
 @replace|spineed|spined
@@ -157,6 +158,7 @@ froward
 full-gorged
 gangrenous
 gibbering
+gleeking
 gormless
 greasy
 grim-look'd

@@ -78,7 +78,6 @@ frump
 fustilarian
 fustyplug
 5garbage>rubbish - $insult/set|$insult/set_S
-gleeking
 gobermouch|gobermouches
 goon-sack
 gudgeon
@@ -87,7 +86,7 @@ harlot
 hayseed
 hedge-wizard
 hobby-horse
-hobby- $noun-animal
+hobby- $noun-animal|$noun-animal_S
 hooligan
 joithead
 jolthead
