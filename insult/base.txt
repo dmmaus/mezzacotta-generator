@@ -17,7 +17,7 @@
 05$insult/interjection Hast thy 5$insult/trait>$noun-bodypart-human been $insult/made from a 4$insult/adj $insult/set of 4$insult/adj $insult/material with a 9$noun-tool>$noun-weapon-historic ?
 05$insult/interjection Hath thy 05$dish/wine-intensifier $insult/adj $insult/trait 6affrighted>startled a 6maiden>woman to 5birth>deliver a 3$insult/adj $insult/set of $insult/adj $noun-animal_S ?
 05$insult/interjection I hath $insult/verb-transitive-sense_ED better $noun-bodypart-human_S on a 4$insult/adj $insult/set of $insult/adj $noun-animal_S .
-^05$insult/interjection I hath $insult/verb-transitive-sense_ED a 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S with 3far less $insult/adj $insult/trait than thee.
+05$insult/interjection I hath $insult/verb-transitive-sense_ED a 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S with 3far less $insult/adj $insult/trait than thee.
 8$insult/interjection  I mistook thee for a $insult/subject .
 05$insult/interjection That $insult/apparel makes you $insult/verb-transitive-appear less $insult/adj .
 8$insult/interjection  Thou hast the 6$insult/trait>$insult/apparel of a $insult/adj $insult/thing .
