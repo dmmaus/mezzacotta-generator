@@ -1,18 +1,6 @@
 @format ~
 @titlecase
+@include village/village-name
 $village/village-prefix + $village/village-suffix (pop. @random2(1,100) )
-$village/village-prefix + $village/village-suffix (sister_village of $village/base )
-$village/village-prefix + $village/village-suffix (the_one_near $village/base ,_not_the_one_near $village/base )
-$village/village-prefix + $village/village-suffix
-$village/village-prefix + $village/village-suffix 1$noun-geography-landform_S
-$village/village-prefix + $village/village-suffix 1$noun-geography-structure
-$village/village-prefix + $village/village-suffix $village/village-prefix + $village/village-suffix
-$village/village-prefix + s + $village/village-suffix
-$village/village-premodifier $village/village-prefix + $village/village-suffix 1$village/village-postmodifier
-1$village/village-premodifier $village/village-prefix + $village/village-suffix + $village/village-suffix 1$village/village-postmodifier
-1$village/village-premodifier $village/village-prefix + $village/village-suffix $village/village-infix $village/village-river
-1$village/village-premodifier $village/village-prefix + $village/village-suffix $village/village-postmodifier
-1$village/village-premodifier $village/village-prefix + $village/village-suffix on $village/village-river + side
-1$village/village-premodifier $village/village-prefix + s + $village/village-suffix 1$village/village-postmodifier
-2$village/village-premodifier $village/village-prefix $village/village-infix $village/village-suffix 2$village/village-postmodifier
-The $noun-geography-landform_S
+$village/village-prefix + $village/village-suffix (sister_village of $village/village-name )
+$village/village-prefix + $village/village-suffix (the_one_near $village/village-name ,_not_the_one_near $village/village-name )
