@@ -11,13 +11,16 @@
 </p>
 <ul>
 <?php
-$command = escapeshellcmd('/usr/bin/python ../generique.py game/base 5');
+$command = escapeshellcmd('/usr/bin/python ../generique.py game/title game/description 5');
 $output = shell_exec($command);
 $output = preg_replace("/'/", "’", $output);
 $lines = explode("\n", rtrim($output));
 foreach ($lines as $line)
 {
-    echo "<li>$line</i></li>\n";
+    $parts = explode("~~", $line);
+    $name = trim($parts[0]);
+    $description = trim($parts[1]);
+    echo "<li><b>$name</b><br>$description</li>\n<br>\n";
 }
 ?>
 </ul>
