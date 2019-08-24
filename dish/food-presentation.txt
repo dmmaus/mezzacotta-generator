@@ -249,6 +249,7 @@ five course banquet
 flakes
 flanks
 flamb&eacute;
+flamb&eacute;ed with $noun-food-alcohol at your table
 flan
 flavouring
 flip
@@ -326,7 +327,7 @@ in a coconut shell
 in a cup
 in a clay pot
 in a cone
-in a light white wine sauce
+in a light $noun-food-alcohol sauce
 in a mason jar
 in a salt crust
 in a take-away container
@@ -503,8 +504,7 @@ pizzaiola
 plate
 platter
 platter for two
-poached in red wine
-poached in white wine
+poached in $noun-food-alcohol
 pockets
 poivrade
 pot pie
