@@ -1,7 +1,8 @@
 @format ~
 @replace|of that of|of
 @replace|ed that of|ed
-01$insult/interjection 'tis 5clear>obvious thou hast minned thy $insult/trait , $insult/trait , and 6$insult/adj $insult/trait , but 5prithee>pray_tell , what hast thou maxed?
+@replace|a hour|an hour
+01$insult/interjection 'tis 5clear>obvious thou hast minned thy $insult/trait , 1$insult/target>$insult/trait , and 6$insult/adj 4$insult/target>$insult/trait , but 5prithee>pray_tell , what hast thou maxed?
 05$insult/interjection $insult/verb-transitive-fix thine $insult/adj $insult/target , lest it $verb-transitive-simple the village's $insult/victim_S .
 05$insult/interjection $verb-transitive me with a $insult/adj $noun if I've ever $insult/verb-transitive-sense_ED such a $insult/subject .
 05$insult/interjection 5After>Upon $insult/verb-transitive-sense_ING thy $insult/adj $insult/trait , the $insult/victim_S of the village hath need of a $insult/remedy .
@@ -21,7 +22,7 @@
 8$insult/interjection  I mistook thee for a $insult/subject .
 05$insult/interjection That $insult/apparel makes you $insult/verb-transitive-appear less $insult/adj .
 8$insult/interjection  Thou hast the 6$insult/trait>$insult/apparel of a $insult/adj $insult/thing .
-$insult/interjection   Thou hast the $insult/target of a much less $insult/adj $insult/thing .
+8$insult/interjection   Thou hast the $insult/target of a much less $insult/adj $insult/thing .
 05$insult/interjection Thou art a 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S .
 05$insult/interjection Thou art the 3$insult/adj $person-relation of a $insult/adj $insult/thing .
 05$insult/interjection Thou $insult/islike_ARE a $insult/adj $insult/thing , only moreso $insult/adj .
@@ -38,4 +39,7 @@ $insult/interjection   Thou hast the $insult/target of a much less $insult/adj $
 #
 01$insult/interjection I 5will>shall 4$adverb $verb-transitive my own $insult/target if thou art not the most $insult/adj $insult/thing I have 4$adverb $insult/verb-transitive-sense_ED this $time-period .
 01$insult/interjection Thy $insult/target remindeth me of the $insult/thing_S of $village/village-name , whom doth $verb-transitive their own $insult/target .
+05$insult/interjection I would 5prefer_to>rather be $verb-transitive_ED by a $insult/subject than $insult/verb-transitive-sense thy $insult/trait for another $time-period .
+05$insult/interjection I hope to not $insult/verb-transitive-sense thy 8$insult/adj $insult/target for another $time-period , and even then, t'would be preferable were it a 2$insult/adj $insult/thing .
+01$insult/interjection Alas, I hath $insult/verb-transitive-sense_ED thy $insult/adj $insult/target , and now I art affear'd I may be $verb-transitive_ED by it.
 #

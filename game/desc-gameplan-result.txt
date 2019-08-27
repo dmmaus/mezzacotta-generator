@@ -1,0 +1,7 @@
+@format ~
+be the player with the most $game/adj $noun
+claim the special abilities of the $artifact/base
+$game/verb-action the most $noun $game/terminology-card_S
+be the first player to collect $number-small $noun_S
+have more $noun $game/terminology-card_S than anyone else
+$verb-transitive all of their $game/terminology-card_S

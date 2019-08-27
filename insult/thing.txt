@@ -16,7 +16,7 @@ $noun-animal - $noun-animal|$noun-animal_S
 $noun-animal +plop
 $noun-geography-landform -dweller
 $noun-bodypart -beast
-$noun-bodypart
+$noun-bodypart|$noun-bodypart_S
 $noun-monster_S -meat
 $noun-monster|$noun-monster_S
 5$noun-monster>$noun-animal-mammal -barf

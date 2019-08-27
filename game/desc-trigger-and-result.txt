@@ -1,0 +1,2 @@
+@format ~
+$game/desc-trigger $game/desc-result .

@@ -1,0 +1,2 @@
+@format ~
+test: $test/a=V *V

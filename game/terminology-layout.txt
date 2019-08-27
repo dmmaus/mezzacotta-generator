@@ -1,0 +1,4 @@
+@format ~|S
+board
+layout
+tableau|tableaux

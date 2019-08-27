@@ -1,0 +1,11 @@
+# Small items in a game, generally of the type that can be randomly chosen from.
+@format ~|S
+card
+chit
+cube
+die|dice
+figure
+meeple
+mini
+tile
+token

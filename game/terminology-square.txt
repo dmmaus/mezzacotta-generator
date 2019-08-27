@@ -1,0 +1,8 @@
+@format ~|S
+area
+building
+enclosure
+segment
+square
+track
+zone

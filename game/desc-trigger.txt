@@ -1,0 +1,7 @@
+@format ~
+during setup
+at the start of the game
+whenever a 5$game/adj>$noun card is drawn from the $noun deck
+if a player has no more $game/terminology-card_S left
+if a player gains control of $artifact/base
+^if a player has more than $number-small $game/terminology-card_S on the 5$game/adj>$noun $game/terminology-square_S of the board

@@ -1,0 +1,8 @@
+@format ~|S
+age
+era
+round
+turn
+phase
+stage
+step

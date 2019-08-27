@@ -1,5 +1,5 @@
 @format ~
 @replace|most best|best
-, and are $game/verb-compete_ING to build the most 4best>$artifact/adj-artifact $noun-geography-structure .
-, $game/verb-compete_ING to be the first player to build a $noun-geography-structure .
+, and are $game/verb-compete_ING to build the most 4best>$artifact/adj-artifact $noun-geography-structure
+, $game/verb-compete_ING to be the first player to build a $noun-geography-structure
 , $game/verb-compete_ING to find the $artifact/base

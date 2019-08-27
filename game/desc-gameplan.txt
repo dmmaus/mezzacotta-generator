@@ -1,0 +1,9 @@
+# General statements introducing the big picture of how the game takes place.
+@format ~
+the game is played over $number-small $game/terminology-round_S , with a new $noun $game/terminology-card $game/verb-action_P for each
+players assemble their own collection of $noun $game/terminology-card_S over $number-small $game/terminology-round_S , aiming to $game/desc-gameplan-result
+each player assigns their own $noun $game/terminology-card_S to the $game/adj spaces on the board , in order to $game/desc-gameplan-result
+players collect $noun $game/terminology-card_S over the course of $number-small $game/terminology-round_S , and attempt to trade for the most $game/adj ones to $game/desc-gameplan-result
+over $number-small $game/terminology-round_S , 3more_and_more>increasingly $game/adj $noun $game/terminology-card_S become available for the players to collect
+the players 5draw_from>assemble a shared $game/terminology-layout of $noun $game/terminology-card_S , vying for the most $game/adj ones that will give them the opportunity to $game/desc-gameplan-result
+the board 5represents>is_styled_as a map of ^ *PLACE , with spaces indicating locations for $verb-transitive_ING , $verb-transitive_ING 5and>or $verb-transitive_ING *THINGS

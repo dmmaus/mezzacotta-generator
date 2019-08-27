@@ -75,5 +75,5 @@ toothpaste
 towel
 vase
 wallet
-watch
+watch|watches
 wine glass|glasses

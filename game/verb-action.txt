@@ -1,0 +1,16 @@
+# Generic words for actions you might perform with physical game components
+#
+# ~:    I draw a card
+# _S:   She draws the card
+# _ED:  He drew the card
+# _P:   The card was drawn by a player
+# _ING: He is drawing a card
+#
+@format ~|S|ED|P|ING
+choose|chooses|chose|chosen|choosing
+display|displays|displayed|displayed|displaying
+draw|draws|drew|drawn|drawing
+select|selects|selected|selected|selecting
+discard|discards|discarded|discarded|discarding
+meld|melds|melded|melded|melding
+control|controls|controlled|controlled|controlling
