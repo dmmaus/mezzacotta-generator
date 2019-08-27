@@ -1,7 +1,11 @@
 @format ~|S
 area
 building
+district
 enclosure
+hex|hexes
+region
+sector
 segment
 square
 track

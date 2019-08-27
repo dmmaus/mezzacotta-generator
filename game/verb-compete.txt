@@ -1,5 +1,18 @@
 @format ~|S|ED|ING
+battle|battles|battled|battling
+bid|bids|bid|bidding
+challenge|challenges|challenged|challenging
+clash|clashes|clashed|clashing
 compete|competes|competed|competing
+fight|fights|fought|fighting
+jockey|jockeys|jockeyed|jockeying
+joust|jousts|jousted|jousting
+match|matches|matched|matching wits
 race|races|raced|racing
+scramble|scrambles|scrambled|scrambling
+spar|spars|sparred|sparring
+strive|strives|strove|striving
+struggle|struggles|struggled|struggling
+tussle|tussles|tussled|tussling
 try|tries|tried|trying
 vie|vies|vied|vying

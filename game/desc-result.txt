@@ -2,7 +2,7 @@
 @format ~
 the game ends
 points are awarded for each player's $noun $game/terminology-card_S
-a new $noun $game/terminology-card is $game/verb-action_ED
+a new $noun $game/terminology-card is $game/verb-action_P
 any $game/terminology-card that has not yet been $verb-transitive_ED is 5discarded>returned_to_the_box
 a new $game/terminology-round begins
 the deck of *THINGS is shuffled and $number-small cards dealt to each player

@@ -1,6 +1,9 @@
 @format ~|S
 age
+cycle
+epoch
 era
+leg
 round
 turn
 phase
