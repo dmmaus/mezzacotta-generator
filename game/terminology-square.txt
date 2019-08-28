@@ -2,11 +2,17 @@
 area
 building
 district
+domain
 enclosure
 hex|hexes
+locale
+province
+realm
 region
 sector
 segment
+space
 square
+territory|territories
 track
 zone
