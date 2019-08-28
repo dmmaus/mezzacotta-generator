@@ -1,6 +1,6 @@
 @format ~
 @titlecase
-The *PERS1 of *PLACE                               $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS
-*PERS1 of *PLACE                                   $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS
+The *PERS1 of 2$place-modifier *PLACE              $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS
+*PERS1 of 2$place-modifier *PLACE                  $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS
 The *THINGS of *PLACE                              $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS
 $verb-transitive_ING *THINGS                       $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS

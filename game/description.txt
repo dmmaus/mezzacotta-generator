@@ -15,9 +15,10 @@
 #   eg, "at the start of the game" "the animal deck is shuffled and dealt out"
 #   eg, "when a player has no lantern tiles" "a new round begins"
 #
-# TODO:
-# statements about the actions of individual players:
+# desc-move, desc-move-source, desc-move-destination: statements about the actions of individual players:
 #   mix-and-match between an item and it's source, and it's destination
+#
+# TODO:
 # statements about the winner , or point scoring, or end conditions
 # statements offering strategic advice
 #   eg, "beware the golden bandicoot card, worth -30 points"
@@ -25,4 +26,4 @@
 #   eg, "it's a cavalcade of fun"
 #   eg, "a game of conquest, trade and war"
 #   eg, "do you have what it takes?"
-$game/desc-intro $game/desc-roles 95$game/desc-goal . $game/desc-gameplan . $game/desc-trigger-and-result 2$game/desc-trigger-and-result
+$game/desc-intro $game/desc-roles 95$game/desc-goal . $game/desc-gameplan . $game/desc-trigger-and-result 2$game/desc-trigger-and-result $game/desc-move 1$game/desc-move

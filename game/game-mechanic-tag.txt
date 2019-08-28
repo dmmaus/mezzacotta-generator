@@ -23,6 +23,7 @@ network construction
 pattern building
 pattern matching
 physical construction
+pickup-and-deliver
 piece capturing
 point bidding
 point-buy

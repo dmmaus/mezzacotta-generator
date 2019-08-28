@@ -3,6 +3,7 @@
 # These should be terms that best come immediately before "game". Terms that can be placed
 @format ~
 $noun-animal racing
+$noun-vehicle racing
 $noun-monster combat
 abstract
 betting
@@ -20,11 +21,13 @@ duelling
 dungeon crawling
 economic
 exploration
+family
 farming
 gambling
 legacy
 living card
 manual dexterity
+memory
 miniatures
 negotiation
 party

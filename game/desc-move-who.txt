@@ -1,0 +1,4 @@
+@format ~
+the active player
+the most $game/adj player
+everyone except the active player

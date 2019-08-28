@@ -1,0 +1,12 @@
+# Generic words for ways of "paying" some commodity
+#
+# ~:    I draw a card
+# _S:   She draws the card
+# _ED:  He drew the card
+# _P:   The card was drawn by a player
+# _ING: He is drawing a card
+#
+@format ~|S|ED|P|ING
+donate|donates|donated|donated|donating
+exchange|exchanges|exchanged|exchanged|exchanging
+pay|pays|paid|paid|paying

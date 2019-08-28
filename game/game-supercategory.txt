@@ -2,13 +2,16 @@
 @format ~
 $number-small dimensional
 co-operative
+collectable
 creative
+crowdfunded
 eagerly anticipated
 educational
 Euro-style
 hot-off-the-presses
 Kickstarted
 limited edition
+luxury edition
 much hyped
 new
 re-released

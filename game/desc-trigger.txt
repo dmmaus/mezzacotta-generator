@@ -4,4 +4,8 @@ at the start of the game
 whenever a 5$game/adj>$noun card is drawn from the $noun deck
 if a player has no more $game/terminology-card_S left
 if a player gains control of $artifact/base
-^if a player has more than $number-small $game/terminology-card_S on the 5$game/adj>$noun $game/terminology-square_S of the board
+if a player has more than $number-small $game/terminology-card_S on the 5$game/adj>$noun $game/terminology-square_S of the board
+when the $artifact/base has no $noun counters left
+after @random(3,10) $game/terminology-round_S
+if more than @random(2,8) 5$game/adj>$noun $game/terminology-square_S have $game/terminology-card_S on them
+if a game action results in a player becoming a &ldquo; $insult/subject &rdquo;

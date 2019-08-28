@@ -2,10 +2,12 @@
 based on a true story
 based on the movie
 featuring choose-your-own-adventure gameplay
+for the whole family
 of shifting alliances
 offering optional expansions
 on a hexagonal grid
 played with coloured pyramids
+suitable for ages @random(3,12) - @random(13,101)
 utilising modular boards
 with 9$number custom meeples
 with a hidden traitor
