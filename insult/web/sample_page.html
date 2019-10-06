@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>mezzacotta Caf&eacute;</title>
+<style type="text/css">
+
+.main
+{
+    width: 520px;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-family: Arial;
+}
+
+.bard
+{
+    width:540px;
+}
+
+.marquee
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: right;
+}
+
+
+.epilogue
+{
+    margin-top: 40px;
+    color:white
+    font-size: 11pt;
+}
+
+.break
+{
+    font-size: 20pt;
+    font-style: normal;
+}
+
+p.insult
+{
+    width:500px;
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    font-size: 24px;
+    font-family: Georgia, serif;
+    font-style: Italic;
+    color: #663344;
+    text-align: center;
+}
+
+/* ============================================================================================================================
+== BUBBLE WITH A BORDER AND TRIANGLE
+** ============================================================================================================================ */
+
+/* THE SPEECH BUBBLE
+------------------------------------------------------------------------------------------------------------------------------- */
+
+.triangle-border {
+  position:relative;
+  padding:15px;
+  margin:1em 0 3em;
+  border:5px solid black;
+  color:#333;
+  background:#fff;
+  /* css3 */
+  -webkit-border-radius:30px;
+  -moz-border-radius:30px;
+  border-radius:30px;
+}
+
+/* Variant : for left positioned triangle
+------------------------------------------ */
+
+.triangle-border.left {
+  margin-left:0px;
+}
+
+/* Variant : for right positioned triangle
+------------------------------------------ */
+
+.triangle-border.right {
+  margin-right:30px;
+}
+
+/* THE TRIANGLE
+------------------------------------------------------------------------------------------------------------------------------- */
+
+.triangle-border:before {
+  content:"";
+  position:absolute;
+  bottom:-20px; /* value = - border-top-width - border-bottom-width */
+  left:60px; /* controls horizontal position */
+  border-width:20px 20px 0;
+  border-style:solid;
+  border-color:black transparent;
+  /* reduce the damage in FF3.0 */
+  display:block;
+  width:0;
+}
+
+/* creates the smaller  triangle */
+.triangle-border:after {
+  content:"";
+  position:absolute;
+  bottom:-13px; /* value = - border-top-width - border-bottom-width */
+  left:67px; /* value = (:before left) + (:before border-left) - (:after border-left) */
+  border-width:13px 13px 0;
+  border-style:solid;
+  border-color:#fff transparent;
+  /* reduce the damage in FF3.0 */
+  display:block;
+  width:0;
+}
+
+/* Variant : left
+------------------------------------------ */
+
+/* creates the larger triangle */
+.triangle-border.left:before {
+  top:28px; /* controls vertical position */
+  bottom:auto;
+  left:-30px; /* value = - border-left-width - border-right-width */
+  border-width:15px 30px 15px 0;
+  border-color:transparent #000000;
+}
+
+/* creates the smaller  triangle */
+.triangle-border.left:after {
+  top:34px; /* value = (:before top) + (:before border-top) - (:after border-top) */
+  bottom:auto;
+  left:-21px; /* value = - border-left-width - border-right-width */
+  border-width:9px 21px 9px 0;
+  border-color:transparent #fff;
+}
+</style>
+<link rel="shortcut icon" href="http://www.mezzacotta.net/wp/wp-content/themes/mezzacotta/favicon.ico" />
+<link rel="stylesheet" href="http://www.mezzacotta.net/wp/wp-content/themes/mezzacotta/style.css" type="text/css" media="screen" />
+
+<style type="text/css" media="screen">
+	#page { background: #FFFFFF; border: none; }
+</style>
+</head>
+
+<body>
+<div id="page">
+
+<br class="clear">
+
+<div class="main">
+
+    <div class="bard">
+        <blockquote class="triangle-border left">
+            <p class="insult">
+                Wast thou fastened by a blasphemous mumpsimus, or is thy brother-in-law normally so bug-eyed?
+            </p>
+        </blockquote>
+        <blockquote class="triangle-border left">
+            <p class="insult">
+                Hath thy lack-witted manner affrighted a woman to birth a blob of dizzy-hearted swordfish?
+            </p>
+        </blockquote>
+        <blockquote class="triangle-border left">
+            <p class="insult">
+                You flock of overripe sons of a gudgeon.
+            </p>
+        </blockquote>
+        <blockquote class="triangle-border left">
+            <p class="insult">
+                Wast thou admired by a cruelty-vexing catawump, or is that simply how thy shawl is?
+            </p>
+        </blockquote>
+        <blockquote class="triangle-border left">
+            <p class="insult">
+                I hath spotted a cassowary-testing blob of yaldsons with less artificial colouring-eating house than thee.
+            </p>
+        </blockquote>
+
+
+
+    </div>
+</div> <!-- class=break -->
+
+
+<div class="epilogue">
+Bought to you by <a href="/">mezzacotta</a><br>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" width="80" height="15" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported Licence</a> by The Comic Irregulars. <i>d&#109;m&#64;d&#97;nger&#109;o&#117;se&#46;n&#101;t</i><br />
+<i>Hosted by: <a href="http://www.dreamhost.com/rewards.cgi?dmmaus">DreamHost</a></i>
+</div> <!-- class=epilogue -->
+
+</div> <!-- class=main -->
+
+</div> <!-- id=page -->
+</body>
+</html>
