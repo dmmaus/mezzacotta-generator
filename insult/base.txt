@@ -20,9 +20,7 @@
 05$insult/interjection I hath $insult/verb-transitive-sense_ED better $noun-bodypart-human_S on a 4$insult/adj $insult/set of $insult/adj $noun-animal_S .
 05$insult/interjection I hath $insult/verb-transitive-sense_ED a 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S with 3far less $insult/adj $insult/trait than thee.
 8$insult/interjection  I mistook thee for a $insult/subject .
-05$insult/interjection That $insult/apparel makes you $insult/verb-transitive-appear less $insult/adj .
 8$insult/interjection  Thou hast the 6$insult/trait>$insult/apparel of a $insult/adj $insult/thing .
-8$insult/interjection   Thou hast the $insult/target of a much less $insult/adj $insult/thing .
 05$insult/interjection Thou art a 4$insult/adj $insult/set of 4$insult/adj $insult/thing_S .
 05$insult/interjection Thou art the 3$insult/adj $person-relation of a $insult/adj $insult/thing .
 05$insult/interjection Thou $insult/islike_ARE a $insult/adj $insult/thing , only moreso $insult/adj .
@@ -34,12 +32,15 @@
 05$insult/interjection Your $person-relation $verb-transitive_S a $insult/adj $insult/thing .
 05$insult/interjection Wast thou $verb-transitive-simple_ED by a 7$insult/adj $insult/thing , or is that 5simply>merely how thy $insult/target is?
 05$insult/interjection Wast thou $verb-transitive-simple_ED by a 7$insult/adj $insult/thing , or is thy $insult/target normally so $insult/adj ?
-#
-# development zone
-#
 01$insult/interjection I 5will>shall 4$adverb $verb-transitive my own $insult/target if thou art not the most $insult/adj $insult/thing I have 4$adverb $insult/verb-transitive-sense_ED this $time-period .
 01$insult/interjection Thy $insult/target remindeth me of the $insult/thing_S of $village/village-name , whom doth $verb-transitive their own $insult/target .
 05$insult/interjection I would 5prefer_to>rather be $verb-transitive_ED by a $insult/subject than $insult/verb-transitive-sense thy $insult/trait for another $time-period .
 05$insult/interjection I hope to not $insult/verb-transitive-sense thy 8$insult/adj $insult/target for another $time-period , and even then, t'would be preferable were it a 2$insult/adj $insult/thing .
 01$insult/interjection Alas, I hath $insult/verb-transitive-sense_ED thy $insult/adj $insult/target , and now I art affear'd I may be $verb-transitive_ED by it.
+#
+# development zone
+#
+# These ones don't seem to be that amusing
+# 05$insult/interjection That $insult/apparel makes you $insult/verb-transitive-appear less $insult/adj .
+# 8$insult/interjection  Thou hast the $insult/target of a much less $insult/adj $insult/thing .
 #
