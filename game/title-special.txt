@@ -1,0 +1,46 @@
+# Game titles that reference or are puns on actual game titles, and we don't want them to be over-represented in the results
+@format ~
+hey, that's my *THING                          $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+*THING                                         $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+*PLACE                                         $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+$verb-transitive_ING *PLACE                    $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+*THING                                         $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-weapon=THING
+war of the *THING                              $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-artifact=THING
+*PERS2 *THING                                  $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-geography-landform=THING
+the *THINGS of *PLACE                          $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun-geography-structure_S=THINGS $noun=THING
+the $number-small_TH *THING                    $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+a *THING for *PERS2                            $game/place=PLACE $game/person_S=PERS1 $figure=PERS2 $noun_S=THINGS $noun=THING
+*THINGS of *THING                              $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun-geography-structure_S=THINGS $noun-artifact-abstract=THING
+$number-small *THINGS                          $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+$game/adj *THING                               $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+*THINGS of *PLACE                              $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun-geography-landform_S=THINGS $noun=THING
+$verb-intransitive_ING *THING                  $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+$name-full-male-modern                         $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+$game/verb-action for the *THING               $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-geography-landform=THING
+*PLACE : city of *THINGS                       $place-city=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+too many *THINGS                               $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+*PERS1                                         $game/place=PLACE $person-profession-medieval_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+*THINGS of $adj-personality $person-ruler $name-forename-old $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+*THING @recentyear100                          $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+age of *THING                                  $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-artifact-abstract=THING
+this *THING of mine                            $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+that's pretty $game/adj                        $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+$name-surname-modern &amp; $name-surname-modern $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+*PLACE : from *PERS2 to $person-ruler          $game/place=PLACE $game/person_S=PERS1 $person-profession-medieval=PERS2 $noun_S=THINGS $noun=THING
+secret *PERS2                                  $game/place=PLACE $game/person_S=PERS1 $figure=PERS2 $noun_S=THINGS $noun=THING
+*THING 5wars>_ : the $verb-intransitive_ING    $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-artifact-abstract=THING
+*PERS2 : *PLACE versus $game/place             $game/place=PLACE $game/person_S=PERS1 $figure=PERS2 $noun_S=THINGS $noun=THING
+*THING of *PERS2                               $game/place=PLACE $game/person_S=PERS1 $figure=PERS2 $noun_S=THINGS $noun-artifact-abstract=THING
+$verb-transitive $person-relation_S            $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+$name-full-modern 's *THING : the board game   $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-artifact-abstract=THING
+the quest for *PLACE                           $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+tiny epic *THINGS                              $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+in the year of the *THING                      $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-animal=THING
+the *PLACE project                             $place-city=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+$noun-animal_S and *PERS1                      $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+@recentyear500 : *THING                        $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-abstract=THING
+*THING of the *PERS1                           $game/place=PLACE $place-country_NS=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-weapon=THING
+*THING up                                      $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-animal=THING
+*THING at $noun-geography-structure on the $noun-geography-landform $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-abstract=THING
+@recentyear200 : dawn of *THING                $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-abstract=THING
+between 8two>$number-small *THINGS             $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun-geography-structure_S=THINGS $noun=THING

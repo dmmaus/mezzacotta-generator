@@ -1,8 +1,10 @@
 @format ~
 selects a card from their hand
-randomly picks a tile from the bag
+selects a card from another player's discard pile
+5randomly>$adverb picks a tile from the bag
 chooses any $game/terminology-card from another player's $game/terminology-layout
 draws a card from the $noun deck
 takes @random(2,10) $noun-currency_S from the bank
 picks a card from the 5most>least $game/adj player's hand
 takes @random(2,5) 2$noun 2$game/adj $game/terminology-card_S from the supply, selects the most $game/adj one
+opens a new booster pack and selects a card from it
