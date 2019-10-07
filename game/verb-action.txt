@@ -7,6 +7,7 @@
 # _ING: He is drawing a card
 #
 @format ~|S|ED|P|ING
+capture|captures|captured|captured|capturing
 choose|chooses|chose|chosen|choosing
 display|displays|displayed|displayed|displaying
 draw|draws|drew|drawn|drawing

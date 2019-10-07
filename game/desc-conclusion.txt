@@ -1,6 +1,7 @@
 @format ~
 it's 5a_cavalcade>an_avalanche of $noun-artifact-abstract !
 recommended for fans of $noun games everywhere
-the perfect game to play with your 5$person-relation>$noun-animal
+the perfect game to play with your 5$person-relation>$person-relation_S
+you'll even want to play it with your pet $noun-animal
 5specifically>highly recommended for those who 5enjoy>like a bit of $noun-artifact-abstract in their games
-look out for the upcoming $noun expansion, adding $number-small ways to $verb-transitive your opponents
+it's the latest 5$noun>$noun-artifact-abstract -fest from the makers of $game/title

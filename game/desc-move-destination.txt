@@ -1,16 +1,16 @@
 @format ~
-and shuffles it into the $noun deck.
-and selects any player to receive it.
-but only 9takes>$verb-transitive_S it if they have at least @random(2,10) $noun $game/terminology-card_S .
-and gives it to the most $game/adj player.
-and discards it.
-and throws it into the 6$game/adj 6$noun tower.
-and the 5most>least $game/adj player decides what 5$game/adj>$noun $game/terminology-square on the board to place it.
-and is awarded points for it according to the $noun - $verb-transitive_ING 5chart>table .
-and it is auctioned amongst the players with an opening bid of @random(2,30) $noun-currency_S .
-and it is placed underneath the board until the 5endgame>scoring .
-and it is displayed on the board as a 5reward>prize for the next player to pay $game/desc-payment .
-and returns it to the supply.
-and $verb-transitive_S it.
+and shuffles it into the $noun deck
+and selects any player to receive it
+but only 9takes>$verb-transitive_S it if they have at least @random(2,10) $noun $game/terminology-card_S
+and gives it to the most $game/adj player
+and discards it
+and throws it into the 6$game/adj 6$noun tower
+and the 5most>least $game/adj player decides what 5$game/adj>$noun $game/terminology-square on the board to place it
+and is awarded points for it according to the $noun - $verb-transitive_ING 5chart>table
+and it is auctioned amongst the players with an opening bid of @random(2,30) $noun-currency_S
+and it is placed underneath the board until the 5endgame>scoring
+and it is displayed on the board as a 5reward>prize for the next player to pay $game/desc-payment
+and returns it to the supply
+and $verb-transitive_S it
 and gives it to the player who has the 5most>least $noun $game/terminology-card_S
 and nobody can $verb-transitive it until the end of the $game/terminology-round
