@@ -20,6 +20,10 @@
     width:540px;
 }
 
+.more
+{
+    width:200px;
+}
 .marquee
 {
     margin-top: 5px;
@@ -44,6 +48,21 @@
 p.insult
 {
     width:500px;
+    min-height: 44px;
+    margin-top: 00px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 00px;
+    font-size: 24px;
+    font-family: Georgia, serif;
+    font-style: Italic;
+    color: #663344;
+    text-align: center;
+}
+
+p.more
+{
+    width:130px;
     min-height: 44px;
     margin-top: 00px;
     margin-left: 0px;
@@ -140,6 +159,30 @@ p.insult
   border-width:9px 21px 9px 0;
   border-color:transparent #fff;
 }
+
+/* Variant : right
+------------------------------------------ */
+
+/* creates the larger triangle */
+.triangle-border.right:before {
+  top:22px; /* controls vertical position */
+  bottom:auto;
+  left:auto;
+  right:-30px; /* value = - border-left-width - border-right-width */
+  border-width:15px 0 15px 30px;
+  border-color:transparent #000000;
+}
+
+/* creates the smaller  triangle */
+.triangle-border.right:after {
+  top:28px; /* value = (:before top) + (:before border-top) - (:after border-top) */
+  bottom:auto;
+  left:auto;
+  right:-21px; /* value = - border-left-width - border-right-width */
+  border-width:9px 0 9px 21px;
+  border-color:transparent #fff;
+}
+
 </style>
 <link rel="shortcut icon" href="http://www.mezzacotta.net/wp/wp-content/themes/mezzacotta/favicon.ico" />
 <link rel="stylesheet" href="http://www.mezzacotta.net/wp/wp-content/themes/mezzacotta/style.css" type="text/css" media="screen" />
@@ -177,14 +220,17 @@ p.insult
                 Wast thou admired by a cruelty-vexing catawump, or is that simply how thy shawl is?
             </p>
         </blockquote>
-        <blockquote class="triangle-border left">
-            <p class="insult">
-                I hath spotted a cassowary-testing blob of yaldsons with less artificial colouring-eating house than thee.
+
+
+    </div>
+
+    <div class="more">
+            <blockquote class="triangle-border right">
+            <p class="more">
+                 more...<br>
+                 <a href="/insult/"><img src="./d20.png" width="70" height="70" border="0" alt="no u">
             </p>
         </blockquote>
-
-
-
     </div>
 </div> <!-- class=break -->
 
