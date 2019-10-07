@@ -1,0 +1,13 @@
+@format ~
+#
+# Strategic advice about a particular component in the game (desc-strategy-result)
+#
+beware the $game/adj $noun $game/terminology-card ! $game/desc-strategy-result
+watch out when the $number-small_TH $noun $game/terminology-card 5appears>is_drawn ! $game/desc-strategy-result
+carefully anticipate when the 5final>$number-small_TH $game/adj $game/terminology-square on the board is filled -- $game/desc-strategy-result
+#
+# Strategic advice to gain an advantage (desc-strategy-advantage)
+#
+5aim>try to get the most 5$game/adj $noun $game/terminology-card_S -- then you $game/desc-strategy-advantage
+whoever has the least 5$game/adj $noun $game/terminology-card_S $game/desc-strategy-advantage
+$verb-transitive=VERB 5aim>try to *VERB your 4$noun $game/terminology-card_S more often than the other players *VERB theirs , and you $game/desc-strategy-advantage

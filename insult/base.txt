@@ -40,6 +40,9 @@
 #
 # development zone
 #
+05$insult/interjection $insult/thing=THING1 $insult/thing=THING2 I cannot 5decide>tell ifst thou art a *THING1 , a *THING2 , or a *THING1 - *THING2 .
+05$insult/interjection Thy $insult/target is so $insult/adj , even a 4$insult/adj $insult/thing wouldst not $verb-transitive it.
+#
 # These ones don't seem to be that amusing
 # 05$insult/interjection That $insult/apparel makes you $insult/verb-transitive-appear less $insult/adj .
 # 8$insult/interjection  Thou hast the $insult/target of a much less $insult/adj $insult/thing .
