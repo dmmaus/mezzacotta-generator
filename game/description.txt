@@ -3,7 +3,7 @@
 #
 # desc-intro: introducing the genre and format and player count of a game.
 #
-# desc-goal: statements about roles, and the goals that the players have.
+# desc-roles, desc-goal: statements about roles, and the goals that the players have. Don't mention any game mechanics yet, just the "role-playing" aspect
 #
 # desc-gameplan: statements about the general flow of play
 #   eg "the game is played over 5 rounds, with a new animal card displayed for each"

@@ -1,0 +1,10 @@
+# very simple game goals, that don't reference other files
+@format ~
+stage the most spectacular performance
+build the best transport network
+amass the largest fortune
+gain fame, wealth and notoriety
+cross the finish line first
+rule the land most justly and prosperously
+5improve>develop their investment portfolio
+5advance>improve their clan's influence

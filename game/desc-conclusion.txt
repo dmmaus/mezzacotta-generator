@@ -5,3 +5,4 @@ the perfect game to play with your 5$person-relation>$person-relation_S
 you'll even want to play it with your pet $noun-animal
 5specifically>highly recommended for those who 5enjoy>like a bit of $noun-artifact-abstract in their games
 it's the latest 5$noun>$noun-artifact-abstract -fest from the makers of $game/title
+Pick it up next time you're at the *PLACE visitor-centre.
