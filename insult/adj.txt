@@ -106,6 +106,7 @@ bescumbered
 beslubbering
 blasphemous
 blathering
+blighted
 bony
 boorish
 bug-eyed
@@ -234,6 +235,7 @@ scurvy
 shameless
 shrunken
 silly
+skittering
 slanderous
 slobbering
 slovenly
@@ -265,6 +267,7 @@ unsanitary
 useless
 vainglorious
 verminous
+vigorless
 vile
 viperous
 virulent
