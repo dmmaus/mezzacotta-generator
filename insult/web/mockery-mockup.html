@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<title>Mockery Most Vicious - mezzacotta</title>
+<title>Mockery Most Vicious</title>
 <style>
 img.centre {
   display: block;
@@ -18,7 +17,7 @@ img.centre {
     margin-left: auto;
     margin-right: auto;
 
-    background-image: url('bard_2x.jpg');
+    background-image: url('../bard_2x.jpg');
     background-repeat: no-repeat;
     background-size: 1000px;
     background-position: center top;
@@ -205,37 +204,45 @@ p.more
 
 </style>
 </head>
-
 <body bgcolor="#624E33">
-<h1><img class="centre" src="MockeryMostVicious.png" width="1000" height="200" alt="Mockery Most Vicious" srcset="MockeryMostVicious_2x.png 2x"></h1>
+
+<h1>
+<img class="centre" src="../MockeryMostVicious.png" width="1000" height="200" alt="Mockery Most Vicious" srcset="../MockeryMostVicious_2x.png 2x">
+</h1>
 
 <div class="bg">
 <div class="main">
 
     <div class="bard">
-<?php
-$command = escapeshellcmd('/usr/bin/python ../generique.py insult/base 4');
-$output = shell_exec($command);
-$output = preg_replace("/'/", "’", $output);
-$lines = explode("\n", rtrim($output));
-foreach ($lines as $line)
-{
-    echo <<<EOL
         <blockquote class="triangle-border left">
             <p class="insult">
-                $line
+                Wast thou fastened by a blasphemous mumpsimus, or is thy brother-in-law normally so ostentatiously bug-eyed?
             </p>
         </blockquote>
-EOL;
-}
-?>
+        <blockquote class="triangle-border left">
+            <p class="insult">
+                Hath thy lack-witted manner affrighted a woman to birth a blob of dizzy-hearted swordfish?
+            </p>
+        </blockquote>
+        <blockquote class="triangle-border left">
+            <p class="insult">
+                You flock of overripe sons of a gudgeon.
+            </p>
+        </blockquote>
+        <blockquote class="triangle-border left">
+            <p class="insult">
+                Wast thou admired by a cruelty-vexing catawump, or is that simply how thy shawl is?
+            </p>
+        </blockquote>
+
+
     </div>
 
     <div class="more">
         <blockquote class="triangle-border right">
             <p class="more">
                  Please sir, I want some more...<br>
-                 <a href="."><img src="d20.png" width="70" height="70" border="0" alt="Reload" srcset="d20_2x.png 2x" ></a>
+                 <a href="/insult/"><img src="d20.png" width="70" height="70" border="0" alt="no u"></a>
             </p>
         </blockquote>
     </div>
@@ -244,12 +251,6 @@ EOL;
     </div>
 </div> <!-- class=main -->
 </div>
-
-<!-- footer -->
-<hr>
-<p>
-<i><a href="../">mezzacotta Random Generators Home</a></i>
-</p>
 
 </body>
 </html>
