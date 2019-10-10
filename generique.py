@@ -94,7 +94,7 @@ class Vocab:
 
                     if line.startswith('^'):
                         self.lines = []
-                        self.lines.append(line[1:])
+                        self.lines.append('##### ' + line[1:] + ' #####')
                         break
 
                 f.close()
