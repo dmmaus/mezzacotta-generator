@@ -1,5 +1,5 @@
-@format ~
-century
+@format ~|S
+century|centuries
 day
 decade
 fortnight

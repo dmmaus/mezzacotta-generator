@@ -8,4 +8,4 @@ over $number-small $game/terminology-round_S , 3more_and_more>increasingly $game
 the players 5draw_from>assemble a shared $game/terminology-layout of $noun $game/terminology-card_S , vying for the most $game/adj ones that will give them the opportunity to $game/desc-gameplan-result
 the board 5represents>is_styled_as a map of ^ *PLACE , with spaces indicating locations for $verb-transitive_ING , $verb-transitive_ING 5and>or $verb-transitive_ING *THINGS
 each player has their own board representing 5part>a_neighbourhood of ^ *PLACE , which other players may visit by $game/verb-pay_ING $game/desc-payment
-players each build, race and $verb-transitive their own *VEHICLE $noun-vehicle_S=VEHICLE , earning $noun-currency_S to upgrade the *VEHICLE 's $noun , so that they may $game/desc-gameplan-result
+players each build, race and $verb-transitive their own *VEHICLE $noun-vehicle=VEHICLE , earning $noun-currency_S to upgrade their *VEHICLE 's $noun , so that they may $game/desc-gameplan-result

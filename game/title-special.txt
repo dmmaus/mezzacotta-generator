@@ -44,3 +44,8 @@ $noun-animal_S and *PERS1                      $game/place=PLACE $game/person_S=
 *THING at $noun-geography-structure on the $noun-geography-landform $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-abstract=THING
 @recentyear200 : dawn of *THING                $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-abstract=THING
 between 8two>$number-small *THINGS             $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun-geography-structure_S=THINGS $noun=THING
+*THING +phobia                                 $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+*THING +force                                  $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+sim *THING                                     $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+forbidden *THING                               $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-geography-landform=THING
+clash of the *THINGS                           $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING

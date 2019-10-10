@@ -4,7 +4,7 @@
 #
 beware the $game/adj $noun $game/terminology-card ! $game/desc-strategy-result
 watch out when the $number-small_TH $noun $game/terminology-card 5appears>is_drawn ! $game/desc-strategy-result
-carefully anticipate when the 5final>$number-small_TH $game/adj $game/terminology-square on the board is filled -- $game/desc-strategy-result
+carefully anticipate when the 5final>$number-small_TH $game/adj $game/terminology-square on the board is 5filled>revealed -- $game/desc-strategy-result
 you can use your $noun $game/terminology-card_S to $verb-transitive other player's *THINGS , $game/desc-strategy-result
 #
 # Strategic advice to gain an advantage (desc-strategy-advantage)
@@ -13,5 +13,5 @@ you can use your $noun $game/terminology-card_S to $verb-transitive other player
 whoever has the 5most>fewest 5$game/adj $noun $game/terminology-card_S $game/desc-strategy-advantage
 $verb-transitive=VERB 5aim>try to *VERB your 4$noun $game/terminology-card_S more often than the other players *VERB theirs , and you $game/desc-strategy-advantage
 aim to gain control the $artifact/base , or disrupt your opponents opportunities to do so , as the controller $game/desc-strategy-advantage
-any player who has actually been to *PLACE $game/desc-strategy-advantage
+any player who has actually been to ^ *PLACE $game/desc-strategy-advantage
 if you $verb-transitive your 5$noun $game/terminology-card_S more $adverb than your opponents , then you $game/desc-strategy-advantage

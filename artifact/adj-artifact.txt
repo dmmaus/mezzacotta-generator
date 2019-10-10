@@ -12,5 +12,5 @@
 $adj-personality
 $adj-personality
 $adj-personality
-$artifact/adj-artifact artifact/$adj-artifact
+$artifact/adj-artifact $artifact/adj-artifact
 $person-profession-medieval 's

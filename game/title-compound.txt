@@ -1,0 +1,20 @@
+@format ~
+$game/title-pre + $game/title-post
+$game/title-pre + $game/title-post
+$game/title-pre + $game/title-post
+$game/title-pre + $game/title-post
+$game/title-pre + $game/title-post
+$game/title-pre + $game/title-post
+$game/title-pre + $game/title-post
+$game/title-pre + $game/title-post
+$game/title-pre + $game/title-post
+$game/title-pre + $game/title-post
+#
+# Non-standard ones
+#
+$game/title-pre + $noun
+$noun + $game/title-post
+$game/title-pre + $game/adj
+$game/adj + $game/title-post
+$game/title-pre + $verb-intransitive_ING
+$verb-intransitive_ING + $game/title-post
