@@ -14,3 +14,4 @@ and returns it to the supply
 and $verb-transitive_S it
 and gives it to the player who has the 5most>fewest $noun $game/terminology-card_S
 and nobody can $verb-transitive it until the end of the $game/terminology-round
+and 5starts>begins a new $noun pile with it

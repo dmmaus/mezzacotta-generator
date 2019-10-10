@@ -5,6 +5,7 @@ district
 domain
 enclosure
 hex|hexes
+land
 locale
 province
 realm

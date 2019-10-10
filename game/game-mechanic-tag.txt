@@ -18,6 +18,7 @@ hex-based
 king-of-the-hill
 language-independent
 miniature-based
+modular board
 movement programming
 network construction
 pattern building

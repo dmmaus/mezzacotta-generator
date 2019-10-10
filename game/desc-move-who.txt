@@ -2,3 +2,9 @@
 the active player
 the most $game/adj player
 everyone except the active player
+the player with the 5most>least 5$game/adj>$insult/adj $insult/target
+the leading player
+the start player
+the game owner
+the player with the 5most>fewest 5$noun>$game/adj $game/terminology-card_S
+the player who most recently $verb-intransitive_ED

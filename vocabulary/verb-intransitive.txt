@@ -24,6 +24,7 @@ burp
 burrow
 cackle|cackles|cackled|cackling
 cavort
+celebrate|celebrates|celebrated|celebrating
 choke|chokes|choked|choking
 click
 climb

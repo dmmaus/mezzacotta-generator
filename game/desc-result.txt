@@ -9,3 +9,8 @@ the deck of *THINGS is shuffled and $number-small cards dealt to each player
 the board is flipped over and play continues on the $game/adj side
 the players are award victory tokens for their *THINGS
 a 5bonus>special $game/terminology-round is held, during which $noun $game/terminology-card_S can be $verb-transitive_ED for free
+points are awarded for how $adverb each player has played the game so far
+points are deducted according to how $adverb each player has $verb-transitive_ED their $game/terminology-card_S
+the active player may spend their $noun points to upgrade their character's $insult/target
+there is a 5special>bonus 4$game/adj $game/terminology-round , in which $noun $game/terminology-card_S cost @random(2,8) $noun-currency_S less
+players may ignore any 5$game/terminology-card>$game/terminology-square with a $noun symbol

@@ -5,3 +5,5 @@ $game/verb-action the most $noun $game/terminology-card_S
 be the first player to collect $number-small $noun_S
 have more $noun $game/terminology-card_S than anyone else
 $verb-transitive all of their $game/terminology-card_S
+deduce the identity of the 9person>$noun-animal who $verb-transitive_ED $artifact/base
+$verb-transitive their $noun_S the most $adverb

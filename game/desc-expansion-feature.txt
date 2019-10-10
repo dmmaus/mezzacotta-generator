@@ -2,3 +2,6 @@
 adds $number-small ways to $verb-transitive your opponents
 introduces the $noun deck
 brings even more ways to have your $noun-artifact-abstract $verb-transitive_ED
+transports the game to the land of $game/place
+which adds a $game/game-mechanic-tag mechanic to the 5game>endgame
+which 5$adverb adds elements from $game/game-category games

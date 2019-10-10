@@ -5,4 +5,4 @@ The *PERS1 of 2$place-modifier *PLACE              $game/place=PLACE $game/perso
 The *THINGS of *PLACE                              $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
 $verb-transitive_ING *THINGS                       $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
 1$place-modifier *PLACE 's *PERS1                  $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
-^$game/title-special
+$game/title-special
