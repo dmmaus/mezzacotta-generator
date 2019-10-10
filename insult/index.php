@@ -234,8 +234,13 @@ EOL;
     <div class="more">
         <blockquote class="triangle-border right">
             <p class="more">
-                 Please sir, I want some more...<br>
-                 <a href="."><img src="d20.png" width="70" height="70" border="0" alt="Reload" srcset="d20_2x.png 2x" ></a>
+                Please sir, I want some more...<br>
+<?php
+$result = rand(1,20);
+$src = sprintf("d20_%02d.png", $result);
+$srcset = sprintf("d20_%02d_2x.png", $result);
+echo "<a href=\".\"><img src=\"$src\" width=\"70\" height=\"70\" border=\"0\" alt=\"Reload\" srcset=\"$srcset 2x\" ></a>";
+?>
             </p>
         </blockquote>
     </div>
