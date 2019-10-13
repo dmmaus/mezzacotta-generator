@@ -8,3 +8,6 @@ the start player
 the game owner
 the player with the 5most>fewest 5$noun>$game/adj $game/terminology-card_S
 the player who most recently $verb-intransitive_ED
+any player named $name-forename-modern
+everyone
+nobody

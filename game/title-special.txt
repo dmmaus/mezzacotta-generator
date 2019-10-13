@@ -49,3 +49,4 @@ between 8two>$number-small *THINGS             $game/place=PLACE $game/person_S=
 sim *THING                                     $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
 forbidden *THING                               $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-geography-landform=THING
 clash of the *THINGS                           $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+The *PERS2 of *PLACE                           $game/place=PLACE $game/person_S=PERS1 $person-ruler=PERS2 $noun_S=THINGS $noun=THING
