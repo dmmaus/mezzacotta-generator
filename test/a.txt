@@ -1,3 +1,2 @@
 @format ~
-@titlecase
-one two three
+a owl a owl
