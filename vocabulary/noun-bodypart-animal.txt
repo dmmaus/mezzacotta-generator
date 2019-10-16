@@ -9,7 +9,7 @@ fetlock
 fin
 flipper
 foreleg
-fur
+|fur
 gill
 hind leg
 hock

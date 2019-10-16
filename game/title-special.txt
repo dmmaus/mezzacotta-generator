@@ -50,3 +50,9 @@ sim *THING                                     $game/place=PLACE $game/person_S=
 forbidden *THING                               $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-geography-landform=THING
 clash of the *THINGS                           $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
 The *PERS2 of *PLACE                           $game/place=PLACE $game/person_S=PERS1 $person-ruler=PERS2 $noun_S=THINGS $noun=THING
+king $name-male-old $number-small-roman        $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+queen $name-female-old $number-small-roman     $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+legend of the $number-small *THINGS            $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun-artifact_S=THINGS $noun=THING
+$number-small -minute *THING                   $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+$number-small *THINGS and a *THING             $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+*PLACE @recentyear200                          $place-city=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING

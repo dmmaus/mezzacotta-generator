@@ -12,6 +12,7 @@ $game/title-pre + $game/title-post
 #
 # Non-standard ones
 #
+$game/title-post + $game/title-pre
 $game/title-pre + $noun
 $noun + $game/title-post
 $game/title-pre + $game/adj

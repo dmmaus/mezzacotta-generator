@@ -79,4 +79,5 @@ weasel
 whale
 wolf|wolves
 wolfhound
+wombat
 zebra

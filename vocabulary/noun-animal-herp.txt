@@ -17,6 +17,7 @@ python
 salamander
 serpent
 snake
+tadpole
 toad
 tortoise
 turtle

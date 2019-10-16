@@ -5,10 +5,12 @@ bee
 beetle
 butterfly|butterflies
 centipede
+cicada
 clam
 cockle
 cockroach|cockroaches
 crab
+cricket
 dragonfly|dragonflies
 flea
 fly|flies
@@ -23,6 +25,8 @@ moth
 mosquito|mosquitoes
 octopus|octopuses
 oyster
+prawn
+shrimp
 slug
 snail
 spider

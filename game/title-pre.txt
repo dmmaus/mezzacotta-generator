@@ -17,6 +17,7 @@ cross
 dire
 dragon
 eco
+epic
 data
 dire
 electro
@@ -26,14 +27,18 @@ ever
 evo
 fairy
 far
+flame
 fusion
 grim
 hell
+horror
 hyper
 hypno
 inter
+isle
 key
 laser
+math
 neo
 mad
 mecha
@@ -55,6 +60,7 @@ rune
 scry
 shadow
 silver
+skull
 super
 steam
 storm
@@ -65,3 +71,4 @@ ultra
 under
 uni
 void
+word

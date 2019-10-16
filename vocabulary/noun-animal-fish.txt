@@ -1,18 +1,35 @@
 @format ~|S
+|albacore
+anchovy|anchovies
+|anglerfish
+|angelfish
+|bass
 |carp
 |catfish
 |cod
+|dogfish
+|dory
 eel
+electric eel
 |fish
+|goldfish
 guppy|guppies
 haddock
+herring
+|lungfish
 |mackerel
+manta ray
 |mullet
 |pike
 pilchard
+piranha
 |salmon
 sardine
 shark
+sole
+|sailfish
 |swordfish
+|stonefish
 |trout
 |tuna
+|wrasse

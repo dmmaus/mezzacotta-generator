@@ -1,13 +1,16 @@
 @format ~|S
 bag
 barrel
+bin
 bottle
 bowl
 box|boxes
 bucket
+canister
 cauldron
 chalice
 chest
+container
 crate
 cup
 flagon
@@ -17,8 +20,11 @@ goblet
 keg
 kettle
 mug
+packet
 pan
 plate
+pouch|pouches
 sack
 stein
 tun
+ziplock bag
