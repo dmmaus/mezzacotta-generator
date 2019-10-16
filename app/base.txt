@@ -1,0 +1,4 @@
+@format ~
+$app/app for $person_S
+$app/app for $app/verb_ING 15$app/adj 5$person_S>$noun_S
+$app/app for $noun $app/app-noun-purpose_S

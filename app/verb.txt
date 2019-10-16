@@ -1,0 +1,3 @@
+@format ~|S|ED|ING
+$verb-transitive|$verb-transitive_S|$verb-transitive_ED|$verb-transitive_ING
+$app/app-verb|$app/app-verb_S|$app/app-verb_ED|$app/app-verb_ING

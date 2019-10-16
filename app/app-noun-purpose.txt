@@ -1,0 +1,10 @@
+@format ~|S
+collector
+connoisseur
+expert
+lover
+maker
+meetup
+tracker
+review
+writer

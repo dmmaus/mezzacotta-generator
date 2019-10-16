@@ -1,0 +1,14 @@
+@format ~|S|ED|ING
+ask|asks|asked|asking for advice about
+buy|buys|bought|buying
+collect
+find|finds|found|finding
+get|gets|got|getting
+identify|identifies|identified|identifying
+learn|learns|learned|learning about
+meet|meets|met|meeting
+plan|plans|planned|planning
+record
+research|researches|researched|researching
+schedule|schedules|scheduled|scheduling
+track
