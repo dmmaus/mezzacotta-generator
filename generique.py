@@ -330,7 +330,7 @@ class MezzaGenerator:
 
     # Expand a random line from a file, and neaten it
     def Generate(self, spec):
-        result = self.Expand(spec)
+        result = ' ' + self.Expand(spec)
         
         # remove duplicate spaces
         result = re.sub(' +', ' ', result)
