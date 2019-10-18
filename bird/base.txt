@@ -1,0 +1,10 @@
+@format ~
+$adjective $bird/bird
+05$bird/adj-bird 05$adj-opinion 05$adj-size $adj-colour 05$bird/adj-habitat $bird/bird
+05$bird/adj-bird 05$adj-opinion 05$adj-size $adj-colour - $bird/noun-bodypart-bird_ED 05$bird/adj-habitat $bird/bird
+05$bird/adj-bird 05$adj-opinion 05$adj-size $adj-colour - $bird/marking_ED 05$bird/adj-habitat $bird/bird
+05$bird/adj-bird 05$adj-opinion 05$adj-size $bird/marking - $bird/noun-bodypart-bird_ED 05$bird/adj-habitat $bird/bird
+05$bird/adj-bird 05$adj-opinion 05$adj-size $bird/marking_ED 05$bird/adj-habitat $bird/bird
+05$bird/adj-bird 05$adj-opinion 05$adj-size $number-small - $bird/marking_ED 05$bird/adj-habitat $bird/bird
+$name-surname-modern 's 05$bird/adj-bird 05$adj-opinion 05$adj-size $bird/marking - $bird/noun-bodypart-bird_ED 05$bird/adj-habitat $bird/bird
+$name-surname-modern 's 05$bird/adj-bird 05$adj-opinion 05$adj-size 05$bird/adj-habitat $bird/bird

@@ -15,6 +15,7 @@ A generic, extensible, customisable random text generator. The code is <a href="
 <li><a href="law/">Random weird laws from around the world</a></li>
 <li><a href="game/">Board game descriptions</a></li>
 <li><a href="app/">Random ideas for new apps</a></li>
+<li><a href="bird/">Random bird names</a></li>
 <br>
 <li><a href="tavern/">Fantasy tavern names</a></li>
 <li><a href="insult/">Mockery Most Vicious</a> - fantasy insults, perfect for when your <i>D&amp;D</i> bard unleashes Vicious Mockery</li>

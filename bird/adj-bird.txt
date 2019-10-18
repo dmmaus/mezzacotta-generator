@@ -1,0 +1,14 @@
+@format ~
+African
+American
+Asian
+Australasian
+Australian
+common
+eastern
+European
+greater
+lesser
+northern
+southern
+western

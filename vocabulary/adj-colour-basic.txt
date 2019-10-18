@@ -4,6 +4,7 @@ azure
 black
 blue
 brown
+buff
 crimson
 ebon
 ebony

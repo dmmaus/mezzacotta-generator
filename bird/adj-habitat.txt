@@ -1,0 +1,26 @@
+@format ~
+bay
+beach
+bog
+brush
+bush
+canyon
+cave
+cliff
+desert
+field
+forest
+hill
+island
+jungle
+marsh
+mountain
+plains
+plateau
+prairie
+rainforest
+reef
+sand
+scrub
+swamp
+wood

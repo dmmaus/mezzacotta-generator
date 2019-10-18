@@ -2,6 +2,8 @@
 @format ~|S
 antenna|antennae
 antler
+beak
+bill
 claw
 dewlap
 fang

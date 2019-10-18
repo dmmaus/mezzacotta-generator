@@ -1,0 +1,89 @@
+@format ~
+$bird/bird - $bird/bird
+$bird/bird +let
+$noun +bird
+$noun-animal-invertebrate +catcher
+$noun-animal-invertebrate +eater
+$noun-food +eater
+$noun-tool +beak
+$noun-tool +bill
+albatross
+avocet
+babbler
+booby
+bustard
+buzzard
+canary
+chicken
+chough
+cockatoo
+cormorant
+crake
+crane
+crow
+cuckoo
+curlew
+darter
+dotterel
+dove
+duck
+eagle
+egret
+falcon
+finch
+gannet
+goose
+grebe
+grouse
+gull
+hawk
+heron
+ibis
+jacana
+kingfisher
+loon
+lorikeet
+magpie
+miner
+myna
+nightjar
+noddy
+oriole
+ostrich
+owl
+pardalote
+parrot
+pelican
+penguin
+petrel
+pigeon
+pipit
+plover
+pratincole
+quail
+rail
+raven
+robin
+sandgrouse
+sandpiper
+sapsucker
+shearwater
+shrike
+skua
+snipe
+spoonbill
+starling
+stilt
+stint
+stork
+swallow
+swan
+swift
+tern
+thrush
+tit
+turkey
+vulture
+wagtail
+warbler
+wren

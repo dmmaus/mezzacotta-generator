@@ -88,6 +88,7 @@ reverse
 ripe
 risen
 rolling
+rough
 ruined
 runed
 salty
@@ -101,6 +102,7 @@ slimy
 slippery
 smelly
 smoking
+smooth
 spectral
 spicy
 stained
