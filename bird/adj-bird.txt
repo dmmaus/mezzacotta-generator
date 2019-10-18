@@ -1,14 +1,28 @@
 @format ~
+$place_N
 African
 American
+Antarctic
+Arctic
 Asian
 Australasian
 Australian
 common
 eastern
+elegant
 European
 greater
+imperial
+intermediate
 lesser
+new world
 northern
+old world
+royal
 southern
+subtropical
+superb
+temperate
+tropical
+uncommon
 western

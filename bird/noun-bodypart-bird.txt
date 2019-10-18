@@ -32,6 +32,7 @@ fin|find|finned
 flank
 flipper
 foot|feet|footed
+front
 hair
 head
 heart

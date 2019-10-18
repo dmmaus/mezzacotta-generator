@@ -10,6 +10,8 @@ cliff
 desert
 field
 forest
+ground
+gully
 hill
 island
 jungle
@@ -22,5 +24,8 @@ rainforest
 reef
 sand
 scrub
+stone
 swamp
+tree
+water
 wood

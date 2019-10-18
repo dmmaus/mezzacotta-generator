@@ -87,6 +87,7 @@ hiccough
 hide|hides|hid|hiding
 hiss|hisses|hissed|hissing
 hop|hops|hopped|hopping
+hum|hums|hummed|humming
 indulge|indulges|indulged|indulging
 inquire|inquires|inquired|inquiring
 itch|itches|itched|itching

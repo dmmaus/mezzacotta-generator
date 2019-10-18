@@ -2,11 +2,16 @@
 $bird/bird - $bird/bird
 $bird/bird +let
 $noun +bird
+$noun + $bird/noun-bodypart-bird
 $noun-animal-invertebrate +catcher
 $noun-animal-invertebrate +eater
 $noun-food +eater
-$noun-tool +beak
-$noun-tool +bill
+$noun-food +sucker
+$noun-food + $insult/verber
+$noun-geography-landform + $bird/bird
+$noun-tool + 5beak>bill
+$noun-weapon-historic + 5beak>bill
+$verb-intransitive_ING +bird
 albatross
 avocet
 babbler
