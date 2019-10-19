@@ -1,8 +1,10 @@
 @format ~
 $bird/bird - $bird/bird
 $bird/bird +let
+$bird/bird-prefix + $bird/bird-suffix
 $noun +bird
 $noun + $bird/noun-bodypart-bird
+$noun +pecker
 $noun-animal-invertebrate +catcher
 $noun-animal-invertebrate +eater
 $noun-food +eater
@@ -11,6 +13,7 @@ $noun-food + $insult/verber
 $noun-geography-landform + $bird/bird
 $noun-tool + 5beak>bill
 $noun-weapon-historic + 5beak>bill
+$person-profession +bird
 $verb-intransitive_ING +bird
 albatross
 avocet

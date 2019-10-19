@@ -1,6 +1,7 @@
 # Abstract nouns for use in qualifying magical artifacts, quest rewards and the like.
 # If it sounds like an artifact could be 'of' something, then it belongs here.
 @format ~
+@include noun-material
 the $noun-animal
 the $noun-geography-landform
 abandon
@@ -143,7 +144,6 @@ generosity
 glee
 gloom
 glory
-gold
 goodness
 grace
 grandeur
@@ -168,7 +168,6 @@ honour
 hope
 horror
 hunger
-ice
 idiocy
 illusions
 imagination
@@ -296,9 +295,7 @@ suppression
 stabbiness
 starlight
 stasis
-steel
 stench
-stone
 storms
 strength
 strife
@@ -363,8 +360,6 @@ wisdom
 wishes
 woe
 wonder
-wood
-wool
 worth
 yesterday
 yore

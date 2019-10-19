@@ -18,6 +18,7 @@ chest
 chin|chins|chinned
 claw
 collar
+crest
 crown
 dewlap|dewlaps|dewlapped
 ear

@@ -1,5 +1,14 @@
 @format ~
 $noun-geography-weather
-monarch
+$person-ruler
+calling
+fairy
+false
+gyr+
 night
 pygmy
+song+
+sun+
+true
+warbling
+weaver

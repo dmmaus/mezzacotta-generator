@@ -1,0 +1,26 @@
+@format ~|S
+bone
+brick
+ceramic
+clay
+cloth
+cotton
+glass
+gold
+ice
+iron
+ivory|ivories
+leather
+metal
+paper
+plastic
+rock
+rubber
+silk
+silver
+steel
+stone
+tar
+tin
+wood
+wool

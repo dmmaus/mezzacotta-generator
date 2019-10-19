@@ -15,6 +15,7 @@ gully
 hill
 island
 jungle
+mangrove
 marsh
 mountain
 plains
@@ -22,8 +23,12 @@ plateau
 prairie
 rainforest
 reef
+rock
+rush
 sand
 scrub
+shore
+shrub
 stone
 swamp
 tree
