@@ -27,6 +27,7 @@ all'arrabbiata
 Americana
 anglaise
 antipasto
+arancini
 as a condiment
 as a garnish
 as a side-serve
@@ -537,6 +538,7 @@ rago&ucirc;t
 ramble
 rancheros
 rarebit
+rashers
 ratatouille
 recipe mix
 reduction
