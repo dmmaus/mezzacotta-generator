@@ -21,6 +21,7 @@ the player who can do the best impersonation of a $noun-animal
 the player wearing the 5biggest>most_colourful $noun-clothing
 the player who has most recently seen a $noun movie
 the player born closest to ^ *PLACE
+the player born closest to $time-holiday
 the player with birthday closest to $time-month @random(1,28)
 the player who is most afraid of $noun-animal_S
 whoever was most recently $verb-transitive_ED with a $noun

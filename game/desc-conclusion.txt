@@ -1,12 +1,13 @@
 @format ~
-it's 5a_cavalcade>an_avalanche of $noun-artifact-abstract !
-recommended for fans of $noun games everywhere
+it's a 5cavalcade>avalanche of $noun-artifact-abstract !
+recommended for fans of *THING>$noun games everywhere
 the perfect game to play with your 5$person-relation>$person-relation_S
 you'll even want to play it with your pet $noun-animal
 5specifically>highly recommended for those who 5enjoy>like a 5bit>lot of 5$noun-artifact-abstract>$verb-intransitive_ING in their games
-it's the latest 5$noun>$noun-artifact-abstract -fest from the makers of $game/title
+it's the latest 5*THING>$noun-artifact-abstract -fest from the makers of $game/title
 pick it up next time you're at the ^ *PLACE visitor-centre.
 look out for the coupon from a box of $cereal/name
 it's a game of 5$noun-artifact-abstract>$verb-intransitive_ING , 5$noun-artifact-abstract>$verb-intransitive_ING and 5$noun-artifact-abstract>$verb-intransitive_ING
 a great game to fill in $number-small $time-period_S
 do you have what it takes to $verb-transitive the *THING ?
+why not serve $noun-food_S while playing?

@@ -7,7 +7,7 @@ any $game/terminology-card that has not yet been $verb-transitive_ED is 5discard
 a new $game/terminology-round begins
 the deck of *THINGS is shuffled and $number-small cards dealt to each player
 the board is flipped over and play continues on the $game/adj side
-the players are award victory tokens for their *THINGS
+the players are awarded victory tokens for their *THINGS
 a 5bonus>special $game/terminology-round is held, during which $noun $game/terminology-card_S can be $verb-transitive_ED for free
 points are awarded for how $adverb each player has played the game so far
 points are deducted according to how $adverb each player has $verb-transitive_ED their $game/terminology-card_S
