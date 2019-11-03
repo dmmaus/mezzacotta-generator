@@ -1,4 +1,4 @@
-@format ~
+@format ~|S
 adee
 ail
 allow
@@ -8,9 +8,9 @@ ana
 anser
 ant
 ard
-ary
+ary|aries
 atoo
-atross
+atross|atrosses
 aven
 awk
 ebe
@@ -24,7 +24,7 @@ et
 etrel
 ew
 ican
-ich
+ich|iches
 idge
 ier
 ift
@@ -32,10 +32,10 @@ igeon
 ike
 ikeet
 ilt
-inch
+inch|inches
 incole
 ing
-ingo
+ingo|ingoes
 int
 iole
 ipe
@@ -45,11 +45,11 @@ it
 iwi
 le
 ocet
-oddy
+oddy|oddies
 ola
 on
 oo
-ooby
+ooby|oobies
 ook
 oon
 ope
@@ -58,12 +58,12 @@ ork
 ot
 ouse
 over
-owary
+owary|owaries
 ua
 uin
 ule
 ull
 ulture
-urkey
-ush
-y
+urkey|urkies
+ush|ushes
+y|ies
