@@ -1,0 +1,2 @@
+@format ~
+$game/desc-gameplan . 4$game/desc-first-player . $game/desc-trigger-and-result 2$game/desc-trigger-and-result $game/desc-move . 1$game/desc-move . $game/desc-strategy .

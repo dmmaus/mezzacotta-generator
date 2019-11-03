@@ -1,0 +1,8 @@
+@format ~
+starts
+begins the game
+plays first
+starts the game, but with @random(2,5) fewer $noun $game/terminology-card_S
+5takes>has the first turn
+has to pack up the game when finished
+goes first

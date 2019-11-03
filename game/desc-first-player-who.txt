@@ -1,0 +1,35 @@
+@format ~
+the player who most recently $verb-transitive_ED *THINGS
+the player who most recently $verb-transitive_ED something
+the player who most recently $verb-intransitive_ED
+the player who most recently ate $noun-food_S
+the most $game/adj player
+the player with the 5biggest>smallest $noun-bodypart-human
+the player with the 5most>least *THINGS
+a random player
+the most $insult/thing -ish player
+the most $insult/adj player
+the player who most recently visited ^ *PLACE
+whoever suggested to play the game
+the player who has the most $game/adj $noun-bodypart-human
+the player who lives closest to a $noun-geography-landform
+the player who lives closest to a $noun-geography-structure
+whoever looks most like a 1$game/person>$insult/thing
+the player who can $verb-transitive the most *THINGS
+a player named $name-forename-modern , if there is one,
+the player who can do the best impersonation of a $noun-animal
+the player wearing the 5biggest>most_colourful $noun-clothing
+the player who has most recently seen a $noun movie
+the player born closest to ^ *PLACE
+the player with birthday closest to $time-month @random(1,28)
+the player who is most afraid of $noun-animal_S
+whoever was most recently $verb-transitive_ED with a $noun
+the player who has most recently seen a $bird/base
+the player who looks the most like $movie/act
+the player voted the most 5like>similar_to $figure-mythology
+anyone who is allergic to $noun-food_S
+the player sitting closest to the $noun-furniture
+anyone who can play the $noun-instrument-musical
+the player who can do the best $noun-monster face
+anyone who got here in a $noun-vehicle
+whoever is best at $sport

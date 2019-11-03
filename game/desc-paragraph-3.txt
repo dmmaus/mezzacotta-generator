@@ -1,0 +1,14 @@
+@format ~
+_ #(empty paragraph)
+$game/desc-expansion .
+$game/desc-expansion .
+$game/desc-expansion .
+$game/desc-conclusion .
+$game/desc-conclusion .
+$game/desc-conclusion .
+$game/desc-conclusion .
+$game/desc-conclusion .
+$game/desc-conclusion .
+$game/desc-expansion . $game/desc-conclusion .
+$game/desc-expansion . $game/desc-conclusion .
+$game/desc-expansion . $game/desc-conclusion .
