@@ -1,4 +1,5 @@
 @format ~|S
+$bird/base|$bird/base_S
 albatross|albatrosses
 auk
 bird

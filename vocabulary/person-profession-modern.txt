@@ -213,7 +213,7 @@ scientist
 scriptwriter
 sculptor
 secret agent
-secretary
+secretary|secretaries
 security guard
 senator
 servant
