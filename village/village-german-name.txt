@@ -1,0 +1,11 @@
+@format ~
+@titlecase
+$village/village-german-prefix + $village/village-german-suffix
+$village/village-german-prefix + $village/village-german-suffix $village/village-german-prefix + $village/village-german-suffix
+$village/village-german-prefix + $village/village-german-suffix - $village/village-german-prefix + $village/village-german-suffix
+$village/village-german-prefix + $village/village-german-suffix 5unter>ober $village/village-german-prefix + $village/village-german-suffix
+$village/village-german-prefix + $village/village-german-infix + $village/village-german-suffix
+$village/village-german-premodifier $village/village-german-prefix + 5$village/village-german-infix
+1$village/village-german-premodifier $village/village-german-prefix + $village/village-german-suffix + $village/village-german-suffix
+1$village/village-german-premodifier $village/village-german-prefix + $village/village-german-suffix an der $village/village-german-river
+1$village/village-german-premodifier $village/village-german-prefix + $village/village-german-suffix am $village/village-german-river

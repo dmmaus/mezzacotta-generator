@@ -1,0 +1,15 @@
+@format ~
+&uuml;ber-
+alt
+bad
+burg
+kleines
+mittel-
+neu-
+nord-
+ober-
+ost
+s&uuml;d
+sankt
+unter-
+west

@@ -1,0 +1,19 @@
+@format ~
+Altm&uuml;hl
+Donau
+Elbe
+Havel
+Isar
+Lahn
+Main
+Mosel
+Neckar
+Oder
+Regnitz
+Rhein
+Ruhr
+Saale
+Saar
+Salzach
+Spree
+Weser
