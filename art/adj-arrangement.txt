@@ -2,11 +2,13 @@
 aligned
 arrayed
 criss-crossing
+diagonal
 grid-form
 haphazardly arranged
 hidden
 horizontal
 overlapping
+randomly 5distributed>placed
 stacked
 unaligned
 vertical

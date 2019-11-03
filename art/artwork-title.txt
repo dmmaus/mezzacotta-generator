@@ -6,6 +6,7 @@ $art/anything / $art/anything
 $adj-person $person in a $noun-clothing
 $adj-person $person_S
 $adj-person $person_S at the $noun-instrument-musical
+$bird/base ( 5Illustration>Study )
 $figure and $figure
 $figure and the $noun-animal
 $figure in $place-fictional

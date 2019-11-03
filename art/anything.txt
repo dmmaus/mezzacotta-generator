@@ -21,3 +21,5 @@ $time-day-of-week
 $verb-intransitive_ING
 @recentyear100
 $game/title-compound
+$bird/base
+$number-small_TH

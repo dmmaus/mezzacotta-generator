@@ -1,6 +1,7 @@
 @format ~
 battle
 conversion
+declaration
 destruction
 founding
 invasion
