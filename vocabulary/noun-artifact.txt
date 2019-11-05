@@ -1,13 +1,17 @@
 # Useful nouns for specifying magical artifacts, quest rewards, plot McGuffins and the like
 @format ~|S
-# $instrument|*instrument
+$noun-instrument-musical|$noun-instrument-musical_S
 $noun-vehicle|$noun-vehicle_S
 $noun-weapon|$noun-weapon_S
 $noun-geography-landform|$noun-geography-landform_S
 $noun-artifact|$noun-artifact $noun-artifact|$noun-artifact
 $noun-plant|$noun-plant_S
 $noun-clothing-jewellery|$noun-clothing-jewellery_S
-# $ruler|*ruler
+$noun-food|$noun-food_S
+$person-ruler|$person-ruler_S
+$noun-animal|$noun-animal_S
+$noun-monster|$noun-monster_S
+$insult/thing|$insult/thing_S
 altar
 armament
 apparatus|apparatuses

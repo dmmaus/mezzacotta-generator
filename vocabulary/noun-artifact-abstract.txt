@@ -4,6 +4,9 @@
 @include noun-material
 the $noun-animal
 the $noun-geography-landform
+$place
+$noun-food_S
+$insult/trait
 abandon
 abundance
 acid
@@ -184,6 +187,7 @@ joy
 jubilation
 judgment
 justice
+knowledge
 laughter
 lava
 law
@@ -309,6 +313,7 @@ surprise
 sweat
 symmetry
 tears
+temptation
 tenacity
 the ages
 the ancients

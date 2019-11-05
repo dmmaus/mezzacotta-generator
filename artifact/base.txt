@@ -2,11 +2,11 @@
 @format ~
 @titlecase
 The $artifact/adj-artifact $noun-artifact
-The $noun-artifact of $noun-artifact-abstract
-The 2$dish/wine-intensifier $artifact/adj-artifact $noun-artifact of $noun-artifact-abstract
+The $noun-artifact of 05$figure>$noun-artifact-abstract
+The 2$dish/wine-intensifier $artifact/adj-artifact $noun-artifact of 05$figure>$noun-artifact-abstract
 The $artifact/adj-artifact $noun
 The $noun-artifact of $artifact/adj-artifact $noun-artifact-abstract
-The $noun-artifact of $noun-artifact-abstract and $noun-artifact-abstract
+The $noun-artifact of 05$figure>$noun-artifact-abstract and 05$figure>$noun-artifact-abstract
 The $noun-artifact-abstract $noun-artifact
 The $noun-artifact $noun-artifact
 The $noun-artifact of the $noun-artifact

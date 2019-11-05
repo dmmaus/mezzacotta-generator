@@ -2,7 +2,7 @@
 players take on the roles of ^ *PLACE 's most $adj-person *PERS1
 one player is the *PERS2 of ^ *PLACE , while the others take on the roles of the *PERS1
 transported to the land of ^ *PLACE , the players 5choose>select roles of 5various>unique *PERS1
-everyone 5is>acts_as one of the 3$adj-person *PERS1 of ^ *PLACE (except for the most $adj-person player who is a $game/person instead)
+5each_player>everyone 5is>acts_as one of the 3$adj-person *PERS1 of ^ *PLACE (except for $game/desc-first-player-who ; they are a $game/person instead)
 each player is a manager of one of ^ *PLACE 's most prominent *THING factories
 the players are 5conquering>exploring the 8$game/adj land of ^ *PLACE
 everyone is 9secretly>$adverb assigned a *PERS1 character $game/terminology-card
