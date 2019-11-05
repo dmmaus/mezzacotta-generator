@@ -7,6 +7,7 @@ crocus|crocuses
 daffodil
 dahlia
 daisy|daisies
+freesia
 gardenia
 geranium
 |heather
@@ -20,9 +21,11 @@ lilac
 lily|lilies
 lotus|lotuses
 magnolia
+marigold
 nasturtium
 orchid
 pansy|pansies
+poinsettia
 poppy|poppies
 rhododendron
 rose

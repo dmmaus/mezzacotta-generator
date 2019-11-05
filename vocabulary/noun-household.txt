@@ -8,6 +8,7 @@
 #   - vehicles
 #   - weapons
 @format ~|S
+air freshener
 backpack
 basket
 bell
@@ -21,7 +22,9 @@ can opener
 candle
 card
 charger
+chopstick
 clock
+coffee machine
 coin
 compass|compasses
 cord
@@ -29,7 +32,10 @@ credit card
 cup
 cushion
 die|dice
+doorknob
+electrical outlet
 eraser
+fan
 fork
 frame
 fridge
@@ -42,6 +48,7 @@ ironing board
 jug
 kettle
 light bulb
+light switch
 marker
 microwave oven
 mixing bowl
@@ -76,4 +83,5 @@ towel
 vase
 wallet
 watch|watches
+whisk
 wine glass|glasses

@@ -11,29 +11,42 @@ cockle
 cockroach|cockroaches
 crab
 cricket
+cuttlefish
 dragonfly|dragonflies
+firefly|fireflies
 flea
 fly|flies
+glow worm
+gnat
+grasshopper
 hornet
 jellyfish|jellyfish
+katydid
 lady beetle
 lobster
+locust
 louse|lice
 mantis|mantises
 millipede
 moth
 mosquito|mosquitoes
+mussel
+nudibranch|nudibranches
 octopus|octopuses
 oyster
 prawn
+scorpion
 shrimp
 slug
 snail
 spider
 squid
 starfish|starfish
+stick insect
 termite
 tick
 wasp
+weevil
 whelk
 worm
+yellowjacket

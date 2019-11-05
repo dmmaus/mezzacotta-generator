@@ -8,13 +8,16 @@ bed
 bedside table
 bench|benches
 bookcase
+bunk bed
 carpet
+ceiling fan
 chair
 chimney
 closet
 clothes dryer
 coffee table
 cornice
+curtain
 desk
 door
 drawer
@@ -30,6 +33,7 @@ lamp
 lantern
 laundry
 light
+mailbox
 mantel
 ottoman
 oven
@@ -46,6 +50,7 @@ table
 throne
 throw rug
 tile
+vestibule
 wall
 wardrobe
 washing machine

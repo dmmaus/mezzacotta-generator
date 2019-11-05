@@ -15,3 +15,6 @@
 , venturing through the $noun-geography-landform_S of ^ *PLACE
 , investigating the disappearance of the local $game/person
 , racing towards $game/place in $noun-vehicle_S
+, fighting off 5waves>hoardes of attacking 5$noun-animal_S>$noun-monster_S
+, trying to gain the most influence amongst the 5*PERS1>$game/person_S of ^ *PLACE
+, until there is only a single survivor

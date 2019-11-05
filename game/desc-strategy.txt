@@ -9,6 +9,7 @@ you can use your $noun $game/terminology-card_S to $verb-transitive other player
 the 5$game/adj>noun $game/terminology-card is more 5powerful>important than you may think , $game/desc-strategy-result
 try to predict when the $artifact/base will be $verb-transitive_ED , as $game/desc-strategy-result
 carefully consider when to reveal the contents of the 5$game/adj>$noun $game/terminology-container , $game/desc-strategy-result
+but beware! One of the other players may 8$game/verb-action>$verb-transitive a 5$game/adj>$noun $game/terminology-card , $game/desc-strategy-result
 #
 # Strategic advice to gain an advantage (desc-strategy-advantage)
 #
@@ -20,3 +21,4 @@ any player who has actually been to ^ *PLACE $game/desc-strategy-advantage
 if you $verb-transitive your 5$noun $game/terminology-card_S more $adverb than your opponents , then you $game/desc-strategy-advantage
 5don't_forget>remember , $game/desc-first-player-who $game/desc-strategy-advantage
 if your arrangement of $game/terminology-card_S on the board 5depicts>looks_like a $noun , then you $game/desc-strategy-advantage
+if you collect all @random(3,12) types of $noun_S , you $game/desc-strategy-advantage

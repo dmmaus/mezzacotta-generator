@@ -1,6 +1,8 @@
 # Descriptors that sensibly come at the very beginning of a game description
 @format ~
 $number-small dimensional
+$number-small -hour
+$noun -themed
 co-operative
 collectable
 creative

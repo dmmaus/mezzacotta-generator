@@ -1,0 +1,10 @@
+@format ~
+@titlecase
+$name-forename-modern 's games
+$noun games
+$time-period_S of $noun-artifact-abstract
+$place games
+$figure games
+$adj-colour-basic games
+$noun-artifact-abstract games
+$person-profession-medieval_S of the $noun-geography-landform
