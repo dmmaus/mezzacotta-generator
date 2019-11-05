@@ -26,6 +26,7 @@ duis
 ecker
 eder
 ehren
+ei
 ems
 er
 ernst
@@ -34,6 +35,7 @@ frank
 fred
 friedrich
 f&uuml;rst
+g&ouml;r
 g&ouml;tt
 garm
 garz
@@ -112,6 +114,7 @@ t&ouml;l
 t&uuml;b
 teck
 ulm
+ulrich
 ulz
 volk
 w&uuml;rz
