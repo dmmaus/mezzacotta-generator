@@ -3,3 +3,4 @@ watch out for the upcoming 5$noun>$game/adj expansion , which $game/desc-expansi
 the 5$place>$game/adj 5board>deck is available separately, which $game/desc-expansion-feature
 a 5mobile>online implementation is 8$adverb>eagerly awaited, which $game/desc-expansion-feature
 the game can be 5expanded>combined with $game/title , which $game/desc-expansion-feature
+additional scenarios can be downloaded from $game/publisher , which $game/desc-expansion-feature

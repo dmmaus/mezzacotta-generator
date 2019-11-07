@@ -27,5 +27,8 @@
 #   eg, "a game of conquest, trade and war"
 #   eg, "do you have what it takes?"
 #
+# statements about who the winner is, and even tiebreakers
+#   eg, "If it is still a tie, players $adverb share the victory, but vow to out-$verb each other next time."
+#
 # $game/desc-paragraph-1 $game/desc-paragraph-2 $game/desc-paragraph-3
 $game/desc-intro $game/desc-roles 95$game/desc-goal . $game/desc-gameplan . 4$game/desc-first-player . $game/desc-trigger-and-result 2$game/desc-trigger-and-result $game/desc-move . 1$game/desc-move . $game/desc-strategy . 3$game/desc-expansion . 9$game/desc-conclusion .

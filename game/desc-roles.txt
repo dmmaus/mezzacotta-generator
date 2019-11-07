@@ -8,3 +8,5 @@ the players are 5conquering>exploring the 8$game/adj land of ^ *PLACE
 everyone is 9secretly>$adverb assigned a *PERS1 character $game/terminology-card
 players act as a 5band>team of $game/person_S , waging 5war>battle against the *PERS1 of ^ *PLACE
 a 5adversarial>mastermind player controls a team of the most $game/adj *PERS1 in all of ^ *PLACE , while the others are merely 9$game/person_S>$insult/thing_S
+players become *PERS1 , $game/verb-compete_ING to be $verb-transitive_ED by ^ *PLACE 's most $adj-person *PERS2
+players choose to become a $noun-animal , $noun-animal or $noun-animal , teaming up to 2destroy>$verb-transitive the *PERS1 of ^ *PLACE

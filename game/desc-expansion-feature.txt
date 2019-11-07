@@ -8,3 +8,4 @@ transports the game to the land of $game/place
 will hopefully 5resolve>address the game's lack of 5$noun_S>$noun-artifact-abstract
 adds @random(2,5) 5more>extra $game/terminology-round_S , during which $game/desc-result
 adds @random(5,100) more $game/terminology-card_S for you to $verb-transitive
+increases the play time by $number-small $time-period_S

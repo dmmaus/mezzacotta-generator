@@ -17,6 +17,7 @@ combat
 commodity speculation
 deck building
 dice
+dinner party
 duelling
 dungeon crawling
 economic

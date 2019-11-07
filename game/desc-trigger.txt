@@ -13,3 +13,4 @@ whenever a 5$game/adj>$noun card is drawn from the $noun deck
 when a $game/terminology-card is 8played>$verb-transitive_ED $adverb
 if any $game/terminology-card is $verb-intransitive_ING
 whenever $noun +wang is declared
+if no 5legal>valid 5actions>moves are possible,
