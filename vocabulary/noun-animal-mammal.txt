@@ -23,7 +23,7 @@ colt
 coney|conies
 cow
 deer|deer
-dingo
+dingo|dingoes
 dog
 dormouse
 dolphin
@@ -33,7 +33,7 @@ elephant
 ewe
 ferret
 foal
-flying fox
+flying fox|foxes
 fox|foxes
 gander
 giraffe
@@ -70,7 +70,7 @@ otter
 ox|oxen
 panda
 pig
-platypus
+platypus|platypuses
 polecat
 pooch|pooches
 pony|ponies
@@ -96,11 +96,11 @@ Tasmanian devil
 tiger
 tree-kangaroo
 wallaby|wallabies
-walrus
+wallaroo
+walrus|walruses
 weasel
 whale
 wolf|wolves
 wolfhound
-wollaroo
 wombat
 zebra

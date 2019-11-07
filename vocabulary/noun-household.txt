@@ -48,7 +48,7 @@ ironing board
 jug
 kettle
 light bulb
-light switch
+light switch|switches
 marker
 microwave oven
 mixing bowl

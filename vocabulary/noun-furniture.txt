@@ -33,7 +33,7 @@ lamp
 lantern
 laundry
 light
-mailbox
+mailbox|mailboxes
 mantel
 ottoman
 oven
