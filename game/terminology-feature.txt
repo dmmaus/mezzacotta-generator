@@ -1,0 +1,13 @@
+#Words to denote features that appear on game components, usually cards.
+@format ~|S
+1$noun symbol
+ability|abilities
+colour
+5casting>_ cost
+location
+name
+point value
+rarity|rarities
+shape
+tribe
+type

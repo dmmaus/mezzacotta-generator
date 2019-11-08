@@ -178,7 +178,9 @@ class Vocab:
                 else:
                     words = line.split()
 
-                    for word in words:
+                    while words:
+                        word = words.pop(0)
+
                         if '|' in word:
                             parts = word.split('|')
                             try:
@@ -198,6 +200,32 @@ class Vocab:
                         # @random command
                         elif word.startswith('@random'):
                             result += self.RandomNumber(word[len('@random'):]) + ' '
+
+                        # @set command
+                        elif word.startswith('@set'):
+                            word = word[len('@set'):]
+
+                            picks_string = ''
+                            while word[0].isdigit():
+                                picks_string += word[0]
+                                word = word[1:]
+                            num_picks = int(picks_string)
+
+                            selections = word[1:len(word)-1].split(',')
+                            random.shuffle(selections)
+
+                            # re-insert the selections to the front of the remaining words
+                            new_words = []
+                            for i in range(num_picks):
+                                if i < num_picks - 2:
+                                    new_words.append(selections[i] + ' , ')
+                                elif i == num_picks - 2:
+                                    new_words.append(selections[i] + ' and ')
+                                else:
+                                    new_words.append(selections[i])
+
+
+                            words = new_words + words
 
                         else:
                             result += word + ' '

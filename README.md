@@ -101,6 +101,7 @@ There are also special @-commands that produce substituted text:
 
 * `@randomN(A,B)+C` - Generates a random integer using the formula: (*N* die rolls of (a random integer from *A* to *B* inclusive)) + *C*. As well as `+`, the following operators are supported: `-`, `*`, `/` (performs integer division).
 * `@recentyearN` - Generates a year number in the past, biased towards more recent years, and substitutes it in place. `N` is a number, which is interpreted as a scale factor for the logarithmic probability distribution. Most years generated will be within *N* years of the present, but there is a long low probability tail.
+* `@setN(A,B,C...)` - Generates a randomly permuted combination of N items from the set A,B,C... (formatted with commas and a penultimate 'and')
 
 ### Automatic replacements
 

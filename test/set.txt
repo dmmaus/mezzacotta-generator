@@ -1,0 +1,2 @@
+@format ~
+@set3(apple,banana,cat,dog,$noun)
