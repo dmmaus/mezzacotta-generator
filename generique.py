@@ -212,6 +212,9 @@ class Vocab:
                             num_picks = int(picks_string)
 
                             selections = word[1:len(word)-1].split(',')
+                            if num_picks > len(selections):
+                                num_picks = len(selections)
+
                             random.shuffle(selections)
 
                             # re-insert the selections to the front of the remaining words
