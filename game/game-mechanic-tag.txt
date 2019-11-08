@@ -49,5 +49,6 @@ trick-based
 turn-based
 victory point
 wealth accumulation
+wheeling-and-dealing
 worker placement
 zero-sum

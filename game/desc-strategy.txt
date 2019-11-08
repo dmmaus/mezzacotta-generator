@@ -23,3 +23,4 @@ if you $verb-transitive your 5$noun $game/terminology-card_S more $adverb than y
 if your arrangement of $game/terminology-card_S on the board 5depicts>looks_like a $noun , then you $game/desc-strategy-advantage
 if you collect all @random(3,12) types of $noun_S , you $game/desc-strategy-advantage
 remember, you can always take off your $noun-clothing , so you $game/desc-strategy-advantage
+try to get at least @random(3,10) different $game/terminology-feature_S amongst your 6$noun $game/terminology-card_S , 5so_that_you>otherwise_your_opponents $game/desc-strategy-advantage
