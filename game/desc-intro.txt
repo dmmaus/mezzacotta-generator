@@ -1,2 +1,2 @@
 @format ~
-$game/desc-intro-opening 05$game/adj 25$game/game-supercategory 7$game/game-mechanic-tag 7$game/game-mechanic-tag 15$adj-genre $game/game-category game 4$game/game-feature 6$game/playercount .
+$game/desc-intro-opening 05$game/adj 15$game/game-supercategory 7$game/game-mechanic-tag 7$game/game-mechanic-tag 15$adj-genre $game/game-category game 4$game/game-feature 4$game/playercount .

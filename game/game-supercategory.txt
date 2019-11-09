@@ -1,22 +1,45 @@
 # Descriptors that sensibly come at the very beginning of a game description
 @format ~
-$number-small dimensional
-$number-small -hour
 $noun -themed
+$number-small -hour
+$number-small dimensional
+Bible-based
+Euro-style
+Kickstarted
+LGBT-inclusive
+Mensa approved
+artisan
+blockchain-integrated
 co-operative
 collectable
+collector's edition
 creative
 crowdfunded
+deluxe edition
 eagerly anticipated
+edible
 educational
-Euro-style
+historically accurate
 hot-off-the-presses
-Kickstarted
+licensed
 limited edition
 luxury edition
 much hyped
 new
+oversized
+pocket-version
+public domain
 re-released
+recycled
+reprinted
+rethemed
+retro-styled
+scratch-and-sniff
 simultaneous play
+souvenir
 special edition
+superfluous
+sustainably sourced
 traditional
+traditionally-crafted
+travel-edition

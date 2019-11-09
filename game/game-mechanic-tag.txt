@@ -1,3 +1,4 @@
+#Short statements describing mechanics featured in the game
 @format ~
 action point
 action selection
@@ -11,6 +12,7 @@ dice pool
 divide-and-conquer
 enemy elimination
 engine crafting
+episodic
 follow-the-leader
 grid-based
 hand management
@@ -46,9 +48,11 @@ structure building
 tile placement
 time-limited
 trick-based
+tug-of-war
 turn-based
 victory point
 wealth accumulation
 wheeling-and-dealing
 worker placement
 zero-sum
+zone control

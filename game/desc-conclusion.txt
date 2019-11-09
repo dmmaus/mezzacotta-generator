@@ -7,7 +7,7 @@ you'll even want to play it with your pet $noun-animal
 it's the latest 5*THING>$noun-artifact-abstract -fest from the makers of $game/title
 pick it up next time you're at the ^ *PLACE visitor-centre.
 look out for the coupon from a box of $cereal/name
-it's a game of 5$noun-artifact-abstract>$verb-intransitive_ING , 5$noun-artifact-abstract>$verb-intransitive_ING and 5$noun-artifact-abstract>$verb-intransitive_ING
+it's a game of @set3($noun-artifact-abstract,$noun-artifact-abstract,$verb-intransitive_ING,$verb-intransitive_ING)
 a great game to fill in $number-small $time-period_S
 do you have what it takes to $verb-transitive the *THING ?
 why not serve $noun-food_S while playing?
@@ -15,3 +15,6 @@ it's the most fun since last year's wave of $game/game-mechanic-tag 2$adj-genre 
 teachers, this is a $game/adj educational game for $noun lessons
 contains @random(2,5) promo $game/terminology-card_S for $game/title
 it all proves that $noun_S plus *THINGS equals $noun-abstract
+the game that's banned in $place for being too $game/adj !
+note: $game/adj parts included, not suitable for children under @random(3,18)
+support the Kickstarter now to receive this bonus @set1($noun-animal,$noun-vehicle,$noun-artifact) -shaped storage @set1(box,tin)

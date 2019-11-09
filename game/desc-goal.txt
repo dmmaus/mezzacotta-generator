@@ -18,3 +18,4 @@
 , fighting off 5waves>hordes of attacking 5$noun-animal_S>$noun-monster_S
 , trying to gain the most influence amongst the 5*PERS1>$game/person_S of ^ *PLACE
 , until there is only a single survivor
+, $game/verb-compete_ING to gain @set3(fame,wealth,notoriety,power,riches,influence,prestige,territory,lands,$noun_S,$game/person_S)

@@ -5,7 +5,10 @@
 $noun-animal racing
 $noun-vehicle racing
 $noun-monster combat
+$noun - $verb-transitive-simple_ING
+$verb-intransitive_ING
 abstract
+action
 betting
 bluffing
 campaign
@@ -16,6 +19,7 @@ collectable card
 combat
 commodity speculation
 deck building
+deduction
 dice
 dinner party
 duelling
@@ -40,8 +44,10 @@ race
 role-playing
 simulation
 social deduction
+singing
 storytelling
 strategy
+territory-building
 tile-laying
 trivia
 war

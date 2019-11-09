@@ -8,6 +8,7 @@ biopunk
 children's
 classic
 cliffhanging
+civil war
 comedy
 contemporary
 cyberpunk
@@ -29,6 +30,7 @@ melodrama
 murder mystery
 mystery
 mythological
+nautical
 occult
 paranormal
 pirate
@@ -37,6 +39,7 @@ post-apocalyptic
 prehistoric
 psychological
 pulp adventure
+religious
 romance
 romantic comedy
 science fantasy
@@ -52,4 +55,5 @@ thriller
 tragedy
 war
 western
+X-rated
 zombie

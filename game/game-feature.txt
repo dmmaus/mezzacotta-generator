@@ -3,7 +3,7 @@ based on a true story
 based on the movie
 featuring choose-your-own-adventure gameplay
 for the whole family
-of 8$noun-artifact-abstract>$verb-intransitive_ING , 8$noun-artifact-abstract>$verb-intransitive_ING and 8$noun-artifact-abstract>$verb-intransitive_ING
+of @set3($noun-artifact-abstract,$noun-artifact-abstract,$verb-intransitive_ING,$verb-intransitive_ING)
 of shifting alliances
 offering optional expansions
 on a hexagonal grid
@@ -22,3 +22,13 @@ with polyhedral dice
 with simultaneous action selection
 with variable phase order
 with variable player powers
+loosely based on the 5TV_show>movie
+that defies the very definition of a game
+inspired by the actual life of $name-full-modern
+with a deformable map
+with a sudden-death ending
+with realistic market simulation
+with hidden role selection
+with customisable difficulty level
+with multiple paths to victory
+by @set1(famed,celebrated,renowned) designer $name-full-modern

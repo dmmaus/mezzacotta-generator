@@ -14,3 +14,4 @@ when a $game/terminology-card is 8played>$verb-transitive_ED $adverb
 if any $game/terminology-card is $verb-intransitive_ING
 whenever $noun +wang is declared
 if no 5legal>valid 5actions>moves are possible,
+if a player lands on space number @random(1,100) ,

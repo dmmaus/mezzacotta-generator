@@ -1,6 +1,8 @@
 @format ~
-watch out for the upcoming 5$noun>$game/adj expansion , which $game/desc-expansion-feature
-the 5$place>$game/adj 5board>deck is available separately, which $game/desc-expansion-feature
-a 5mobile>online implementation is 8$adverb>eagerly awaited, which $game/desc-expansion-feature
-the game can be 5expanded>combined with $game/title , which $game/desc-expansion-feature
+watch out for the upcoming 5$noun>$game/adj expansion , which $game/desc-expansion-feature_S
+the 5$place>$game/adj 5board>deck is available separately, which $game/desc-expansion-feature_S
+a 5mobile>online implementation is 8$adverb>eagerly awaited, which $game/desc-expansion-feature_S
+the game can be 5expanded>combined with $game/title , which $game/desc-expansion-feature_S
 additional scenarios can be downloaded from $game/publisher , which $game/desc-expansion-feature
+$noun=EXPTHING look for the *EXPTHING expansion, which is literally a *EXPTHING that $game/desc-expansion-feature_S
+attendees of ^ *PLACE 's upcoming 1$noun>$game/person_S convention may collect a promo $game/terminology-card pack, which $game/desc-expansion-feature_S

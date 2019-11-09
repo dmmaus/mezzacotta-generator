@@ -1,3 +1,6 @@
 @format ~
 @random(2,15) $noun-currency_S
 @random(2,6) 6$game/adj 6$noun $game/terminology-card_S
+@random(2,5) victory points
+@random(1,5) $adj-colour-basic mana
+@random(1,5) 5life>$noun-abstract points

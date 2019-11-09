@@ -10,6 +10,7 @@ the 5$game/adj>noun $game/terminology-card is more 5powerful>important than you 
 try to predict when the $artifact/base will be $verb-transitive_ED , as $game/desc-strategy-result
 carefully consider when to reveal the contents of the 5$game/adj>$noun $game/terminology-container , $game/desc-strategy-result
 but beware! One of the other players may 8$game/verb-action>$verb-transitive a 5$game/adj>$noun $game/terminology-card , $game/desc-strategy-result
+you can always put a $noun (not included) onto the board, $game/desc-strategy-result
 #
 # Strategic advice to gain an advantage (desc-strategy-advantage)
 #

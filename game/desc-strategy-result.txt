@@ -1,3 +1,4 @@
+#Results about actions that specific components in the game will cause to happen
 @format ~
 it is worth minus @random(2,50) points
 it allows the other players to $verb-transitive all your $game/terminology-card_S
@@ -7,4 +8,5 @@ it will cost you @random(2,25) $noun-currency_S
 it adds a $game/game-mechanic-tag mechanic to the game
 it is awarded to the player with the 5most>least $noun $game/terminology-card_S , but they may no longer 5$game/verb-action>$verb-transitive $game/terminology-card_S
 it will $verb-transitive your character's $insult/target
-it moves your character forward @random(2,5) spaces on the $noun track
+it moves your character 5forward>backwards @random(2,5) spaces on the $noun track
+it is then removed from the game unless someone pays $game/desc-payment for it
