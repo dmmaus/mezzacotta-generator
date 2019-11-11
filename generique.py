@@ -24,6 +24,16 @@ def Capitalise(s):
                 return "&ldquo;" + Capitalise(s[7:])
             else:
                 return "&ldquo;"
+        elif re.match('^&.acute;', s):
+            return re.sub('^&(.)acute;', lambda match:'&'+match.group(1).upper()+'acute;', s)
+        elif re.match('^&.circ;', s):
+            return re.sub('^&(.)circ;', lambda match:'&'+match.group(1).upper()+'circ;', s)
+        elif re.match('^&.grave;', s):
+            return re.sub('^&(.)grave;', lambda match:'&'+match.group(1).upper()+'grave;', s)
+        elif re.match('^&.ring;', s):
+            return re.sub('^&(.)ring;', lambda match:'&'+match.group(1).upper()+'ring;', s)
+        elif re.match('^&.uml;', s):
+            return re.sub('^&(.)uml;', lambda match:'&'+match.group(1).upper()+'uml;', s)
         else:
             if s.startswith(" "):
                 return " " + Capitalise(s[1:])
