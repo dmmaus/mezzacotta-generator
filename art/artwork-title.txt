@@ -7,10 +7,10 @@ $adj-person $person in a $noun-clothing
 $adj-person $person_S
 $adj-person $person_S at the $noun-instrument-musical
 $bird/base ( 5Illustration>Study )
-$figure and $figure
-$figure and the $noun-animal
-$figure in $place-fictional
-$figure $verb-transitive_ING the $noun-animal_S of $place
+$art/figure and $art/figure
+$art/figure and the $noun-animal
+$art/figure in $place-fictional
+$art/figure $verb-transitive_ING the $noun-animal_S of $place
 $figure-mythology and the $noun-monster
 $figure-mythology $verb-transitive_ING $figure-mythology
 2$verb-intransitive_ING $person with $noun_S
@@ -46,7 +46,7 @@ a $person
 a $person $verb-transitive_ING 5his>her $person-relation 's $noun-bodypart-human
 a day at $village/base
 a $insult/subject
-allegory on the $noun-artifact-abstract of $figure
+allegory on the $noun-artifact-abstract of $art/figure
 colour study (for $art/artwork-title )
 composition in $adj-colour and $adj-colour
 composition No. @random3(0,10)+1
@@ -71,7 +71,7 @@ portrait of an unknown $person with a $noun
 portrait of the artist's $person-relation
 self-portrait
 self-portrait ( $art/anything )
-self-portrait as $figure
+self-portrait as $art/figure
 self-portrait with a $noun
 still life with $artifact/base
 still life with $noun
@@ -82,9 +82,9 @@ the $noun-abstract of $noun_S
 the $noun-abstract of $noun-abstract in the $noun-bodypart-human of someone $adj-state-animate
 the $art/event-myth of Saint $name-forename-old
 the $art/event-place of $place-city
-the $movie/event of $figure
+the $movie/event of $art/figure
 the $person 's $movie/event
-the $number-small $person-relation_S of $figure $verb-transitive_ING their $person-relation_S
+the $number-small $person-relation_S of $art/figure $verb-transitive_ING their $person-relation_S
 the $person
 the $person_S
 the $person 's $noun-bodypart-human

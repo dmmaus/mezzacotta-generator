@@ -1,0 +1,4 @@
+# Custom figures for use in artworks - use only Biblical and Mythology ones
+@format ~
+@include figure-biblical
+@include figure-mythology

@@ -1,0 +1,3 @@
+#Characters from prominent entertainment franchises
+@format ~
+@include figure-fiction-mtg
