@@ -1,5 +1,6 @@
 # results of triggered actions
 @format ~
+$game/desc-result-thematic
 the game ends
 points are awarded for each player's $noun $game/terminology-card_S
 a new $noun $game/terminology-card is $game/verb-action_P
@@ -15,3 +16,4 @@ the active player may spend their $noun points to upgrade their character's $ins
 there is a 5special>bonus 4$game/adj $game/terminology-round , in which $noun $game/terminology-card_S cost @random(2,8) $noun-currency_S less
 players may ignore any 5$game/terminology-card>$game/terminology-square with a $noun symbol
 players on any of the $noun-geography-landform $game/terminology-square_S of the board 8$game/verb-action>$verb-transitive a 2$game/adj 8$game/terminology-card>$noun
+$game/desc-move-who is eliminated from the game

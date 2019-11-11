@@ -1,2 +1,2 @@
 @format ~
-$game/desc-first-player-who $game/desc-first-player-what
+$game/desc-first-player-who $game/desc-first-player-what .

@@ -18,3 +18,4 @@ it all proves that $noun_S plus *THINGS equals $noun-abstract
 the game that's banned in $place for being too $game/adj !
 note: $game/adj parts included, not suitable for children under @random(3,18)
 support the Kickstarter now to receive this bonus @set1($noun-animal,$noun-vehicle,$noun-artifact) -shaped storage @set1(box,tin)
+note: in $place-country , this game is sold as $game/title

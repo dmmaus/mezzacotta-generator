@@ -57,3 +57,5 @@ legend of the $number-small *THINGS            $game/place=PLACE $game/person_S=
 $number-small -minute *THING                   $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
 $number-small *THINGS and a *THING             $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
 *PLACE @recentyear200                          $place-city=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+8build>$verb-transitive your own *THING        $place-city=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+$game/title-compound $noun-geography-landform  $place-city=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING

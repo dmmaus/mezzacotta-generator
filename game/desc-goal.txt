@@ -19,3 +19,8 @@
 , trying to gain the most influence amongst the 5*PERS1>$game/person_S of ^ *PLACE
 , until there is only a single survivor
 , $game/verb-compete_ING to gain @set3(fame,wealth,notoriety,power,riches,influence,prestige,territory,lands,$noun_S,$game/person_S)
+, trying to foil the 5schemes>plots of The ^ $person-ruler of ^ @set1($noun_S,$noun-artifact-abstract,$place,$noun-animal_S,$verb-intransitive_ING)
+in the year @random(0,2100) 5BC>AD
+$movie/setting
+, and $movie/verb-plot-transitive a 5$game/person>*PERS2
+, and $movie/verb-group

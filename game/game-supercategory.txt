@@ -3,6 +3,7 @@
 $noun -themed
 $number-small -hour
 $number-small dimensional
+app-supported
 Bible-based
 Euro-style
 Kickstarted
@@ -21,6 +22,7 @@ edible
 educational
 historically accurate
 hot-off-the-presses
+language-independent
 licensed
 limited edition
 luxury edition

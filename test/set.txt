@@ -1,2 +1,2 @@
 @format ~
-@set5(apple,banana,cat,dog,$noun)
+@uptoset5(apple,banana,cat,dog,$noun)

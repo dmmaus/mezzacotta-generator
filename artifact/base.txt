@@ -1,22 +1,20 @@
 # Magical artifacts, McGuffins, quest targets and the like
 @format ~
 @titlecase
-The $artifact/adj-artifact $noun-artifact
-The $noun-artifact of 05$figure>$noun-artifact-abstract
-The 2$dish/wine-intensifier $artifact/adj-artifact $noun-artifact of 05$figure>$noun-artifact-abstract
-The $artifact/adj-artifact $noun
-The $noun-artifact of $artifact/adj-artifact $noun-artifact-abstract
-The $noun-artifact of 05$figure>$noun-artifact-abstract and 05$figure>$noun-artifact-abstract
+The 05$dish/wine-intensifier $artifact/adj-artifact 1$noun>$noun-artifact
+The 95$noun-artifact>$noun-artifact_S of 05$figure>$noun-artifact-abstract
+The 1$dish/wine-intensifier $artifact/adj-artifact $noun-artifact of 05$figure>$noun-artifact-abstract
+The 95$noun-artifact>$noun-artifact_S of 05$dish/wine-intensifier $artifact/adj-artifact $noun-artifact-abstract
+The 95$noun-artifact>$noun-artifact_S of 05$figure>$noun-artifact-abstract and 05$figure>$noun-artifact-abstract
 The $noun-artifact-abstract $noun-artifact
-The $noun-artifact $noun-artifact
-The $noun-artifact of the $noun-artifact
-The 4$artifact/adj-artifact $noun-artifact of the $noun-geography-structure
-The 4$artifact/adj-artifact $noun-artifact of the $noun-geography-landform
-The 2$artifact/adj-artifact $noun-artifact of the 2$artifact/adj-artifact $noun-artifact
-The 3$artifact/adj-artifact $noun-artifact of the $noun
+The $noun-artifact 95$noun-artifact>$noun-artifact_S
+The 95$noun-artifact>$noun-artifact_S of the 95$noun-artifact>$noun-artifact_S
+The 4$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S of the 5$noun-geography-structure>$noun-geography-landform
+The 2$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S of the 2$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S
+The 3$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S of the $noun
 The 2$artifact/adj-artifact $noun-artifact that $verb-transitive_S 1$number-small $artifact/entity_S
-The 4$artifact/adj-artifact $noun-artifact of the $person-profession-medieval 's $person-relative
-The 4$artifact/adj-artifact $noun-artifact of the 5$number-small 4$artifact/adj-artifact $noun-artifact_S
+The 4$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S of the $person-profession-medieval 's $person-relative
+The 4$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S of the 5$number-small 4$artifact/adj-artifact $noun-artifact_S
 The 5$number-small $noun-artifact_S of the 5$artifact/adj-artifact $artifact/entity
-The 4$artifact/adj-artifact $noun-artifact that $verb-transitive_ED 2$number-small 4$adj-personality $person-profession-medieval_S
-The 4$adj-personality $person-profession-medieval 's 4$artifact/adj-artifact $noun-artifact
+The 4$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S that $verb-transitive_ED 2$number-small 4$adj-personality $person-profession-medieval_S
+The 4$adj-personality $person-profession-medieval 's 4$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S

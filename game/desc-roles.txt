@@ -12,3 +12,5 @@ players become *PERS1 , $game/verb-compete_ING to be $verb-transitive_ED by ^ *P
 players choose to become a $noun-animal , $noun-animal or $noun-animal , teaming up to 2destroy>$verb-transitive the *PERS1 of ^ *PLACE
 players form one team representing ^ *PLACE , and an opposing team their 1$game/adj 5ancient>arch- enemy: ^ @set1($game/place,*PERS1,$noun-animal_S,*THINGS)
 everyone plays as a character from amongst the game's factions: @set3(*PERS1,$noun-animal_S,$game/place_NS,$game/person_S,$insult/thing_S)
+players are $sport coaches, drafting their teams from amongst the @set3(*PERS1,$noun-animal_S,$game/person_S,$game/person_S,$game/person_S,$insult/thing_S) of ^ *PLACE
+players adopt roles from the government of ^ *PLACE 's Department of ^ @set1($verb-intransitive_ING,$noun-artifact-abstract,$noun_S)

@@ -1,2 +1,2 @@
 @format ~
-5on_their_turn>$game/desc-trigger , $game/desc-move-who $game/desc-move-source $game/desc-move-destination
+5on_their_turn>$game/desc-trigger , $game/desc-move-who $game/desc-move-source $game/desc-move-destination .

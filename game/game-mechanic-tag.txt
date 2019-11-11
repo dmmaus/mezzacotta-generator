@@ -11,7 +11,7 @@ dice crafting
 dice pool
 divide-and-conquer
 enemy elimination
-engine crafting
+engine 5building>crafting
 episodic
 follow-the-leader
 grid-based
@@ -45,6 +45,7 @@ semi-simultaneous
 set collection
 simultaneous action selection
 structure building
+tactical
 tile placement
 time-limited
 trick-based

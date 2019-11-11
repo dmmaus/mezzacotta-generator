@@ -2,26 +2,26 @@
 #
 # Strategic advice about a particular component in the game (desc-strategy-result)
 #
-beware the $game/adj $noun $game/terminology-card ! $game/desc-strategy-result
-watch out when the $number-small_TH $noun $game/terminology-card 5appears>is_drawn ! $game/desc-strategy-result
-carefully anticipate when the 5final>$number-small_TH $game/adj $game/terminology-square on the board is 5filled>revealed -- $game/desc-strategy-result
-you can use your $noun $game/terminology-card_S to $verb-transitive other player's *THINGS , $game/desc-strategy-result
-the 5$game/adj>noun $game/terminology-card is more 5powerful>important than you may think , $game/desc-strategy-result
-try to predict when the $artifact/base will be $verb-transitive_ED , as $game/desc-strategy-result
-carefully consider when to reveal the contents of the 5$game/adj>$noun $game/terminology-container , $game/desc-strategy-result
-but beware! One of the other players may 8$game/verb-action>$verb-transitive a 5$game/adj>$noun $game/terminology-card , $game/desc-strategy-result
-you can always put a $noun (not included) onto the board, $game/desc-strategy-result
+beware the $game/adj $noun $game/terminology-card ! $game/desc-strategy-result .
+watch out when the $number-small_TH $noun $game/terminology-card 5appears>is_drawn ! $game/desc-strategy-result .
+carefully anticipate when the 5final>$number-small_TH $game/adj $game/terminology-square on the board is 5filled>revealed -- $game/desc-strategy-result .
+you can use your $noun $game/terminology-card_S to $verb-transitive other player's *THINGS , $game/desc-strategy-result .
+the 5$game/adj>noun $game/terminology-card is more 5powerful>important than you may think , $game/desc-strategy-result .
+try to predict when the $artifact/base will be $verb-transitive_ED , as $game/desc-strategy-result .
+carefully consider when to reveal the contents of the 5$game/adj>$noun $game/terminology-container , $game/desc-strategy-result .
+but beware! One of the other players may 8$game/verb-action>$verb-transitive a 5$game/adj>$noun $game/terminology-card , $game/desc-strategy-result .
+you can always put a $noun (not included) onto the board, $game/desc-strategy-result .
 #
 # Strategic advice to gain an advantage (desc-strategy-advantage)
 #
-5aim>try to get the most 5$game/adj $noun $game/terminology-card_S -- then you $game/desc-strategy-advantage
-whoever has the 5most>fewest 5$game/adj $noun $game/terminology-card_S $game/desc-strategy-advantage
-$verb-transitive=VERB 5aim>try to *VERB your 4$noun $game/terminology-card_S more often than the other players *VERB theirs , and you $game/desc-strategy-advantage
-aim to gain control the $artifact/base , or disrupt your opponents opportunities to do so , as the controller $game/desc-strategy-advantage
-any player who has actually been to ^ *PLACE $game/desc-strategy-advantage
-if you $verb-transitive your 5$noun $game/terminology-card_S more $adverb than your opponents , then you $game/desc-strategy-advantage
-5don't_forget>remember , $game/desc-first-player-who $game/desc-strategy-advantage
-if your arrangement of $game/terminology-card_S on the board 5depicts>looks_like a $noun , then you $game/desc-strategy-advantage
-if you collect all @random(3,12) types of $noun_S , you $game/desc-strategy-advantage
-remember, you can always take off your $noun-clothing , so you $game/desc-strategy-advantage
-try to get at least @random(3,10) different $game/terminology-feature_S amongst your 6$noun $game/terminology-card_S , 5so_that_you>otherwise_your_opponents $game/desc-strategy-advantage
+5aim>try to get the most 5$game/adj $noun $game/terminology-card_S -- then you $game/desc-strategy-advantage .
+whoever has the 5most>fewest 5$game/adj $noun $game/terminology-card_S $game/desc-strategy-advantage .
+$verb-transitive=VERB 5aim>try to *VERB your 4$noun $game/terminology-card_S more often than the other players *VERB theirs , and you $game/desc-strategy-advantage .
+aim to gain control the $artifact/base , or disrupt your opponents opportunities to do so , as the controller $game/desc-strategy-advantage .
+any player who has actually been to ^ *PLACE $game/desc-strategy-advantage .
+if you $verb-transitive your 5$noun $game/terminology-card_S more $adverb than your opponents , then you $game/desc-strategy-advantage .
+5don't_forget>remember , $game/desc-first-player-who $game/desc-strategy-advantage .
+if your arrangement of $game/terminology-card_S on the board 5depicts>looks_like a $noun , then you $game/desc-strategy-advantage .
+if you collect all @random(3,12) types of $noun_S , you $game/desc-strategy-advantage .
+remember, you can always take off your $noun-clothing , so you $game/desc-strategy-advantage .
+try to get at least @random(3,10) different $game/terminology-feature_S amongst your 6$noun $game/terminology-card_S , 5so_that_you>otherwise_your_opponents $game/desc-strategy-advantage .

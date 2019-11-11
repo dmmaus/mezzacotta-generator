@@ -1,5 +1,6 @@
 # Starts of portmanteau game names, in the form pre+post
 @format ~
+$noun-artifact-abstract
 aeon
 aether
 alpha
@@ -20,7 +21,6 @@ dark
 data
 death
 dire
-dire
 dragon
 eco
 edge
@@ -35,24 +35,30 @@ far
 fel
 flame
 fusion
+gold
 grim
 hell
 horror
 hyper
 hypno
+ice
 inter
 isle
 key
 laser
+life
 light
+love
 mad
 math
 mecha
 mega
+money
 mono
 monster
 moon
 neo
+north
 omega
 omni
 over
@@ -77,11 +83,13 @@ storm
 sun
 super
 techno
+thought
 titan
 tomb
 ultra
 under
 uni
 void
+west
 wonder
 word

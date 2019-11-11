@@ -1,2 +1,13 @@
 @format ~
-$game/desc-gameplan . 4$game/desc-first-player . $game/desc-trigger-and-result 2$game/desc-trigger-and-result $game/desc-move . 1$game/desc-move . $game/desc-strategy .
+#
+# Original format with strict ordering of statements (gameplan, firstplayer, 1 or 2 trigger-and-result, 1 or 2 moves, strategy)
+#
+$game/desc-gameplan . 4$game/desc-first-player $game/desc-trigger-and-result 2$game/desc-trigger-and-result $game/desc-move 1$game/desc-move $game/desc-strategy
+#
+# Semi-freeform format with gameplan up front, and strategy at the end, but variable number and order of statements in the middle
+#
+$game/desc-gameplan . @uptoset5($game/desc-first-player,$game/desc-trigger-and-result,$game/desc-trigger-and-result,$game/desc-move,$game/desc-move) $game/desc-strategy
+#
+# Freeform format. Except for introducing the gameplan first, the other statements are in any order.
+#
+$game/desc-gameplan . @uptoset5($game/desc-first-player,$game/desc-trigger-and-result,$game/desc-trigger-and-result,$game/desc-trigger-and-result,$game/desc-trigger-and-result,$game/desc-move,$game/desc-move,$game/desc-strategy,$game/desc-strategy)

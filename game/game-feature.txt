@@ -32,3 +32,5 @@ with hidden role selection
 with customisable difficulty level
 with multiple paths to victory
 by @set1(famed,celebrated,renowned) designer $name-full-modern
+without any random elements
+with over @random(1,10) +00 unique $game/terminology-card_S

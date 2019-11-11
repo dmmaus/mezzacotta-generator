@@ -4,4 +4,4 @@ can ignore the effect of one $noun $game/terminology-card
 may 5$verb-transitive>$game/verb-action other player's 3$noun $game/terminology-card_S
 may 5control>$verb-transitive 5another_player's>an_additional $noun $game/terminology-square on the board
 will score additional points based on one other player's 8$noun $game/terminology-card_S
-may enter the 5$game/adj>$noun $game/terminology-square_S of the board
+may 8enter>$verb-transitive the 5$game/adj>$noun $game/terminology-square_S of the board
