@@ -211,6 +211,7 @@ type|types|typed|typing
 undress|undresses|undressed|undressing
 vanish|vanishes|vanished|vanishing
 vibrate|vibrates|vibrated|vibrating
+volunteer
 vomit
 wade|wades|waded|wading
 wait

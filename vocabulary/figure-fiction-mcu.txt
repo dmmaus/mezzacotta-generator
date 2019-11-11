@@ -1,0 +1,44 @@
+# Major heroes and villains from the Marvel Cinematic Universe
+@format ~
+Mantis
+Falcon
+Quicksilver
+Drax
+Rocket
+Hawkeye
+War Machine
+Black Widow
+Star-Lord
+Ant-Man
+Bucky Barnes
+The Wasp
+Nebula
+Gamora
+Spider-man
+Iron Man
+Groot
+Black Panther
+Captain America
+Hulk
+Scarlet Witch
+Vision
+Doctor Strange
+Thor
+Captain Marvel
+Luke Cage
+Jessica Jones
+Nick Fury
+Corvus Glaive
+Whiplash
+Yellowjacket
+Proxima Midnight
+Dormammu
+Ebony Maw
+Helmut Zemo
+Ultron
+Red Skull
+Ronan the Accuser
+Hela
+Winter Soldier
+Loki
+Thanos

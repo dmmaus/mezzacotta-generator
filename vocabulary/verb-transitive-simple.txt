@@ -95,6 +95,7 @@ fight|fights|fought|fighting
 fill
 find|finds|found|finding
 finish|finishes|finished|finishing
+flatten
 fold
 follow
 forbid|forbids|forbade|forbidding
@@ -103,12 +104,14 @@ forget|forgets|forgot|forgetting
 forgive|forgives|forgave|forgiving
 form
 frighten
+fry|fries|fried|frying
 gain
 get|gets|got|getting
 give|gives|gave|giving
 glimpse|glimpses|glimpsed|glimpsing
 grow|grows|grew|growing
 handle|handles|handled|handling
+hang
 have|has|had|having
 hate|hates|hated|hating
 hear|hears|heard|hearing
@@ -118,6 +121,7 @@ hit|hits|hit|hitting
 hold|holds|held|hiding
 hug|hugs|hugged|hugging
 hunt
+hurry|hurries|hurried|hurrying
 hurt|hurts|hurt|hurting
 imagine|imagines|imagined|imagining
 improve|improves|improved|improving
@@ -158,6 +162,7 @@ mind
 miss|misses|missed|missing
 mix|mixes|mixed|mixing
 mock
+modify|modifies|modified|modifying
 move|moves|moved|moving
 need
 neglect
@@ -169,6 +174,8 @@ offend
 offer
 open
 order
+organise|organises|organised|organising
+overtake|overtakes|overtook|overtaking
 own
 pass|passes|passed|passing
 paint
@@ -178,8 +185,10 @@ pick
 pickle|pickles|pickled|pickling
 place|places|placed|placing
 pollute|pollutes|polluted|polluting
+possess
 prefer|prefers|preferred|preferring
 prepare|prepares|prepared|preparing
+prefer|prefers|preferred|preferring
 present
 produce|produces|produced|producing
 protect
@@ -210,10 +219,12 @@ reveal
 revoke|revokes|revoked|revoking
 ride|rides|rode|riding
 ring|rings|rang|ringing
+roast
 rob|robs|robbed|robbing
 rub|rubs|rubbed|rubbing
 satisfy|satisfies|satisfied|satisfying
 save|saves|saved|saving
+scrub|scrubs|scrubbed|scrubbing
 sculpt
 see|sees|saw|seeing
 sell|sells|sold|selling
@@ -232,8 +243,10 @@ slap|slaps|slapped|slapping
 smell|smells|smelt|smelling
 smoke|smokes|smoked|smoking
 spot|spots|spotted|spotting
+stack
 start
 stop|stops|stopped|stopping
+stretch|stretches|stretched|stretching
 study|studies|studied|studying
 suggest
 summon
@@ -243,6 +256,7 @@ suppress|suppresses|suppressed|suppressing
 surprise|surprises|surprised|surprising
 survive|survives|survived|surviving
 take|takes|took|taking
+taste|tastes|tasted|tasting
 teach|teaches|taught|teaching
 tear|tears|tore|tearing
 tell|tells|told|telling
