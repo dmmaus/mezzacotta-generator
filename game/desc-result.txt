@@ -17,3 +17,4 @@ there is a 5special>bonus 4$game/adj $game/terminology-round , in which $noun $g
 players may ignore any 5$game/terminology-card>$game/terminology-square with a $noun symbol
 players on any of the $noun-geography-landform $game/terminology-square_S of the board 8$game/verb-action>$verb-transitive a 2$game/adj 8$game/terminology-card>$noun
 $game/desc-move-who is eliminated from the game
+a subgame of $game/title is played

@@ -51,6 +51,7 @@ load
 loop
 lord
 mancer
+mancy
 mania
 maw
 maze

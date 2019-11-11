@@ -15,7 +15,10 @@ it's the most fun since last year's wave of $game/game-mechanic-tag 2$adj-genre 
 teachers, this is a $game/adj educational game for $noun lessons
 contains @random(2,5) promo $game/terminology-card_S for $game/title
 it all proves that $noun_S plus *THINGS equals $noun-abstract
-the game that's banned in $place for being too $game/adj !
+it's the game that's banned in $place for being too $game/adj !
 note: $game/adj parts included, not suitable for children under @random(3,18)
-support the Kickstarter now to receive this bonus @set1($noun-animal,$noun-vehicle,$noun-artifact) -shaped storage @set1(box,tin)
+support the Kickstarter now to receive this bonus @set1($noun-animal,$noun-vehicle,$noun-artifact) -shaped storage @set1(box,tin,$noun-container)
 note: in $place-country , this game is sold as $game/title
+also available as a $noun -themed version
+the loser is a $insult/subject !
+featuring an appearance by none other than $name-forename-modern the ^ $noun-animal

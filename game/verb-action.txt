@@ -16,3 +16,4 @@ discard|discards|discarded|discarded|discarding
 meld|melds|melded|melded|melding
 control|controls|controlled|controlled|controlling
 roll|rolls|rolled|rolled|rolling
+play|plays|played|played|playing

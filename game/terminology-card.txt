@@ -2,10 +2,12 @@
 @format ~|S
 bead
 card
+card
 chip
 chit
 cube
 die|dice
+disc
 figure
 meeple
 mini

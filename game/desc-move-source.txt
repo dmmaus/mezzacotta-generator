@@ -1,6 +1,7 @@
 @format ~
 selects a card from their hand
 selects a card from another player's discard pile
+picks a card from another player's hand
 5randomly>$adverb picks a tile from the bag
 chooses any $game/terminology-card from another player's $game/terminology-layout
 draws a card from the $noun deck
@@ -10,3 +11,12 @@ takes @random(2,5) 2$noun 2$game/adj $game/terminology-card_S from the supply, s
 opens a new booster pack and selects a card from it
 5finds>identifies the $game/terminology-card with the 5most>fewest $game/terminology-feature_S on it
 $game/verb-action_S a $game/terminology-card with $game/terminology-feature matching the one on the board
+reveals the $game/terminology-card_S in the $noun tower, chooses one
+puts any number of 4$noun $game/terminology-card_S into the $game/adj $noun-container
+picks up the entire game box
+picks up the board
+chooses a $game/terminology-square on any player's personal $noun board
+opens the next sealed 5packet>$noun-container of *THING cards
+takes the @set1(whole,entire,remaining) supply of 4$noun $game/terminology-card_S
+finds any $game/terminology-card with a $noun symbol
+8$game/verb-action_S>$verb-transitive_S a $game/terminology-card

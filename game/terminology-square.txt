@@ -7,6 +7,7 @@ enclosure
 hex|hexes
 land
 locale
+node
 province
 realm
 region

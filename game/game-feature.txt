@@ -34,3 +34,5 @@ with multiple paths to victory
 by @set1(famed,celebrated,renowned) designer $name-full-modern
 without any random elements
 with over @random(1,10) +00 unique $game/terminology-card_S
+with a $game/game-mechanic-tag twist
+with a rock-paper-scissors mechanic

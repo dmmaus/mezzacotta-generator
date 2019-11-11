@@ -57,6 +57,7 @@ money
 mono
 monster
 moon
+necro
 neo
 north
 omega

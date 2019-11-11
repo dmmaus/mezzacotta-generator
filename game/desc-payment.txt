@@ -4,3 +4,4 @@
 @random(2,5) victory points
 @random(1,5) $adj-colour-basic mana
 @random(1,5) 5life>$noun-abstract points
+@random(2,10) @set1(gold_pieces,gold,silver_pieces,silver,resources,XP)

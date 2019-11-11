@@ -15,3 +15,7 @@ and $verb-transitive_S it
 and gives it to the player who has the 5most>fewest $noun $game/terminology-card_S
 and nobody can $verb-transitive it until the end of the $game/terminology-round
 and 5starts>begins a new $noun pile with it
+and rips it up, never to be used again
+which then $verb-intransitive_S until the next $game/terminology-round
+which may be $game/verb-action_ED by anyone who pays $game/desc-payment
+and 5wears>displays it on their $noun-bodypart-human
