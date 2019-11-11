@@ -208,7 +208,7 @@ researcher
 rock star
 rodeo clown
 sailor
-salesman
+salesman|salesmen
 scientist
 scriptwriter
 sculptor

@@ -1,6 +1,7 @@
 # Transitive verbs that are multiple words
 @format ~|S|ED|ING
 appear|appears|appeared|appearing to
+argue|argues|argued|arguing with
 apply|applies|applied|applying to
 argue|argues|argued|arguing with
 believe|believes|believed|believing in
@@ -9,10 +10,13 @@ chat|chats|chatted|chatting to
 complain|complains|complained|complaining about
 dance|dances|danced|dancing with
 depend|depends|depended|depending on
+differ|differs|differed|differing from
 disapprove|disapproves|disapproved|disapproving of
 feel|feels|felt|feeling like
+get|gets|gotten|getting rid of
 identify|identifies|identified|identifying as
 jump|jumps|jumped|jumping on
+kneel|kneels|knelt|kneeling before
 laugh|laughs|laughed|laughing at
 learn|learns|learnt|learning about
 listen|listens|listened|listening to
@@ -20,6 +24,7 @@ live|lives|lived|living with
 long|longs|longed|longing for
 look|looks|looked|looking at
 look|looks|looked|looking like
+negotiate|negotiates|negotiated|negotiating with
 obsess|obsesses|obsessed|obsessing over
 operate|operates|operated|operating on
 perform|performs|performed|performing with
@@ -28,6 +33,7 @@ play|plays|played|playing with
 point|points|pointed|pointing at
 pray|prays|prayed|praying for
 relate|relates|related|relating to
+rely|relies|relied|relying on
 remain|remains|remained|remaining with
 run|runs|ran|running with
 shout|shouts|shouted|shouting at
@@ -42,6 +48,7 @@ speak|speaks|spoke|speaking to
 spy|spies|spied|spying on
 stand|stands|stood|standing on
 stay|stays|stayed|staying with
+struggle|struggles|struggled|struggling with
 suffer|suffers|suffered|suffering with
 talk|talks|talked|talking to
 think|thinks|thought|thinking about

@@ -1,2 +1,2 @@
 @format ~
-a owl a owl
+$test/aa=A This is a *A
