@@ -14,3 +14,4 @@ allows|allows the game to be played $adverb
 transform|transforms it into a $game/game-category game
 add|adds the $figure character card to the game
 create|creates $game/adj new strategies to $verb-transitive your enemies
+unlock|unlocks $figure as a playable character
