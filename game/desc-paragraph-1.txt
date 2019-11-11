@@ -1,2 +1,2 @@
 @format ~
-$game/desc-intro $game/desc-roles 95$game/desc-goal .
+$game/desc-intro-opening $game/desc-roles 95$game/desc-goal .

@@ -1,19 +1,21 @@
 @format ~
-this is a
-jump in and play this
-take a look at this
-everyone is playing this brand new
-all the $game/adj players are into this
-never before have you seen anything like this
-why don't you try out this
-you'll be glad you picked up this
-your gaming group will love this
-for a $game/adj experience, try this
-don't be a $insult/subject , play this
-$person_S everywhere are playing this
-5direct>straight from $game/place comes this
-put in your pre-order for this
-$game/publisher brings you this
-gather all your $noun_S and play this
-it's a brand new way to play the classic
-the most $game/adj game from $game/publisher ever is this
+this is a $game/desc-intro .
+jump in and play this $game/desc-intro .
+take a look at this $game/desc-intro .
+everyone is playing this brand new $game/desc-intro .
+all the $game/adj players are into this $game/desc-intro .
+never before have you seen anything like this $game/desc-intro .
+why don't you try out this $game/desc-intro ?
+you'll be glad you picked up this $game/desc-intro .
+your gaming group will love this $game/desc-intro .
+for a $game/adj experience, try this $game/desc-intro .
+don't be a $insult/subject , play this $game/desc-intro .
+$person_S everywhere are playing this $game/desc-intro .
+5direct>straight from $game/place comes this $game/desc-intro .
+put in your pre-order for this $game/desc-intro .
+$game/publisher brings you this $game/desc-intro .
+gather all your $noun_S and play this $game/desc-intro .
+it's a brand new way to play the classic $game/desc-intro .
+the most $game/adj game from $game/publisher ever is this $game/desc-intro .
+can you $verb-transitive the $noun in this $game/desc-intro ?
+are you $adj-person enough for this $game/desc-intro ?
