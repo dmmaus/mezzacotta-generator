@@ -227,8 +227,30 @@ class Vocab:
                                 else:
                                     new_words.append(selections[i])
 
-
                             words = new_words + words
+
+                        # @uptoset command
+                        elif word.startswith('@uptoset'):
+                            word = word[len('@uptoset'):]
+
+                            picks_string = ''
+                            while word[0].isdigit():
+                                picks_string += word[0]
+                                word = word[1:]
+                            num_picks = random.randint(2,int(picks_string)+1)
+
+                            selections = word[1:len(word)-1].split(',')
+
+                            if num_picks > len(selections):
+                                num_picks = len(selections)
+
+                            random.shuffle(selections)
+
+                            new_words = selections[:num_picks]
+
+                            # re-insert the selections to the front of the remaining words
+                            words = new_words + words
+
 
                         else:
                             result += word + ' '

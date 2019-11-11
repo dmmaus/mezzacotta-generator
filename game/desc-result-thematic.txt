@@ -1,0 +1,5 @@
+#Results from certain game actions which are described in terms of the thematic content of the game.
+@format ~
+the *PERS1 go beserk and *PLACE is 5overrun>destroyed
+the *PERS1 3$adverb become $game/person_S
+the *PERS1 $verb-intransitive and live happily ever after
