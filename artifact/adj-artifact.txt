@@ -14,3 +14,5 @@ $adj-personality
 $adj-personality
 $artifact/adj-artifact $artifact/adj-artifact
 $person-profession-medieval 's
+$insult/adj
+$number-small_TH

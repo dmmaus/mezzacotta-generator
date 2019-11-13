@@ -4,12 +4,16 @@
 @include noun-material
 the $noun-animal
 the $noun-geography-landform
+the $number-small_TH $noun-artifact
 $place
 $noun-food_S
 $insult/trait
+$noun-bodypart-animal_S
+$verb-intransitive_ING
 abandon
 abundance
 acid
+adventure
 agelessness
 agony
 alacrity
@@ -34,6 +38,7 @@ battle
 beaks
 beauty
 bile
+bitterness
 blandness
 blessings
 blight
@@ -43,6 +48,7 @@ blubber
 booty
 bones
 boredom
+bravery
 breakfast
 brilliance
 bubbles
@@ -50,7 +56,9 @@ calamity
 carnage
 caution
 celebration
+chaos
 charisma
+charity
 cheese
 Christmas
 claws
@@ -75,6 +83,7 @@ dawn
 days
 death
 deception
+defeat
 defense
 delight
 denial
@@ -99,6 +108,7 @@ dusk
 dust
 earth
 electricity
+elegance
 embarrassment
 embers
 enchantment
@@ -111,18 +121,22 @@ epicness
 erosion
 error
 eternity
+evangelism
 evil
 evolution
 exaltation
 excellence
 excitement
 explosions
+exponential growth
 fail
 faith
 famine
 fear
 fecundity
+fermentation
 fertility
+fiction
 fire
 flab
 flame
@@ -181,13 +195,16 @@ infection
 injustice
 insanity
 intelligence
+invention
 irony
 jazz
 joy
 jubilation
 judgment
 justice
+kindness
 knowledge
+knowing
 laughter
 lava
 law
@@ -196,20 +213,23 @@ lies
 life
 light
 lore
+loss
 love
 luck
 lust
+luxury
 madness
 magic
 magnetism
 majesty
-mana
+5$adj-colour-basic mana
+marriage
 mathematics
 mayhem
 memory
 mending
+mercy
 midnight
-milk
 minor inconvenience
 mists
 moonlight
@@ -227,6 +247,9 @@ obedience
 odour
 obscenity
 obscurity
+omens
+opportunity
+origination
 outer space
 ovation
 pain
@@ -234,6 +257,7 @@ pants
 passion
 patience
 peace
+peculiarity
 perfection
 pestilence
 phanastacoria
@@ -259,9 +283,12 @@ reality
 reason
 rebirth
 redemption
+reflection
+refreshment
 religion
 rejoicing
 renewal
+restoration
 retirement
 riches
 rotation
@@ -274,6 +301,7 @@ selfishness
 sensibility
 serenity
 shadow
+shock
 silence
 sin
 skill
@@ -291,6 +319,7 @@ specialness
 speech
 speed
 spew
+spice
 splendour
 spice
 spirit
@@ -300,10 +329,12 @@ stabbiness
 starlight
 stasis
 stench
+stickiness
 storms
 strength
 strife
 stupid
+submission
 suffering
 summer
 sunburn
@@ -312,6 +343,7 @@ sunset
 surprise
 sweat
 symmetry
+sympathy
 tears
 temptation
 tenacity
@@ -333,6 +365,7 @@ thunderbolts
 time
 time-travel
 today
+tolerance
 tomorrow
 torment
 torture
@@ -342,13 +375,17 @@ trash
 travel
 treasure
 trouble
+trumps
 truth
 twilight
 tyranny
+uncertainty
 unrequited love
 value
+variation
 victory
 vigor
+vindication
 vision
 war
 warmth

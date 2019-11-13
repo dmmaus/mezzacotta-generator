@@ -3,3 +3,4 @@
 @include person-profession-modern
 @include person-non-profession
 @include person-non-human
+@include person-relation

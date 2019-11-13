@@ -2,6 +2,8 @@
 $noun-monster-humanoid|$noun-monster-humanoid_S
 $noun-monster|$noun-monster_S
 $noun-animal - $noun-animal hybrid
+$noun-animal - $noun-monster hybrid
+$noun-monster - $noun-animal hybrid
 alien
 android
 artificial intelligence

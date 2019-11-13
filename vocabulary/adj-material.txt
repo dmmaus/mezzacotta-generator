@@ -6,6 +6,7 @@ composite
 copper
 cotton
 crystal
+crystalline
 ebony
 flax
 fungal
