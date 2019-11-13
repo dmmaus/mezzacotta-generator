@@ -10,7 +10,7 @@ war of the *THING                              $game/place=PLACE $game/person_S=
 *PERS2 *THING                                  $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-geography-landform=THING
 the *THINGS of *PLACE                          $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun-geography-structure_S=THINGS $noun=THING
 the $number-small_TH *THING                    $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
-a *THING for *PERS2                            $game/place=PLACE $game/person_S=PERS1 $figure=PERS2 $noun_S=THINGS $noun=THING
+a *THING for *PERS2                            $game/place=PLACE $game/person_S=PERS1 $game/figure=PERS2 $noun_S=THINGS $noun=THING
 *THINGS of *THING                              $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun-geography-structure_S=THINGS $noun-artifact-abstract=THING
 $number-small *THINGS                          $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
 $game/adj *THING                               $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
@@ -28,10 +28,10 @@ this *THING of mine                            $game/place=PLACE $game/person_S=
 that's pretty $game/adj                        $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
 $name-surname-modern &amp; $name-surname-modern $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
 *PLACE : from *PERS2 to $person-ruler          $game/place=PLACE $game/person_S=PERS1 $person-profession-medieval=PERS2 $noun_S=THINGS $noun=THING
-secret *PERS2                                  $game/place=PLACE $game/person_S=PERS1 $figure=PERS2 $noun_S=THINGS $noun=THING
+secret *PERS2                                  $game/place=PLACE $game/person_S=PERS1 $game/figure=PERS2 $noun_S=THINGS $noun=THING
 *THING 5wars>_ : the $verb-intransitive_ING    $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-artifact-abstract=THING
-*PERS2 : *PLACE versus $game/place             $game/place=PLACE $game/person_S=PERS1 $figure=PERS2 $noun_S=THINGS $noun=THING
-*THING of *PERS2                               $game/place=PLACE $game/person_S=PERS1 $figure=PERS2 $noun_S=THINGS $noun-artifact-abstract=THING
+*PERS2 : *PLACE versus $game/place             $game/place=PLACE $game/person_S=PERS1 $game/figure=PERS2 $noun_S=THINGS $noun=THING
+*THING of *PERS2                               $game/place=PLACE $game/person_S=PERS1 $game/figure=PERS2 $noun_S=THINGS $noun-artifact-abstract=THING
 $verb-transitive $person-relation_S            $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
 $name-full-modern 's *THING : the board game   $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-artifact-abstract=THING
 the quest for *PLACE                           $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING

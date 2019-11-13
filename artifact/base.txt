@@ -2,10 +2,10 @@
 @format ~
 @titlecase
 The 05$dish/wine-intensifier $artifact/adj-artifact 1$noun>$noun-artifact
-The 95$noun-artifact>$noun-artifact_S of 05$figure>$noun-artifact-abstract
-The 1$dish/wine-intensifier $artifact/adj-artifact $noun-artifact of 05$figure>$noun-artifact-abstract
+The 95$noun-artifact>$noun-artifact_S of 05$artifact/figure>$noun-artifact-abstract
+The 1$dish/wine-intensifier $artifact/adj-artifact $noun-artifact of 05$artifact/figure>$noun-artifact-abstract
 The 95$noun-artifact>$noun-artifact_S of 05$dish/wine-intensifier $artifact/adj-artifact $noun-artifact-abstract
-The 95$noun-artifact>$noun-artifact_S of 05$figure>$noun-artifact-abstract and 05$figure>$noun-artifact-abstract
+The 95$noun-artifact>$noun-artifact_S of 05$artifact/figure>$noun-artifact-abstract and 05$artifact/figure>$noun-artifact-abstract
 The $noun-artifact-abstract $noun-artifact
 The $noun-artifact 95$noun-artifact>$noun-artifact_S
 The 95$noun-artifact>$noun-artifact_S of the 95$noun-artifact>$noun-artifact_S

@@ -1,2 +1,2 @@
 @format ~
-$test/aa=A This is a *A
+$game/desc-faction

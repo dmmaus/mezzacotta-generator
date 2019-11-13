@@ -1,0 +1,59 @@
+# Star Wars characters, curated to be the most well known ones
+@format ~
+Admiral Ackbar
+Admiral Piett
+BB-8
+Bail Organa
+Beru Lars
+Bib Fortuna
+Biggs Darklighter
+Boba Fett
+C-3PO
+Captain Phasma
+Chewbacca
+Count Dooku
+Darth Maul
+Darth Vader
+Dexter Jettster
+Emperor Palpatine
+Finn
+General Hux
+Grand Moff Tarkin
+Greedo
+Han Solo
+Jabba the Hutt
+Jango Fett
+Jek Porkins
+Ki-Adi-Mundi
+Kylo Ren
+Lando Calrissian
+Lobot
+Luke Skywalker
+Mace Windu
+Maz Kanata
+Mon Mothma
+Nien Nunb
+Nute Gunray
+Obi-Wan Kenobi
+Oola
+Owen Lars
+Padm&eacute; Amidala
+Plo Koon
+Poe Dameron
+Princess Leia
+Qui-Gon Jinn
+R2-D2
+Rey
+Rose Tico
+Salacious Crumb
+Senator Valorum
+Shmi Skywalker
+Sio Bibble
+Supreme Leader Snoke
+The Rancor
+The Sarlacc
+Vice Admiral Holdo
+Watto
+Wedge Antilles
+Yoda
+Zam Wesell

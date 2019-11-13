@@ -11,7 +11,7 @@ $art/figure and $art/figure
 $art/figure and the $noun-animal
 $art/figure in $place-fictional
 $art/figure $verb-transitive_ING the $noun-animal_S of $place
-$figure-mythology and the $noun-monster
+$art/figure and the $noun-monster
 $figure-mythology $verb-transitive_ING $figure-mythology
 2$verb-intransitive_ING $person with $noun_S
 2$verb-intransitive_ING $person with a $noun

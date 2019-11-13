@@ -1,0 +1,59 @@
+# Teams or factions that would appear in games, most notably games like Smash Up
+@format ~|S
+$noun-animal -hunter
+$noun-animal - person|people
+@set1(ancient,$adj-person) $place-country_N|$place-country_NS
+alien
+assassin
+barbarian
+beast
+centaur
+cleric
+cowboy
+cyborg
+demon
+dinosaur
+dragon
+dwarf|dwarves
+elf|elves
+fairy|fairies
+geek
+ghost
+gnome
+goblin
+golem
+hacker
+human
+knight
+mad scientist
+mech
+monkey
+musketeer
+nerd
+ninja
+ogre
+orc
+pirate
+plant
+princess|princesses
+robot
+rogue
+scarecrow
+shapeshifter
+shark
+sphinx|sphinxes
+spy|spies
+steampunk
+superhero|superheroes
+time traveller
+trickster
+vampire
+vigilantes
+viking
+warlock
+warrior
+werewolf|werewolves
+wizard
+wrestler
+zombie
+|samurai

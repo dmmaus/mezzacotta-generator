@@ -1,0 +1,68 @@
+# Main characters from Star Trek
+@format ~
+Mr. Spock
+Capt. James T. Kirk
+Dr. McCoy
+Uhura
+Scotty
+Sulu
+Chekov
+Dr. Chapel
+Khan
+Capt. Jean-Luc Picard
+Cmdr. William Riker
+Geordi La Forge
+Deanna Troi
+Data
+Worf
+Dr. Beverly Crusher
+Wesley Crusher
+Miles O'Brien
+Tasha Yar
+Guinan
+Doctor Pulaski
+Q
+Capt. Benjamin Sisko
+Odo
+Jake Sisko
+Doctor Bashir
+Major Kira
+Quark
+Jadzia Dax
+Nog
+Gul Dukat
+Weyoun
+Ezri Dax
+Kai Winn
+Capt. Kathryn Janeway
+Chakotay
+B'Elanna Torres
+Tom Paris
+Neelix
+The Doctor
+Tuvok
+Harry Kim
+Ayala
+Seven of Nine
+Kes
+Naomi Wildman
+Seska
+Capt. Jonathan Archer
+Dr. Phlox
+T'Pol
+Malcolm Reed
+Travis Mayweather
+Hoshi Sato
+Charles 'Trip' Tucker III
+Maxwell Forrest
+Soval
+Michael Burnham
+Saru
+Paul Stamets
+Sylvia Tilly
+Keyla Detmer
+Ash Tyler
+Joann Owosekun
+Gen Rhys
+Dr. Hugh Culber
+Airiam

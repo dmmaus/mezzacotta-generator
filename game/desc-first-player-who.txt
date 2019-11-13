@@ -27,7 +27,7 @@ the player who is most afraid of $noun-animal_S
 whoever was most recently $verb-transitive_ED with a $noun
 the player who has most recently seen a $bird/base
 the player who looks the most like $movie/act
-the player voted the most 5like>similar_to $figure-mythology
+the player voted as looking the most 5like>similar_to $figure-fiction
 anyone who is allergic to $noun-food_S
 the player sitting closest to the $noun-furniture
 anyone who can play the $noun-instrument-musical

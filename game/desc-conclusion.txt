@@ -22,3 +22,4 @@ note: in $place-country , this game is sold as $game/title
 also available as a $noun -themed version
 the loser is a $insult/subject !
 featuring an appearance by none other than $name-forename-modern the ^ $noun-animal
+features artwork from $name-full-modern , including ^ $art/artwork-title

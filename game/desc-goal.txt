@@ -25,3 +25,4 @@ $movie/setting
 , and $movie/verb-plot-transitive a 5$game/person>*PERS2
 , and $movie/verb-group
 , in a @set1(race,contest) to @set1(upgrade,improve,enhance,augment,advance) their character's $insult/target
+, $game/verb-compete_ING to be the player that $verb-transitive_S $game/figure most $adverb

@@ -1,0 +1,5 @@
+# Custom figures for games
+@format ~
+@include figure-biblical
+@include figure-mythology
+@include figure-fiction

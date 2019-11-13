@@ -12,6 +12,6 @@ increase|increases the play time by $number-small $time-period_S
 allows|allows one player to take the role of the $game/person
 allows|allows the game to be played $adverb
 transform|transforms it into a $game/game-category game
-add|adds the $figure character card to the game
+add|adds the $game/figure character card to the game
 create|creates $game/adj new strategies to $verb-transitive your enemies
-unlock|unlocks $figure as a playable character
+unlock|unlocks $game/figure as a playable character
