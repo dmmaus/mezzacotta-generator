@@ -53,6 +53,7 @@ pure
 quivering
 ritualistic
 rotten
+runic
 rusty
 scattered
 searing

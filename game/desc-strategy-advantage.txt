@@ -5,3 +5,12 @@ may 5$verb-transitive>$game/verb-action other player's 3$noun $game/terminology-
 may 5control>$verb-transitive 5another_player's>an_additional $noun $game/terminology-square on the board
 will score additional points based on one other player's 8$noun $game/terminology-card_S
 may 8enter>$verb-transitive the 5$game/adj>$noun $game/terminology-square_S of the board
+may ignore movement restrictions for $game/terminology-card_S that have been $verb-transitive_ED
+can stop playing this $game/adj game!
+will 15immediately>$adverb win
+are awarded $game/desc-payment
+shall take the next turn
+may swap any number of $game/terminology-card_S with $game/desc-move-who
+may $verb-transitive an additional $game/terminology-card during the 5$game/adj>$noun $game/terminology-round
+may gain control of $artifact/base
+may add @random(1,6) to dice rolls during @set1($noun-weapon,$noun-animal,$noun-artifact,$artifact/adj-artifact) -combat

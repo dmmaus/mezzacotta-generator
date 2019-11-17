@@ -4,6 +4,7 @@ $noun-animal herder
 $noun-animal keeper
 $noun-animal trainer
 $noun-animal wrestler
+$noun-animal-mammal skinner
 abbess|abbesses
 abbott
 acolyte
@@ -234,6 +235,7 @@ man-at-arms|men-at-arms
 mariner
 marksman|marksmen
 marshal
+martyr
 mason
 matriarch
 meistersinger
@@ -303,6 +305,7 @@ rake
 ranger
 ratcatcher
 reaper
+rearguard
 reeve
 riverman|rivermen
 rope-maker
@@ -341,6 +344,7 @@ shipchandler
 shipwright
 singer
 skald
+skirmisher
 slave
 smelter
 smith

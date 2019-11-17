@@ -26,3 +26,5 @@ $movie/setting
 , and $movie/verb-group
 , in a @set1(race,contest) to @set1(upgrade,improve,enhance,augment,advance) their character's $insult/target
 , $game/verb-compete_ING to be the player that $verb-transitive_S $game/figure most $adverb
+, employed by the $person-ruler of ^ *PLACE to @set1(build,construct,erect,$verb-transitive) a $game/adj $noun-geography-structure
+, $game/verb-compete_ING in ^ *PLACE 's $village/festival-noun 9$village/festival-verbing $village/festival-festival

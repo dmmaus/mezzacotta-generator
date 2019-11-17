@@ -4,7 +4,7 @@
 @include $noun-plant-tree
 bark
 blossom
-branch
+branch|branches
 bush|bushes
 cactus|cacti
 flower

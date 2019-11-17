@@ -7,4 +7,4 @@ $place games
 $game/figure games
 $adj-colour-basic games
 $noun-artifact-abstract games
-8$game/faction_S>$person-profession-medieval_S of the $noun-geography-landform
+8$game/desc-faction_S>$person-profession-medieval_S of the $noun-geography-landform

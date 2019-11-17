@@ -11,9 +11,11 @@ $insult/trait
 $noun-bodypart-animal_S
 $verb-intransitive_ING
 abandon
+absurdity
 abundance
 acid
 adventure
+affliction
 agelessness
 agony
 alacrity
@@ -28,12 +30,14 @@ anguish
 annoyance
 anxiety
 art
+artifice
 ashes
 astrology
 authority
 autumn
 avarice
 awesomeness
+awkwardness
 battle
 beaks
 beauty
@@ -86,6 +90,7 @@ deception
 defeat
 defense
 delight
+delirium
 denial
 desolation
 despair
@@ -146,6 +151,7 @@ flight
 fluid
 flux
 fog
+folly
 foolishness
 forever
 forgiveness
@@ -185,6 +191,7 @@ honour
 hope
 horror
 hunger
+hysteria
 idiocy
 illusions
 imagination
@@ -198,6 +205,7 @@ intelligence
 invention
 irony
 jazz
+jollity
 joy
 jubilation
 judgment
@@ -229,8 +237,10 @@ mayhem
 memory
 mending
 mercy
+merrymaking
 midnight
 minor inconvenience
+mirth
 mists
 moonlight
 morality
@@ -276,6 +286,8 @@ prayer
 pride
 progress
 putrescence
+quiddity
+quintessence
 radiance
 rage
 rainbows
@@ -333,6 +345,7 @@ stickiness
 storms
 strength
 strife
+stuff
 stupid
 submission
 suffering
@@ -353,8 +366,10 @@ the deep
 the enemy
 the harvest
 the heavens
+the mists
 the night
 the realm
+the reliquary
 the stars
 the sun
 the void
@@ -381,6 +396,7 @@ twilight
 tyranny
 uncertainty
 unrequited love
+untimeliness
 value
 variation
 victory

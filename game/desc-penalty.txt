@@ -1,0 +1,13 @@
+@format ~|S
+are|is eliminated from the game
+pay|pays $game/desc-payment
+pay|pays $game/desc-payment to $game/desc-move-who
+discard|discards a card
+draw|draws @random(2,5) cards
+$verb-transitive|$verb-transitive_S another player
+$verb-transitive|$verb-transitive_S another player's $game/terminology-card_S
+|can no longer $verb-intransitive at the 5$noun>$game/adj $game/terminology-square_S on the board
+are|is declared 5a>the $insult/subject
+are|is $verb-transitive_ED by all the other players
+have|has their $game/terminology-card_S $verb-transitive_ED by all the other players
+continue|continues play as a $game/desc-faction

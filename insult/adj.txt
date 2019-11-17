@@ -111,6 +111,7 @@ bony
 boorish
 bug-eyed
 bulbous
+cack- $noun-bodypart-human +ed
 callipygian
 capric
 castrated

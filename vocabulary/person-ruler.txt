@@ -1,9 +1,13 @@
 @format ~|S
+baron
+baroness|baronesses
 duchess|duchesses
 duke
 emperor
 empress|empresses
 governor
+hegemon
+jarl
 king
 mayor
 monarch
@@ -14,3 +18,4 @@ princess|princesses
 queen
 sultan
 viceroy
+vizier

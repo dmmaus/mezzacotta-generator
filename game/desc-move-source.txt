@@ -20,3 +20,11 @@ opens the next sealed 5packet>$noun-container of *THING cards
 takes the @set1(whole,entire,remaining) supply of 4$noun $game/terminology-card_S
 finds any $game/terminology-card with a $noun symbol
 8$game/verb-action_S>$verb-transitive_S a $game/terminology-card
+throws a $game/terminology-card at least @random(2,5) @set1(feet,inches,centimetres,metres,yards) in the air, chooses a $game/terminology-card that it lands on
+rolls the @set1($game/adj,$noun,_,_,_) dice, moves that many spaces, takes the corresponding $game/terminology-card
+5takes>finds whichever $game/terminology-card 5they>their_character last $verb-transitive_ED
+selects a $game/terminology-card they'd like to $verb-transitive
+turns to page @random(1,120) in the @set1(instruction_manual,rulebook,supplementary_guide,rules_reference,rules_almanac)
+takes the $game/terminology-card depicted on page @random(1,120) of the @set1(instruction_manual,rulebook,supplementary_guide,rules_reference,rules_almanac)
+consults the 5$game/adj>$noun table for an appropriate $game/terminology-card
+selects one of the non- $verb-transitive_ED modular board segments

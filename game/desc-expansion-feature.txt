@@ -5,7 +5,7 @@ bring|brings even more ways to have your $noun-artifact-abstract $verb-transitiv
 transport|transports the game to the land of $game/place
 2$adverb add|adds a $game/game-mechanic-tag mechanic to the 5game>endgame
 5$adverb add|adds elements from $game/game-category games
-will hopefully resolve|resolves the game's lack of 5$noun_S>$noun-artifact-abstract
+will hopefully resolve the game's lack of 5$noun_S>$noun-artifact-abstract
 add|adds @random(2,5) 5more>extra $game/terminology-round_S , during which $game/desc-result
 add|adds @random(5,100) more $game/terminology-card_S for you to $verb-transitive
 increase|increases the play time by $number-small $time-period_S
@@ -15,3 +15,4 @@ transform|transforms it into a $game/game-category game
 add|adds the $game/figure character card to the game
 create|creates $game/adj new strategies to $verb-transitive your enemies
 unlock|unlocks $game/figure as a playable character
+tone|tones down the power level of the $noun $game/terminology-card_S

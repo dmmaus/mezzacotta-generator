@@ -19,3 +19,9 @@ and rips it up, never to be used again
 which then $verb-intransitive_S until the next $game/terminology-round
 which may be $game/verb-action_ED by anyone who pays $game/desc-payment
 and 5wears>displays it on their $noun-bodypart-human
+and it is set aside until somebody $verb-transitive_S it
+and decides which player gets to $verb-transitive it
+and may add it to their own $game/terminology-square for $game/desc-payment
+and 5feeds>sacrifices it to the 8$noun-animal_S>$game/desc-faction_S to get $game/desc-payment
+, but only if they $verb-transitive it first
+and announces what $game/terminology-feature it is

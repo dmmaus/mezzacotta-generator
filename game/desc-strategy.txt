@@ -25,3 +25,13 @@ if your arrangement of $game/terminology-card_S on the board 5depicts>looks_like
 if you collect all @random(3,12) types of $noun_S , you $game/desc-strategy-advantage .
 remember, you can always take off your $noun-clothing , so you $game/desc-strategy-advantage .
 try to get at least @random(3,10) different $game/terminology-feature_S amongst your 6$noun $game/terminology-card_S , 5so_that_you>otherwise_your_opponents $game/desc-strategy-advantage .
+if there are ever @random(3,7) 5$game/adj>$noun $game/terminology-card_S in a row , the player who caused that $game/desc-strategy-advantage .
+#
+# Penalties for suboptimal play or rulebreaking (desc-penalty)
+#
+if a player breaks any rule of the game , they $game/desc-penalty .
+whoever has the fewest @set1(points,$game/terminology-card_S,$noun_S) at the end of each $game/terminology-round $game/desc-penalty_S .
+if a player is deemed to have $game/verb-action_ED their $noun $game/terminology-card_S too $adverb they $game/desc-penalty .
+the player voted the least $game/adj at the end of each $game/terminology-round $game/desc-penalty_S .
+if a player has no valid moves , they $game/desc-penalty .
+if completely surrounded on the board , a player $game/desc-penalty_S .

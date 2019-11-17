@@ -2,6 +2,7 @@
 # The states are essentially temporary - not permanent states.
 # For permanent states, see adj-person-physical.
 @format ~
+anointed
 belching
 blind
 burly

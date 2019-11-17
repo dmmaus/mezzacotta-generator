@@ -3,6 +3,10 @@
 $noun-animal -hunter
 $noun-animal - person|people
 @set1(ancient,$adj-person) $place-country_N|$place-country_NS
+$noun-artifact-abstract +priest
+$noun-artifact-abstract +caster
+$adj-person one
+half- $game/desc-faction -half- $game/desc-faction|$game/desc-faction_S
 alien
 assassin
 barbarian
@@ -50,6 +54,7 @@ trickster
 vampire
 vigilantes
 viking
+villain
 warlock
 warrior
 werewolf|werewolves

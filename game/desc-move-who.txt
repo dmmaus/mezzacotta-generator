@@ -12,3 +12,4 @@ the player who most recently $verb-intransitive_ED
 any player named $name-forename-modern
 everyone
 nobody
+the next player with 5at_least>no_more_than $game/desc-payment

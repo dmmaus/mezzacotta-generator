@@ -17,9 +17,11 @@ elemental
 elven
 faerie
 gnomish
+immortal
 infernal
 man-made
 meteoric
+mortal
 northern
 oceanic
 outland

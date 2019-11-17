@@ -69,6 +69,7 @@ cultist
 door-to-door $noun salesman|salesmen
 drug addict
 dude
+elder
 emo
 eunuch
 fighter
@@ -128,6 +129,7 @@ superhero|superheroes
 superstar
 teen
 teenager
+temptress
 terrorist
 tourist
 underachiever
@@ -137,6 +139,7 @@ vigilante
 villain
 vixen
 waif
+wanderer
 warlord
 whinger
 wimp
