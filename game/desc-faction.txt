@@ -16,8 +16,10 @@ cleric
 cowboy
 cyborg
 demon
+dervish|dervishes
 dinosaur
 dragon
+druid
 dwarf|dwarves
 elf|elves
 fairy|fairies
@@ -37,6 +39,7 @@ nerd
 ninja
 ogre
 orc
+paladin
 pirate
 plant
 princess|princesses
@@ -45,14 +48,16 @@ rogue
 scarecrow
 shapeshifter
 shark
+sorcerer
 sphinx|sphinxes
 spy|spies
 steampunk
 superhero|superheroes
+titan
 time traveller
 trickster
 vampire
-vigilantes
+vigilante
 viking
 villain
 warlock

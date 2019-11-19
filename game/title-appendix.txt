@@ -1,0 +1,47 @@
+@format ~
+@titlecase
+: $artifact/base
+: the $noun-artifact-abstract
+: the $person-relation
+: $noun-artifact_S of $noun-artifact-abstract
+: the $artifact/adj-artifact $noun-geography-landform
+: the @set1(beginning,awakening,confrontation)
+: this time it's $noun-artifact-abstract
+: this time it's $noun_S
+: $game/place 5wars
+: the quest for $noun-artifact-abstract
+: 5day>$time-period of the $noun_S
+: 5day>$time-period of the $movie/person_S
+: the $artifact/adj-artifact ones
+: $noun-artifact-abstract war
+: $noun $noun-geography-landform
+: welcome to the $noun-geography-landform
+: the $verb-intransitive_ING
+: $game/title-compound
+: $time-month @recentyear200
+: legacy: season @random(1,5)
+: the @set1(card,dice,board,_,legacy,minatures) game
+: $number-small_TH edition
+: city of $game/desc-faction_S
+: a $game/adj game
+: $game/person 's edition
+: all $noun_S $game/adj and $game/adj
+: escape from $place !
+: $game/figure 's @set1(destiny,empire,rule,quest,game,puzzle,challenge)
+: a game of $noun-artifact-abstract
+#
+# Groupings of similar ones differing by a single word
+#
+: @set1(origins,rebooted,reborn,uprising,retribution,vengeance,apocalypse,rebellion,ancients,duet,armada,pantheon)
+: @set1(age,time,legends,lords,devastation) of $noun-artifact-abstract
+: @set1(dawn,chronicle,war,$game/desc-faction_S) of the $noun-artifact
+: the $noun-geography-landform @set1(farmers,dwellers,adventures)
+: @set1(rise,revenge,fate,day,fall,war,call,attack) of the $game/desc-faction_S
+: the $game/place @set1(murders,incident)
+: a $noun @set1(_,wars) game
+#
+# non-colon
+#
+(Revised Edition)
+( $number-small_TH edition)
+3D
