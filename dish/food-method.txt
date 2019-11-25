@@ -50,6 +50,7 @@ artificially coloured
 artificially flavoured
 artificially sweetened
 artisanal
+artistically arranged
 ashed
 aspic of
 assorted
@@ -68,7 +69,7 @@ Baja
 baked
 bakehouse
 baklava of
-ballonttine of
+ballotine of
 balsamic
 balsamic glazed
 Baltic
@@ -1018,6 +1019,7 @@ toasted
 today's
 toffeed
 torched
+torn
 tossed
 totally vegan
 tough

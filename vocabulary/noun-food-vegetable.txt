@@ -57,12 +57,14 @@ Jerusalem artichoke
 kidney bean
 |kohlrabi
 leaf vegetable
+|leaves
 leek
 lentil
 |lettuce
 |lotus root
 |matsutake
 |mesclun
+|mixed greens
 |mixed leaves
 |mizuna leaf
 mung bean
@@ -111,6 +113,7 @@ sweet potato|potatoes
 |Swiss chard
 tomatillo|tomatilloes
 tomato|tomatoes
+|torn leaves
 turnip
 vegetable
 veggie
