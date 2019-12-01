@@ -1,5 +1,7 @@
 @format ~
-@include test/extras
-1
-2
-3
+$name-full-modern is a 2$adj-person $person who $verb-transitive_S $noun_S
+$name-full-modern is a 2$adj-person $person who once had *POSS $noun $verb-transitive_ED by a @set1($person,$noun-animal,$game/desc-faction)
+$name-full-modern is a 2$adj-person $person who $verb-intransitive_S and $verb-intransitive_S
+$name-full-modern once $verb-transitive_ED a 2$adj-person @set1($person,$noun-animal,$game/desc-faction) , but didn't $verb-transitive it
+$name-full-modern tried to $verb-transitive a 2$adj-person @set1($person,$noun-animal,$game/desc-faction) , but it $verb-transitive_ED *PRO
+$name-full-modern is a $person who $verb-transitive_ED *POSS 2$adj-person $person-relation

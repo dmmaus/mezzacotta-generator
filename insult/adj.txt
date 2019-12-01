@@ -242,6 +242,7 @@ slobbering
 slovenly
 sluggish
 snobbish
+spavined
 special
 spittle- $insult/apparel +ed
 spleeny

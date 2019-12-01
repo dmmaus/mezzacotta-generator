@@ -8,6 +8,7 @@ blood
 bloom
 bomb
 bone
+book
 bound
 breach
 break

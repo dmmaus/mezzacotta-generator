@@ -30,6 +30,7 @@ end
 epic
 ever
 evo
+face
 fairy
 far
 fel
