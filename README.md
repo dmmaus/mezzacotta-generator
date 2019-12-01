@@ -166,6 +166,12 @@ Examples:
 * `4really>very good` - 40% chance of returning "really good"; 60% chance of returning "very good".
 * `4$adj>really_very` - 40% chance of returning "[random adjective] good"; 60% chance of returning "really very good".
 
+## Testing markers
+
+If a line begins with the caret character `^`, it is always selected, rather than a random selection being made form that file. Output produced by this selection is surrounded by `#####` markers, as a reminder that it has been selected over other random possibilities.
+
+Using the `^` marker on a line that calls itself produces an infinite loop, which the generator will detect and exit after a number of iterations. Try not to do this.
+
 ## PHP
 
 The sample PHP code demonstrates how to call the Python generator and format returned lines into HTML. `dish/index.php` shows an example of HTML formatting output from multiple base generators in a single Python call.
