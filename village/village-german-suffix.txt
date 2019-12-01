@@ -38,6 +38,7 @@ gau
 gitter
 graf
 grund
+hafen
 haff
 hagen
 hall

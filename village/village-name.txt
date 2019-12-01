@@ -12,4 +12,4 @@ $village/village-premodifier $village/village-prefix + $village/village-suffix 1
 1$village/village-premodifier $village/village-prefix + $village/village-suffix on $village/village-river + side
 1$village/village-premodifier $village/village-prefix + s + $village/village-suffix 1$village/village-postmodifier
 2$village/village-premodifier $village/village-prefix $village/village-infix $village/village-suffix 2$village/village-postmodifier
-The $noun-geography-landform_S
+$village/village-special

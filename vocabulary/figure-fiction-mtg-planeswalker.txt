@@ -7,12 +7,14 @@ Arlinn Kord
 Ashiok
 Chandra Nalaar
 Dack Fayden
+Dakkon Blackblade
 Daretti
 Davriel Cane
 Domri Rade
 Dovin Baan
 Estrid
 Elspeth Tirel
+Freyalise
 Garruk Wildspeaker
 Gideon Jura
 Huatli
@@ -25,6 +27,7 @@ Kasmina
 Kaya
 Kiora
 Koth
+Leshrac
 Liliana Vess
 Mu Yanling
 Nahiri
@@ -38,14 +41,17 @@ Rowan Kenrith
 Saheeli Rai
 Samut
 Sarkhan Vol
+Serra
 Sorin Markov
 Tamiyo
 Teferi
-Tezzeret
+Tevesh Szat
 Teyo Verada
+Tezzeret
 The Wanderer
 Tibalt
 Ugin
+Urza
 Venser
 Vivien Reid
 Vraska

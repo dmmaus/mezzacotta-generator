@@ -1,0 +1,64 @@
+# Non-Planeswalkers from Magic: the Gathering
+@format ~
+Agrus Kos
+Arcades Sabboth
+Avacyn
+Borborygmos
+Chromium
+Crosis
+Crovax
+Darigaaz
+Dromar
+Elesh Norn
+Emmara Tandris
+Emrakul
+Fblthp
+Gerrard Capashen
+Glissa Sunseeker
+Griselbrand
+Gwendlyn Di Corci
+Isperia
+Ith
+Jarkeld
+Jasmine Boreal
+Jedit Ojanen
+Jhoira
+Kaervek
+Kozilek
+M&aacute;rton Stromgald
+Marit Lage
+Mat'Selesnya
+Merieke Ri Berit
+Mirri
+Mishra
+Momir Vig
+Multani
+Nevinyrral
+Niv-Mizzet
+Olivia Voldaren
+Oona
+Palladia-Mors
+Rakdos
+Razia
+Rith
+Rubinia Soulsinger
+Saffi Eriksdotter
+Sengir
+Sisay
+Sivitri Scarzam
+Sol'Kanar
+Squee
+Stangg
+Svogthir
+Szadek
+Tawnos
+Teysa Karlov
+Thelon
+Tolsimir Wolfblood
+Treva
+Ulamog
+Vaevictis Asmadi
+Volrath
+Xira Arien
+Yawgmoth
+Zur

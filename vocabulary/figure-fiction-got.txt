@@ -1,59 +1,59 @@
 # List of characters from Game of Thrones
 @format ~
-Eddard Stark
-Robert Baratheon
-Jaime Lannister
+Arya Stark
+Benjen Stark
+Bran Stark
+Brienne of Tarth
+Bronn
 Catelyn Stark
 Cersei Lannister
-Daenerys Targaryen
-Jorah Mormont
-Viserys Targaryen
-Jon Snow
-Sansa Stark
-Arya Stark
-Robb Stark
-Theon Greyjoy
-Bran Stark	Main
-Joffrey Baratheon
-Sandor "The Hound" Clegane
-Tyrion Lannister
-Khal Drogo
-Petyr "Littlefinger" Baelish
-Davos Seaworth
-Samwell Tarly
-Stannis Baratheon
-Melisandre
-Jeor Mormont
-Bronn
-Varys
-Shae
-Margaery Tyrell
-Tywin Lannister
-Talisa Maegyr
-Ygritte
-Gendry
-Tormund Giantsbane
-Brienne of Tarth
-Ramsay Bolton
-Gilly
 Daario Naharis
-Missandei
+Daenerys Targaryen
+Davos Seaworth
+Eddard Stark
 Ellaria Sand
-Tommen Baratheon
-Jaqen H'ghar
-Roose Bolton
-The High Sparrow
-Grey Worm
-Grand Maester Pycelle
-Hodor
-Rickon Stark
-Gregor Clegane
-Myrcella Baratheon
-Renly Baratheon
-Benjen Stark
-Yara Greyjoy
-Shireen Baratheon
-Three-Eyed Raven
-Night King
-The Waif
 Euron Greyjoy
+Gendry
+Gilly
+Grand Maester Pycelle
+Gregor "The Mountain" Clegane
+Grey Worm
+Hodor
+Jaime Lannister
+Jaqen H'ghar
+Jeor Mormont
+Joffrey Baratheon
+Jon Snow
+Jorah Mormont
+Khal Drogo
+Margaery Tyrell
+Melisandre
+Missandei
+Myrcella Baratheon
+Night King
+Petyr "Littlefinger" Baelish
+Ramsay Bolton
+Renly Baratheon
+Rickon Stark
+Robb Stark
+Robert Baratheon
+Roose Bolton
+Samwell Tarly
+Sandor "The Hound" Clegane
+Sansa Stark
+Shae
+Shireen Baratheon
+Stannis Baratheon
+Talisa Maegyr
+The High Sparrow
+The Waif
+Theon Greyjoy
+Three-Eyed Raven
+Tommen Baratheon
+Tormund Giantsbane
+Tyrion Lannister
+Tywin Lannister
+Varys
+Viserys Targaryen
+Yara Greyjoy
+Ygritte

@@ -1,0 +1,4 @@
+# Non-Planeswalkers from Magic: the Gathering
+@format ~
+@include figure-fiction-mtg-nonplaneswalker.txt
+@include figure-fiction-mtg-planeswalker.txt

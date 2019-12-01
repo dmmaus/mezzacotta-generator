@@ -8,6 +8,7 @@ b&ouml;s
 b&uuml;tz
 bam
 berg
+bing
 bissing
 born
 bram
@@ -62,8 +63,10 @@ k&ouml;nig
 kaiser
 karl
 kell
+kieger
 kirch
 klaus
+kling
 kobl
 kreuz
 kummer
