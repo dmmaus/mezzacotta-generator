@@ -392,7 +392,7 @@ class MezzaGenerator:
         return result
 
     # Expand a random line from a file, and neaten it
-    def Generate(self, spec):
+    def Generate(self, spec, debug=False):
         result = ' ' + self.Expand(spec)
         
         # remove duplicate spaces
@@ -459,11 +459,11 @@ def ProcessCaps(input_str):
 
     return s
 
-if __name__ == '__main__':
 
+def generate(args):
     gen = MezzaGenerator()
     # Generate each of the base file names listed on the command line
-    bases = sys.argv[1:-1]
+    bases = args[0:-1]
 
     debug = False
     if bases[0] == '-d':
@@ -471,10 +471,10 @@ if __name__ == '__main__':
         debug = True
 
     try:
-        num = int(sys.argv[-1])
+        num = int(args[-1])
     except ValueError:
         num = 1
-        bases = sys.argv[1:]
+        bases = args[1:]
 
     for n in range(num):
         result = ''
@@ -518,4 +518,8 @@ if __name__ == '__main__':
             result = '~~ '.join(bits)
 
         print result
+
+
+if __name__ == '__main__':
+    generate(sys.argv[1:])
 
