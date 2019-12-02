@@ -308,7 +308,7 @@ class MezzaGenerator:
         non_cap_words = {
             'a', 'an', 'the',                                                       # articles
             'and', 'but', 'for', 'if', 'nor', 'or', 'so', 'yet',                    # conjunctions
-            'as', 'at', 'by', 'from' 'in', 'of', 'off', 'on', 'than', 'that', 'then', 'to', 'with'  # prepositions
+            'as', 'at', 'by', 'from' 'in', 'of', 'off', 'on', 'than', 'that', 'then', 'to', 'with', 'vs'  # prepositions
             }
 
         if '_' in spec:

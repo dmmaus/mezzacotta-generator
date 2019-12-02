@@ -1,0 +1,8 @@
+# Synonyms for 'band'
+@format ~|S
+band
+ensemble
+orchestra
+quartet
+symphony
+troupe
