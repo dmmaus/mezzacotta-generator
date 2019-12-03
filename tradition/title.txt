@@ -1,0 +1,6 @@
+@format ~
+@titlecase
+$tradition/ceremony of the $noun
+$verb-intransitive_ING of the $adjective $noun_S
+$verb-transitive-simple_ING of the $adjective $noun_S
+
