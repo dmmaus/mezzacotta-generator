@@ -26,6 +26,7 @@ A generic, extensible, customisable random text generator. The code is <a href="
 <li><a href="app/">Random ideas for new apps</a></li>
 <li><a href="bird/">Random bird names</a></li>
 <li><a href="cereal/">Random breakfast cereals</a></li>
+<li><a href="band/">Random band names</a></li>
 </ul>
 </body>
 </html>
