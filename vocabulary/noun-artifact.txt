@@ -26,9 +26,11 @@ archive
 ark
 array
 arrow
+astrolabe
 atlas|atlases
 automaton
 bag
+ball
 banner
 beacon
 bell
@@ -41,6 +43,7 @@ bone
 bonfire
 book
 boot
+bottle
 bough
 bow
 bowl
@@ -93,6 +96,7 @@ effigy|effigies
 egg
 egg-sac
 encyclopedia
+equipment
 essence
 eye
 eyepatch|eyepatches
@@ -114,6 +118,7 @@ gallows|gallows
 gear
 gemstone
 geode
+gift
 gizmo
 globe
 god
@@ -131,10 +136,12 @@ heart
 helix|helices
 helm
 helmet
+herald
 hole
 horn
 hourglass|hourglasses
 icosahedron
+icon
 idol
 image
 incantation
@@ -168,6 +175,7 @@ monolith
 monument
 muffin
 needle
+nest
 node
 nugget
 obelisk
@@ -184,10 +192,12 @@ pathogen
 pendulum
 pillar
 pipe
+poultice
+potion
 powerstone
 prince
 prism
-prophecy
+prophecy|prophecies
 puzzle
 pylon
 pyramid
@@ -197,6 +207,7 @@ queen
 realm
 regulator
 relic
+|reins
 remnant
 riddle
 robot
@@ -229,6 +240,7 @@ skeleton
 skull
 sliver
 soul
+source
 spade
 spatula
 spear
@@ -254,6 +266,7 @@ sundial
 swirl
 sword
 tablet
+telescope
 thing
 thorn
 throne
@@ -288,6 +301,7 @@ wedge
 wheel
 whistle
 window
+|wings
 world
 wreck
 zone

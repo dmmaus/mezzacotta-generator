@@ -1,8 +1,18 @@
 # Synonyms for 'band'
 @format ~|S
+$number-small
 band
+big band
+choir
+collective
 ensemble
+group
+musicians
 orchestra
+players
 quartet
+sound system
 symphony
+trio
 troupe
+union

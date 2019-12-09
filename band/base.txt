@@ -7,26 +7,35 @@
 #
 # Two words
 #
-@set1($place,$adjective,$verb-transitive_ING,$verb-intransitive_ING,$adverb,$artifact/adj-artifact,$insult/target,$name-surname-modern) @set1($noun,$noun_S,$person_S,$name-forename-modern,$adj-colour-basic,$figure-all,$place,$person-relation_S,$noun-artifact-abstract,$person-relation,$band/time,$number-small)
+@set1($place,$adjective,$verb-transitive_ING,$verb-intransitive_ING,$adverb,$artifact/adj-artifact,$insult/target,$name-surname-modern,$dish/food-method) @set1($noun,$noun_S,$person_S,$name-forename-modern,$adj-colour-basic,$figure-all,$place,$person-relation_S,$noun-artifact-abstract,$person-relation,$band/time,$number-small,$verb-intransitive_ING,$adverb,$dish/food-presentation)
 #
 # Two words with "of"
 #
-@set1($noun-container,$noun-artifact-abstract,$person,$insult/target,$person-ruler_S,$person-relation_S) of @set1($noun_S,$noun-abstract,$noun-artifact-abstract,$noun-food,$name-forename-modern,$figure-all,$place)
+@set1($noun-container,$noun-artifact-abstract,$person,$insult/target,$person-ruler_S,$person-relation_S) of @set1($noun_S,$noun-abstract,$noun-artifact-abstract,$noun-food,$name-forename-modern,$figure-all,$place,$verb-intransitive_ING)
+#
+# Ones with a "band" at the end
+#
+@set1($band/leader,the,_) @set1($adjective) @set1($noun,$person_S) $band/ensemble
+7the $name-surname-modern @set1($person_S,$person-relation_S) 3$band/ensemble
+$band/leader $band/ensemble
+#
+# Names and initials
+#
+1$name-surname-modern 3$name-surname-modern $name-surname-modern &amp; $name-surname-modern
+8$name-forename-modern $name-forename-modern &amp; $name-forename-modern
+$name-initial + $name-initial + $name-initial + 1$name-initial
 #
 # Others
 #
-@set1($figure-all,$name-forename-modern,$name-full-modern) @set1(and,vs,&amp;,N') the @set1($person_S,$noun_S,$noun-artifact-abstract)
+@set1($figure-all,$name-forename-modern,$name-full-modern) @set1(and,vs,&amp;,N',with,of) the @set1($person_S,$noun_S,$noun-artifact-abstract)
 @set1($verb-intransitive_ING,$number-small) 8for @set1($noun_S,$verb-intransitive_ING)
 $game/title-compound
 $figure-all 's @set1($noun_S,$verb-intransitive_ING)
-$adverb did $figure-all $verb-intransitive
+$adverb @set1(did,does) $figure-all $verb-intransitive
 @set1($adjective,$noun) + $noun
 $verb-transitive_ED by @set1($noun_S,$noun-abstract,$noun-artifact-abstract,$noun-food,$figure-all)
-the @set1($noun,$noun-artifact-abstract,$noun-food,$verb-intransitive_ING) project
+the @set1($noun,$noun-artifact-abstract,$noun-food,$verb-intransitive_ING) @set1(project,$band/ensemble)
 $verb-transitive @set1(my,your,his,her,their,a,no) $noun
 8the @set1($noun-geography-landform,$adj-person) $person_S
-1$name-surname-modern 3$name-surname-modern $name-surname-modern &amp; $name-surname-modern
-8$name-forename-modern $name-forename-modern &amp; $name-forename-modern
-7the $name-surname-modern @set1($person_S,$person-relation_S) 3$band/ensemble
-$name-full-modern and *POSS $band/ensemble
-$name-initial + $name-initial + $name-initial + 1$name-initial
+@set1($adjective,$artifact/adj-artifact) @set1($noun,$person) @set1($noun-abstract,$noun-artifact-abstract,$insult/target)
+$number-small $person-relation_S of $figure-all

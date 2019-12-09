@@ -3,7 +3,7 @@
 @format ~|S
 @include noun-abstract
 @include noun-animal
-@include noun-celestial
+# @include noun-celestial
 # @include noun-food
 @include noun-item
 @include noun-geography

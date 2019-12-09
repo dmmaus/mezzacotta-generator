@@ -164,6 +164,7 @@ fusion
 fuzz
 gas
 generosity
+genesis
 glee
 gloom
 glory
@@ -182,6 +183,7 @@ health
 heartbreak
 heat
 heaven
+hell
 heresy
 hilarity
 history
@@ -203,6 +205,7 @@ injustice
 insanity
 intelligence
 invention
+invisibility
 irony
 jazz
 jollity
@@ -283,6 +286,7 @@ poshness
 power
 pox
 prayer
+pressure
 pride
 progress
 putrescence
@@ -324,6 +328,7 @@ sleep
 slime
 smoke
 snow
+sorrow
 space
 sparkle
 sparks
@@ -360,12 +365,15 @@ sympathy
 tears
 temptation
 tenacity
+the $noun-artifact_S
 the ages
 the ancients
 the deep
 the enemy
+the feast
 the harvest
 the heavens
+the kingdom
 the mists
 the night
 the realm

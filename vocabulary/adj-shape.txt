@@ -10,6 +10,7 @@ corrugated
 crooked
 cubic
 curved
+cylindrical
 deep
 ellipsoidal
 elliptical
