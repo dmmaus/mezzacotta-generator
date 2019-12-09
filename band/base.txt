@@ -7,7 +7,7 @@
 #
 # Two words
 #
-@set1($place,$adjective,$verb-transitive_ING,$verb-intransitive_ING,$adverb,$artifact/adj-artifact,$insult/target,$name-surname-modern,$dish/food-method) @set1($noun,$noun_S,$person_S,$name-forename-modern,$adj-colour-basic,$figure-all,$place,$person-relation_S,$noun-artifact-abstract,$person-relation,$band/time,$number-small,$verb-intransitive_ING,$adverb,$dish/food-presentation)
+@set1($place,$adjective,$adj-person,$verb-transitive_ING,$verb-intransitive_ING,$adverb,$artifact/adj-artifact,$insult/target,$name-surname-modern,$dish/food-method,$number-small_TH) @set1($noun,$noun_S,$person_S,$name-forename-modern,$adj-colour-basic,$figure-all,$place,$person-relation_S,$noun-artifact-abstract,$person-relation,$band/time,$number-small,$verb-intransitive_ING,$adverb,$dish/food-presentation)
 #
 # Two words with "of"
 #
@@ -23,7 +23,7 @@ $band/leader $band/ensemble
 #
 1$name-surname-modern 3$name-surname-modern $name-surname-modern &amp; $name-surname-modern
 8$name-forename-modern $name-forename-modern &amp; $name-forename-modern
-$name-initial + $name-initial + $name-initial + 1$name-initial
+1$verb-intransitive $name-initial + $name-initial + $name-initial + 05$name-initial
 #
 # Others
 #
@@ -39,3 +39,8 @@ $verb-transitive @set1(my,your,his,her,their,a,no) $noun
 8the @set1($noun-geography-landform,$adj-person) $person_S
 @set1($adjective,$artifact/adj-artifact) @set1($noun,$person) @set1($noun-abstract,$noun-artifact-abstract,$insult/target)
 $number-small $person-relation_S of $figure-all
+$noun-artifact-abstract $noun for $name-forename-modern
+8the $number-small $noun_S
+$adj-person $name-forename-modern and the @set1($noun_S,$person_S,$verb-intransitive_ING)
+$name-surname-modern and $person-relation_S
+@set1(my,your,his,her,their) $adjective $noun-abstract

@@ -6,6 +6,7 @@ big band
 choir
 collective
 ensemble
+gang
 group
 musicians
 orchestra
