@@ -1,5 +1,6 @@
 #Characters from prominent entertainment franchises
 @format ~
+@include figure-fiction-harrypotter
 @include figure-fiction-mtg
 @include figure-fiction-mcu
 @include figure-fiction-got

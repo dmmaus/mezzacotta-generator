@@ -205,7 +205,13 @@ class Vocab:
                                 scale = int(word[len('@recentyear'):])
                             except ValueError:
                                 scale = 1
-                            result += str(int(datetime.now().year) + int(scale * math.log(random.random()))) + ' '
+                            year = int(datetime.now().year) + int(scale * math.log(random.random()))
+                            if (year > 0):
+                                # AD
+                                result += str(year) + ' '
+                            else:
+                                # BC
+                                result += str(1 - year) + ' B.C. '
 
                         # @random command
                         elif word.startswith('@random'):

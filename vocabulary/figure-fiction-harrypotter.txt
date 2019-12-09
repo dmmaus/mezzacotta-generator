@@ -1,0 +1,95 @@
+# Characters from Harry Potter
+@format ~
+Alastor "Mad-Eye" Moody
+Albus Dumbledore
+Alecto Carrow
+Alicia Spinnet
+Amycus Carrow
+Angelina Johnson
+Aragog
+Argus Filch
+Barty Crouch
+Beedle the Bard
+Bellatrix Lestrange
+Buckbeak
+Cedric Diggory
+Charity Burbage
+Charlie Weasley
+Cho Chang
+Colin Creevey
+Cornelius Fudge
+Dean Thomas
+Dobby
+Dolores Umbridge
+Draco Malfoy
+Dudley Dursley
+Fenrir Greyback
+Filius Flitwick
+Firenze
+Fleur Delacour
+Fred Weasley
+Gellert Grindelwald
+George Weasley
+Gilderoy Lockhart
+Ginny Weasley
+Godric Gryffindor
+Gregory Goyle
+Hannah Abbott
+Harry Potter
+Hedwig
+Helga Hufflepuff
+Hermione Granger
+Horace Slughorn
+James Potter
+Justin Finch-Fletchley
+Katie Bell
+Kingsley Shacklebolt
+Lavender Brown
+Lee Jordan
+Lily Potter
+Lucius Malfoy
+Luna Lovegood
+Marcus Flint
+Minerva McGonagall
+Moaning Myrtle
+Mrs Norris
+Mundungus Fletcher
+Nagini
+Narcissa Malfoy
+Nearly Headless Nick
+Neville Longbottom
+Newt Scamander
+Nymphadora Tonks
+Oliver Wood
+Padma Patil
+Pansy Parkinson
+Parvati Patil
+Percy Weasley
+Peter Pettigrew
+Petunia Dursley
+Phineas Nigellus Black
+Pomona Sprout
+Poppy Pomfrey
+Quirinus Quirrell
+Remus Lupin
+Rita Skeeter
+Rolanda Hooch
+Ron Weasley
+Rowena Ravenclaw
+Rubeus Hagrid
+Rufus Scrimgeour
+Salazar Slytherin
+Seamus Finnigan
+Severus Snape
+Sirius Black
+Stan Shunpike
+Sybill Trelawney
+The Bloody Baron
+The Fat Friar
+The Grey Lady
+Tom Marvolo Riddle
+Vernon Dursley
+Viktor Krum
+Vincent Crabbe
+Voldemort
+Wilhelmina Grubbly-Plank

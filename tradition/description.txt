@@ -1,0 +1,2 @@
+@format ~
+@set1(Each_year,Every_year,Annually) since @recentyear1000 , the $person-ruler 's $person-profession-medieval_S gather to @set1(render,pay,disburse,confer,present,remunerate,bestow) the @set1(sum,total,amount) of @random5(1,6) $noun-item_S and a $noun-item to the $person-profession-medieval of the town of $village/base .
