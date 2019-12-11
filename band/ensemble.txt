@@ -4,6 +4,7 @@ $number-small
 band
 big band
 choir
+clan
 collective
 ensemble
 gang
