@@ -4,9 +4,8 @@
 # One word (or with 'the')
 #
 1the @set1($verb-intransitive_ING,$noun_S,$noun,$adjective,$place,$band/surnames,$verb-intransitive)
-1the $band/band-prefix + $band/band-suffix
-1the $band/band-prefix + $noun
-1the @set1($adjective,$noun) + $band/band-suffix
+1the $band/band-prefix + @set1($noun,$verb-intransitive_ING,$band/band-suffix)
+1the @set1($adjective,$noun,$verb-transitive-simple) + $band/band-suffix
 #
 # Two words
 #
@@ -40,8 +39,8 @@ $figure-all 's @set1($noun_S,$verb-intransitive_ING)
 $adverb @set1(did,does) $figure-all $verb-intransitive
 @set1($adjective,$noun) + $noun
 $verb-transitive_ED by @set1($noun_S,$noun-abstract,$noun-artifact-abstract,$noun-food,$figure-all)
+@set1($verb-transitive,$verb-transitive_ING) @set1(my,your,his,her,their,a,no) 5$noun>$noun_S
 the @set1($noun,$noun-artifact-abstract,$noun-food,$verb-intransitive_ING) @set1(project,$band/ensemble,boys,girls)
-$verb-transitive @set1(my,your,his,her,their,a,no) $noun
 8the @set1($noun-geography-landform,$adj-person) $person_S
 @set1($adjective,$artifact/adj-artifact) @set1($noun,$person) @set1($noun-abstract,$noun-artifact-abstract,$insult/target)
 $number-small $person-relation_S of $figure-all

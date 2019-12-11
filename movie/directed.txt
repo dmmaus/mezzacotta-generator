@@ -13,5 +13,6 @@ The sequel to <i>_ $movie/title _</i>
 The epic conclusion to the <i>_ $movie/series-subject _</i> $movie/series
 The first installment in the <i>_ $movie/series-subject _</i> $movie/series
 Continuing the <i>_ $movie/series-subject _</i> $movie/series
-Also known as: <i> $movie/title _</i>
+Also known as: <i>_ $movie/title _</i>
 Distributed in $place-country as <i> $movie/title _</i>
+Featuring a soundtrack by <i>_ $band/base _</i>
