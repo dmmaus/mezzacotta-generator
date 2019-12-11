@@ -25,6 +25,7 @@ $band/leader $band/ensemble
 8$name-forename-modern $name-forename-modern &amp; $name-forename-modern
 1$verb-intransitive $name-initial + $name-initial + $name-initial + 05$name-initial
 @set1(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,0,1,2,3,4,5,6,7,8,9) + @set1(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,0,1,2,3,4,5,6,7,8,9) 3$noun
+@set1(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z) + @set1(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z) 7+ 3/ 7+ @set1(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z) + @set1(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z)
 #
 # Others
 #
@@ -48,3 +49,8 @@ $name-surname-modern and $person-relation_S
 $noun $noun @set1(project,$band/ensemble,boys,girls,men,women)
 @set1(boys,girls,men,women) $preposition $noun_S
 1the $number-small $adjective @set1(boys,girls,men,women)
+$noun - @random1(1,50)*10
+$band/band-prefix + $band/band-suffix
+$band/band-prefix + $noun
+@set1($adjective,$noun) + $band/band-suffix
+^@set1($band/band-adjective-misspelt,$adjective) @set1($band/band-noun-misspelt,$noun)
