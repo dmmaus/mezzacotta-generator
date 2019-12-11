@@ -53,4 +53,4 @@ $noun - @random1(1,50)*10
 $band/band-prefix + $band/band-suffix
 $band/band-prefix + $noun
 @set1($adjective,$noun) + $band/band-suffix
-^@set1($band/band-adjective-misspelt,$adjective) @set1($band/band-noun-misspelt,$noun)
+@set1($band/band-adjective-misspelt,$adjective) @set1($band/band-noun-misspelt,$noun)
