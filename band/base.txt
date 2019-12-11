@@ -4,10 +4,14 @@
 # One word (or with 'the')
 #
 1the @set1($verb-intransitive_ING,$noun_S,$noun,$adjective,$place,$band/surnames,$verb-intransitive)
+1the $band/band-prefix + $band/band-suffix
+1the $band/band-prefix + $noun
+1the @set1($adjective,$noun) + $band/band-suffix
 #
 # Two words
 #
 @set1($place,$adjective,$adj-person,$verb-transitive_ING,$verb-intransitive_ING,$adverb,$artifact/adj-artifact,$insult/target,$name-surname-modern,$dish/food-method,$number-small_TH) @set1($noun,$noun_S,$person_S,$name-forename-modern,$adj-colour-basic,$figure-all,$place,$person-relation_S,$noun-artifact-abstract,$person-relation,$band/time,$number-small,$verb-intransitive_ING,$adverb,$dish/food-presentation)
+@set1($band/band-adjective-misspelt,$adjective) @set1($band/band-noun-misspelt,$noun,$band/band-noun-misspelt_S,$noun_S)
 #
 # Two words with "of"
 #
@@ -50,7 +54,3 @@ $noun $noun @set1(project,$band/ensemble,boys,girls,men,women)
 @set1(boys,girls,men,women) $preposition $noun_S
 1the $number-small $adjective @set1(boys,girls,men,women)
 $noun - @random1(1,50)*10
-$band/band-prefix + $band/band-suffix
-$band/band-prefix + $noun
-@set1($adjective,$noun) + $band/band-suffix
-@set1($band/band-adjective-misspelt,$adjective) @set1($band/band-noun-misspelt,$noun)
