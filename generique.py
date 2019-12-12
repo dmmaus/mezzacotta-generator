@@ -524,8 +524,8 @@ def generate(args):
             result = '~~ '.join(bits)
 
         print result
-
-
+        return result
+    
 if __name__ == '__main__':
     generate(sys.argv[1:])
 

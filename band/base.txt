@@ -46,10 +46,10 @@ $noun-artifact-abstract $noun for $name-forename-modern
 $adj-person $name-forename-modern and the @set1($noun_S,$person_S,$verb-intransitive_ING)
 $name-surname-modern and $person-relation_S
 @set1(my,your,his,her,their) $adjective $noun-abstract
-$noun $noun @set1(project,$band/ensemble,boys,girls,men,women)
-@set1(boys,girls,men,women) $preposition $noun_S
-1the $number-small $adjective @set1(boys,girls,men,women)
-$noun - @random1(1,50)*10
+$noun $noun @set1(project,$band/ensemble,$person_S)
+@set1($person_S) $preposition $noun_S
+1the $number-small 8$adjective @set1($person_S,$person_S,$band/surnames)
+@set1($noun,$verb-intransitive) - @random1(100,500)
 $band/band-prefix + @set1($noun,$verb-intransitive_ING,$band/band-suffix)
 @set1($adjective,$noun,$verb-transitive-simple) + $band/band-suffix
 @set1($band/band-adjective-misspelt,$adjective) @set1($band/band-noun-misspelt,$noun)
