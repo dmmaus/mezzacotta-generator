@@ -1,4 +1,5 @@
 # .gitignore for mezzacotta generators
+flickr-secret.txt
 
 # graphics
 *.bmp
