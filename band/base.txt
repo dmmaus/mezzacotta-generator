@@ -56,5 +56,3 @@ $noun $noun @set1(project,$band/ensemble,$person_S)
 $band/band-prefix + @set1($noun,$verb-intransitive_ING,$band/band-suffix)
 @set1($adjective,$noun,$verb-transitive-simple) + $band/band-suffix
 @set1($band/band-adjective-misspelt,$adjective) @set1($band/band-noun-misspelt,$noun)
-
-
