@@ -4,10 +4,13 @@
 # One word (or with 'the')
 #
 1the @set1($verb-intransitive_ING,$noun_S,$noun,$adjective,$place,$band/surnames,$verb-intransitive)
+1the $band/band-prefix + @set1($noun,$verb-intransitive_ING,$band/band-suffix)
+1the @set1($adjective,$noun,$verb-transitive-simple) + $band/band-suffix
 #
 # Two words
 #
 @set1($place,$adjective,$adj-person,$verb-transitive_ING,$verb-intransitive_ING,$adverb,$artifact/adj-artifact,$insult/target,$name-surname-modern,$dish/food-method,$number-small_TH) @set1($noun,$noun_S,$person_S,$name-forename-modern,$adj-colour-basic,$figure-all,$place,$person-relation_S,$noun-artifact-abstract,$person-relation,$band/time,$number-small,$verb-intransitive_ING,$adverb,$dish/food-presentation)
+@set1($band/band-adjective-misspelt,$adjective) @set1($band/band-noun-misspelt,$noun,$band/band-noun-misspelt_S,$noun_S)
 #
 # Two words with "of"
 #
@@ -53,3 +56,5 @@ $noun $noun @set1(project,$band/ensemble,$person_S)
 $band/band-prefix + @set1($noun,$verb-intransitive_ING,$band/band-suffix)
 @set1($adjective,$noun,$verb-transitive-simple) + $band/band-suffix
 @set1($band/band-adjective-misspelt,$adjective) @set1($band/band-noun-misspelt,$noun)
+
+

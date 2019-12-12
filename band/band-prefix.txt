@@ -17,6 +17,7 @@ contra
 cross
 crystallo
 demi
+derma
 dextro
 dodeca
 dyna
@@ -40,6 +41,7 @@ jigga
 klepto
 levo
 mac
+macro
 mecha
 mega
 megneto
@@ -50,10 +52,10 @@ omphalo
 ornitho
 over
 paleo
+para
 partheno
 phreno
 pneumato
-poly
 poly
 porno
 pseudo
