@@ -1,0 +1,69 @@
+@format ~
+&Eacute;omer
+&Eacute;owyn
+Aragorn
+Arwen
+Balin
+Bandobras Took
+Bard the Bowman
+Barliman Butterbur
+Belladonna Took
+Beorn
+Biblo Baggins
+Bifur
+Bofur
+Bombur
+Boromir
+Celeborn
+D&eacute;agol
+Denethor
+Dori
+Drogo Baggins
+Dwalin
+E&auml;rendil
+Elendil
+Elrond
+Faramir
+Farmer Maggot
+Fili
+Fredegar Bolger
+Frodo Baggins
+Galadriel
+Gandalf
+Gil-galad
+Gimli
+Gloin
+Glorfindel
+Gollum
+Gr&iacute;ma Wormtongue
+Hamfast Gamgee
+Hugo Bracegirdle
+Isildur
+Kili
+Legolas
+Lobelia Sackville-Baggins
+Lotho Sackville-Baggins
+Meriadoc Brandybuck
+Morgoth
+Nori
+Odo Proudfoot
+Oin
+Ori
+Peregrin Took
+Radagast the Brown
+Rosie Cotton
+Samwise Gamgee
+Saruman
+Sauron
+Shelob
+Sm&eacute;agol
+Smaug
+Th&eacute;oden
+Th&eacute;odred
+The Balrog
+The Witch-king of Angmar
+Thorin Oakenshield
+Thr&aacute;in
+Thranduil
+Tom Bombadil
+Treebeard

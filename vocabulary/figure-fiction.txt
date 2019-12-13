@@ -4,5 +4,6 @@
 @include figure-fiction-mtg
 @include figure-fiction-mcu
 @include figure-fiction-got
+@include figure-fiction-lotr
 @include figure-fiction-starwars
 @include figure-fiction-startrek

@@ -1,6 +1,6 @@
 # Synonyms for 'band'
 @format ~|S
-$number-small
+|$number-small
 band
 big band
 choir
