@@ -196,7 +196,7 @@ class Vocab:
                             try:
                                 result += parts[inflection_idx] + ' '
                             except IndexError:
-                                print "[ERROR: NOT ENOUGH INFLECTIONS. FILE: " + self.base_spec + ": " + word + "]"
+                                print("[ERROR: NOT ENOUGH INFLECTIONS. FILE: " + self.base_spec + ": " + word + "]")
                                 sys.exit()
 
                         # @recentyear command
@@ -324,7 +324,7 @@ class MezzaGenerator:
             base = spec
             inflection = '~'
 
-        if not self.vocabs.has_key(base):
+        if not base in self.vocabs.keys():
             self.vocabs[base] = Vocab(base)
 
         # If we are not instructed to capitalize words, check if this vocab specifies to do so
@@ -386,7 +386,7 @@ class MezzaGenerator:
                 # Capitalise if: the second previous word was not also a plus sign; or previous word is the only word
                 if cap and ((len(resultlist) > 1 and "+" not in resultlist[-2]) or len(resultlist) == 1):
                     resultlist[-1] = CapIt(resultlist[-1])
-                result = string.join(resultlist)
+                result = ''.join(resultlist)
                 result += word + ' '
 
             else:
@@ -406,7 +406,7 @@ class MezzaGenerator:
         
         # Do the general replacements and custom replacements
         if debug:
-            print "PRE-REPLACEMENTS: " + result
+            print("PRE-REPLACEMENTS: " + result)
         for (key, value) in self.replacements.items():
             if key in result:
                 result = result.replace(key, value)
@@ -467,6 +467,7 @@ def ProcessCaps(input_str):
 
 
 def generate(args):
+    results = []
     gen = MezzaGenerator()
     # Generate each of the base file names listed on the command line
     bases = args[0:-1]
@@ -491,12 +492,12 @@ def generate(args):
 
         if '{' in result:
             if debug:
-                print "PRE-POSTPROCESS: " + result
+                print("PRE-POSTPROCESS: " + result)
             result = PostProcess(result)
 
         if '^' in result:
             if debug:
-                print "PRE-PROCESSCAPS: " + result
+                print("PRE-PROCESSCAPS: " + result)
             result = ProcessCaps(result)
 
         # Make sentence case by default
@@ -523,8 +524,10 @@ def generate(args):
                 bits.append(Capitalise(bit))
             result = '~~ '.join(bits)
 
-        print result
-        return result
+        print(result)
+        results.append(result)
+
+    return result
     
 if __name__ == '__main__':
     generate(sys.argv[1:])
