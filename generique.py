@@ -6,6 +6,7 @@ import math
 import re
 import string
 import collections
+import os
 
 def CapIt(s):
     if not s.startswith('^'):
@@ -57,9 +58,9 @@ class Vocab:
 
         # Get path and filename of vocabulary file. Path is relative to calling subdirectory.
         if '/' in base_spec:
-            filename = '../' + base_spec + '.txt'
+            filename = './' + base_spec + '.txt'
         else:
-            filename = '../vocabulary/' + base_spec + '.txt'
+            filename = './vocabulary/' + base_spec + '.txt'
 
         try:
             f = open(filename, 'r')
