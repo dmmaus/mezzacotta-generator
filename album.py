@@ -20,7 +20,7 @@ fg = FlickrGettr()
 for keyword in keywords:
     # Prioritise the ones in the actual title
     if album_title.lower().find(keyword.lower()) >= 0:
-        print 'trying', keyword
+        print('trying', keyword)
         if fg.GetKeyword(keyword) != None:
             break;
 
@@ -28,7 +28,7 @@ for keyword in keywords:
 bg_colour = [0, random.randrange(32), random.randrange(64)]
 random.shuffle(bg_colour)
 cover = Image.new("RGB", (800,800), tuple(bg_colour))
-art = Image.open('..\\001.jpg')
+art = Image.open('001.jpg')
 
 width, height = art.size
 
@@ -37,7 +37,7 @@ width, height = art.size
 clip_width = min(800, width)
 clip_height = min(600, height)
 cropped = art.crop((0,0,clip_width,clip_height))
-cover.paste(cropped, ((800 - clip_width) / 2,100 + (600 - clip_height) / 2))
+cover.paste(cropped, ((800 - clip_width) // 2,100 + (600 - clip_height) // 2))
 
 
 d = ImageDraw.Draw(cover)
@@ -85,4 +85,4 @@ random.shuffle(album_color)
 text_width, _ = d.textsize(album_title, font=album_font)
 d.text((780 - text_width, 720), album_title, font=album_font, fill=tuple(album_color))
 
-cover.save('..\\res.jpg')
+cover.save('res.jpg')
