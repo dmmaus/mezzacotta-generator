@@ -387,7 +387,7 @@ class MezzaGenerator:
                 # Capitalise if: the second previous word was not also a plus sign; or previous word is the only word
                 if cap and ((len(resultlist) > 1 and "+" not in resultlist[-2]) or len(resultlist) == 1):
                     resultlist[-1] = CapIt(resultlist[-1])
-                result = ''.join(resultlist)
+                result = ' '.join(resultlist)
                 result += word + ' '
 
             else:
