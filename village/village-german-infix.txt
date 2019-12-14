@@ -1,5 +1,5 @@
 @format ~
-&szlig;
+ß
 ammer
 ang
 bich
@@ -20,7 +20,7 @@ leit
 len
 lock
 ken
-m&uuml;hl
+mühl
 ober
 rat
 rich

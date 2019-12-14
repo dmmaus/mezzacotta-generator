@@ -1,7 +1,7 @@
 @format ~
 $law/noun_S are 2outlawed>banned in $law/place , except where allowed for $verb-intransitive_ING , or $law/context
 a $person from $law/place must not $verb-transitive $law/noun_S with 5his>her $noun-bodypart 9$law/exception
-5labelling>calling someone a &ldquo; $insult/subject &rdquo; in $law/place may result in 5a_fine>legal_procedings $law/exception
+5labelling>calling someone a “ $insult/subject ” in $law/place may result in 5a_fine>legal_procedings $law/exception
 if your 9$noun-bodypart-human>$law/noun is 5insufficiently>too $adjective in $law/place 1$law/context , $law/penalty
 in $law/place , $person_S can be arrested for $verb-transitive_ING 4$adj-person $law/victim_S 2$law/context
 in $law/place , $person_S who have 1not>_ had their $noun-bodypart-human_S $verb-transitive_ED by a 3$adj-person 1$noun-animal>$person may qualify for compensation

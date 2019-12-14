@@ -1,7 +1,7 @@
 # real cities; fictional ones go in place-fictional.txt
 @format ~|N|NS
 Adelaide|Adelaidean|Adelaideans
-Albuquerque|Burque&ntilde;o|Burque&ntilde;os
+Albuquerque|Burqueño|Burqueños
 Alexandria|Alexandrine|Alexandrines
 Amsterdam|Amsterdammer|Amsterdammers
 Ankara
@@ -17,7 +17,7 @@ Berlin|Berliner|Berliners
 Boston|Bostonian|Bostonians
 Brussels|Bruxellois|Bruxelloises
 Budapest|Budapester|Budapesters
-Buenos_Aires|Porte&ntilde;o|Porte&ntilde;os
+Buenos_Aires|Porteño|Porteños
 Cairo|Cairene|Cairenes
 Cape_Town|Capetonian|Capetonians
 Cardiff|Cardiffian|Cardiffians
@@ -47,12 +47,12 @@ Kuala Lumpur|Lumpurite|Lumpurites
 Kyoto|Kyotoite|Kyotoites
 Lagos|Lagosian|Lagosians
 Las Vegas|Vegan|Vegans
-Lima|Lime&ntilde;o|Lime&ntilde;os
+Lima|Limeño|Limeños
 Lisbon|Lisboeta|Lisboetas
 London|Londoner|Londoners
 Los_Angeles|Angeleno|Angelenos
-Madrid|Madrile&ntilde;o|Madrile&ntilde;os
-Manila|Manile&ntilde;o|Manile&ntilde;os
+Madrid|Madrileño|Madrileños
+Manila|Manileño|Manileños
 Melbourne|Melburnian|Melburnians
 Mexico_City|Capitalino|Capitalinos
 Miami|Miamian|Miamians

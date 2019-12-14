@@ -5,7 +5,7 @@
 |balsamic vinegar
 |barbecue sauce
 |bearnaise sauce
-|b&eacute;chamel sauce
+|béchamel sauce
 |Bordelaise sauce
 |catsup
 |cheese sauce
@@ -44,7 +44,7 @@ sauce
 |tabasco
 |tahini sauce
 |tomato sauce
-|velout&eacute; sauce
+|velouté sauce
 |verjuice
 |verjus
 |vinegar

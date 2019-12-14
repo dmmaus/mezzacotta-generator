@@ -46,7 +46,7 @@ Convict
 1$dish/wine-name-prefix  Cook
 Cru
 Devil
-D&eacute;go&ucirc;tant
+Dégoûtant
 Dragon
 Drake
 Drover
@@ -89,7 +89,7 @@ Jester
 1$dish/wine-name-prefix  John
 Johnson
 1$dish/wine-name-prefix  Jones
-Juli&eacute;nas
+Juliénas
 1$dish/wine-name-prefix  Karlov
 Khan
 Kingston
@@ -109,8 +109,8 @@ Montagne
 Montrose
 1$dish/wine-name-prefix  Morgan-Mar
 1$dish/wine-name-prefix  Myrtle
-Napol&eacute;on
-Naus&eacute;abond
+Napoléon
+Nauséabond
 Neuf
 1$dish/wine-name-prefix  Neville
 Ng
@@ -134,13 +134,13 @@ Quaffer
 Ram
 Reeve
 1$dish/wine-name-prefix  Reginald
-Ren&eacute;
+René
 Richard
 Ringmaster
 1$dish/wine-name-prefix  Robertson
 Rubicon
 Sailor
-Sch&ouml;nberg
+Schönberg
 Scout
 1$dish/wine-name-prefix  Seamus
 Shakespeare

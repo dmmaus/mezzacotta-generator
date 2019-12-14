@@ -130,7 +130,7 @@ buttered
 butterflied
 buttery
 Caesar
-caf&eacute; de Paris
+café de Paris
 cafeteria-style
 caffeine-free
 Cajun-style
@@ -263,7 +263,7 @@ deep-pan
 deep sea
 defatted
 defrosted
-d&eacute;gustation menu of
+dégustation menu of
 dehydrated
 delectable
 deli-style
@@ -359,7 +359,7 @@ Fisherman's
 fizzy
 flaked
 flaky
-flamb&eacute;d
+flambéd
 flame grilled
 flamed
 flamin'
@@ -430,7 +430,7 @@ genuine
 German
 giant
 gingered
-glac&eacute;
+glacé
 glazed
 gluten-free
 glutinous
@@ -458,7 +458,7 @@ ground
 gummi
 gypsy
 halal
-ham &amp; cheese
+ham & cheese
 Hainanese
 half-baked
 halved
@@ -483,7 +483,7 @@ hearty
 heathland
 heavenly
 heirloom
-herb &amp; garlic
+herb & garlic
 herb-crusted
 herbal
 herbed
@@ -540,7 +540,7 @@ Italian
 jaffa
 Japanese
 Jamaican
-jardini&egrave;re
+jardinière
 jellied
 jellied ring of
 jewelled
@@ -767,8 +767,8 @@ pumpernickel
 pungent
 pure
 pure 'n' simple
-pur&eacute;e of
-pur&eacute;ed
+purée of
+puréed
 purified
 quadruple
 quasi-
@@ -784,7 +784,7 @@ rancid
 rare
 rare breed
 raw
-raw &amp; pickled
+raw & pickled
 reconstituted
 reconstructed
 red
@@ -823,8 +823,8 @@ salt-roasted
 saltwater
 satay
 saucy
-saut&eacute;d
-saut&eacute; of
+sautéd
+sauté of
 savoury
 scalloped
 Scandinavian
@@ -929,7 +929,7 @@ sprouted
 spun
 squeezed
 squishy
-St. Honor&eacute;
+St. Honoré
 stale
 steamed
 sterilised

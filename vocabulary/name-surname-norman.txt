@@ -38,7 +38,7 @@ Beaumanoir
 Beaumarchais
 Beaumont
 Beauvallet
-Becdeli&egrave;vre
+Becdelièvre
 Bele
 Belet
 Bellecote
@@ -46,7 +46,7 @@ Belmis
 Benoist
 Beringar
 Berners
-Berni&egrave;res
+Bernières
 Bertran
 Bigod
 Bigot
@@ -82,7 +82,7 @@ Bourchier
 Bourdekin
 Bourdet
 Bourneville
-Br&egrave;vedent
+Brèvedent
 Bradwardine
 Brai
 Braund
@@ -143,7 +143,7 @@ Colombieres
 Comyn
 Conteville
 Corbet
-Corbi&egrave;re
+Corbière
 Corbon
 Cormeilles
 Corneilles
@@ -233,7 +233,7 @@ de Beaumont
 de Beauvais
 de Bellehache
 de Bellemare
-de Belli&egrave;vre
+de Bellièvre
 de Belmeis
 De Berchelai
 de Bercheres
@@ -284,7 +284,7 @@ de La Porte
 de La Reue
 de La Roche
 de Lacy
-de Lamp&eacute;ri&egrave;re
+de Lampérière
 de Lombelon
 de Lorraine
 de Malhortye
@@ -431,7 +431,7 @@ Griffin
 Grimoult
 Grouchet
 Groulart
-Gu&eacute;ribout
+Guéribout
 Guernon
 Gueron
 Guideville
@@ -440,10 +440,10 @@ Guildersleeve
 Guinand
 Gurney
 Guyot
-H&eacute;diart
+Hédiart
 Hachet
 Halacre
-Hall&eacute;
+Hallé
 Hamage
 Harcourt
 Haute
@@ -452,7 +452,7 @@ Hendry
 Herbard
 Herbert
 Heriet
-Heuz&eacute;
+Heuzé
 Hewse
 Hodenc
 Holland
@@ -482,7 +482,7 @@ la Pommeraie
 la Riviere
 La Vache
 La Verrier
-Labb&eacute;
+Labbé
 Laci
 Lallement
 Lanquetot
@@ -515,7 +515,7 @@ Le Paulmier
 Le Pelletier
 Le Pesant
 le Poitevin
-Le Pr&eacute;vost
+Le Prévost
 le Roux
 Le Roux
 Le Seigneur
@@ -557,7 +557,7 @@ Mandeville
 Manneilli
 Mansel
 Mantel
-March&eacute;s
+Marchés
 Marchmain
 Marci
 Marescot
@@ -624,7 +624,7 @@ Ormond
 Osmond
 Osmont
 Ouistreham
-P&eacute;ricard
+Péricard
 Painel
 Paixdecouer
 Pancevolt
@@ -673,7 +673,7 @@ Poussin
 Prestcote
 Puchot
 Quesnel
-Qui&egrave;vremont
+Quièvremont
 Quincarnon
 Quincey
 Raimbeaucourt
@@ -688,11 +688,11 @@ Renold
 Restault
 Reviers
 Riebou
-Rivi&egrave;re
+Rivière
 Roard
 Rocque
 Roger
-Rom&eacute;
+Romé
 Romenel
 Ros
 Rosai
@@ -700,7 +700,7 @@ Rou
 Roussel
 Runeville
 Russell
-S&eacute;guier
+Séguier
 Sacquerville
 Saint-Clair
 Saint-Germain

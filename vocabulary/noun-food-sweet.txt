@@ -14,8 +14,8 @@ chocolate crackle
 |confectionary
 cookie
 |cotton candy
-|cr&egrave;me anglaise
-|cr&egrave;me caramel
+|crème anglaise
+|crème caramel
 |custard
 |dark chocolate
 |dulce de leche
@@ -39,7 +39,7 @@ jelly bean
 lamington
 Lifesaver
 lolly|lollies
-M&amp;M
+M&M
 Mars Bar
 marshmallow
 |marzipan
@@ -59,7 +59,7 @@ profiterole
 pudding
 |puff pastry
 |rocky road
-|rum &amp; raisin
+|rum & raisin
 |Sacher torte
 scone
 |sherbet

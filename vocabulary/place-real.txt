@@ -80,7 +80,7 @@ The_Belgian_Congo|Belgian_Congolese|Belgian_Congolese
 The_Black_Forest|Black_Forester|Black_Foresters
 The_Caribbean|Carib|Caribs
 The_French_Riviera|French_Rivieran|French_Rivierans
-The_Gal&aacute;pagos|Gal&aacute;pagon|Gal&aacute;pagons
+The_Galápagos|Galápagon|Galápagons
 The_Great_Barrier_Reef|Great_Barrier_Reefer|Great_Barrier_Reefers
 The_Great_Lakes|Great_Lakean|Great_Lakeans
 The_Himalayas|Himalayan|Himalayans

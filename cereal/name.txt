@@ -3,10 +3,10 @@
 # NOTE: ING1 is always a singular and ING2 is always a plural, for consistency
 $cereal/adj-property $cereal/ingredient *ING1 *PIECES        $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 $cereal/adj-property *ING1 *PIECES                           $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
-$cereal/adj-property *ING1 *PIECES : $cereal/ingredient &amp; *ING2    $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
+$cereal/adj-property *ING1 *PIECES : $cereal/ingredient & *ING2    $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 $cereal/adj-property *ING1 *PIECES with *ING2                $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 $cereal/adj-property *PIECES                                 $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
-$cereal/adj-property *PIECES : *ING1 &amp; *ING2             $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
+$cereal/adj-property *PIECES : *ING1 & *ING2             $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 $cereal/adj-property *ING2                                   $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 $cereal/adj-property *ING2 : $cereal/adj-opinion *ING1       $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 $cereal/adj-property *ING2 : *ING1                           $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
@@ -14,14 +14,14 @@ $cereal/adj-property *ING2 : $cereal/ingredient - ^ *ING1    $cereal/ingredient=
 $cereal/ingredient *ING1 *PIECES                             $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 5$cereal/ingredient>$cereal/adj-property *PIECES of *ING1    $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 $cereal/title 5$cereal/piece>*ING1                           $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
-$cereal/title $cereal/piece : *ING1 &amp; *ING2              $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
-$cereal/title *ING1 : $cereal/ingredient &amp; *ING2         $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
+$cereal/title $cereal/piece : *ING1 & *ING2              $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
+$cereal/title *ING1 : $cereal/ingredient & *ING2         $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 *ING1 *PIECES                                                $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
-*ING1 *PIECES : $cereal/ingredient &amp; *ING2               $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
+*ING1 *PIECES : $cereal/ingredient & *ING2               $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 *ING1 *ING2                                                  $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
-$cereal/name-abstract 4! : *ING1 &amp; *ING2                 $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
-$cereal/name-abstract *PIECES : *ING1 &amp; *ING2            $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
-$cereal/adj-property $cereal/name-abstract *PIECES : *ING1 &amp; *ING2    $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
-$cereal/name-abstract 5extra>plus : *ING1 &amp; *ING2        $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
+$cereal/name-abstract 4! : *ING1 & *ING2                 $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
+$cereal/name-abstract *PIECES : *ING1 & *ING2            $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
+$cereal/adj-property $cereal/name-abstract *PIECES : *ING1 & *ING2    $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
+$cereal/name-abstract 5extra>plus : *ING1 & *ING2        $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 $cereal/name-abstract *ING1 *PIECES                          $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES
 *ING1 $cereal/name-abstract *PIECES                          $cereal/ingredient=ING1 $cereal/ingredient_S=ING2 $cereal/piece_S=PIECES

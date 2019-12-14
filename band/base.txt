@@ -24,15 +24,15 @@ $band/leader $band/ensemble
 #
 # Names and initials
 #
-1$name-surname-modern 3$name-surname-modern $name-surname-modern &amp; $name-surname-modern
-8$name-forename-modern $name-forename-modern &amp; $name-forename-modern
+1$name-surname-modern 3$name-surname-modern $name-surname-modern & $name-surname-modern
+8$name-forename-modern $name-forename-modern & $name-forename-modern
 1$verb-intransitive $name-initial + $name-initial + $name-initial + 05$name-initial
 @set1(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,0,1,2,3,4,5,6,7,8,9) + @set1(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,0,1,2,3,4,5,6,7,8,9) 3$noun
 @set1(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z) + @set1(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z) 7+ 3/ 7+ @set1(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z) + @set1(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z)
 #
 # Others
 #
-@set1($figure-all,$name-forename-modern,$name-full-modern) @set1(and,vs,&amp;,N',with,of) the @set1($person_S,$noun_S,$noun-artifact-abstract)
+@set1($figure-all,$name-forename-modern,$name-full-modern) @set1(and,vs,&,N',with,of) the @set1($person_S,$noun_S,$noun-artifact-abstract)
 @set1($verb-intransitive_ING,$number-small) 8for @set1($noun_S,$verb-intransitive_ING)
 $game/title-compound
 $figure-all 's @set1($noun_S,$verb-intransitive_ING)

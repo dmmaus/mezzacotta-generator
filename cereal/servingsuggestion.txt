@@ -1,6 +1,6 @@
 @format ~
 ### replacements to make "when served as $dish/food-presentation" more grammarful
-@replace| as &agrave; | &agrave; #      when served as &agrave; X -> when served &agrave; X
+@replace| as à | à #                    when served as à X -> when served à X
 @replace| as as | as #                  when served as as X       -> when served as X
 @replace| as au | au #                  when served as au X       -> when served au X
 @replace| as con | con #                when served as con X      -> when served con X
@@ -15,7 +15,7 @@
 ###
 $cereal/adj-opinion when served as $dish/food-presentation .
 $insult/interjection They're $cereal/adj-opinion !
-$name-forename-modern the ^ $noun-animal says, 6&ldquo;They're>&ldquo;They'rrrre $cereal/adj-opinion !&rdquo;
+$name-forename-modern the ^ $noun-animal says, 6“They're>“They'rrrre $cereal/adj-opinion !”
 Add some more 7*ING1>*ING2 for extra flavour!
 Also available in $cereal/ingredient flavour.
 Also available in a low- *ING1 version.

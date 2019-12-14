@@ -1,6 +1,6 @@
 @format ~
-&Eacute;omer
-&Eacute;owyn
+éomer
+éowyn
 Aragorn
 Arwen
 Balin
@@ -15,12 +15,12 @@ Bofur
 Bombur
 Boromir
 Celeborn
-D&eacute;agol
+Déagol
 Denethor
 Dori
 Drogo Baggins
 Dwalin
-E&auml;rendil
+Eärendil
 Elendil
 Elrond
 Faramir
@@ -35,7 +35,7 @@ Gimli
 Gloin
 Glorfindel
 Gollum
-Gr&iacute;ma Wormtongue
+Gríma Wormtongue
 Hamfast Gamgee
 Hugo Bracegirdle
 Isildur
@@ -56,14 +56,14 @@ Samwise Gamgee
 Saruman
 Sauron
 Shelob
-Sm&eacute;agol
+Sméagol
 Smaug
-Th&eacute;oden
-Th&eacute;odred
+Théoden
+Théodred
 The Balrog
 The Witch-king of Angmar
 Thorin Oakenshield
-Thr&aacute;in
+Thráin
 Thranduil
 Tom Bombadil
 Treebeard

@@ -1,8 +1,8 @@
 @format ~
 @replace|SPACE| # to fix removal of space before 'n'
-&amp;
+&
 SPACE'n'
-&agrave; la
+à la
 accented with
 accentuated with
 accompanied by

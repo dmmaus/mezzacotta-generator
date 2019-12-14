@@ -43,7 +43,7 @@ flower
 |grapeseed oil
 |honey
 |honeycomb
-|hundreds &amp; thousands
+|hundreds & thousands
 |ice
 |icing sugar
 |instant coffee

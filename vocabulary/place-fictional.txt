@@ -2,7 +2,7 @@
 @format ~|N|NS
 Alara
 Albion|Albionite|Albionites
-&Aacute;lfheim|&Aacute;lfheimer|&Aacute;lfheimers
+álfheim|álfheimer|álfheimers
 Asgard|Asgardian|Asgardians
 Atlantis|Atlantean|Atlanteans
 Avalon|Avalonian|Avalonian
@@ -18,7 +18,7 @@ El Dorado|Doradan|Doradans
 Eldraine|Eldrainean|Eldrainean
 Elysian_Fields|Elysian|Elysians
 Emerald City|Cityite|Cityites
-Faer&ucirc;n|Faer&ucirc;nian|Faer&ucirc;nians
+Faerûn|Faerûnian|Faerûnians
 Gondor|Gondorian|Gondorians
 Gotham_City|Gothamite|Gothamites
 Hades|Hadean|Hadeans
@@ -30,7 +30,7 @@ Icewind Dale|Daler|Dalers
 Innistrad|Innistradian|Innistradians
 Ishtar|Ishatri|Ishatris
 Ixilan|Ixilani|Ixilanis
-J&ouml;tunheim|J&ouml;tunheimer|J&ouml;tunheimers
+Jötunheim|Jötunheimer|Jötunheimers
 Khemed|Khemedi|Khemedis
 Kaladesh|Kaladeshi|Kaladeshis
 Kamigawa
@@ -60,10 +60,10 @@ Shangri-La|resident_of_Shangri-La|residents_of_Shangri-La
 Smallville|Smallviller|Smallvillers
 Syldavia
 Tarkir|Tarkiri|Tarkiris
-T&eacute;kumel|T&eacute;kumelite|T&eacute;kumelites
+Tékumel|Tékumelite|Tékumelites
 Tel'aran'rhiod|Tel'aran'rhioder|Tel'aran'rhioders
 The_Dreamlands|Dreamlander|Dreamlanders
-The_Forgotten_Realms|Faer&ucirc;nian|Faer&ucirc;nians
+The_Forgotten_Realms|Faerûnian|Faerûnians
 The_Garden_of_Eden|dweller_of_The_Garden_of_Eden|dwellers_of_The_Garden_of_Eden
 The_Shire|resident_of_The_Shire|residents_of_The_Shire
 The_Underworld|Underworlder|Underworlders

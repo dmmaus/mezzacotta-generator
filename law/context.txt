@@ -5,7 +5,7 @@ at a $movie/event
 at $village/festival-time
 during $time-month
 for the purpose of $verb-intransitive_ING
-if doing so &ldquo; $adverb &rdquo;
+if doing so “ $adverb ”
 if for the direct benefit of a 2$adj-person $person
 in a $noun-vehicle
 in a 5$noun-geography-structure>$noun-geography-landform

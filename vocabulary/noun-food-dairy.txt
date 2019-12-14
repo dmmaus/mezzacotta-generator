@@ -16,10 +16,10 @@
 |cottage cheese
 |cream
 |cream cheese
-|cr&egrave;me
-|cr&egrave;me fra&icirc;che
+|crème
+|crème fraîche
 |curd
-|curds &amp; whey
+|curds & whey
 |double cream
 |edam
 |feta
@@ -40,7 +40,7 @@
 |milk
 |Monterey Jack cheese
 |mozzarella
-|Neufch&acirc;tel
+|Neufchâtel
 |paneer
 |Parmesan cheese
 |pecorino

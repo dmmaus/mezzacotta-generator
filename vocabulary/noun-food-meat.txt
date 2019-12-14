@@ -163,7 +163,7 @@ oyster
 |pancetta
 |partridge
 |pastrami
-|p&acirc;t&eacute;
+|pâté
 |peacock
 |peafowl
 |penguin
@@ -264,7 +264,7 @@ steak
 |unicorn
 |veal
 |venison
-|vicu&ntilde;a
+|vicuña
 vole
 |vongole
 |wallaby

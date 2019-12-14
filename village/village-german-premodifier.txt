@@ -1,5 +1,5 @@
 @format ~
-&uuml;ber-
+über-
 alt
 bad
 burg
@@ -9,7 +9,7 @@ neu-
 nord-
 ober-
 ost
-s&uuml;d
+süd
 sankt
 unter-
 west

@@ -1,24 +1,24 @@
 @format ~
-Albari&ntilde;o
+Albariño
 Breidecker
 Cabernet
 Cabernet Franc
 Cabernet Sauvignon
-Carm&eacute;n&egrave;re
+Carménère
 Chardonnay
 Chenin Blanc
 Durif
 Gamay
-Gew&uuml;rztraminer
+Gewürztraminer
 Grenache
-Gr&uuml;ner Veltliner
+Grüner Veltliner
 Lambrusco
 Malbec
 Marsanne
 Melon de Bourgogne
 Merlot
-Mourv&egrave;dre
-M&uuml;ller-Thurgau
+Mourvèdre
+Müller-Thurgau
 Muscat
 Nebbiolo
 Palomino
@@ -34,10 +34,10 @@ Riesling
 Roussane
 Sangiovese
 Sauvignon Blanc
-S&eacute;millon
+Sémillon
 Seyval Blanc
 Shiraz
-Sh&ouml;nburger
+Shönburger
 Silvaner
 Syrah
 Tempranillo

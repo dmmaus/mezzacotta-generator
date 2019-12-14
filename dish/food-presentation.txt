@@ -6,13 +6,13 @@ $verb-transitive_ED by a $person-profession-medieval
 (available vegetarian on request)
 (may contain nuts)
 (may contain traces of nuts)
-&agrave; la carte
-&agrave; la chasseur
-&agrave; la king
-&agrave; la maison
-&agrave; la mezzacotta
-&agrave; la mode
-&agrave; l'orange
+à la carte
+à la chasseur
+à la king
+à la maison
+à la mezzacotta
+à la mode
+à l'orange
 $number-small ways
 , 5flavour>taste of $dish/quality
 a choux
@@ -31,8 +31,8 @@ arancini
 as a condiment
 as a garnish
 as a side-serve
-as an ap&eacute;ritif
-as an entr&eacute;e
+as an apéritif
+as an entrée
 as an optional extra
 as available in our take-home packets
 as seen on TV
@@ -56,7 +56,7 @@ basket
 batons
 Bavarian
 bavarois
-b&eacute;chamel
+béchamel
 beignet
 Benedict
 beurre blanc
@@ -89,7 +89,7 @@ brittle
 broth
 brownie
 browns
-br&ucirc;l&eacute;e
+brûlée
 bruschetta
 bubbles
 buerre blanc
@@ -101,7 +101,7 @@ burrito
 cacciatore
 calypso
 cakes
-canap&eacute;s
+canapés
 candy
 cannelloni
 caprese
@@ -147,7 +147,7 @@ con queso
 confit
 concasse
 congee
-consomm&eacute;
+consommé
 cooked at your table
 cooked in a bag
 cooked in its own juices
@@ -163,8 +163,8 @@ crackers
 crackles
 crackling
 cream
-cr&egrave;me
-cr&ecirc;pes
+crème
+crêpes
 crisps
 crockpot
 croissants
@@ -173,7 +173,7 @@ croquembouche
 croquettes
 croute
 croutons
-crudit&eacute;s
+crudités
 crumble
 crumbs
 crunch
@@ -192,8 +192,8 @@ daiquiri
 dacquoise
 damper
 dauphinoise
-d&eacute;gustation
-de la cr&ecirc;me
+dégustation
+de la crême
 delice
 delicious
 delights
@@ -222,19 +222,19 @@ dunkers
 dusted with cocoa
 dusted with icing sugar
 duxelles
-&eacute;clair
+éclair
 empanada
 emulsion
 en brochette
 en cocotte
-en cro&ucirc;te
+en croûte
 en daube
 en papillote
 enchilada
-entr&eacute;e
+entrée
 escabeche
 escalopes
-Espa&ntilde;ola
+Española
 Eton mess
 explosion
 extract
@@ -249,8 +249,8 @@ fit for the gods
 five course banquet
 flakes
 flanks
-flamb&eacute;
-flamb&eacute;ed with $noun-food-alcohol at your table
+flambé
+flambéed with $noun-food-alcohol at your table
 flan
 flavouring
 flip
@@ -269,7 +269,7 @@ for the whole family
 for two
 Foster
 friands
-fricass&eacute;e
+fricassée
 frittata
 fritters
 from a packet
@@ -301,7 +301,7 @@ gnocchi
 goujons
 goulash
 grande
-granit&eacute;
+granité
 gratin
 gravy
 grill
@@ -369,7 +369,7 @@ larb
 lasagna
 lassi
 layer cake
-latt&eacute;
+latté
 lattice
 lava cake
 liqueur
@@ -390,7 +390,7 @@ made from local ingredients
 made on the premises
 made with our special recipe
 madeleines
-m&acirc;itre d'h&ocirc;tel
+mâitre d'hôtel
 marengo
 margarita
 marinade
@@ -402,7 +402,7 @@ mash
 meal
 medallions
 medley
-m&eacute;lange
+mélange
 melba
 melts
 Mexicana
@@ -429,7 +429,7 @@ nectar
 -nets
 newberg
 nibbles
-ni&ccedil;oise
+niçoise
 -nog
 nog
 noisettes
@@ -483,7 +483,7 @@ pasties
 pastilla
 pastizzi
 pastries
-p&acirc;t&eacute;
+pâté
 patissiere
 patties
 pavement
@@ -522,20 +522,20 @@ presented volcano-style
 preserves
 primavera
 profiteroles
-Proven&ccedil;al
+Provençal
 pudding
 puddle-pie
 puffs
 pulp
 punch
-pur&eacute;e
+purée
 puttanesca
 quarters
 quatre-quarts
 quenchers
 quesadillas
 quiche
-rago&ucirc;t
+ragoût
 ramble
 rancheros
 rarebit
@@ -545,7 +545,7 @@ recipe mix
 reduction
 refreshers
 relish
-r&eacute;moulade
+rémoulade
 rendang
 ribbons
 rinds
@@ -557,7 +557,7 @@ roast
 rolls
 roll-ups
 roly-poly
-r&ouml;sti
+rösti
 ropes
 rotolo
 roulades
@@ -576,7 +576,7 @@ sashimi
 sauce
 sausages
 sausage rolls
-saut&eacute; &agrave; la cr&eacute;me
+sauté à la créme
 scaloppine
 schnitzel
 scones
@@ -628,7 +628,7 @@ slow cooked under pressure
 smear
 smeared across a plate
 smoothie
-sm&ouml;rg&aring;sbord
+smörgåsbord
 snack
 snaps
 snowball
@@ -636,7 +636,7 @@ so tender it will melt in your mouth
 soda
 soil
 sorbet
-souffl&eacute;
+soufflé
 soup
 spears
 spectacular
@@ -669,7 +669,7 @@ substitute
 suet pudding
 sundae
 supreme
-supr&ecirc;me
+suprême
 surprise
 sushi
 Suzette
@@ -730,7 +730,7 @@ twists
 under glass
 untouched by human hands
 value meal
-velout&eacute;
+velouté
 verde
 vichyssoise
 vinaigrette

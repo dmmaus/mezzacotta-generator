@@ -26,7 +26,7 @@ Botswana
 Brazil|Brazilian|Brazilians
 Brunei|Bruneian|Bruneians
 Bulgaria
-Burkina_Faso|Burkinab&eacute;|Burkinab&eacute;
+Burkina_Faso|Burkinabé|Burkinabé
 Burundi|Burundian|Burundians
 Cambodia
 Cameroon|Cameroonian|Cameroonians
@@ -41,7 +41,7 @@ Comoros|Comoron|Comorons
 Congo|Congolese|Congolese
 Democratic_Republic_of_the_Congo|Congolese|Congolese
 Costa Rica
-C&ocirc;te_d'Ivoire|Ivorian|Ivorians
+Côte_d'Ivoire|Ivorian|Ivorians
 Croatia
 Cuba
 Cyprus|Cypriot|Cypriots
@@ -148,7 +148,7 @@ Saint Lucia
 Saint_Vincent_and_the_Grenadines|Saint_Vincentian|Saint_Vincentians
 Samoa
 San_Marino|Sammarinese|Sammarinese
-S&atilde;o_Tom&eacute;_and_Pr&iacute;ncipe|S&atilde;o_Tom&eacute;an|S&atilde;o_Tom&eacute;ans
+São_Tomé_and_Príncipe|São_Toméan|São_Toméans
 Saudi Arabia
 Senegal|Senegalese|Senegalese
 Serbia

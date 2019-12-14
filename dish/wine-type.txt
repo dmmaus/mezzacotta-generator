@@ -7,7 +7,7 @@ cava
 chianti classico
 cleanskin
 claret
-cuv&eacute;e speciale
+cuvée speciale
 dessert wine
 eiswein
 fortified wine
@@ -20,8 +20,8 @@ light red
 light red wine
 mead
 meritage
-M&eacute;thode Champenoise
-M&eacute;thode Traditionelle
+Méthode Champenoise
+Méthode Traditionelle
 mulled wine
 muscatel
 petillant
@@ -31,20 +31,20 @@ red
 red wine
 reserve wine
 retsina
-ros&eacute;
-ros&eacute; wine
+rosé
+rosé wine
 sauternes
 sekt
 semi-sparkling wine
 sparkling white wine
 sparkling wine
 sparkling red
-sparkling ros&eacute; wine
+sparkling rosé wine
 spumante
 straw wine
 table wine
 tafelwein
-t&ecirc;te de cuv&eacute;e
+tête de cuvée
 vin de pays
 vin de table
 vin gris

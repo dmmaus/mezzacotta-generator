@@ -7,7 +7,6 @@ from PIL import Image, ImageDraw, ImageFont
 res = generique.generate(['band/keywords', 'band/album', 'band/base', '1'])
 album_title = res.split('~~')[1].strip()
 band_name = res.split('~~')[2].strip()
-band_name = band_name.replace('&amp;', '&')
 
 keywords = []
 for a in res.split('~~')[0].split('~'):

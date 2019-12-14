@@ -1,5 +1,5 @@
 @format ~
-Albari&ntilde;o, Spain
+Albariño, Spain
 Alessandria, Italy
 Alsace, France
 Alto Douro, Portugal
@@ -18,7 +18,7 @@ Burgundy, France
 Central Otago, New Zealand
 Chablis, France
 Champagne, France
-Ch&acirc;teauneuf-du-Pape, France
+Châteauneuf-du-Pape, France
 Chianti, Italy
 Cinque Terra, Italy
 Clare Valley, Australia
@@ -27,9 +27,9 @@ Columbia Valley, Washington, USA
 Constantia, South Africa
 Coonawarra, Australia
 Corsica, France
-C&ocirc;te Chalonnaise, France
-C&ocirc;te d'Or, France
-C&ocirc;te de Provence, France
+Côte Chalonnaise, France
+Côte d'Or, France
+Côte de Provence, France
 Coteaux Varois, France
 Crete, Greece
 Cuneo, Italy
@@ -56,7 +56,7 @@ Marlborough, New Zealand
 Marmara, Turkey
 Marsala, Italy
 McLaren Vale, Australia
-M&eacute;doc, France
+Médoc, France
 Mendoza, Argentina
 Montepulciano, Italy
 Moselle Valley, Germany
@@ -71,7 +71,7 @@ Okanagan Valley, Canada
 Oltenia, Romania
 Paarl, South Africa
 Parras de la Fuente, Mexico
-Pened&egrave;s, Spain
+Penedès, Spain
 Pfalz, Germany
 Piedmont, Italy
 Primorska, Slovenia
@@ -82,8 +82,8 @@ Rapsani, Greece
 Rheingau, Germany
 Rheinhessen, Germany
 Rhine Valley, Germany
-Rh&ocirc;ne Valley, France
-R&iacute;as Baixas, Spain
+Rhône Valley, France
+Rías Baixas, Spain
 Ribera del Duero, Spain
 Rioja, Spain
 Rose Valley, Bulgaria
@@ -91,7 +91,7 @@ San Juan, Argentina
 Santa Clara Valley, California
 Sardinia, Italy
 Savoy, France
-Set&uacute;bal Peninsula, Portugal
+Setúbal Peninsula, Portugal
 Sicily, Italy
 Siena, Italy
 Slavonia, Croatia

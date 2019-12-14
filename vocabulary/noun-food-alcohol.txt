@@ -19,20 +19,20 @@
 |grappa
 |Guinness
 |Irish cream
-|J&auml;germeister
-|Kahl&uaceute;a
+|Jägermeister
+|Kahlúa
 |lager
 |limoncello
 |Midori
 |mulled wine
 |ouzo
-|pi&ntilde;a colada
+|piña colada
 |pisco
 |port
 |port wine
 |porter
 |red wine
-|ros&eacute; wine
+|rosé wine
 |rum
 |sake
 |sangria

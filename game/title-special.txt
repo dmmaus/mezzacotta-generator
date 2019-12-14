@@ -26,7 +26,7 @@ too many *THINGS                               $game/place=PLACE $game/person_S=
 age of *THING                                  $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-artifact-abstract=THING
 this *THING of mine                            $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
 that's pretty $game/adj                        $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
-$name-surname-modern &amp; $name-surname-modern $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
+$name-surname-modern & $name-surname-modern $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun=THING
 *PLACE : from *PERS2 to $person-ruler          $game/place=PLACE $game/person_S=PERS1 $person-profession-medieval=PERS2 $noun_S=THINGS $noun=THING
 secret *PERS2                                  $game/place=PLACE $game/person_S=PERS1 $game/figure=PERS2 $noun_S=THINGS $noun=THING
 *THING 5wars>_ : the $verb-intransitive_ING    $game/place=PLACE $game/person_S=PERS1 $game/person=PERS2 $noun_S=THINGS $noun-artifact-abstract=THING
