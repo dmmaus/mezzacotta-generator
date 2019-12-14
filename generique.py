@@ -525,11 +525,12 @@ def generate(args):
                 bits.append(Capitalise(bit))
             result = '~~ '.join(bits)
 
-        print(result)
         results.append(result)
 
     return results
     
 if __name__ == '__main__':
-    generate(sys.argv[1:])
+    res = generate(sys.argv[1:])
 
+    for line in res:
+        print(line)

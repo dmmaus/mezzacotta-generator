@@ -3,5 +3,5 @@
 2the @set1(*NOUN,*PERS) of @set1(*PLACE,$noun_S)
 *VERB @set1(*NOUN,*PLACE,$name-forename-modern,*PERS,_)
 *PLACE 's @set1(*NOUN,*PERS)
-@set1($noun_S,$name-forename-modern) *VERB *NOUN
-*ADJ @set1(*NOUN,*PLACE,*NOUN,*PERS)
+@set1($noun_S,$name-forename-modern,_) *VERB *NOUN
+*ADJ @set1(*NOUN,*PLACE,*PERS,$noun)
