@@ -528,7 +528,7 @@ def generate(args):
         print(result)
         results.append(result)
 
-    return result
+    return results
     
 if __name__ == '__main__':
     generate(sys.argv[1:])
