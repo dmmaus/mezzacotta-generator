@@ -5,9 +5,6 @@ from PIL import Image, ImageDraw, ImageFont
 import glob
 
 
-
-
-
 res = generique.generate(['band/keywords', 'band/album', 'band/base', '1'])[0]
 album_title = res.split('~~')[1].strip()
 band_name = res.split('~~')[2].strip()
@@ -20,10 +17,13 @@ random.shuffle(keywords)
 
 fg = FlickrGettr()
 
+matching_keyword = 'NONE'
+
 for keyword in keywords:
     # Prioritise the ones in the actual title
     if album_title.lower().find(keyword.lower()) >= 0:
         if fg.GetKeyword(keyword) != None:
+            matching_keyword = keyword
             break;
 
 # Create canvas for album pic
@@ -89,3 +89,8 @@ text_width, _ = d.textsize(album_title, font=album_font)
 d.text((780 - text_width, 720), album_title, font=album_font, fill=tuple(album_color))
 
 cover.save('res.jpg')
+
+# Print useful information
+print('Band: ' + band_name + ' (' + band_typeface.split('\\')[-1] + ')')
+print('Album: ' + album_title + ' (' + album_typeface.split('\\')[-1] + ')')
+print('Artwork keyword: ' + matching_keyword)
