@@ -103,7 +103,8 @@
 <div class="main">
 
 <?php
-$command = escapeshellcmd('/usr/bin/python ../generique.py movie/title movie/cast movie/directed movie/rating movie/synopsis 5');
+chdir('..');
+$command = escapeshellcmd('/usr/bin/python3 generique.py movie/title movie/cast movie/directed movie/rating movie/synopsis 5');
 $output = shell_exec($command);
 $lines = explode("\n", rtrim($output));
 $i = 0;
