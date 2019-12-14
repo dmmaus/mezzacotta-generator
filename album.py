@@ -4,7 +4,7 @@ import random
 from PIL import Image, ImageDraw, ImageFont
 import glob
 
-
+# Random generation of a band, album and keywords
 res = generique.generate(['band/keywords', 'band/album', 'band/base', '1'])[0]
 album_title = res.split('~~')[1].strip()
 band_name = res.split('~~')[2].strip()
@@ -13,11 +13,30 @@ keywords = []
 for a in res.split('~~')[0].split('~'):
     keywords.append(a.strip())
 
-random.shuffle(keywords)
-
 fg = FlickrGettr()
-
 matching_keyword = 'NONE'
+
+# Random adjustments of the album/band
+if random.randrange(100) < 20:
+    album_title = album_title.lower()
+if random.randrange(100) < 15:
+    band_name = band_name.upper()
+
+# Randomly split multi-word band names
+spaces = len(band_name.split()) - 1
+split_name = ''
+if random.random() < (spaces * 0.2):
+    newline_idx = random.randrange(spaces)
+    words = band_name.split()
+    idx = 0
+    for w in words:
+        split_name += w
+        if idx == newline_idx:
+            split_name += '\n'
+        else:
+            split_name += ' '
+        idx += 1
+    band_name = split_name
 
 # Shuffle the keywords, with the ones that appear in the album title appearing first.
 present_keywords = []
@@ -29,7 +48,6 @@ for keyword in keywords:
         present_keywords.append(keyword)
     else:
         missing_keywords.append(keyword)
-
 
 random.shuffle(present_keywords)
 random.shuffle(missing_keywords)
@@ -73,10 +91,7 @@ if random.randrange(100) < 20:
     album_typeface = band_typeface
 
 # Draw the band name, trying smaller font sizes if needed
-if random.randrange(100) < 15:
-    band_name = band_name.upper()
-
-band_font_size = 90
+band_font_size = random.randrange(80,160)
 
 done = False
 while not done:
@@ -87,12 +102,9 @@ while not done:
     else:
         done = True
 
-d.text((400 - (text_width / 2), 100 - text_height), band_name, font=band_font, fill=tuple(band_colour))
+d.multiline_text((400 - (text_width / 2), 20), band_name, font=band_font, fill=tuple(band_colour), spacing=int(band_font_size * 0.2))
 
 # Draw the album name
-if random.randrange(100) < 20:
-    album_title = album_title.lower()
-
 done = False
 album_font_size = 56
 
