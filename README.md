@@ -6,7 +6,7 @@ Unlike the predecessors, [mezzacotta Cafe](https://github.com/dmmaus/mezzacotta-
 
 ## Contributing
 
-Contributors are welcome to submit extensions to the menu generating source text files and grammar.
+Contributors are welcome to submit extensions to the source text files and grammar.
 
 * Fork this repository, add your additions, and submit a pull request.
 * You can run each subdirectory's index.php to generate a page of random text, however given the random nature of the generator it may take several runs to see the effects of your changes.
@@ -26,6 +26,18 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 # Documentation
 
+## Environment
+
+* PHP 7.
+* Python 3. We use Python 3.6 or 3.7.
+* The environment variable `PYTHONIOENCODING=UTF-8` must be set. This enables reading and printing UTF-8 characters without special handling.
+* `album.py` requires the following Python packages:
+    * flickrapi
+    * Pillow
+
+## Files
+
+* The main executable file is `generique.py`.
 * Core shareable vocabulary files are in the directory `vocabulary`.
 * Other directories contain specific generators with PHP index file, base grammar file, and context-dependent vocabulary files (of limited use to other generators).
 
@@ -36,7 +48,7 @@ The Python generator code `generique.py` takes two or more arguments:
 1. The first *N*-1 arguments are base vocabulary file name paths, without the `.txt` extension. These specify which text generators to run. If more than one base file is given, the outputs of the base files are concatenated with a `~~` separator.
 1. The final argument is the number of lines of text to generate.
 
-**From a web browser:** Place the code into your web server directory, then point your browser at the top level `index.php` file. Your web server will need to allow shell execution of Python from within PHP. You may ned to edit the python path in the subdirectory `index.php` files. The PHP code calls the Python `generique.py` to generate a number of lines, formatted for browser display.
+**From a web browser:** Place the code into your web server directory, then point your browser at the top level `index.php` file. Your web server will need to allow shell execution of Python from within PHP. You may ned to edit the python path in the subdirectory `index.php` files. The PHP code calls the Python `generique.py` to generate a number of lines, and then formats the returned lines with HTML for browser display.
 
 **From the command line:** The `generique.py` script assumes that it is being called from a subdirectory. Change to a generator subdirectory (e.g. `<subdir>` = `test` or `tavern`) and run either:
 
@@ -178,6 +190,7 @@ The sample PHP code demonstrates how to call the Python generator and format ret
 
 The sample PHP code does the following replacements:
 
-* Apostrophes are replaced with curly apostrophes.
+* Apostrophes are replaced with curly apostrophes. (We may remove this and rely on curly apostrophes in the vocabulary files.)
+* Characters `&`, `<`, `>` are replaced with their respective HTML entities: `&amp;`, `&lt;`, `&gt;`.
 
 PHP is also responsible for the HTML page styling, which can be customised for each generator.
