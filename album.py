@@ -61,8 +61,19 @@ d = ImageDraw.Draw(cover)
 band_typeface = random.choice(glob.glob('./Fonts/*'))
 album_typeface = random.choice(glob.glob('./Fonts/*'))
 
-# Draw the band name, trying smaller font sizes if needed
+band_colour = [255, random.randrange(255), random.randrange(128,256)]
+random.shuffle(band_colour)
+
+album_color = [255, random.randrange(255), random.randrange(128,256)]
+random.shuffle(album_color)
+
 if random.randrange(100) < 40:
+    album_color = band_colour
+if random.randrange(100) < 20:
+    album_typeface = band_typeface
+
+# Draw the band name, trying smaller font sizes if needed
+if random.randrange(100) < 15:
     band_name = band_name.upper()
 
 band_font_size = 90
@@ -76,10 +87,7 @@ while not done:
     else:
         done = True
 
-band_colour = [255, random.randrange(255), random.randrange(128,256)]
-random.shuffle(band_colour)
-
-d.text((400 - (text_width / 2), 90 - text_height), band_name, font=band_font, fill=tuple(band_colour))
+d.text((400 - (text_width / 2), 100 - text_height), band_name, font=band_font, fill=tuple(band_colour))
 
 # Draw the album name
 if random.randrange(100) < 20:
@@ -95,9 +103,6 @@ while not done:
         album_font_size -= 4
     else:
         done = True
-
-album_color = [255, random.randrange(255), random.randrange(128,256)]
-random.shuffle(album_color)
 
 text_width, _ = d.textsize(album_title, font=album_font)
 d.text((780 - text_width, 720), album_title, font=album_font, fill=tuple(album_color))
