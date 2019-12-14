@@ -29,6 +29,7 @@ flickr-secret.txt
 *.zip
 
 # directories
+Fonts
 
 # OS generated files #
 .DS_Store
