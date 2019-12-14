@@ -5,3 +5,4 @@
 *PLACE 's @set1(*NOUN,*PERS)
 @set1($noun_S,$name-forename-modern,_) *VERB *NOUN
 *ADJ @set1(*NOUN,*PLACE,*PERS,$noun)
+4$art/anything @set1(*NOUN,*ADJ,*PERS,*PLACE) 4$art/anything

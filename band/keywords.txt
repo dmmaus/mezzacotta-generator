@@ -1,4 +1,3 @@
 # Just set keywords that might turn up in the album title
 @format ~
 *NOUN ~ *VERB ~ *PLACE ~ *ADJ ~ *PERS                  $noun=NOUN $verb-transitive-simple_ING=VERB $place=PLACE $adj-person=ADJ $person_S=PERS
-
