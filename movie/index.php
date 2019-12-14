@@ -103,6 +103,7 @@
 <div class="main">
 
 <?php
+putenv("PYTHONIOENCODING=UTF-8");
 chdir('..');
 $command = escapeshellcmd('/usr/bin/python3 generique.py movie/title movie/cast movie/directed movie/rating movie/synopsis 5');
 $output = shell_exec($command);

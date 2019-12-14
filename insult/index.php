@@ -214,6 +214,7 @@ p.more
 
     <div class="bard">
 <?php
+putenv("PYTHONIOENCODING=UTF-8");
 chdir('..');
 $command = escapeshellcmd('/usr/bin/python3 generique.py insult/base 4');
 $output = shell_exec($command);

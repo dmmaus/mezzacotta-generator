@@ -178,6 +178,7 @@ p.wine-match
     <p class="subtitle">MENU</p>
 
 <?php
+putenv("PYTHONIOENCODING=UTF-8");
 chdir('..');
 $command = escapeshellcmd('/usr/bin/python3 generique.py dish/base dish/wine-recommend dish/wine-name dish/wine-description 5');
 $output = shell_exec($command);

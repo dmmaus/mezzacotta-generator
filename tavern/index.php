@@ -18,6 +18,7 @@ body {
 </p>
 <ul>
 <?php
+putenv("PYTHONIOENCODING=UTF-8");
 chdir('..');
 $command = escapeshellcmd('/usr/bin/python3 generique.py tavern/base 10');
 $output = shell_exec($command);

@@ -4,7 +4,7 @@
 cat
 dog
 elephant
-octupus|octopi
+octopus|octopi
 dish washer
 turtle
 fan
@@ -13,3 +13,4 @@ television
 table
 donut
 porcupine
+ümlaut
