@@ -1,0 +1,57 @@
+@format ~
+Acererak
+Arilyn Moonblade
+Artemis Entreri
+Asmodeus
+Astinus of Palanthas
+Azalin Rex
+Bahamut
+Bigby
+Bruenor Battlehammer
+Cadderly Bonaduce
+Caramon Majere
+Danica Maupoissant
+Danilo Thann
+Demogorgon
+Drawmij
+Drizzt Do'Urden
+Eclavdra
+Ellifain Tuuserail
+Elminster
+Fizban the Fabulous
+Flint Fireforge
+Galaeron Nihmedu
+Goldmoon
+Iggwilv
+Innovindil
+Iuz
+Khelben Arunsun
+Kitiara uth Matar
+Laurana Kanan
+Leomund the Red
+Lolth
+Lord Soth
+Mordenkainen
+Nystul
+Orcus
+Otiluke
+Pharaun Mizzrym
+Raistlin Majere
+Rary
+Riverwind
+Shandril Shessair
+Strahd von Zarovitch
+Sturm Brightblade
+Szass Tam
+Tanis Half-Elven
+Tarathiel
+Tasslehoff Burrfoot
+Tenser
+Thibbledorf Pwent
+Tiamat
+Tika Waylan
+Vangerdahast
+Vecna
+Wulfgar
+Yeenoghu
+Zaknafein Do'Urden

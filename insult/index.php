@@ -214,7 +214,8 @@ p.more
 
     <div class="bard">
 <?php
-$command = escapeshellcmd('/usr/bin/python ../generique.py insult/base 4');
+chdir('..');
+$command = escapeshellcmd('/usr/bin/python3 generique.py insult/base 4');
 $output = shell_exec($command);
 $output = preg_replace("/'/", "’", $output);
 $lines = explode("\n", rtrim($output));

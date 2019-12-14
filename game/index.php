@@ -11,7 +11,8 @@
 </p>
 <ul>
 <?php
-$command = escapeshellcmd('/usr/bin/python ../generique.py game/title game/desc-paragraph-1 game/desc-paragraph-2 game/desc-paragraph-3 5');
+chdir('..');
+$command = escapeshellcmd('/usr/bin/python3 generique.py game/title game/desc-paragraph-1 game/desc-paragraph-2 game/desc-paragraph-3 5');
 $output = shell_exec($command);
 $output = preg_replace("/'/", "’", $output);
 $lines = explode("\n", rtrim($output));

@@ -18,7 +18,8 @@ body {
 </p>
 <ul>
 <?php
-$command = escapeshellcmd('/usr/bin/python ../generique.py tavern/base 10');
+chdir('..');
+$command = escapeshellcmd('/usr/bin/python3 generique.py tavern/base 10');
 $output = shell_exec($command);
 $output = preg_replace("/'/", "’", $output);
 $lines = explode("\n", rtrim($output));
