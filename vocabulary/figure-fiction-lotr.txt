@@ -1,6 +1,4 @@
 @format ~
-éomer
-éowyn
 Aragorn
 Arwen
 Balin
@@ -23,6 +21,8 @@ Dwalin
 Eärendil
 Elendil
 Elrond
+Éomer
+Éowyn
 Faramir
 Farmer Maggot
 Fili

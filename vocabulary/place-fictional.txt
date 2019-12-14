@@ -2,7 +2,7 @@
 @format ~|N|NS
 Alara
 Albion|Albionite|Albionites
-álfheim|álfheimer|álfheimers
+Álfheim|Álfheimer|Álfheimers
 Asgard|Asgardian|Asgardians
 Atlantis|Atlantean|Atlanteans
 Avalon|Avalonian|Avalonian
