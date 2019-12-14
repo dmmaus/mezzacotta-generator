@@ -2,6 +2,10 @@ from getflickr import FlickrGettr
 import generique
 import random
 from PIL import Image, ImageDraw, ImageFont
+import glob
+
+
+
 
 
 res = generique.generate(['band/keywords', 'band/album', 'band/base', '1'])[0]
@@ -37,15 +41,17 @@ clip_height = min(600, height)
 cropped = art.crop((0,0,clip_width,clip_height))
 cover.paste(cropped, ((800 - clip_width) // 2,100 + (600 - clip_height) // 2))
 
-
 d = ImageDraw.Draw(cover)
+
+# Select fonts for the album and band names, from a local directory.
+band_typeface = random.choice(glob.glob('./Fonts/*'))
+album_typeface = random.choice(glob.glob('./Fonts/*'))
 
 # Draw the band name, trying smaller font sizes if needed
 if random.randrange(100) < 40:
     band_name = band_name.upper()
 
 band_font_size = 90
-band_typeface = random.choice(['cour.ttf', 'ariali.ttf', 'tahoma.ttf', 'lucon.ttf', 'impact.ttf', 'verdana.ttf', 'verdanai.ttf'])
 
 done = False
 while not done:
@@ -59,7 +65,7 @@ while not done:
 band_colour = [255, random.randrange(255), random.randrange(128,256)]
 random.shuffle(band_colour)
 
-d.text((400 - (text_width / 2), 80 - text_height), band_name, font=band_font, fill=tuple(band_colour))
+d.text((400 - (text_width / 2), 90 - text_height), band_name, font=band_font, fill=tuple(band_colour))
 
 # Draw the album name
 if random.randrange(100) < 20:
@@ -67,7 +73,6 @@ if random.randrange(100) < 20:
 
 done = False
 album_font_size = 56
-album_typeface = random.choice(['cour.ttf', 'ariali.ttf', 'tahoma.ttf', 'lucon.ttf', 'impact.ttf', 'verdana.ttf', 'verdanai.ttf'])
 
 while not done:
     album_font = ImageFont.truetype(album_typeface, album_font_size)
