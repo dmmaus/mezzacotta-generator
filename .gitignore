@@ -37,5 +37,6 @@ flickr-secret.txt
 .Spotlight-V100
 .Trashes
 *.pyc
+.idea
 ehthumbs.db
 Thumbs.db
