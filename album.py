@@ -25,7 +25,7 @@ if random.randrange(100) < 15:
 # Randomly split multi-word band names
 spaces = len(band_name.split()) - 1
 split_name = ''
-if random.random() < (spaces * 0.2):
+if random.random() < (spaces * 0.1):
     newline_idx = random.randrange(spaces)
     words = band_name.split()
     idx = 0
@@ -102,7 +102,10 @@ while not done:
     else:
         done = True
 
-d.multiline_text((400 - (text_width / 2), 20), band_name, font=band_font, fill=tuple(band_colour), spacing=int(band_font_size * 0.2))
+if '\n' in band_name:
+    d.multiline_text((20, 20), band_name, font=band_font, fill=tuple(band_colour), spacing=int(band_font_size * 0.2))
+else:
+    d.multiline_text((400 - (text_width / 2), 20), band_name, font=band_font, fill=tuple(band_colour), spacing=int(band_font_size * 0.2))
 
 # Draw the album name
 done = False
@@ -122,6 +125,6 @@ d.text((780 - text_width, 720), album_title, font=album_font, fill=tuple(album_c
 cover.save('res.jpg')
 
 # Print useful information
-print('Band: ' + band_name + ' (' + band_typeface.split('\\')[-1] + ')')
+print('Band: ' + band_name.replace('\n', ' ') + ' (' + band_typeface.split('\\')[-1] + ')')
 print('Album: ' + album_title + ' (' + album_typeface.split('\\')[-1] + ')')
 print('Artwork keyword: ' + matching_keyword)
