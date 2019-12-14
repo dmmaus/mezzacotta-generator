@@ -4,7 +4,7 @@ import random
 from PIL import Image, ImageDraw, ImageFont
 
 
-res = generique.generate(['band/keywords', 'band/album', 'band/base', '1'])
+res = generique.generate(['band/keywords', 'band/album', 'band/base', '1'])[0]
 album_title = res.split('~~')[1].strip()
 band_name = res.split('~~')[2].strip()
 
@@ -19,7 +19,6 @@ fg = FlickrGettr()
 for keyword in keywords:
     # Prioritise the ones in the actual title
     if album_title.lower().find(keyword.lower()) >= 0:
-        print('trying', keyword)
         if fg.GetKeyword(keyword) != None:
             break;
 
