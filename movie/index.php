@@ -107,6 +107,10 @@ putenv("PYTHONIOENCODING=UTF-8");
 chdir('..');
 $command = escapeshellcmd('/usr/bin/python3 generique.py movie/title movie/cast movie/directed movie/rating movie/synopsis 5');
 $output = shell_exec($command);
+$output = preg_replace("/'/", "’", $output);
+$output = preg_replace("/&/", "&amp;", $output);
+$output = preg_replace("/</", "&lt;", $output);
+$output = preg_replace("/>/", "&gt;", $output);
 $lines = explode("\n", rtrim($output));
 $i = 0;
 foreach ($lines as $line)

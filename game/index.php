@@ -16,6 +16,9 @@ chdir('..');
 $command = escapeshellcmd('/usr/bin/python3 generique.py game/title game/desc-paragraph-1 game/desc-paragraph-2 game/desc-paragraph-3 5');
 $output = shell_exec($command);
 $output = preg_replace("/'/", "’", $output);
+$output = preg_replace("/&/", "&amp;", $output);
+$output = preg_replace("/</", "&lt;", $output);
+$output = preg_replace("/>/", "&gt;", $output);
 $lines = explode("\n", rtrim($output));
 foreach ($lines as $line)
 {
