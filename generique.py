@@ -63,7 +63,7 @@ class Vocab:
             filename = './vocabulary/' + base_spec + '.txt'
 
         try:
-            f = open(filename, 'r')
+            f = open(filename, 'r', encoding='utf-8')
         except IOError:
             self.inflections = ['~']
             self.lines = ['[UNKNOWN FILE: ' + base_spec + ']']
