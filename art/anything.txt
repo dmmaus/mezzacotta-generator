@@ -6,7 +6,7 @@ $name-forename-modern
 $person
 $place
 $verb-transitive_ED
-$figure
+$figure-all
 $adverb
 $dish/food-presentation
 $village/base
