@@ -15,7 +15,7 @@ Aglauros
 Ajax the Greater
 Ajax the Lesser
 Alcestis
-Alcithoë
+Alcitho&euml;
 Alcmaeon
 Aloadae
 Amalthaea
@@ -163,7 +163,7 @@ Ixion
 Jason
 Laestrygones
 Lamia
-Laocoön
+Laoco&oouml;n
 Laomedon
 Leander
 Leda
