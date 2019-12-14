@@ -16,6 +16,9 @@ chdir('..');
 $command = escapeshellcmd('/usr/bin/python3 generique.py bird/base 10');
 $output = shell_exec($command);
 $output = preg_replace("/'/", "’", $output);
+$output = preg_replace("/&/", "&amp;", $output);
+$output = preg_replace("/</", "&lt;", $output);
+$output = preg_replace("/>/", "&gt;", $output);
 $lines = explode("\n", rtrim($output));
 foreach ($lines as $line)
 {
