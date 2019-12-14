@@ -1,3 +1,2 @@
 @format ~
 here's one: Ö
-$name-forename-modern the ^ $noun-animal says, 6”They're>”They'rrrre $cereal/adj-opinion !”

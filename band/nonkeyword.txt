@@ -1,0 +1,14 @@
+# Random, non-sequiteur words to appear in album titles.
+@format ~
+$name-forename-modern
+5$noun>$noun_S
+$adjective
+$insult/thing
+$number-small_TH
+@recentyear100
+$adverb
+$verb-intransitive
+$verb-transitive_ED
+$place
+$figure-all
+$noun-food_S

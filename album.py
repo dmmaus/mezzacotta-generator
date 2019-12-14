@@ -19,12 +19,26 @@ fg = FlickrGettr()
 
 matching_keyword = 'NONE'
 
+# Shuffle the keywords, with the ones that appear in the album title appearing first.
+present_keywords = []
+missing_keywords = []
+
 for keyword in keywords:
     # Prioritise the ones in the actual title
     if album_title.lower().find(keyword.lower()) >= 0:
-        if fg.GetKeyword(keyword) != None:
-            matching_keyword = keyword
-            break;
+        present_keywords.append(keyword)
+    else:
+        missing_keywords.append(keyword)
+
+
+random.shuffle(present_keywords)
+random.shuffle(missing_keywords)
+keyword_list = present_keywords + missing_keywords
+
+for keyword in keyword_list:
+    if fg.GetKeyword(keyword) != None:
+        matching_keyword = keyword
+        break;
 
 # Create canvas for album pic
 bg_colour = [0, random.randrange(32), random.randrange(64)]
