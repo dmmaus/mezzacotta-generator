@@ -13,7 +13,12 @@ class AlbumArt():
         self.fg = FlickrGettr()
 
         # Create canvas for album pic
-        bg_colour = [0, random.randrange(32), random.randrange(64)]
+        self.inverted_colours = random.random() < 0.4
+
+        if self.inverted_colours:
+            bg_colour = [255, random.randrange(192, 256), random.randrange(128, 256)]
+        else:
+            bg_colour = [0, random.randrange(64), random.randrange(128)]
         random.shuffle(bg_colour)
         self.cover = Image.new("RGB", (800,800), tuple(bg_colour))
 
@@ -158,10 +163,16 @@ class AlbumArt():
         band_typeface = random.choice(glob.glob('./Fonts/*'))
         album_typeface = random.choice(glob.glob('./Fonts/*'))
 
-        band_colour = [255, random.randrange(255), random.randrange(128,256)]
+        if self.inverted_colours:
+            band_colour = [0, random.randrange(255), random.randrange(128)]
+        else:
+            band_colour = [255, random.randrange(255), random.randrange(128,256)]
         random.shuffle(band_colour)
 
-        album_colour = [255, random.randrange(255), random.randrange(128,256)]
+        if self.inverted_colours:
+            album_colour = [0, random.randrange(255), random.randrange(128)]
+        else:
+            album_colour = [255, random.randrange(255), random.randrange(128,256)]
         random.shuffle(album_colour)
 
         if random.randrange(100) < 40:
