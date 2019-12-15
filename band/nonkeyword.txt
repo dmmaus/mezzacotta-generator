@@ -12,3 +12,4 @@ $verb-transitive_ED
 $place
 $figure-all
 $noun-food_S
+$game/desc-faction
