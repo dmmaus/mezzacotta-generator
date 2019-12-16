@@ -102,7 +102,11 @@ class AlbumArt():
             enhancer = ImageEnhance.Brightness(cropped)
             cropped = enhancer.enhance(0.25 + random.random() * 2.0)
 
-        self.cover.paste(cropped, (x_min, y_min))
+        # Small chance of pasted with shift (but not when using the entire canvas)
+        if random.randrange(100) < 15 and not full:
+            self.cover.paste(cropped, (x_min + random.randrange(-20,20), y_min + random.randrange(-20,20)))
+        else:
+            self.cover.paste(cropped, (x_min, y_min))
 
     def generate(self):
         # Random adjustments of the album/band
