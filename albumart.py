@@ -64,10 +64,12 @@ class AlbumArt():
 
         if full:
             x_min, x_max, y_min, y_max = 0, 800, 0, 800
+            width = 800
+            height = 800
         else:
             # Cut out a random rectangle of the cover art, apply filter, then paste back.
-            width = random.randrange(300, 700)
-            height = random.randrange(300, 700)
+            width = random.randrange(3, 7) * 100
+            height = random.randrange(3, 7) * 100
             x_min = random.randrange(800 - width)
             x_max = x_min + width
             y_min = random.randrange(800 - height)
@@ -101,6 +103,29 @@ class AlbumArt():
         if command == 'brightness':
             enhancer = ImageEnhance.Brightness(cropped)
             cropped = enhancer.enhance(0.25 + random.random() * 2.0)
+
+        if command == 'shuffle':
+            # Copy/paste each 100x100 region into a random grid slot in a temporary image
+            shuffle_idx = list(range((width // 100) * (height // 100)))
+            random.shuffle(shuffle_idx)
+
+            dest_imag = Image.new("RGB", (width, height))
+            idx = 0
+            for y_pos in range(0, height, 100):
+                for x_pos in range(0, width, 100):
+                    square = cropped.crop((x_pos, y_pos, x_pos + 100, y_pos + 100))
+
+                    dest_idx = shuffle_idx[idx]
+
+                    column = dest_idx % (width // 100)
+                    row = dest_idx // (width // 100)
+
+                    dest_imag.paste(square, (column * 100, row * 100))
+
+                    idx += 1
+
+            cropped = dest_imag
+
 
         # Small chance of pasted with shift (but not when using the entire canvas)
         if random.randrange(100) < 15 and not full:
@@ -196,7 +221,8 @@ class AlbumArt():
             'grayscale': 15,
             'posterize': 10,
             'solarize': 20,
-            'brightness': 20
+            'brightness': 20,
+            'shuffle': 100
         }
 
         for c in filter_chances.keys():
@@ -204,6 +230,12 @@ class AlbumArt():
                 commands.append(c)
 
         random.shuffle(commands)
+        if 'shuffle' in commands:
+            commands.remove('band')
+            commands.remove('title')
+            commands.append('band')
+            commands.append('title')
+
         print(commands)
 
         for command in commands:
@@ -212,7 +244,7 @@ class AlbumArt():
             elif command == 'title':
                 self.drawTitle(album_typeface, tuple(album_colour))
             else:
-                self.filter(command, random.randrange(100) < 25)
+                self.filter(command, random.randrange(100) < 25 and command != 'shuffle')
 
 
         # Print useful information
