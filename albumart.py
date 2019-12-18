@@ -126,15 +126,43 @@ class AlbumArt():
 
             cropped = dest_imag
 
+        if command == 'spin':
+            # Rotate each 100x100 region to a random orientation
+            dest_imag = Image.new("RGB", (width, height))
+            for y_pos in range(0, height, 100):
+                for x_pos in range(0, width, 100):
+                    square = cropped.crop((x_pos, y_pos, x_pos + 100, y_pos + 100))
+                    square = square.rotate(random.choice([0, 90, 180, 270]))
+                    dest_imag.paste(square, (x_pos, y_pos))
+
+            cropped = dest_imag
+
         if command == 'rotate':
             if width == height:
                 cropped = cropped.rotate(random.choice([90, 180, 270]))
             else:
                 cropped = cropped.rotate(180)
 
+        if command == 'channel_rotate':
+            r, g, b = Image.Image.split(cropped)
+            cropped = Image.merge('RGB', random.choice([(g, b, r), (b, r, g)]))
+
+        if command == 'channel_separate':
+            # separate, misalign the channels, and combine
+            r, g, b = Image.Image.split(cropped)
+
+            if random.randrange(100) < 50:
+                r.paste(r, (-20, 0))
+                b.paste(b, (20, 0))
+            else:
+                r.paste(r, (0, -20))
+                b.paste(b, (0, -20))
+
+            cropped = Image.merge('RGB', (r, g, b))
+
         # Small chance of pasted with shift (but not when using the entire canvas)
-        if random.randrange(100) < 15 and not full:
-            self.cover.paste(cropped, (x_min + random.randrange(-20,20), y_min + random.randrange(-20,20)))
+        if random.randrange(100) < 20 and not full:
+            self.cover.paste(cropped, (x_min + random.choice([-20,20]), y_min + random.choice([-20,20])))
         else:
             self.cover.paste(cropped, (x_min, y_min))
 
@@ -219,16 +247,18 @@ class AlbumArt():
 
         commands = ['band', 'title']
         filter_chances = {
-            'convolve': 30,
-            'blur': 25,
+            'convolve': 20,
+            'blur': 20,
             'invert': 5,
-            'quantize': 30,
+            'quantize': 15,
             'grayscale': 15,
             'posterize': 10,
-            'solarize': 20,
-            'brightness': 20,
+            'solarize': 15,
+            'brightness': 15,
             'shuffle': 10,
-            'rotate': 10
+            'rotate': 10,
+            'spin': 10,
+            'channel_rotate': 15
         }
 
         for c in filter_chances.keys():
@@ -236,12 +266,12 @@ class AlbumArt():
                 commands.append(c)
 
         random.shuffle(commands)
-        if [i for i in ['shuffle', 'rotate', 'quantize'] if i in commands]:
+        if [i for i in ['shuffle', 'rotate', 'quantize', 'spin'] if i in commands]:
             commands.remove('band')
             commands.remove('title')
             commands.append('band')
             commands.append('title')
-
+        commands = ['channel_separate']
         print(commands)
 
         for command in commands:
