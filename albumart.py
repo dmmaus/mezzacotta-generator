@@ -236,7 +236,7 @@ class AlbumArt():
                 commands.append(c)
 
         random.shuffle(commands)
-        if 'shuffle' in commands or 'rotate' in commands:
+        if [i for i in ['shuffle', 'rotate', 'quantize'] if i in commands]:
             commands.remove('band')
             commands.remove('title')
             commands.append('band')
