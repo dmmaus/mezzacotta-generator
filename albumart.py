@@ -126,6 +126,11 @@ class AlbumArt():
 
             cropped = dest_imag
 
+        if command == 'rotate':
+            if width == height:
+                cropped = cropped.rotate(random.choice([90, 180, 270]))
+            else:
+                cropped = cropped.rotate(180)
 
         # Small chance of pasted with shift (but not when using the entire canvas)
         if random.randrange(100) < 15 and not full:
@@ -222,7 +227,8 @@ class AlbumArt():
             'posterize': 10,
             'solarize': 20,
             'brightness': 20,
-            'shuffle': 10
+            'shuffle': 10,
+            'rotate': 10
         }
 
         for c in filter_chances.keys():
@@ -230,7 +236,7 @@ class AlbumArt():
                 commands.append(c)
 
         random.shuffle(commands)
-        if 'shuffle' in commands:
+        if 'shuffle' in commands or 'rotate' in commands:
             commands.remove('band')
             commands.remove('title')
             commands.append('band')
