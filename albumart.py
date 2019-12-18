@@ -258,7 +258,8 @@ class AlbumArt():
             'shuffle': 10,
             'rotate': 10,
             'spin': 10,
-            'channel_rotate': 15
+            'channel_rotate': 10,
+            'channel_separate': 10
         }
 
         for c in filter_chances.keys():
@@ -271,7 +272,7 @@ class AlbumArt():
             commands.remove('title')
             commands.append('band')
             commands.append('title')
-        commands = ['channel_separate']
+
         print(commands)
 
         for command in commands:
