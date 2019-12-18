@@ -222,7 +222,7 @@ class AlbumArt():
             'posterize': 10,
             'solarize': 20,
             'brightness': 20,
-            'shuffle': 100
+            'shuffle': 10
         }
 
         for c in filter_chances.keys():
