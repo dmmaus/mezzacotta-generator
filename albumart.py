@@ -177,6 +177,10 @@ class AlbumArt():
             self.album_title = mispell.mispell(self.album_title)
         if random.randrange(100) < 20:
             self.band_name = mispell.mispell(self.band_name)
+        if random.randrange(100) < 15:
+            self.band_name = mispell.umlautify(self.band_name)
+        if random.randrange(100) < 5:
+            self.album_title = mispell.umlautify(self.album_title)
 
         # Randomly split multi-word band names
         spaces = len(self.band_name.split()) - 1
