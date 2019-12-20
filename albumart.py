@@ -2,6 +2,7 @@ from getflickr import FlickrGettr
 import random
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageOps, ImageEnhance
 import glob
+import mispell
 
 
 class AlbumArt():
@@ -172,6 +173,10 @@ class AlbumArt():
             self.album_title = self.album_title.lower()
         if random.randrange(100) < 8:
             self.band_name = self.band_name.upper()
+        if random.randrange(100) < 10:
+            self.album_title = mispell.mispell(self.album_title)
+        if random.randrange(100) < 20:
+            self.band_name = mispell.mispell(self.band_name)
 
         # Randomly split multi-word band names
         spaces = len(self.band_name.split()) - 1

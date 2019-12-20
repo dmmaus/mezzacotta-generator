@@ -1,0 +1,5 @@
+@format ~
+$adjective
+$noun
+$verb-transitive-simple
+$place
