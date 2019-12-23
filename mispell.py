@@ -17,7 +17,11 @@ def mispell(word):
     res= word
 
     with open('subs.txt') as json_file:
-        subs = json.load(json_file)
+        try:
+            subs = json.load(json_file)
+        except ValueError as e:
+            print("Invalid JSON file")
+            return res[1:-1]
 
     subs_key_list = list(subs.keys())
     random.shuffle(subs_key_list)
