@@ -55,4 +55,4 @@ $noun $noun @set1(project,$band/ensemble,$person_S)
 @set1($noun,$verb-intransitive) - @random1(100,500)
 $band/band-prefix + @set1($noun,$verb-intransitive_ING,$band/band-suffix)
 @set1($adjective,$noun,$verb-transitive-simple) + $band/band-suffix
-^@set1($band/band-adjective-metal,$adjective) @set1($band/band-noun-metal,$noun)
+@set1($band/band-adjective-metal,$adjective) @set1($band/band-noun-metal,$noun)
