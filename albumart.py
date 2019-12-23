@@ -127,6 +127,25 @@ class AlbumArt():
 
             cropped = dest_imag
 
+        if command == 'jitter':
+            # Copy each 100x100 region into a slightly modified position in a temporary image
+
+            dest_imag = cropped.copy()
+
+            source_locations = []
+            for y_pos in range(0, height, 100):
+                for x_pos in range(0, width, 100):
+                    source_locations.append((x_pos, y_pos))
+            random.shuffle(source_locations)
+
+            for x_pos, y_pos in source_locations:
+                square = cropped.crop((x_pos, y_pos, x_pos + 100, y_pos + 100))
+
+                dest_imag.paste(square, (x_pos + random.choice([-10,10]), y_pos + random.choice([-10, 10])))
+
+            cropped = dest_imag
+
+
         if command == 'spin':
             # Rotate each 100x100 region to a random orientation
             dest_imag = Image.new("RGB", (width, height))
@@ -143,6 +162,18 @@ class AlbumArt():
                 cropped = cropped.rotate(random.choice([90, 180, 270]))
             else:
                 cropped = cropped.rotate(180)
+
+        if command == 'venetian':
+            if random.randrange(100) < 50:
+                for y_pos in range(0, height, 25):
+                    slat = cropped.crop((0, y_pos, width, y_pos + 25))
+                    slat = slat.transpose(Image.FLIP_TOP_BOTTOM)
+                    cropped.paste(slat, (0, y_pos))
+            else:
+                for x_pos in range(0, width, 25):
+                    slat = cropped.crop((x_pos, 0, x_pos + 25, height))
+                    slat = slat.transpose(Image.FLIP_LEFT_RIGHT)
+                    cropped.paste(slat, (x_pos, 0))
 
         if command == 'channel_rotate':
             r, g, b = Image.Image.split(cropped)
@@ -268,7 +299,9 @@ class AlbumArt():
             'rotate': 10,
             'spin': 10,
             'channel_rotate': 10,
-            'channel_separate': 10
+            'channel_separate': 10,
+            'jitter': 10,
+            'venetian': 10,
         }
 
         for c in filter_chances.keys():
@@ -276,7 +309,7 @@ class AlbumArt():
                 commands.append(c)
 
         random.shuffle(commands)
-        if [i for i in ['shuffle', 'rotate', 'quantize', 'spin'] if i in commands]:
+        if [i for i in ['shuffle', 'rotate', 'quantize', 'spin', 'jitter', 'venetian'] if i in commands]:
             commands.remove('band')
             commands.remove('title')
             commands.append('band')
@@ -290,7 +323,7 @@ class AlbumArt():
             elif command == 'title':
                 self.drawTitle(album_typeface, tuple(album_colour))
             else:
-                self.filter(command, random.randrange(100) < 25 and command != 'shuffle')
+                self.filter(command, random.randrange(100) < 25 and command not in ['shuffle', 'jitter', 'venetian', 'spin'])
 
 
         # Print useful information
