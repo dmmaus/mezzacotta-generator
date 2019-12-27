@@ -105,6 +105,9 @@ class AlbumArt():
             enhancer = ImageEnhance.Brightness(cropped)
             cropped = enhancer.enhance(0.25 + random.random() * 2.0)
 
+        if command == 'edges':
+            cropped = cropped.filter(ImageFilter.EDGE_ENHANCE_MORE)
+
         if command == 'shuffle':
             # Copy/paste each 100x100 region into a random grid slot in a temporary image
             shuffle_idx = list(range((width // 100) * (height // 100)))
@@ -302,6 +305,7 @@ class AlbumArt():
             'channel_separate': 10,
             'jitter': 10,
             'venetian': 10,
+            'edges': 15
         }
 
         for c in filter_chances.keys():
@@ -330,6 +334,8 @@ class AlbumArt():
         print('Band: ' + self.band_name.replace('\n', ' ') + ' (' + band_typeface.split('\\')[-1] + ')')
         print('Album: ' + self.album_title + ' (' + album_typeface.split('\\')[-1] + ')')
         print('Artwork keyword: ' + matching_keyword)
+
+        return self.cover.copy()
 
     def emit(self, filename='res.jpg'):
         self.cover.save(filename)
