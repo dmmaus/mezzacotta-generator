@@ -13,29 +13,39 @@ def find_nth(haystack, needle, n):
 
 def mispell(word):
 
-    word = '_' + word + '_'
-    res= word
+    words = word.split()
+    final_res = ''
 
     with open('subs.txt') as json_file:
         try:
             subs = json.load(json_file)
         except ValueError as e:
             print("Invalid JSON file")
-            return res[1:-1]
+            return word
 
-    subs_key_list = list(subs.keys())
-    random.shuffle(subs_key_list)
+    for w in words:
 
-    for s in subs_key_list:
-        n = word.count(s)
-        if n > 0:
-            idx = random.randrange(n)
-            start = find_nth(word, s, idx + 1)
-            res = word[:start] + subs[s] + word[start + len(s):]
-            break
+        if '$' in w:
+            final_res += w + ' '
+            continue
 
-    return res[1:-1]
+        w = '_' + w + '_'
+        this_res = w
 
+        subs_key_list = list(subs.keys())
+        random.shuffle(subs_key_list)
+
+        for s in subs_key_list:
+            n = w.count(s)
+            if n > 0:
+                idx = random.randrange(n)
+                start = find_nth(w, s, idx + 1)
+                this_res = w[:start] + subs[s] + w[start + len(s):]
+                break
+
+        final_res += this_res[1:-1] + ' '
+
+    return final_res
 
 def umlautify(word):
     letters = list(word)
@@ -65,5 +75,5 @@ def umlautify(word):
 
 
 if __name__ == '__main__':
-    print(umlautify('now with added umlauts'))
+    print(mispell('drinkable $adjective potion'))
 
