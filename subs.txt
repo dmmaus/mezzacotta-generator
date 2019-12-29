@@ -95,6 +95,7 @@
     "one_":"own_",
     "ony_":"ownie_",
     "ool":"ewl",
+    "otion_":"ocean_",
     "oub":"ubb",
     "ould":"ood",
     "oung":"ung",
