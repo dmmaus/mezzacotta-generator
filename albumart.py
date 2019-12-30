@@ -127,6 +127,28 @@ class AlbumArt():
 
             cropped = Image.fromarray(cv2.cvtColor(cartoon, cv2.COLOR_BGR2RGB))
 
+        if command == 'stylized':
+            opencv_image = cv2.cvtColor(numpy.array(cropped), cv2.COLOR_RGB2BGR)
+
+            stylized = cv2.stylization(opencv_image, sigma_s=60, sigma_r=0.07)
+
+            cropped = Image.fromarray(cv2.cvtColor(stylized, cv2.COLOR_BGR2RGB))
+
+        if command == 'smooth':
+            opencv_image = cv2.cvtColor(numpy.array(cropped), cv2.COLOR_RGB2BGR)
+
+            smoothed = cv2.edgePreservingFilter(opencv_image, flags=1, sigma_s=60, sigma_r=0.4)
+
+            cropped = Image.fromarray(cv2.cvtColor(smoothed, cv2.COLOR_BGR2RGB))
+
+        if command == 'detail':
+            opencv_image = cv2.cvtColor(numpy.array(cropped), cv2.COLOR_RGB2BGR)
+
+            detailed = cv2.detailEnhance(opencv_image, sigma_s=10, sigma_r=0.15)
+
+            cropped = Image.fromarray(cv2.cvtColor(detailed, cv2.COLOR_BGR2RGB))
+
+
         if command == 'shuffle':
             # Copy/paste each 100x100 region into a random grid slot in a temporary image
             shuffle_idx = list(range((width // 100) * (height // 100)))
@@ -321,12 +343,15 @@ class AlbumArt():
             'rotate': 8,
             'spin': 15,
             'channel_rotate': 4,
-            'channel_separate': 6,
+            'channel_separate': 10,
             'jitter': 11,
             'venetian': 12,
             'edges': 4,
             'canny': 13,
-            'cartoon': 7
+            'cartoon': 7,
+            'stylized': 9,
+            'smooth': 4,
+            'detail': 3
         }
 
         potential_filters = []
