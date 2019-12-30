@@ -331,18 +331,18 @@ class AlbumArt():
 
         commands = ['band', 'title']
         filter_wackiness = {
-            'convolve': 5,
-            'blur': 4,
-            'invert': 5,
+            'convolve': 9,
+            'blur': 5,
+            'invert': 8,
             'quantize': 12,
-            'grayscale': 3,
-            'posterize': 8,
+            'grayscale': 5,
+            'posterize': 11,
             'solarize': 7,
-            'brightness': 2,
+            'brightness': 5,
             'shuffle': 17,
             'rotate': 8,
             'spin': 15,
-            'channel_rotate': 4,
+            'channel_rotate': 7,
             'channel_separate': 10,
             'jitter': 11,
             'venetian': 12,
@@ -350,8 +350,8 @@ class AlbumArt():
             'canny': 13,
             'cartoon': 7,
             'stylized': 9,
-            'smooth': 4,
-            'detail': 3
+            'smooth': 5,
+            'detail': 5
         }
 
         potential_filters = []
@@ -360,15 +360,13 @@ class AlbumArt():
 
         random.shuffle(potential_filters)
 
-        max_wackiness = int(random.normalvariate(15, 5))
+        max_wackiness = max(0, int(random.normalvariate(17, 5)))
 
         wackiness = 0
         for f in potential_filters:
             if wackiness + filter_wackiness[f] <= max_wackiness:
                 wackiness += filter_wackiness[f]
                 commands.append(f)
-            else:
-                break
 
         random.shuffle(commands)
         if [i for i in ['shuffle', 'rotate', 'quantize', 'spin', 'jitter', 'venetian'] if i in commands]:
