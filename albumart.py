@@ -218,6 +218,16 @@ class AlbumArt():
                     slat = slat.transpose(Image.FLIP_LEFT_RIGHT)
                     cropped.paste(slat, (x_pos, 0))
 
+        if command == 'mirror':
+            dest_imag = Image.new("RGB", (width, height))
+            x_pos = width // 4
+            mirror_half = cropped.crop((x_pos, 0, x_pos + width // 2, height))
+            dest_imag.paste(mirror_half, (0, 0))
+            mirror_half = mirror_half.transpose(Image.FLIP_LEFT_RIGHT)
+            dest_imag.paste(mirror_half, (width // 2, 0))
+
+            cropped = dest_imag
+
         if command == 'channel_rotate':
             r, g, b = Image.Image.split(cropped)
             cropped = Image.merge('RGB', random.choice([(g, b, r), (b, r, g)]))
@@ -344,14 +354,15 @@ class AlbumArt():
             'spin': 15,
             'channel_rotate': 7,
             'channel_separate': 10,
-            'jitter': 11,
+            'jitter': 8,
             'venetian': 12,
             'edges': 4,
             'canny': 13,
             'cartoon': 7,
             'stylized': 9,
             'smooth': 5,
-            'detail': 5
+            'detail': 5,
+            'mirror': 7
         }
 
         potential_filters = []
@@ -369,7 +380,7 @@ class AlbumArt():
                 commands.append(f)
 
         random.shuffle(commands)
-        if [i for i in ['shuffle', 'rotate', 'quantize', 'spin', 'jitter', 'venetian'] if i in commands]:
+        if [i for i in ['shuffle', 'rotate', 'quantize', 'spin', 'jitter', 'venetian', 'mirror'] if i in commands]:
             commands.remove('band')
             commands.remove('title')
             commands.append('band')
