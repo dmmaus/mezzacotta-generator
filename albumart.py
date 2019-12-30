@@ -335,7 +335,7 @@ class AlbumArt():
 
         random.shuffle(potential_filters)
 
-        max_wackiness = random.randrange(50)
+        max_wackiness = int(random.normalvariate(15, 5))
         wackiness = 0
         for f in potential_filters:
             if wackiness + filter_wackiness[f] <= max_wackiness:
