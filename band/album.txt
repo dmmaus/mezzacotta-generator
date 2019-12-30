@@ -7,4 +7,4 @@
 *ADJ @set1(*NOUN,*PLACE,*PERS,$band/nonkeyword)
 4$art/anything @set1(*NOUN,*ADJ,*PERS,*PLACE) 4$art/anything
 $band/nonkeyword 2$band/nonkeyword
-$movie/title
+$band/album-special
