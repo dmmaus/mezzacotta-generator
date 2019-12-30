@@ -1,0 +1,94 @@
+# Special album title formats based on movie titles, but utilising keywords
+# KEYWORDS: *NOUN (noun) ~ *VERB ~ *PLACE ~ *ADJ ~ *PERS (person_S)
+@format ~
+$artifact/base
+The 9$adj-person *NOUN
+The 3$adj-person *NOUN of $noun-artifact-abstract
+The $movie/character and the 5$adj-person *NOUN
+The $movie/character
+The *PERS of $noun-artifact-abstract
+The *PERS with the $artifact/adj-artifact *NOUN
+*PERS $movie/setting
+*PERS of $noun-artifact-abstract
+*NOUN $movie/setting
+$person-relation_S of the *NOUN
+$noun *PERS
+$artifact/adj-artifact $noun-artifact-abstract 3$movie/setting
+$noun-artifact-abstract *PERS
+$noun_S and $noun_S
+*PERS and $noun_S
+$noun_S and *PERS
+$noun_S and $noun-artifact-abstract
+A $movie/person of $noun-artifact-abstract
+The $noun_S and the *NOUN
+The *NOUN of the $noun_S
+The $noun-geography-landform of the 3$artifact/adj-artifact *NOUN
+4$adj-person *PERS in a 4$artifact/adj-artifact $noun-geography-landform
+*PERS of the 4$artifact/adj-artifact $noun-geography-landform
+*NOUN $person-relation
+$noun-geography-landform of 5$artifact/adj-artifact $noun-artifact-abstract
+*NOUN in *PLACE
+The $noun-artifact-abstract of *PLACE
+The $noun-geography-landform of *PLACE
+The 2$adj-person $movie/person of *PLACE
+*PLACE $noun-abstract
+A *ADJ $movie/event in a 4$artifact/adj-artifact $noun-geography-landform
+The *ADJ $movie/event
+*PERS at a $movie/event
+The $movie/story of 2$artifact/adj-artifact *PERS
+$noun-artifact-abstract *PLACE
+The $movie/person 's $noun
+$movie/multiple $person-relation_S
+The *PERS who $verb-transitive $noun_S
+To $verb-transitive a *NOUN
+The $movie/person 's $movie/entity
+*PLACE $noun-artifact-abstract
+The $movie/person 's $noun-geography-landform
+*NOUN $adj-person
+$verb-transitive the *PERS
+*PERS on a $noun-vehicle
+*ADJ $artifact/adj-artifact $movie/person $noun-animal_S
+$noun-artifact-abstract in the $noun-artifact-abstract
+The $person-ruler of *PLACE
+$noun-artifact-abstract $person-ruler
+$noun-artifact-abstract comes to *PLACE
+$name-full-modern
+The $verb-transitive_ING of $name-full-modern
+$name-full-male-modern and his $noun_S
+$name-full-female-modern and her $noun_S
+$name-modern 's *NOUN
+*ADJ
+*ADJ me
+$movie/entity , $movie/entity and $number-small *ADJ $noun-artifact_S
+$movie/event at $name-female-modern 's
+$name-female-modern 's $movie/event
+$name-honorific $name-surname-modern goes to *PLACE
+$name-male-modern $verb-transitive_S the *NOUN
+$name-modern $noun-animal
+$name-modern and the $noun-geography-landform of $number-big $noun_S
+$name-modern of *PLACE
+$name-surname-modern 's $number-small
+*NOUN +world                                                # Waterworld
+$noun-animal_S on a $noun-vehicle
+$noun-bodypart_S of the *PERS
+$number-small $noun_S outside *PLACE
+$number-small $adj-personality *PERS
+$verb-intransitive like a $movie/person
+A *ADJ place
+A *NOUN named $noun-artifact-abstract
+All the *ADJ $noun_S
+Along came a $noun-animal
+$verb-transitive_ING $name-full-modern
+How *ADJ is my $noun-geography-landform ?
+How the *PERS $verb-transitive $movie/entity_S
+How to $verb-transitive your $movie/entity
+I, $movie/entity
+No $noun-geography-landform for *ADJ *PERS
+Once upon a time in *PLACE
+The $movie/person who $verb-transitive_ED me
+The $movie/person with the $artifact/adj-artifact $noun-bodypart
+The $noun In Their $noun-bodypart_S
+There will be $movie/entity_S
+Those ain't $noun_S
+To $verb-transitive a $noun-animal
+Very *ADJ things
