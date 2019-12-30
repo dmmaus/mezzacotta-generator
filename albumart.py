@@ -116,6 +116,17 @@ class AlbumArt():
             if self.inverted_colours:
                 cropped = ImageOps.invert(cropped)
 
+        if command == 'cartoon':
+            opencv_image = cv2.cvtColor(numpy.array(cropped), cv2.COLOR_RGB2BGR)
+
+            gray = cv2.cvtColor(opencv_image, cv2.COLOR_BGR2GRAY)
+            gray = cv2.medianBlur(gray, 3)
+            edges = cv2.adaptiveThreshold(gray, 255, cv2.ADAPTIVE_THRESH_MEAN_C, cv2.THRESH_BINARY, 9, 9)
+            color = cv2.bilateralFilter(opencv_image, 9, 300, 300)
+            cartoon = cv2.bitwise_and(color, color, mask=edges)
+
+            cropped = Image.fromarray(cv2.cvtColor(cartoon, cv2.COLOR_BGR2RGB))
+
         if command == 'shuffle':
             # Copy/paste each 100x100 region into a random grid slot in a temporary image
             shuffle_idx = list(range((width // 100) * (height // 100)))
@@ -314,7 +325,8 @@ class AlbumArt():
             'jitter': 10,
             'venetian': 10,
             'edges': 15,
-            'canny': 10
+            'canny': 10,
+            'cartoon': 10
         }
 
         for c in filter_chances.keys():
