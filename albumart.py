@@ -308,30 +308,41 @@ class AlbumArt():
         # Shuffle the list and apply them.
 
         commands = ['band', 'title']
-        filter_chances = {
-            'convolve': 20,
-            'blur': 20,
+        filter_wackiness = {
+            'convolve': 5,
+            'blur': 4,
             'invert': 5,
-            'quantize': 15,
-            'grayscale': 15,
-            'posterize': 10,
-            'solarize': 15,
-            'brightness': 15,
-            'shuffle': 10,
-            'rotate': 10,
-            'spin': 10,
-            'channel_rotate': 10,
-            'channel_separate': 10,
-            'jitter': 10,
-            'venetian': 10,
-            'edges': 15,
-            'canny': 10,
-            'cartoon': 10
+            'quantize': 12,
+            'grayscale': 3,
+            'posterize': 8,
+            'solarize': 7,
+            'brightness': 2,
+            'shuffle': 17,
+            'rotate': 8,
+            'spin': 15,
+            'channel_rotate': 4,
+            'channel_separate': 6,
+            'jitter': 11,
+            'venetian': 12,
+            'edges': 4,
+            'canny': 13,
+            'cartoon': 7
         }
 
-        for c in filter_chances.keys():
-            if random.randrange(100) < filter_chances[c]:
-                commands.append(c)
+        potential_filters = []
+        for k in filter_wackiness.keys():
+            potential_filters.append(k)
+
+        random.shuffle(potential_filters)
+
+        max_wackiness = random.randrange(50)
+        wackiness = 0
+        for f in potential_filters:
+            if wackiness + filter_wackiness[f] <= max_wackiness:
+                wackiness += filter_wackiness[f]
+                commands.append(f)
+            else:
+                break
 
         random.shuffle(commands)
         if [i for i in ['shuffle', 'rotate', 'quantize', 'spin', 'jitter', 'venetian'] if i in commands]:
@@ -340,16 +351,17 @@ class AlbumArt():
             commands.append('band')
             commands.append('title')
 
-        print(commands)
+        print('Filter list with maximum', max_wackiness, 'wackiness:\n  ', end=' ')
 
         for command in commands:
+            print(command, end=' ')
             if command == 'band':
                 self.drawBand(band_typeface, tuple(band_colour))
             elif command == 'title':
                 self.drawTitle(album_typeface, tuple(album_colour))
             else:
                 self.filter(command, random.randrange(100) < 25 and command not in ['shuffle', 'jitter', 'venetian', 'spin'])
-
+        print()
 
         # Print useful information
         print('Band: ' + self.band_name.replace('\n', ' ') + ' (' + band_typeface.split('\\')[-1] + ')')
