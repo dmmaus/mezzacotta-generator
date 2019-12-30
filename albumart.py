@@ -3,6 +3,8 @@ import random
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageOps, ImageEnhance
 import glob
 import mispell
+import cv2
+import numpy
 
 
 class AlbumArt():
@@ -107,6 +109,12 @@ class AlbumArt():
 
         if command == 'edges':
             cropped = cropped.filter(ImageFilter.EDGE_ENHANCE_MORE)
+
+        if command == 'canny':
+            opencv_image = cv2.cvtColor(numpy.array(cropped), cv2.COLOR_RGB2BGR)
+            cropped = Image.fromarray(cv2.cvtColor(cv2.Canny(opencv_image, 100, 200), cv2.COLOR_BGR2RGB))
+            if self.inverted_colours:
+                cropped = ImageOps.invert(cropped)
 
         if command == 'shuffle':
             # Copy/paste each 100x100 region into a random grid slot in a temporary image
@@ -305,7 +313,8 @@ class AlbumArt():
             'channel_separate': 10,
             'jitter': 10,
             'venetian': 10,
-            'edges': 15
+            'edges': 15,
+            'canny': 10
         }
 
         for c in filter_chances.keys():
