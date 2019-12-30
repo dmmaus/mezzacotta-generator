@@ -167,7 +167,6 @@ class AlbumArt():
 
             cropped = dest_imag
 
-
         if command == 'spin':
             # Rotate each 100x100 region to a random orientation
             dest_imag = Image.new("RGB", (width, height))
@@ -204,13 +203,14 @@ class AlbumArt():
         if command == 'channel_separate':
             # separate, misalign the channels, and combine
             r, g, b = Image.Image.split(cropped)
+            separation_amount = max(1, int(random.normalvariate(15, 5)))
 
             if random.randrange(100) < 50:
-                r.paste(r, (-20, 0))
-                b.paste(b, (20, 0))
+                r.paste(r, (-separation_amount, 0))
+                b.paste(b, (separation_amount, 0))
             else:
-                r.paste(r, (0, -20))
-                b.paste(b, (0, -20))
+                r.paste(r, (0, -separation_amount))
+                b.paste(b, (0, -separation_amount))
 
             cropped = Image.merge('RGB', (r, g, b))
 
@@ -336,6 +336,7 @@ class AlbumArt():
         random.shuffle(potential_filters)
 
         max_wackiness = int(random.normalvariate(15, 5))
+
         wackiness = 0
         for f in potential_filters:
             if wackiness + filter_wackiness[f] <= max_wackiness:
