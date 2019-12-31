@@ -47,6 +47,11 @@ class AlbumArt():
                              spacing=int(band_font_size * 0.2))
 
     def drawTitle(self, typeface, colour):
+        # If the artwork was narrow, random chance to typeset the band name vertically up the side of the album.
+        vert_typeset = self.artwork_width < 760 and random.randrange(100) < 50
+        if vert_typeset:
+            self.cover = self.cover.rotate(270)
+
         # Draw the album name
         d = ImageDraw.Draw(self.cover)
         done = False
@@ -55,13 +60,20 @@ class AlbumArt():
         while not done:
             album_font = ImageFont.truetype(typeface, album_font_size)
             text_width, text_height = d.textsize(self.album_title, album_font)
-            if text_width > 760:
+            if text_width > 740:
                 album_font_size -= 4
             else:
                 done = True
 
         text_width, _ = d.textsize(self.album_title, font=album_font)
-        d.text((780 - text_width, 720), self.album_title, font=album_font, fill=colour)
+
+        if vert_typeset:
+            d.text((20, 730), self.album_title, font=album_font, fill=colour)
+        else:
+            d.text((780 - text_width, 720), self.album_title, font=album_font, fill=colour)
+
+        if vert_typeset:
+            self.cover = self.cover.rotate(90)
 
     def filter(self, command, full=False):
 
@@ -314,6 +326,7 @@ class AlbumArt():
         clip_height = min(600, height)
         cropped = art.crop((0,0,clip_width,clip_height))
         self.cover.paste(cropped, ((800 - clip_width) // 2,100 + (600 - clip_height) // 2))
+        self.artwork_width = clip_width
 
         # Select fonts for the album and band names, from a local directory.
         band_typeface = random.choice(glob.glob('./Fonts/*'))
@@ -379,6 +392,8 @@ class AlbumArt():
                 wackiness += filter_wackiness[f][0]
                 commands.append(f)
 
+        # Perform the selected commands in random order, except that certain filters that have the potential
+        # to be destructive to the title/band text will cause the text to be typeset last.
         random.shuffle(commands)
         if [i for i in ['shuffle', 'rotate', 'quantize', 'spin', 'jitter', 'venetian', 'mirror'] if i in commands]:
             commands.remove('band')
