@@ -395,7 +395,7 @@ class AlbumArt():
         # Perform the selected commands in random order, except that certain filters that have the potential
         # to be destructive to the title/band text will cause the text to be typeset last.
         random.shuffle(commands)
-        if [i for i in ['shuffle', 'rotate', 'quantize', 'spin', 'jitter', 'venetian', 'mirror'] if i in commands]:
+        if [i for i in ['shuffle', 'rotate', 'quantize', 'spin', 'jitter', 'venetian', 'mirror', 'stylized'] if i in commands]:
             commands.remove('band')
             commands.remove('title')
             commands.append('band')
