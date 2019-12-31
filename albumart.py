@@ -48,7 +48,7 @@ class AlbumArt():
 
     def drawTitle(self, typeface, colour):
         # If the artwork was narrow, random chance to typeset the band name vertically up the side of the album.
-        vert_typeset = self.artwork_width < 760 and random.randrange(100) < 50
+        vert_typeset = self.artwork_width < 680 and random.randrange(100) < 50
         if vert_typeset:
             self.cover = self.cover.rotate(270)
 
