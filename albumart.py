@@ -341,28 +341,28 @@ class AlbumArt():
 
         commands = ['band', 'title']
         filter_wackiness = {
-            'convolve': 9,
-            'blur': 5,
-            'invert': 8,
-            'quantize': 12,
-            'grayscale': 5,
-            'posterize': 11,
-            'solarize': 7,
-            'brightness': 5,
-            'shuffle': 17,
-            'rotate': 8,
-            'spin': 15,
-            'channel_rotate': 7,
-            'channel_separate': 10,
-            'jitter': 8,
-            'venetian': 12,
-            'edges': 4,
-            'canny': 13,
-            'cartoon': 7,
-            'stylized': 9,
-            'smooth': 5,
-            'detail': 5,
-            'mirror': 7
+            'convolve': (9, 30),
+            'blur': (5, 20),
+            'invert': (8, 50),
+            'quantize': (12, 20),
+            'grayscale': (5, 60),
+            'posterize': (11, 25),
+            'solarize': (7, 25),
+            'brightness': (5, 25),
+            'shuffle': (17, 0),
+            'rotate': (8, 40),
+            'spin': (15, 0),
+            'channel_rotate': (7, 25),
+            'channel_separate': (10, 5),
+            'jitter': (8, 30),
+            'venetian': (12, 5),
+            'edges': (4, 25),
+            'canny': (13, 30),
+            'cartoon': (7, 30),
+            'stylized': (9, 25),
+            'smooth': (5, 25),
+            'detail': (5, 25),
+            'mirror': (7, 70)
         }
 
         potential_filters = []
@@ -375,8 +375,8 @@ class AlbumArt():
 
         wackiness = 0
         for f in potential_filters:
-            if wackiness + filter_wackiness[f] <= max_wackiness:
-                wackiness += filter_wackiness[f]
+            if wackiness + filter_wackiness[f][0] <= max_wackiness:
+                wackiness += filter_wackiness[f][0]
                 commands.append(f)
 
         random.shuffle(commands)
@@ -395,7 +395,10 @@ class AlbumArt():
             elif command == 'title':
                 self.drawTitle(album_typeface, tuple(album_colour))
             else:
-                self.filter(command, random.randrange(100) < 25 and command not in ['shuffle', 'jitter', 'venetian', 'spin'])
+                is_full = random.randrange(100) < filter_wackiness[command][1]
+                self.filter(command, is_full)
+                if is_full:
+                    print('(full)', end=' ')
         print()
 
         # Print useful information
