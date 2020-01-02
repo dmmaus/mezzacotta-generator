@@ -330,10 +330,22 @@ class AlbumArt():
 
         if clip_height < height:
             y_clip_start = random.randrange(height - clip_height)
-            
+
+        self.artwork_width = clip_width
+
+        # If the artwork is full-width, there's a chance the lower portion will be a different background colour.
+        if self.artwork_width == 800 and random.randrange(100) < 40:
+            if self.inverted_colours:
+                lower_bg_colour = [255, random.randrange(192, 256), random.randrange(128, 256)]
+            else:
+                lower_bg_colour = [0, random.randrange(64), random.randrange(128)]
+            random.shuffle(lower_bg_colour)
+
+            lower_bg = Image.new('RGB', (800, 400), tuple(lower_bg_colour))
+            self.cover.paste(lower_bg, (0, 400))
+
         cropped = art.crop((0, y_clip_start, clip_width, y_clip_start + clip_height))
         self.cover.paste(cropped, ((800 - clip_width) // 2, 100 + (600 - clip_height) // 2))
-        self.artwork_width = clip_width
 
         # Select fonts for the album and band names, from a local directory.
         band_typeface = random.choice(glob.glob('./Fonts/*'))
