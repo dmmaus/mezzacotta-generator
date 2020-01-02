@@ -25,6 +25,8 @@ class AlbumArt():
         random.shuffle(bg_colour)
         self.cover = Image.new("RGB", (800,800), tuple(bg_colour))
 
+        self.artwork_width = 0
+
     def drawBand(self, typeface, colour):
         # Draw the band name, trying smaller font sizes if needed
         d = ImageDraw.Draw(self.cover)
@@ -324,8 +326,13 @@ class AlbumArt():
 
         clip_width = min(800, width)
         clip_height = min(600, height)
-        cropped = art.crop((0,0,clip_width,clip_height))
-        self.cover.paste(cropped, ((800 - clip_width) // 2,100 + (600 - clip_height) // 2))
+        y_clip_start = 0
+
+        if clip_height < height:
+            y_clip_start = random.randrange(height - clip_height)
+            
+        cropped = art.crop((0, y_clip_start, clip_width, y_clip_start + clip_height))
+        self.cover.paste(cropped, ((800 - clip_width) // 2, 100 + (600 - clip_height) // 2))
         self.artwork_width = clip_width
 
         # Select fonts for the album and band names, from a local directory.
