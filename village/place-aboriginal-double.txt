@@ -1,0 +1,6 @@
+@format ~
+*PLACE_ABORIGINAL_COMPONENT *PLACE_ABORIGINAL_COMPONENT                             $village/place-aboriginal-prefix=PLACE_ABORIGINAL_COMPONENT
+*PLACE_ABORIGINAL_COMPONENT *PLACE_ABORIGINAL_COMPONENT                             $village/place-aboriginal-suffix=PLACE_ABORIGINAL_COMPONENT
+*PLACE_ABORIGINAL_COMPONENT *PLACE_ABORIGINAL_COMPONENT                             $village/place-aboriginal-prefix=PLACE_ABORIGINAL_COMPONENT
+*PLACE_ABORIGINAL_COMPONENT *PLACE_ABORIGINAL_COMPONENT                             $village/place-aboriginal-suffix=PLACE_ABORIGINAL_COMPONENT
+*PLACE_ABORIGINAL_COMPONENT *PLACE_ABORIGINAL_COMPONENT                             $village/place-aboriginal-component=PLACE_ABORIGINAL_COMPONENT
