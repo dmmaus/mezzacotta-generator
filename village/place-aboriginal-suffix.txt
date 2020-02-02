@@ -94,6 +94,7 @@ bram
 bri
 brok
 bucca
+budgeree
 budin
 bul
 bula
@@ -102,6 +103,7 @@ bulga
 bulk
 bulla
 bundah
+bundara
 bundrie
 bungin
 bungle
@@ -343,6 +345,7 @@ gorring
 gourie
 gowra
 grup
+gubra
 gul
 gulla
 gullen
@@ -435,6 +438,7 @@ larah
 laro
 laroi
 laroo
+larook
 laroy
 lawarra
 leah
@@ -499,6 +503,7 @@ lunga
 lunya
 lup
 ma
+madgi
 maga
 magh
 magui
@@ -778,6 +783,7 @@ wala
 walla
 wallee
 wallinu
+wamba
 wang
 wangalo
 wangi
