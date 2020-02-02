@@ -12,6 +12,7 @@ $place-state|$place-state_N|$place-state_NS
 $place-state|$place-state_N|$place-state_NS
 $place-real|$place-real_N|$place-real_NS
 $place-real|$place-real_N|$place-real_NS
+$place-fictional|$place-fictional_N|$place-fictional_NS
 _|villager_of|villagers_of $village/name-simple
 _|villager_of|villagers_of $village/village-german-name
 _|resident_of|residents_of $village/place-aboriginal-name

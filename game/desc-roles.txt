@@ -1,6 +1,6 @@
 @format ~
 players take on the roles of ^ *PLACE 's most $adj-person *PERS1
-one player is the *PERS2 of ^ *PLACE , while the others take on the roles of the *PERS1
+3$game/desc-move-who>one_player player is the *PERS2 of ^ *PLACE , while the others take on the roles of the *PERS1
 transported to the land of ^ *PLACE , the players 5choose>select roles of 5various>unique *PERS1
 5each_player>everyone 5is>acts_as one of the 3$adj-person *PERS1 of ^ *PLACE (except for $game/desc-first-player-who ; they are a $game/person instead)
 each player is a manager of one of ^ *PLACE 's most prominent *THING factories
@@ -15,4 +15,8 @@ everyone plays as a character from amongst the game's factions: @set3(*PERS1,$no
 players are $sport coaches, drafting their teams from amongst the @set3(*PERS1,$noun-animal_S,$game/person_S,$game/person_S,$game/person_S,$insult/thing_S,$game/desc-faction_S) of ^ *PLACE
 players adopt roles from the government of ^ *PLACE 's Department of ^ @set1($verb-intransitive_ING,$noun-artifact-abstract,$noun_S,$game/desc-faction_S)
 players 5elect>are_randomly_assigned to join the @set1(team,army,forces,side,squad,faction) of either 8$figure-fiction>$game/figure or 8$figure-fiction>$game/figure
-one player acts as $game/figure , the ^ $person-ruler of ^ *PLACE, while the others are in opposition as a team of @set1(*PERS1,$noun-animal_S,$game/person_S,$game/desc-faction_S)
+3$game/desc-move-who>one_player acts as $game/figure , the ^ $person-ruler of ^ *PLACE, while the others are in opposition as a team of @set1(*PERS1,$noun-animal_S,$game/person_S,$game/desc-faction_S)
+3$game/desc-move-who>one_player is the @set1(keeper,protector,Lord,creator,owner,defender,champion) of $artifact/base , while the other players team up as @set2(*PERS1,$noun-animal_S,$game/place_NS,$game/person_S,$insult/thing_S,$game/desc-faction_S) to $verb-transitive it
+the players are *PERS1 embarking on a race from $game/place to ^ *PLACE $game/desc-in-vehicle ( or, $game/desc-in-vehicle if they @set1(so_choose,prefer,would_rather) )
+players on one team are the $game/desc-faction_S , and must $verb-transitive $game/figure , but the $game/desc-faction team is trying to prevent that
+players begin as 8$game/desc-faction_S>$game/person_S , and during the course of the game may @set1(progress_as,upgrade_to,transform_into) 8$game/desc-faction_S>$game/person_S and @set1(finally,optionally,maybe_even,sometimes,inevitably,usually,literal) 8$game/desc-faction_S>$game/person_S

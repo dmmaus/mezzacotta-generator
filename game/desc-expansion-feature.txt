@@ -9,10 +9,12 @@ will hopefully resolve the game's lack of 5$noun_S>$noun-artifact-abstract
 add|adds @random(2,5) 5more>extra $game/terminology-round_S , during which $game/desc-result
 add|adds @random(5,100) more $game/terminology-card_S for you to $verb-transitive
 increase|increases the play time by $number-small $time-period_S
-allows|allows one player to take the role of the $game/person
+allows|allows one player to take the role of the @set1($game/person,$noun-animal,$game/desc-faction)
 allows|allows the game to be played $adverb
 transform|transforms it into a $game/game-category game
 add|adds the $game/figure character card to the game
 create|creates $game/adj new strategies to $verb-transitive your enemies
 unlock|unlocks $game/figure as a playable character
 tone|tones down the power level of the $noun $game/terminology-card_S
+makes|make the game more accessible for $person_S
+makes|make you wonder why you ever bought this game

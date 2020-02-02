@@ -1,15 +1,15 @@
+# Ways of identifying a player according to some condition. This file contains ones that only make sense during the
+#play of the game, so ones for deciding the first player are in other file (included here)
 @format ~
-$game/desc-first-player-who
+@include game/desc-first-player-who
 the active player
 the most $game/adj player
 everyone except the active player
-the player with the 5most>least 5$game/adj>$insult/adj $insult/target
 the leading player
 the start player
-the game owner
 the player with the 5most>fewest 5$noun>$game/adj $game/terminology-card_S
-the player who most recently $verb-intransitive_ED
-any player named $name-forename-modern
 everyone
 nobody
 the next player with 5at_least>no_more_than $game/desc-payment
+a person from outside the game
+the player who has @set1(travelled,traversed,moved) the 5furthest>least_far along the @set1($noun,$game/adj,$game/desc-faction) track

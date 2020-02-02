@@ -34,3 +34,9 @@ anyone who can play the $noun-instrument-musical
 the player who can do the best $noun-monster face
 anyone who got here in a $noun-vehicle
 whoever is best at $sport
+the game owner
+any player named $name-forename-modern
+the player who most recently $verb-intransitive_ED
+the player with the 5most>least 5$game/adj>$insult/adj $insult/target
+whoever can eat the most $noun-food_S
+any player who works as a $person-profession

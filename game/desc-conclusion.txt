@@ -24,3 +24,4 @@ the loser is a $insult/subject !
 featuring an appearance by none other than $name-forename-modern the ^ $noun-animal
 features artwork from $name-full-modern , including ^ $art/artwork-title
 who will be revealed to be the most $game/adj *PERS2 ?
+the ideal game to play on $time-holiday

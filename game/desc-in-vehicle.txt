@@ -1,0 +1,4 @@
+@format ~|S
+in a $noun-vehicle|$noun-vehicle_S
+in a $noun-vehicle|$noun-vehicle_S
+on a $noun-animal|$noun-animal_S

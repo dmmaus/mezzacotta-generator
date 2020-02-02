@@ -10,3 +10,5 @@ it is awarded to the player with the 5most>least $noun $game/terminology-card_S 
 it will $verb-transitive your character's $insult/target
 it moves your character 5forward>backwards @random(2,5) spaces on the $noun track
 it is then removed from the game unless someone pays $game/desc-payment for it
+it won't do anything until the $noun $game/terminology-card is $verb-transitive_ED
+it goes to $game/desc-move-who if they pay you $game/desc-payment

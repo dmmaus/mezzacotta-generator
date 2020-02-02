@@ -8,43 +8,60 @@ $noun-artifact-abstract +caster
 $adj-person one
 half- $game/desc-faction -half- $game/desc-faction|$game/desc-faction_S
 alien
+archer
+artificial intelligence
 assassin
 barbarian
+battlemage
 beast
+beserker
 centaur
 cleric
+commando
 cowboy
 cyborg
+demigod
 demon
 dervish|dervishes
 dinosaur
 dragon
 druid
 dwarf|dwarves
+elementalist
 elf|elves
 fairy|fairies
 geek
 ghost
+gladiator
 gnome
 goblin
 golem
+gunslinger
 hacker
 human
 knight
 mad scientist
 mech
+mermaid|merfolk
+monk
 monkey
 musketeer
+mystic
+necromancer
 nerd
 ninja
+nudist
 ogre
 orc
 paladin
 pirate
 plant
 princess|princesses
+pyromancer
+ranger
 robot
 rogue
+saboteur
 scarecrow
 shapeshifter
 shark
@@ -53,16 +70,24 @@ sphinx|sphinxes
 spy|spies
 steampunk
 superhero|superheroes
+super-intelligent shade|shades of the colour 5blue>$$adj-color-basic
+templar
+thief|thieves
 titan
 time traveller
+treefolk
 trickster
+valkyrie
+vandal
 vampire
 vigilante
 viking
 villain
+warder
 warlock
 warrior
 werewolf|werewolves
+witch|witches
 wizard
 wrestler
 zombie
