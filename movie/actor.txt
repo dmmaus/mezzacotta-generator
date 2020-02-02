@@ -1,8 +1,10 @@
 @format ~
 50 Cent
+Adam Driver
 Aaron Eckhart
 Adam Sandler
 Adrien Brody
+Ahmed Best
 Al Pacino
 Alan Alda
 Alan Rickman
@@ -16,9 +18,12 @@ Ashton Kutcher
 Ben Affleck
 Ben Kingsley
 Ben Stiller
+Benedict Cumberbatch
+Benedict Wong
 Benicio Del Toro
 Bernard Hill
 Bill Cosby
+Billy Dee Williams
 Bill Murray
 Bill Nighy
 Billy Bob Thornton
@@ -28,13 +33,21 @@ Bob Hoskins
 Brad Pitt
 Bradley Cooper
 Bruce Greenwood
+Bruce Lee
 Bruce Willis
 Bryan Brown
 Burt Reynolds
 Cary Elwes
+Chadwick Boseman
 Channing Tatum
 Charlie Sheen
+Chiwetel Ejiofor
+Chris Evans
+Chris Hemsworth
+Chris O'Dowd
+Chris Pratt
 Chris Rock
+Chris Sullivan
 Christian Bale
 Christian Slater
 Christopher Lloyd
@@ -51,6 +64,7 @@ Daniel Day-Lewis
 Daniel Radcliffe
 Danny Aiello
 Danny Glover
+Dave Bautista
 David Duchovny
 David Strathairn
 David Wenham
@@ -79,22 +93,30 @@ Gary Busey
 Gary Oldman
 Gene Hackman
 Gerard Butler
+Gérard Depardieu
 Geoffrey Rush
 George Clooney
 Giovanni Ribisi
 Guy Pearce
 Harrison Ford
+Harvey Keitel
 Hank Azaria
+Hafþór Júlíus Björnsson
 Hayden Christensen
 Hugh Grant
 Hugh Jackman
 Hugh Laurie
 Hugo Weaving
+Ian McDiarmid
 Ian McKellen
 Idris Elba
+Isaac Hempstead Wright
+J. K. Simmons
+Jack Gleeson
 Jack Lemmon
 Jack Nicholson
 Jackie Chan
+Jake Gyllenhaal
 James Caan
 James Earl Jones
 James Franco
@@ -102,6 +124,7 @@ James McAvoy
 James Marsden
 James Woods
 Jamie Foxx
+Jared Leto
 Jason Bateman
 Jason Stratham
 Javier Bardem
@@ -118,17 +141,21 @@ Jet Li
 Jim Carrey
 Joaquin Phoenix
 Joe Pesci
+John Boyega
+John C. Reilly
 John Cleese
 John Cusack
 John Malcovich
 John Travolta
 Johnny Depp
+Jon Favreau
 Jon Voight
 Jonah Hill
 Joseph Gordon-Levitt
 Josh Brolin
 Josh Hartnett
 Jude Law
+Justin Theroux
 Justin Timberlake
 Kal Penn
 Kareem Abdul-Jabbar
@@ -139,13 +166,18 @@ Ken Watanabe
 Kenneth Branagh
 Kevin Bacon
 Kevin Costner
+Kevin James
 Kevin Spacey
+Kit Harrington
 Kurt Russell
 Laurence Fishburne
 Leonardo DiCaprio
+Liam Hemsworth
 Liam Neeson
 Luke Wilson
+Mads Mikkelsen
 Malcolm McDowell
+Mark Hamill
 Mark Ruffalo
 Mark Wahlberg
 Martin Lawrence
@@ -158,8 +190,10 @@ Matthew Perry
 Mel Gibson
 Michael Caine
 Michael Douglas
+Michael Fassbender
 Michael J. Fox
 Michael Keaton
+Michael Peña
 Mickey Rourke
 Mike Myers
 Morgan Freeman
@@ -167,10 +201,14 @@ Mos Def
 Nicolas Cage
 Nick Nolte
 Nigel Hawthorne
+Nikolaj Coster-Waldau
 Orlando Bloom
+Oscar Isaac
 Owen Wilson
 Paul Bettany
 Paul Newman
+Paul Rudd
+Peter Dinklage
 Peter O'Toole
 Philip Seymour Hoffman
 Pierce Brosnan
@@ -203,6 +241,8 @@ Sean Bean
 Sean Connery
 Sean Penn
 Seth Rogen
+Sebastian Stan
+Shah Rukh Khan
 Shia LaBeouf
 Simon Pegg
 Steve Carell
@@ -218,6 +258,8 @@ Timothy Dalton
 Toby Maguire
 Tom Cruise
 Tom Hanks
+Tom Hiddleston
+Tom Holland
 Tommy Lee Jones
 Topher Grace
 Val Kilmer
@@ -233,5 +275,6 @@ William Hurt
 William Shatner
 Woody Allen
 Woody Harrelson
+Zac Efron
 Zach Galifianakis
 Zachary Quinto

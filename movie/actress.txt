@@ -20,6 +20,7 @@ Anna Faris
 Anna Kendrick
 Anne Hathaway
 Anne Heche
+Annette Bening
 Ashley Judd
 Barbara Hershey
 Barbra Streisand
@@ -28,6 +29,7 @@ Betty White
 Beyonce Knowles
 Bridget Fonda
 Britney Spears
+Brie Larson
 Brooke Shields
 Calista Flockhart
 Cameron Diaz
@@ -49,12 +51,15 @@ Claudia Karvan
 Courtney Cox
 Cybill Shepherd
 Cynthia Nixon
+Daisy Ridley
+Dakota Johnson
 Dakota Fanning
 Daryl Hannah
 Debbie Reynolds
 Debra Winger
 Demi Moore
 Denise Richards
+Diane Keaton
 Dianne Wiest
 Dolly Parton
 Drew Barrymore
@@ -63,6 +68,7 @@ Elizabeth Olsen
 Elizabeth Shue
 Elle Macpherson
 Ellen Barkin
+Emilia Clarke
 Emily Browning
 Emma Stone
 Emma Thompson
@@ -70,6 +76,7 @@ Emma Watson
 Eva Longoria
 Eva Mendes
 Evan Rachel Wood
+Evangeline Lilly
 Evanna Lynch
 Fran Drescher
 Frances McDormand
@@ -82,7 +89,9 @@ Gretchen Mol
 Gwyneth Paltrow
 Halle Berry
 Hayden Panettiere
+Hayley Atwell
 Helen Hunt
+Helen Mirren
 Helena Bonham Carter
 Hilary Duff
 Hilary Swank
@@ -98,6 +107,7 @@ Jennifer Aniston
 Jennifer Connelly
 Jennifer Garner
 Jennifer Jason Leigh
+Jennifer Lawrence
 Jennifer Lopez
 Jennifer Love Hewitt
 Jenny McCarthy
@@ -120,15 +130,19 @@ Julie Delpy
 Juliette Lewis
 Karen Allen
 Karen Black
+Kate Beckinsale
 Kate Hudson
 Kate Winslet
 Katey Sagal
 Katherine Heigl
 Kathleen Turner
+Kathy Bates
 Katie Holmes
 Keira Knightley
+Kelly Marie Tran
 Kelly McGillis
 Kelly Preston
+Kim Basinger
 Kirstie Alley
 Kisrten Dunst
 Kristen Bell
@@ -140,6 +154,8 @@ Laura Dern
 Laura Linney
 Laura San Giacomo
 Leelee Sobieski
+Lena Headey
+Letitia Wright
 Lily Tomlin
 Linda Fiorentino
 Linda Hamilton
@@ -155,11 +171,14 @@ Magda Szubanski
 Maggie Gyllenhaal
 Maggie Smith
 Mandy Moore
+Margot Robbie
 Maria Bello
+Marion Cotillard
 Marisa Tomei
 Mary Elizabeth Mastrantonio
 Mary Elizabeth Winstead
 Mary Steenburgen
+Masie Williams
 Meg Ryan
 Meg Tilly
 Megan Fox
@@ -174,6 +193,7 @@ Michelle Williams
 Michelle Yeoh
 Mila Kunis
 Miley Cyrus
+Mila Kunis
 Milla Jovovich
 Mira Sorvino
 Miranda Otto
@@ -190,10 +210,13 @@ Paris Hilton
 Parker Posey
 Patricia Arquette
 Patricia Clarkson
+Penélope Cruz
 Phoebe Cates
 Portia de Rossi
 Queen Lafitah
 Rachael Leigh Cook
+Rachel McAdams
+Rachel Weisz
 Rebecca Romijn
 Reese Witherspoon
 Rene Russo
@@ -213,6 +236,7 @@ Sarah Michelle Gellar
 Sarah Silverman
 Scarlett Johansson
 Sean Young
+Selena Gomez
 Selma Blair
 Shannen Doherty
 Shannon Elizabeth
@@ -221,10 +245,12 @@ Shirley MacLaine
 Sigourney Weaver
 Sigrid Thornton
 Sissy Spacek
+Sophie Turner
 Summer Glau
 Susan Sarandon
 Tara Reid
 Taylor Swift
+Tessa Thompson
 Theresa Russell
 Thora Birch
 Tilda Swinton
@@ -234,4 +260,5 @@ Uma Thurman
 Vera Famiga
 Whoopi Goldberg
 Winona Ryder
+Zoe Saldana
 Zooey Deschanel
