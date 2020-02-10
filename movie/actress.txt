@@ -31,6 +31,7 @@ Bridget Fonda
 Britney Spears
 Brie Larson
 Brooke Shields
+Bryce Dallas Howard
 Calista Flockhart
 Cameron Diaz
 Carey Mulligan
@@ -73,6 +74,7 @@ Emily Browning
 Emma Stone
 Emma Thompson
 Emma Watson
+Eva Green
 Eva Longoria
 Eva Mendes
 Evan Rachel Wood
@@ -87,6 +89,7 @@ Glenn Close
 Goldie Hawn
 Gretchen Mol
 Gwyneth Paltrow
+Hailee Steinfeld
 Halle Berry
 Hayden Panettiere
 Hayley Atwell
@@ -113,6 +116,7 @@ Jennifer Love Hewitt
 Jenny McCarthy
 Jessica Alba
 Jessica Biel
+Jessica Chastain
 Jessica Lange
 Jessica Simpson
 Joan Allen
@@ -153,6 +157,7 @@ Kyra Sedgwick
 Laura Dern
 Laura Linney
 Laura San Giacomo
+Léa Seydoux
 Leelee Sobieski
 Lena Headey
 Letitia Wright
@@ -195,12 +200,14 @@ Mila Kunis
 Miley Cyrus
 Mila Kunis
 Milla Jovovich
+Millie Bobby Brown
 Mira Sorvino
 Miranda Otto
 Mischa Barton
 Mo'nique
 Molly Ringwald
 Naomi Watts
+Natalia Tena
 Natalie Portman
 Nia Vardalos
 Nicole Kidman
@@ -238,6 +245,7 @@ Scarlett Johansson
 Sean Young
 Selena Gomez
 Selma Blair
+Shailene Woodley
 Shannen Doherty
 Shannon Elizabeth
 Sharon Stone
@@ -260,5 +268,7 @@ Uma Thurman
 Vera Famiga
 Whoopi Goldberg
 Winona Ryder
+Zendaya
+Ziyi Zhang
 Zoe Saldana
 Zooey Deschanel

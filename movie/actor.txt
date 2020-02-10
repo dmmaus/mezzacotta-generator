@@ -11,6 +11,7 @@ Alan Rickman
 Alec Baldwin
 Andy Garcia
 Andy Serkis
+Ansel Elgort
 Anthony Hopkins
 Antonio Banderas
 Arnold Schwarzenegger
@@ -22,7 +23,6 @@ Benedict Cumberbatch
 Benedict Wong
 Benicio Del Toro
 Bernard Hill
-Bill Cosby
 Billy Dee Williams
 Bill Murray
 Bill Nighy
@@ -50,6 +50,7 @@ Chris Rock
 Chris Sullivan
 Christian Bale
 Christian Slater
+Christoph Waltz
 Christopher Lloyd
 Christopher Plummer
 Christopher Walken
@@ -66,6 +67,7 @@ Danny Aiello
 Danny Glover
 Dave Bautista
 David Duchovny
+David Harbour
 David Strathairn
 David Wenham
 Dennis Hopper
@@ -87,10 +89,12 @@ Eric Stoltz
 Ethan Hawke
 Ewan McGregor
 F. Murray Abraham
+Finn Wolfhard
 Forest Whitaker
 Frank Langella
 Gary Busey
 Gary Oldman
+Gaten Matarazzo
 Gene Hackman
 Gerard Butler
 Gérard Depardieu
@@ -126,6 +130,7 @@ James Woods
 Jamie Foxx
 Jared Leto
 Jason Bateman
+Jason Isaacs
 Jason Stratham
 Javier Bardem
 Jean Claude Van Damme
@@ -167,6 +172,7 @@ Kenneth Branagh
 Kevin Bacon
 Kevin Costner
 Kevin James
+Kevin Hart
 Kevin Spacey
 Kit Harrington
 Kurt Russell
@@ -185,6 +191,7 @@ Matt Damon
 Matt Dillon
 Matt LeBlanc
 Matthew Broderick
+Matthew Lewis
 Matthew McConaughey
 Matthew Perry
 Mel Gibson
@@ -254,9 +261,11 @@ Terence Stamp
 Tim Allen
 Tim Robbins
 Tim Roth
+Timothée Chalamet
 Timothy Dalton
 Toby Maguire
 Tom Cruise
+Tom Felton
 Tom Hanks
 Tom Hiddleston
 Tom Holland
