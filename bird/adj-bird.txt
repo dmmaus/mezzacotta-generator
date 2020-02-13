@@ -11,10 +11,12 @@ common
 eastern
 elegant
 European
+great
 greater
 imperial
 intermediate
 lesser
+magnificent
 new world
 northern
 old world

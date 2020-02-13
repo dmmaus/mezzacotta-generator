@@ -1,31 +1,52 @@
 @format ~|S
 $bird/bird - $bird/bird|$bird/bird_S
+$bird/bird -of-the- $noun-geography-landform
 $bird/bird +let
 $bird/bird-prefix + $bird/bird-suffix|$bird/bird-suffix_S
 $noun +bird
 $noun + $bird/noun-bodypart-bird|$bird/noun-bodypart-bird_S
+$noun +fowl|fowl
 $noun +pecker
+$noun-animal + $bird/noun-bodypart-bird|$bird/noun-bodypart-bird_S
 $noun-animal-invertebrate +catcher
 $noun-animal-invertebrate +eater
 $noun-food +eater
 $noun-food +sucker
 $noun-food + $insult/verber|$insult/verber_S
 $noun-geography-landform + $bird/bird|$bird/bird_S
+$noun-geography-weather $bird/bird|$bird/bird_S
 $noun-tool + 5beak>bill
 $noun-weapon-historic + 5beak>bill
 $person-profession +bird
 $verb-intransitive_ING +bird
+$village/place-aboriginal-prefix + $letter-consonant + $bird/bird-suffix
 albatross|albatrosses
+auk
 avocet
 babbler
+barbet
+bird|birds of paradise
+bittern
 booby|boobies
+bowerbird
+bulbul
+bunting
 bustard
 buzzard
 canary|canaries
+cardinal
+cassowary|cassowaries
+chat
+chickadee
 chicken
 chough
+cisticola
+cock
 cockatoo
+coot
+corella
 cormorant
+courser
 crake
 crane
 crow
@@ -34,29 +55,49 @@ curlew
 darter
 dotterel
 dove
+drongo
 duck
 eagle
 egret
+emu
 falcon
 finch|finches
+flamingo
+galah
 gannet
 goose|geese
 grebe
-grouse
+|grouse
+|guineafowl
 gull
 hawk
+hen
 heron
+hoatzin
+hoopoe
+hornbill
+hummingbird
 ibis|ibises
 jacana
+jay
 kingfisher
+kite
+kiwi
+lark
 loon
 lorikeet
+macaw
 magpie
+martin
 miner
+mockingbird
+monarch
 myna
 nightjar
 noddy|noddies
+nuthatch|nuthatches
 oriole
+osprey
 ostrich|ostriches
 owl
 pardalote
@@ -64,17 +105,22 @@ parrot
 pelican
 penguin
 petrel
+pheasant
 pigeon
 pipit
+pitta
 plover
 pratincole
 quail
 rail
 raven
+rhea
 robin
-sandgrouse
+roller
+|sandgrouse
 sandpiper
 sapsucker
+shag
 shearwater
 shrike
 skua
@@ -87,11 +133,21 @@ stork
 swallow
 swan
 swift
+tanager
 tern
 thrush|thrushes
+tinamou
 tit
+toucan
+treecreeper
+turaco
 turkey
+vireo
 vulture
 wagtail
 warbler
+weaver
+whistler
+whydah
+woodpecker
 wren

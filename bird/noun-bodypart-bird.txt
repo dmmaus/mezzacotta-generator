@@ -18,6 +18,7 @@ chest
 chin|chins|chinned
 claw
 collar
+comb
 crest
 crown
 dewlap|dewlaps|dewlapped
@@ -29,7 +30,7 @@ face|faces|faced
 fang
 feather
 fetlock
-fin|find|finned
+fin|fins|finned
 flank
 flipper
 foot|feet|footed
@@ -56,6 +57,7 @@ pate|pates|pated
 paw
 ruff
 rump
+scale|scales|scaled
 scalp
 shank
 shoulder
