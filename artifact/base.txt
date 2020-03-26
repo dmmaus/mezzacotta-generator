@@ -2,11 +2,12 @@
 @format ~
 @titlecase
 The 1$dish/wine-intensifier $artifact/adj-artifact 1$noun>$noun-artifact
-The 2$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S of 05$artifact/figure>$noun-artifact-abstract
-The 1$dish/wine-intensifier $artifact/adj-artifact $noun-artifact of 05$artifact/figure>$noun-artifact-abstract
-The 95$noun-artifact>$noun-artifact_S of 05$dish/wine-intensifier $artifact/adj-artifact $noun-artifact-abstract
-The 95$noun-artifact>$noun-artifact_S of 05$artifact/figure>$noun-artifact-abstract and 05$artifact/figure>$noun-artifact-abstract
-The $noun-artifact-abstract $noun-artifact
+The 2$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S of $artifact/quality
+The 1$dish/wine-intensifier $artifact/adj-artifact $noun-artifact of $artifact/quality
+The 95$noun-artifact>$noun-artifact_S of 05$dish/wine-intensifier $artifact/adj-artifact $artifact/quality
+The 95$noun-artifact>$noun-artifact_S of $artifact/quality and $artifact/quality
+The 95$noun-artifact>$noun-artifact_S of 05$dish/wine-intensifier $verb-transitive_ING 5$artifact/quality>$noun-artifact_S
+The $artifact/quality $noun-artifact
 The $noun-artifact 95$noun-artifact>$noun-artifact_S
 The 2$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S of the 95$noun-artifact>$noun-artifact_S
 The 4$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S of the 5$noun-geography-structure>$noun-geography-landform
@@ -19,4 +20,4 @@ The 4$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S of the 5$number-sm
 The 5$number-small $noun-artifact_S of the 5$artifact/adj-artifact $artifact/entity
 The 4$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S that $verb-transitive_ED 2$number-small 4$adj-personality $person-profession-medieval_S
 The 4$adj-personality $person-profession-medieval 's 4$artifact/adj-artifact 95$noun-artifact>$noun-artifact_S
-$artifact/figure 's $artifact/adj-artifact $noun-artifact-abstract
+$artifact/figure 's $artifact/adj-artifact 1$artifact/quality>$noun-artifact

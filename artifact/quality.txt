@@ -1,0 +1,12 @@
+# Things that an artifact can be "of". Main abstract nouns, but sometimes a figure or place.
+@format ~
+$game/place
+$artifact/figure
+$noun-artifact-abstract
+$noun-artifact-abstract
+$noun-artifact-abstract
+$noun-artifact-abstract
+$noun-artifact-abstract
+$noun-artifact-abstract
+$noun-artifact-abstract
+$noun-artifact-abstract
