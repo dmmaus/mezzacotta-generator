@@ -43,6 +43,7 @@ bone
 bonfire
 book
 boot
+booty|booties
 bottle
 bough
 bow
@@ -121,6 +122,7 @@ geode
 gift
 gizmo
 globe
+goblet
 god
 goggle
 golem
@@ -148,6 +150,7 @@ incantation
 invocation
 item
 jewel
+journey
 key
 knife|knives
 labyrinth
@@ -191,6 +194,7 @@ path
 pathogen
 pendulum
 pillar
+pineapple
 pipe
 poultice
 potion
@@ -267,12 +271,14 @@ swirl
 sword
 tablet
 telescope
+tetrahedron
 thing
 thorn
 throne
 token
 tomb
 tome
+tooth|teeth
 tornado|tornadoes
 torus|tori
 totem

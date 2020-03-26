@@ -2,6 +2,7 @@
 @format ~
 aligned
 auspicious
+balanced
 bejewelled
 blazing
 bottomless
@@ -46,6 +47,7 @@ melted
 mended
 open
 oxidised
+perforated
 philosopher's
 polished
 pulsating
@@ -53,6 +55,7 @@ pure
 quivering
 ritualistic
 rotten
+rugged
 runic
 rusty
 scattered
@@ -67,6 +70,7 @@ spicy
 steaming
 stitched-together
 stolen
+tessellated
 torn
 toxic
 unbroken

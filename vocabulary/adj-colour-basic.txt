@@ -1,5 +1,6 @@
 # Basic colour words
 @format ~
+aqua
 azure
 black
 blue
@@ -13,6 +14,7 @@ gold
 grey
 green
 jade
+lime
 maroon
 navy
 ochre

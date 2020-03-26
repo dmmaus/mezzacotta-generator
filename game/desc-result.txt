@@ -18,3 +18,7 @@ players may ignore any 5$game/terminology-card>$game/terminology-square with a $
 players on any of the $noun-geography-landform $game/terminology-square_S of the board 8$game/verb-action>$verb-transitive a 2$game/adj 8$game/terminology-card>$noun
 $game/desc-move-who is eliminated from the game
 a subgame of $game/title is played
+the previously eliminated players re-enter the game as $game/desc-faction_S
+$game/figure appears, and $verb-transitive_S one of the $game/terminology-card_S controlled by $game/desc-move-who
+the $game/figure $game/terminology-card is added to the board and $verb-transitive_S $game/desc-move-who
+$game/desc-move-who @set1(loses,forfeits,discards,sacrifices,forgets,$verb-transitive_S) $game/desc-payment

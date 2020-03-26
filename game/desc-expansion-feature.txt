@@ -16,5 +16,6 @@ add|adds the $game/figure character card to the game
 create|creates $game/adj new strategies to $verb-transitive your enemies
 unlock|unlocks $game/figure as a playable character
 tone|tones down the power level of the $noun $game/terminology-card_S
-makes|make the game more accessible for $person_S
-makes|make you wonder why you ever bought this game
+make|makes the game more accessible for $person_S
+make|makes you wonder why you ever bought this game
+introduce|introduces the $verb-intransitive_ING mechanic to the game

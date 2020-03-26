@@ -3,6 +3,7 @@
 $noun-animal graveyard
 archipelago
 atoll
+basin
 bay
 beach|beaches
 billabong
@@ -26,12 +27,15 @@ crevasse
 delta
 den
 desert
+dune
 escarpment
 |falls
 farmyard
 field
+fjord
 forest
 forest clearing
+geyser
 glacier
 glen
 gorge
@@ -78,6 +82,7 @@ stream
 summit
 swamp
 town
+tundra
 valley
 village
 vineyard

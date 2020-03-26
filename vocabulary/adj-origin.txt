@@ -6,6 +6,7 @@ arctic
 artificial
 astral
 autumnal
+biological
 celestial
 cosmic
 demonic
@@ -15,6 +16,7 @@ dwarven
 eastern
 elemental
 elven
+engineered
 faerie
 gnomish
 immortal
@@ -22,10 +24,12 @@ infernal
 man-made
 meteoric
 mortal
+natural
 northern
 oceanic
 outland
 orcish
+otherworldly
 primal
 primordial
 sky-borne

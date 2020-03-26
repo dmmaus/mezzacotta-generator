@@ -7,3 +7,4 @@ additional scenarios can be downloaded from $game/publisher , which $game/desc-e
 $noun=EXPTHING look for the *EXPTHING expansion, which is literally a *EXPTHING that $game/desc-expansion-feature_S
 attendees of ^ *PLACE 's upcoming 1$noun>$game/person_S convention may collect a promo $game/terminology-card pack, which $game/desc-expansion-feature_S
 ask your game store for the $game/figure promo card, which $game/desc-expansion-feature_S
+user-created game content is available at www. + $game/adj + $noun_S .com , which $game/desc-expansion-feature_S

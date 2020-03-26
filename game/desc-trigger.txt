@@ -14,4 +14,9 @@ when a $game/terminology-card is 8played>$verb-transitive_ED $adverb
 if any $game/terminology-card is $verb-intransitive_ING
 whenever $noun +wang is declared
 if no 5legal>valid 5actions>moves are possible,
-if a player lands on space number @random(1,100) ,
+if a player @set1(lands_on,moves_into,passes,buys,$verb-transitive_S) space number @random(1,100)
+whenever a player 5successfully>unsuccessfully $verb-intransitive_S
+if the board has $number-small $game/terminology-card_S with the same $game/terminology-feature
+whenever a player feels like it
+at random @set1(moments,times,occasions,intervals) determined by the app
+during the final $game/terminology-round of the game

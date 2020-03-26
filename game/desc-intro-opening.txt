@@ -19,3 +19,4 @@ it's a brand new way to play the classic $game/desc-intro .
 the most $game/adj game from $game/publisher ever is this $game/desc-intro .
 can you $verb-transitive the $noun in this $game/desc-intro ?
 are you $adj-person enough for this $game/desc-intro ?
+get to know your friends a whole lot better with this $game/desc-intro

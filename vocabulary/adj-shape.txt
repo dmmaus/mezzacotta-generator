@@ -21,6 +21,7 @@ jagged
 lanky
 lean
 looped
+lopsided
 morbidly obese
 narrow
 obese
@@ -45,6 +46,7 @@ square
 stocky
 stout
 swollen
+symmetrical
 tall
 tessellated
 thin

@@ -1,6 +1,7 @@
 # Adjectives of opinion, as defined by Wikipedia:
 # limiter adjectives (e.g. a real hero, a perfect idiot) and adjectives subject to subjective measure (e.g. beautiful, interesting), or with a value (e.g. good, bad, costly)
 @format ~
+almighty
 amazing
 appetising
 attractive
@@ -66,6 +67,7 @@ obscene
 obscure
 obvious
 paradoxical
+pathetic
 peculiar
 perfect
 photogenic
@@ -96,6 +98,7 @@ tedious
 tempting
 tragic
 ugly
+ultimate
 unearthly
 unfathomable
 unfortunate
