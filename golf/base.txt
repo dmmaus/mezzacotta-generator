@@ -1,0 +1,11 @@
+@format ~
+Swap your score for the <i>previous</i> hole with that of your playing partner. (Reload if playing hole one.)
+Tee off with a $golf/club .
+Don't bother putting; assume 1 more stroke once you're on the green.
+You get a no-penalty do-over for any one stroke you choose.
+Use only a $golf/club until you reach the green.
+After teeing off, all players use the worst ball position for their second stroke.
+After teeing off, all players use the best ball position for their second stroke.
+You must use a $golf/club=CLUB *CLUB at least once on this hole. (If you sink it before using a *CLUB , drop the ball just off the green.)
+Once on the green, before each putt move the ball halfway towards the hole.
+If there is a sand trap on or reasonably near this hole, you must land in the sand at least once.
