@@ -125,6 +125,8 @@ Randomly generated strings may be saved so that they can be reused later in the 
 
 Example: `Players get a $fruit=FRUIT. If they eat the *FRUIT, they win.` might generate "Players get a banana. If they eat the banana, they win."
 
+Currently it is not possible to save/reuse multiple inflections.
+
 ### Automatic replacements
 
 As a final pass, there are some automatic string replacements made to tidy up the generated text.
@@ -145,7 +147,9 @@ Example: We have two text files:
 @format ~|S
 diplodocus|diplodocuses
 Tyrannosaurus rex|rexes
+```
 
+```
 # mammal.txt
 @format ~|S
 cat
@@ -186,7 +190,7 @@ Examples:
 
 * `4really good` - 40% chance of returning "really good"; 60% chance of returning "good".
 * `4really>very good` - 40% chance of returning "really good"; 60% chance of returning "very good".
-* `4$adj>really_very` - 40% chance of returning "[random adjective] good"; 60% chance of returning "really very good".
+* `4$adj>really_very good` - 40% chance of returning "[random adjective] good"; 60% chance of returning "really very good".
 
 ## Testing markers
 
