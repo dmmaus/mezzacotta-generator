@@ -1,11 +1,49 @@
 @format ~
-Swap your score for the <i>previous</i> hole with that of your playing partner. (Reload if playing hole one.)
+#
+# Tee shots
+#
 Tee off with a $golf/club .
-Don't bother putting; assume 1 more stroke once you're on the green.
-You get a no-penalty do-over for any one stroke you choose.
-Use only a $golf/club until you reach the green.
-After teeing off, all players use the worst ball position for their second stroke.
-After teeing off, all players use the best ball position for their second stroke.
-You must use a $golf/club=CLUB *CLUB at least once on this hole. (If you sink it before using a *CLUB , drop the ball just off the green.)
-Once on the green, before each putt move the ball halfway towards the hole.
-If there is a sand trap on or reasonably near this hole, you must land in the sand at least once.
+After teeing off, each player chooses either ball position for their player partner's second stroke.
+After teeing off, each player chooses either ball position for their second stroke.
+#
+# Choice of clubs
+#
+Nominate a club that your playing partner cannot use this hole.
+You cannot use the same club more than once on this hole.
+#
+# Putting
+#
+Once both players have reached the green, swap ball positions.
+Once on the green, before each putt move the ball one clublength towards the hole.
+Once on the green, you may assume two putts, or just putt as normal.
+Whenever the ball is less than one putter-length from the cup, move it out to that distance before putting.
+#
+# Stroke modification
+#
+Once during this hole a stroke may be performed by picking the ball up and throwing it.
+You get a free mulligan this hole.
+Each player may force the other to redo one stroke on this hole.
+#
+# Compulsory actions. (If you hole out without having done the required action, you can drop the ball anywhere and continue)
+#
+You must hit a shot from behind the cup at least once this hole.
+You must putt from off the green at least once this hole.
+You must use a $golf/club=CLUB *CLUB at least once on this hole.
+You must use the same club (except a putter) for two consecutive shots.
+You must sink the ball snooker-style with the grip end of your putter.
+#
+# Scoring modification
+#
+If you land in a sand trap this hole, reduce this hole's stroke count by three.
+If you score an 5even|odd number of strokes, decrease your stroke count by one.
+#
+# Problematic ones, or ideas to be developed
+#
+# (issue - doesn't work for matchplay)
+# Swap your score for the <i>previous</i> hole with that of your playing partner.
+#
+# (issue - hitting out of a hazard with a driver would be impossible, or dangerous)
+# Use only a $golf/club until you reach the green.
+#
+# (issue - holes without sand traps are very common)
+# If there is a sand trap on or reasonably near this hole, you must land in the sand at least once.
