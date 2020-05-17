@@ -50,10 +50,10 @@ The Python generator code `generique.py` takes two or more arguments:
 
 **From a web browser:** Place the code into your web server directory, then point your browser at the top level `index.php` file. Your web server will need to allow shell execution of Python from within PHP. You may ned to edit the python path in the subdirectory `index.php` files. The PHP code calls the Python `generique.py` to generate a number of lines, and then formats the returned lines with HTML for browser display.
 
-**From the command line:** The `generique.py` script assumes that it is being called from a subdirectory. Change to a generator subdirectory (e.g. `<subdir>` = `test` or `tavern`) and run either:
+**From the command line:** The `generique.py` script assumes that it is being called from the base `generate` directory. Choose a generator subdirectory (e.g. `<subdir>` = `test` or `tavern`) and run either:
 
-* `python ../generique.py <subdir>/base <numlines>`
-* `php index.php`
+* `python generique.py <subdir>/base <numlines>` (n.b. May need `python3` to specify Python 3.)
+* `cd <subdir>` followed by `php index.php`
 
 # Vocabulary file specification
 
@@ -100,8 +100,9 @@ The only case specifier supported so far is:
 
 Text lines may contain words starting with dollar signs. These indicate replacement strings. Example:
 
-* `the $noun` - The parser returns the word `the` followed by a random selection from the vocabulary file `noun.txt`.
-* `the $noun_S` - The parser returns the word `the` followed by *the plural form* of a random selection from the vocabulary file `noun.txt`.
+* `the $noun` - The parser returns the word `the` followed by a random selection from the vocabulary file `noun.txt` in the `vocabulary` subdirectory.
+* `the <subdir>/$noun` - The parser returns the word `the` followed by a random selection from the vocabulary file `noun.txt` in the `<subdir>` subdirectory.
+* `the $noun_S` - The parser returns the word `the` followed by *the plural form* of a random selection from the vocabulary file `noun.txt`. (n.b. the plural forms must be defined in `noun.txt` - they are not automatically generated)
 * `a $adjective $noun` - The parser returns the word `a` followed by a random selection from the vocabulary file `adjective.txt` followed by a random selection from the vocabulary file `noun.txt`.
 * `a $adjective_ER $noun` - The parser returns the word `a` followed by *the comparative form* of a random selection from the vocabulary file `adjective.txt` followed by a random selection from the vocabulary file `noun.txt`.
 * `a $adjective_EST $noun` - The parser returns the word `a` followed by *the superlative form* of a random selection from the vocabulary file `adjective.txt` followed by a random selection from the vocabulary file `noun.txt`.
@@ -109,11 +110,20 @@ Text lines may contain words starting with dollar signs. These indicate replacem
 
 The parser recursively generates random strings from referenced files until it bottoms out, and then returns the entire generated string.
 
-There are also special @-commands that produce substituted text:
+There are also special @-commands that produce substituted text. The `N` in each command may be any positive integer:
 
 * `@randomN(A,B)+C` - Generates a random integer using the formula: (*N* die rolls of (a random integer from *A* to *B* inclusive)) + *C*. As well as `+`, the following operators are supported: `-`, `*`, `/` (performs integer division).
 * `@recentyearN` - Generates a year number in the past, biased towards more recent years, and substitutes it in place. `N` is a number, which is interpreted as a scale factor for the logarithmic probability distribution. Most years generated will be within *N* years of the present, but there is a long low probability tail.
-* `@setN(A,B,C...)` - Generates a randomly permuted combination of N items from the set A,B,C... (formatted with commas and a penultimate 'and')
+* `@setN(A,B,C...)` - Generates a randomly permuted combination of *N* items from the set A,B,C... (formatted with commas and a penultimate 'and')
+
+### Saving variable state
+
+Randomly generated strings may be saved so that they can be reused later in the same text. This is useful to refer back to the same random element.
+
+* `$noun=FOO` - Saves the generated noun into a variable named `FOO`.
+* `*FOO` - Substitues the saved value of `FOO` into the generated string.
+
+Example: `Players get a $fruit=FRUIT. If they eat the *FRUIT, they win.` might generate "Players get a banana. If they eat the banana, they win."
 
 ### Automatic replacements
 
