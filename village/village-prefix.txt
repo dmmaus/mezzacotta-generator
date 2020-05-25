@@ -3,6 +3,7 @@ aber
 ac
 alt
 ans
+apple
 ash
 ayle
 bal
@@ -27,6 +28,7 @@ castle
 chat
 cheap
 chelten
+cherry
 chippen
 chipping
 ciren
@@ -43,6 +45,7 @@ drum
 dun
 eagle
 east
+edin
 fair
 fal
 faulcon
