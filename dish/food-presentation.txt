@@ -140,6 +140,7 @@ cocktail
 combo
 combo meal
 compote
+compression
 con arroz
 con carne
 con crema
@@ -332,6 +333,7 @@ in a cone
 in a light $noun-food-alcohol sauce
 in a mason jar
 in a salt crust
+in a sandwich
 in a take-away container
 in a tetrahedron
 in an edible bowl
@@ -456,6 +458,7 @@ on a sesame seed bun
 on a shingle
 on a stick
 on a tasting paddle
+on an open-faced sandwich
 on horseback
 on ice
 on the bone
