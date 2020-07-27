@@ -15,6 +15,7 @@
 |freekah
 grain
 |grits
+|hemp
 |jasmine rice
 oat
 |oatmeal

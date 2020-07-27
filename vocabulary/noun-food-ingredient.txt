@@ -54,6 +54,7 @@ flower
 |molasses
 |nothing
 |palm sugar
+|pangrattato
 |red bean paste
 |rice paper
 |rock sugar

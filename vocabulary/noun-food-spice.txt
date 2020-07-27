@@ -4,6 +4,7 @@
 |basil
 |bay leaves
 |black pepper
+|borage
 |botanicals
 caper
 caraway seed
