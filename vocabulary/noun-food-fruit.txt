@@ -39,6 +39,7 @@ grape
 guava
 |honeydew
 horned melon
+|hoshigaki
 huckleberry|huckleberries
 jackfruit
 key lime
@@ -88,6 +89,7 @@ rockmelon
 rose apple
 rosella
 sapodilla
+snow apple
 starfruit
 strawberry|strawberries
 sultana

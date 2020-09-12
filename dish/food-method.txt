@@ -190,6 +190,7 @@ classic
 clay pot
 cleaned
 clear
+cloth-bound
 clotted
 clumps of
 coarse-ground
@@ -971,6 +972,7 @@ Swiss
 symphony of
 synthesis of
 synthesised
+syrup of
 syrupy
 Szechuan
 Tahitian
