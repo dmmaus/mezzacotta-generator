@@ -1,0 +1,19 @@
+# Technobabbly verb prefixes
+@format ~
+ante+
+anti+
+auto+
+co+
+contra+
+de+
+dis+
+inter+
+intra+
+over+
+para+
+pre+
+re+
+retro+
+sub+
+super+
+un+

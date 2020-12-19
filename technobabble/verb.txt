@@ -1,0 +1,19 @@
+# Technobabbly verbs
+@format ~
+adjust
+align
+bypass
+fluctuate
+flush
+frag
+clog
+calibrate
+configure
+couple
+equalise
+gauss
+ionise
+polarise
+route
+stabilise
+synchronise

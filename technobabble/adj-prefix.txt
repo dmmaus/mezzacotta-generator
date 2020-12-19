@@ -1,0 +1,25 @@
+@format ~
+bi-
+contra-
+giga-
+hemi-
+hydro-
+hyper-
+hypo-
+mega-
+meta-
+micro-
+mono-
+multi-
+nano-
+omni-
+para-
+penta-
+peri-
+poly-
+pseudo-
+retro-
+semi-
+tetra-
+trans-
+tri-

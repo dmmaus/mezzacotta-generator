@@ -1,0 +1,39 @@
+# Adjectives describing the function or purpose of an object.
+# Many of these are nouns used as a modifying adjective.
+# Should make technobabbly sense if placed before "matrix" or "manifold", for example.
+@format ~
+$technobabble/adj-function - $technobabble/adj-function
+anomaly
+antimatter
+baryon
+boson
+capacitance
+exhaust
+feedback
+forcefield
+flux
+fusion
+gluon
+graviton
+gravity
+induction
+lepton
+matter
+neutrino
+neutron
+particle
+photon
+plasma
+pressure
+quark
+reaction
+repulsor
+resonance
+scanner
+sensor
+sensory
+subspace
+tachyon
+tractor
+variance
+warp

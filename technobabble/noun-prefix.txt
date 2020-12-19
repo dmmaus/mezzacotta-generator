@@ -1,0 +1,10 @@
+# Technobabbly noun prefixes
+@format ~
+bio-
+electro-
+dyno-
+holo-
+inter-
+magneto-
+meta-
+neuro-
