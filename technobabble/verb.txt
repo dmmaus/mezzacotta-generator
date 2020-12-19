@@ -2,18 +2,22 @@
 @format ~
 adjust
 align
+atomise
 bypass
 fluctuate
 flush
 frag
 clog
 calibrate
+compensate
 configure
 couple
 equalise
 gauss
 ionise
+oscillate
 polarise
 route
 stabilise
 synchronise
+vent

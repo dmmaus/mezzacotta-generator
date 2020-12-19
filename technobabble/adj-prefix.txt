@@ -1,8 +1,10 @@
 @format ~
 bi-
+bio-
 contra-
 giga-
 hemi-
+hexi-
 hydro-
 hyper-
 hypo-

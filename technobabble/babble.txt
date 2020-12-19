@@ -1,2 +1,2 @@
 @format ~
-3$technobabble/verb-prefix $technobabble/verb the 1$technobabble/adj-prefix $technobabble/adjective $technobabble/adj-function 1$technobabble/noun-prefix $technobabble/noun-gadget !
+3$technobabble/verb-prefix $technobabble/verb the 1$technobabble/adj-prefix $technobabble/adjective $technobabble/adj-function 1$technobabble/noun-prefix @set1($technobabble/noun-gadget,$technobabble/noun-gadget_S) !

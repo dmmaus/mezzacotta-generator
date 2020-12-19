@@ -29,6 +29,7 @@ phased
 phasic
 photonic
 primary
+prismatic
 protonic
 psionic
 reticulated

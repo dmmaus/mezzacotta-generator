@@ -1,7 +1,7 @@
 # Technobabbly nouns
-@format ~
+@format ~|S
 array
-assembly
+assembly|assemblies
 beam
 boiler
 capacitor
@@ -21,14 +21,17 @@ fluid
 gateway
 generator
 grid
+impeller
 inducer
 infuser
+injector
 inverter
 loop
 manifold
 matrix
 modulator
 module
+nacelle
 network
 node
 probe
