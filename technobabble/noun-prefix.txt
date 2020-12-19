@@ -1,14 +1,18 @@
 # Technobabbly noun prefixes
 @format ~
+aero-
 bio-
 electro-
 dyno-
+geo-
 holo-
+hydro-
 inter-
 magneto-
 meta-
 multi-
 neuro-
 para-
+pyro-
 sub-
 super-

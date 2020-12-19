@@ -1,10 +1,16 @@
 @format ~
+$technobabble/adj-prefix detic
+$technobabble/adj-prefix metric
+$technobabble/adj-prefix nomic
+$technobabble/adj-prefix scopic
+$technobabble/adj-prefix tronic
 acoustic
 asymmetrical
 axionic
 autonomic
 auxiliary
 baryonic
+cybernetic
 dimensional
 directional
 dorsal
@@ -12,31 +18,40 @@ dynamic
 electronic
 elliptical
 fundamental
+gravimetric
 gravitic
 harmonic
 holographic
 hyperbolic
 ionic
 magnetic
+morphic
 neural
 neutronic
 nuclear
 nucleonic
 olfactory
 optronic
+osmotic
 parametric
 phased
 phasic
 photonic
+polar
+positronic
 primary
 prismatic
 protonic
 psionic
+quantum
+reciprocating
 reticulated
 secondary
 sonic
 spatial
 synaptic
+thermal
+thermionic
 torsional
 valent
 ventral

@@ -1,22 +1,33 @@
 # Technobabbly verbs
 @format ~
+actuate
 adjust
 align
+amplify
 atomise
+boost
 bypass
-fluctuate
-flush
-frag
-clog
 calibrate
+clog
 compensate
 configure
 couple
+direct
 equalise
+fluctuate
+flush
+focus
+frag
 gauss
+intensify
+invert
 ionise
+modify
+modulate
+nullify
 oscillate
 polarise
+reverse
 route
 stabilise
 synchronise
