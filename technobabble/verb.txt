@@ -27,8 +27,11 @@ modulate
 nullify
 oscillate
 polarise
+reticulate
 reverse
+rotate
 route
 stabilise
 synchronise
+tension
 vent

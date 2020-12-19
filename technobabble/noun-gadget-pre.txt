@@ -1,0 +1,12 @@
+# Technobabbly noun first parts
+@format ~|S
+beam
+cam
+clamp
+coil
+core
+crank
+drive
+feed
+ring
+spark

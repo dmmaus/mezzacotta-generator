@@ -7,6 +7,7 @@ geo+
 giga+
 hemi+
 hexi+
+holo+
 hydro+
 hyper+
 hypo+
@@ -29,3 +30,4 @@ semi+
 tetra+
 trans+
 tri+
+turbo+

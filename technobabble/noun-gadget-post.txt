@@ -1,0 +1,16 @@
+# Technobabbly noun second parts
+@format ~|S
+clamp
+coil
+core
+feed
+grid
+loop
+node
+plug
+scope
+seal
+shaft
+train
+tube
+valve

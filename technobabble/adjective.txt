@@ -1,8 +1,12 @@
 @format ~
+$technobabble/adj-prefix bolic
 $technobabble/adj-prefix detic
+$technobabble/adj-prefix dynamic
+$technobabble/adj-prefix graphic
 $technobabble/adj-prefix metric
 $technobabble/adj-prefix nomic
 $technobabble/adj-prefix scopic
+$technobabble/adj-prefix static
 $technobabble/adj-prefix tronic
 acoustic
 asymmetrical
@@ -22,9 +26,11 @@ gravimetric
 gravitic
 harmonic
 holographic
+hydraulic
 hyperbolic
 ionic
 magnetic
+mimetic
 morphic
 neural
 neutronic
@@ -52,6 +58,7 @@ spatial
 synaptic
 thermal
 thermionic
+thermodynamic
 torsional
 valent
 ventral
