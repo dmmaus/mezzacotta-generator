@@ -16,6 +16,7 @@ charge
 combustion
 control
 conversion
+convolution
 density
 deviation
 displacement
@@ -35,10 +36,12 @@ gradient
 graviton
 gravity
 ignition
+impedance
 impulse
 induction
 injection
 interference
+intermix
 ion
 landing
 lepton
