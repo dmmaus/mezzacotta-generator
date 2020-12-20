@@ -274,7 +274,7 @@ class Vocab:
 
             if self.quotechance is not None and self.quotechance > random.random():
                 # add smart quotes HTML entities around the result, with spaces to avoid messing up replacements
-                result = "&ldquo; " + result.rstrip() + " &rdquo;" + ' '
+                result = "“ " + result.rstrip() + " ”" + ' '
 
             results[inflection] = result
 
@@ -288,7 +288,7 @@ class MezzaGenerator:
     def __init__(self):
         self.vocabs = {}
         self.replacements = collections.OrderedDict([
-            (" ^+",""), ("^ ","^"), ("^'","'"), (" ^&rdquo;","&rdquo;"),
+            (" ^+",""), ("^ ","^"), ("^'","'"), (" ^”","”"),
             (" .","."), (" ,",","), (" '","'"), (" !","!"), (" ?","?"), (" :",":"), (" ;",";"),
             (" a a"," an a"),(" a e"," an e"),(" a o"," an o"),(" a u"," an u"),(" a i"," an i"),
             (" a A"," an A"),(" a E"," an E"),(" a O"," an O"),(" a U"," an U"),(" a I"," an I"),
@@ -298,7 +298,7 @@ class MezzaGenerator:
             ("?.","?"),("!.","!"),("?'","? '"),("!'","! '"),(".'",". '"),
             (" )",")"),("( ","("),("- ","-"),(" -","-"),(" +",""),(",,",","),
             ("+ ",""), (" + ",""),
-            ("&ldquo; ","&ldquo;"), (" &rdquo;","&rdquo;"),
+            ("“ ","“"), (" ”","”"),
             (" _",""), ("_ ", ""), ("_"," "), ("--", " - "), ("..", ".")
             ])
 
