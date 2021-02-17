@@ -1,0 +1,59 @@
+@format ~
++'s hood
+agaric
+anise
+arabic
+bark
+bean
+blossom
+bulb
+catkin
+chestnut
+claw
+drop
+ear
+flower
+foetida
+fruit
+fungus
+grass
+gum
+herb
+hip
+ivy
+laurel
+leaf
+lily
+mallow
+mushroom
+mustard
+nut
+of $noun-abstract
+of death
+of heaven
+of paradise
+of the $noun-geography-landform
+of the valley
+of the woods
+oil
+paw
+peel
+petal
+plant
+pod
+pollen
+root
+royal
+seed
+senna
+spine
+stalk
+stem
+tail
+thorn
+tree
+tuber
+vera
+weed
+willow
+wort
