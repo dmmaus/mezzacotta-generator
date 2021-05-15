@@ -105,6 +105,7 @@ beggarly
 bescabbed
 bescumbered
 beslubbering
+betwaddled
 blasphemous
 blathering
 blighted
@@ -146,6 +147,7 @@ entrail-eating
 envenomed
 errant
 ever- $verb-intransitive_ING
+feckless
 fen-sucked
 festering
 fickle
@@ -197,6 +199,7 @@ monstrous
 motherless
 muddy-mottled
 mumbling
+mumpish
 murky
 naughty
 nefarious

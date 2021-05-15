@@ -30,6 +30,7 @@ apple-john
 baggage
 bard
 barnacle
+bayard
 bedswerver
 bilge-stone
 birdbrain
@@ -47,10 +48,12 @@ bumpkin
 canker
 carbunkle
 catawump
+catchfart
 clack-dish|clack-dishes
 charlatan
 chimneysweep
 churl
+clatterfart
 clotpole
 clout
 cockalorum
@@ -58,6 +61,7 @@ codpiece
 cowplop
 coxcomb
 coxfither
+cozener
 cretin
 cumberwold
 dastard
@@ -65,6 +69,7 @@ death-token
 demi- $noun|$noun_S
 devil
 discharge
+doggery-baw
 dotard
 doxy
 drate-poke
@@ -76,6 +81,7 @@ eunuch
 eyesore
 feculence
 felon
+flarnecker
 fopdoodle
 fortune-teller
 frump
@@ -92,6 +98,8 @@ hedge-wizard
 hobby-horse
 hobby- $noun-animal|$noun-animal_S
 hooligan
+huff-snuff
+hugger-mugger
 joithead
 jolthead
 knave
@@ -138,6 +146,7 @@ pignut
 pimp
 plunder-squatch
 pock-mark
+podsnapper
 poltroon
 poncewobbler
 prune
@@ -148,6 +157,7 @@ pustule
 puttock
 puturelle
 quisby|quisbies
+quockerwodger
 rag-picker
 rakefire
 rascal
@@ -176,17 +186,21 @@ son|sons of a $insult/thing
 sot
 sponge
 stench|stenches
+stiffrump
 stink
 stool
 strumpet
 taffer
 tart
 thief|thieves
+throttlebottom
 toadstool
+toady|toadies
 tosspot
 trollop
 trull
 turd
+ultracrepidarian
 underpart
 vagabond
 varlet
@@ -195,6 +209,7 @@ villain
 wagtail
 wetfoot
 whey-face
+whiffler
 wine-bibber
 witch|witches
 wretch|wretches
