@@ -58,8 +58,8 @@ gibbering mouther
 gnoll
 golem
 gorgon
-gorgon grell
 green slime
+grell
 gremlin
 grey ooze
 grick
