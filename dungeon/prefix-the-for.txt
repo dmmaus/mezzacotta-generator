@@ -1,0 +1,9 @@
+# Prefixes expressed as "the <this> for"
+@format ~
+battle
+hunt
+hope
+quest
+prayer
+sacrifice
+search

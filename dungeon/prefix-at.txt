@@ -1,0 +1,9 @@
+# Prefixes expressed as "<this> at"
+@format ~
+$noun-artifact-abstract
+$time-of-day
+adventures
+battle
+danger
+death
+mystery

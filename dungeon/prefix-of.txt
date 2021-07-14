@@ -1,0 +1,18 @@
+# Prefixes expressed as "<this> of"
+@format ~
+$dungeon/creature_S
+$dungeon/adventurer_S
+day
+denizens
+dwellers
+fall
+magic
+night
+people
+revenge
+riches
+rise
+season
+stories
+tales
+vengeance

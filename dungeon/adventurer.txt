@@ -1,0 +1,35 @@
+@format ~|S
+$dungeon/creature|$dungeon/creature_S
+archon
+apostate
+artificer
+barbarian
+bard
+battlemage
+blademaster
+cabalist
+cleric
+death knight
+defiler
+dervish|dervishes
+druid
+elementalist
+fighter
+hunter
+monk
+necromancer
+paladin
+pyromancer
+ranger
+reaper
+revenant
+rogue
+saboteur
+sentinel
+sorceror
+templar
+warlock
+warden
+witch|witches
+wizard
+warrior

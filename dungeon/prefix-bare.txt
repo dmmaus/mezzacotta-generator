@@ -1,0 +1,8 @@
+@format ~
+$verb-transitive_ING
+against
+before
+beyond
+into
+through
+past

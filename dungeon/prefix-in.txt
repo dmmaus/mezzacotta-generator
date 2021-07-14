@@ -1,0 +1,9 @@
+# Prefixes expressed as "<this> in"
+@format ~
+$dungeon/creature_S
+$noun-artifact-abstract
+3$artifact/adj-artifact adventures
+danger
+death
+evil
+madness

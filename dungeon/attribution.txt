@@ -1,0 +1,7 @@
+@format ~
+by $name-full-modern
+by $name-full-modern
+by $name-full-modern
+by $name-full-modern and $name-full-modern
+by $name-full-modern and $name-full-modern
+by $name-forename-modern and $name-forename-modern $name-surname-modern 05$name-compound-surname-modern

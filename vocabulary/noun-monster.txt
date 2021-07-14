@@ -14,10 +14,12 @@ behir
 beholder
 black pudding
 blight
+bogle
 bugbear
 bulette
 bullywug
-carrion crwaler
+bunyip
+carrion crawler
 centaur
 chimera|chimerae
 chuul
@@ -28,6 +30,7 @@ crawling claw
 cyclops|cyclopes
 darkmantle
 death knight
+demigod
 demilich|demiliches
 devil
 displacer beast
@@ -54,8 +57,10 @@ gibbering mouther
 |gith
 gnoll
 golem
+gorgon
 gorgon grell
 green slime
+gremlin
 grey ooze
 grick
 griffon
@@ -67,6 +72,7 @@ hell hound
 helmed horror
 hippogriff
 homunculus|homunculi
+horror
 hook horror
 hydra
 illithid

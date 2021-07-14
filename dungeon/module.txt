@@ -1,0 +1,2 @@
+@format ~
+7$dungeon/prefix 9$dungeon/dungeon>$artifact/base

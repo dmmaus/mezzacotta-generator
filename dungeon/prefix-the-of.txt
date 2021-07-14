@@ -1,0 +1,21 @@
+# Prefixes expressed as "the <this> of"
+@format ~
+$noun-artifact-abstract
+$noun-artifact
+ballad
+battle
+curse
+destiny
+enchantment
+enigma
+hex
+magic
+mystery
+riddle
+saga
+secret
+song
+tale
+test
+treasure
+trials

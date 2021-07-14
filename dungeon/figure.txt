@@ -1,0 +1,8 @@
+@format ~
+$figure-fiction-dnd
+$figure-fiction-mtg-planeswalker
+$figure-mythology
+the $dungeon/creature
+the $dungeon/creature
+the $dungeon/creature
+the $dungeon/creature

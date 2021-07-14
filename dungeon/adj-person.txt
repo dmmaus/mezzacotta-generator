@@ -1,0 +1,10 @@
+# Adjectives that can describe a person.
+@format ~
+@include adj-age
+@include adj-opinion
+@include adj-origin
+@include adj-person-physical
+@include adj-personality
+@include adj-shape
+@include adj-state-animate
+@include insult/adj
