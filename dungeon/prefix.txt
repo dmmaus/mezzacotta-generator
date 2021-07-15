@@ -1,6 +1,6 @@
 @format ~
 @titlecase
-$dungeon/prefix-bare
+9$dungeon/prefix-bare>$dungeon/prefix-silly
 the $dungeon/prefix-the-of of
 $dungeon/prefix-of of
 the $dungeon/prefix-the-for for

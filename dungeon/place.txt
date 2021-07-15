@@ -19,6 +19,7 @@ den
 depths|depths
 dimension
 dungeon
+fortress|fortresses
 grotto|grottoes
 hall
 hamlet
@@ -27,9 +28,11 @@ house
 isle
 labyrinth
 lair
+land
 maze
 mausoleum
 mine
+mount
 oubliette
 palace
 passageway

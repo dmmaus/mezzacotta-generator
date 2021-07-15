@@ -1,0 +1,13 @@
+@format ~
+wilderness
+dungeon
+outdoor
+cosmic
+overland
+introductory
+new
+exciting
+classic
+role-playing
+$dungeon/adj-person
+$artifact/adj-artifact

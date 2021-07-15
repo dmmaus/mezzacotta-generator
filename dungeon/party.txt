@@ -1,0 +1,10 @@
+# text that can follow "for", and describes who the adventure module is for
+@format ~
+character levels $dungeon/levels
+character levels $dungeon/levels
+character levels $dungeon/levels
+character levels $dungeon/levels
+character levels $dungeon/levels
+$dungeon/adj-person characters of level $dungeon/levels
+$dungeon/numberword-small $dungeon/adventurer_S and a 8$dungeon/adj-person $dungeon/adventurer
+$dungeon/adj-person role-players
