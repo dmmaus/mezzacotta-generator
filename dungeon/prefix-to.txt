@@ -1,6 +1,13 @@
 # Prefixes expressed as "<this> to"
 @format ~
+campaign
+excursion
 expedition
 journey
 ode
+patrol
+pilgrimage
 return
+sojourn
+trek
+voyage

@@ -2,15 +2,23 @@
 @format ~
 $noun-artifact-abstract
 $noun-artifact
+attack
 ballad
 battle
+chronicle
+clash
 curse
 destiny
 enchantment
 enigma
 hex
+legend
 magic
 mystery
+oracle
+omen
+onslaught
+prophecy
 riddle
 saga
 secret
@@ -19,3 +27,4 @@ tale
 test
 treasure
 trials
+vision

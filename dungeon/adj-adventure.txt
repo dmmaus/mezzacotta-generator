@@ -1,13 +1,45 @@
 @format ~
-wilderness
-dungeon
-outdoor
-cosmic
-overland
-introductory
-new
-exciting
+aerial
+apocalyptic
+city-based
 classic
+classic fantasy
+cosmic
+dark fantasy
+dungeon
+dungeon-crawl
+epic
+exciting
+extraplanar
+fairy tale
+fantasy
+gothic
+gothic horror
+hex-crawling
+heroic fantasy
+high fantasy
+historical fantasy
+horror
+introductory
+low fantasy
+multiplanar
+mystery
+mythic
+new
+noir
+occult
+old-school
+outdoor
+overland
+paranormal
+political
 role-playing
+subterranean
+swashbuckling
+swords and sorcery
+underworld
+urban
+wilderness
+world-spanning
 $dungeon/adj-person
 $artifact/adj-artifact

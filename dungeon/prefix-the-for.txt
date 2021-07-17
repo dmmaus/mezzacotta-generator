@@ -1,9 +1,12 @@
 # Prefixes expressed as "the <this> for"
 @format ~
 battle
+crusade
+fight
 hunt
 hope
 quest
 prayer
 sacrifice
 search
+struggle

@@ -1,8 +1,13 @@
 @format ~
 $verb-transitive_ING
+above
 against
 before
+behind
+beneath
 beyond
 into
+over
 through
 past
+under
