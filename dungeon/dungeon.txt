@@ -1,7 +1,9 @@
 @format ~
 @titlecase
-The 2$artifact/adj-artifact @set1($dungeon/place,$dungeon/place_S) of 5$artifact/adj-artifact @set1($noun-artifact-abstract,$dungeon/creature_S,$place)
+The 2$artifact/adj-artifact @set1($dungeon/place,$dungeon/place_S) of 5$artifact/adj-artifact @set1($noun-artifact-abstract,$dungeon/creature_S,2$place>$noun-artifact_S)
 $dungeon/figure 's $dungeon/place of 15$dungeon/adj-person @set1($noun-artifact-abstract,$dungeon/creature_S,$noun-artifact_S)
 The $dungeon/place_S of the 8$dungeon/adj-person @set1($person-profession-medieval,$dungeon/creature)
 The 3$dungeon/adj-person @set1($dungeon/creature,$person-profession-medieval) 's $artifact/adj-artifact $dungeon/place
 The $dungeon/place of the 8$artifact/adj-artifact @set1($noun-artifact,$noun-artifact_S,$person-profession-medieval,$dungeon/creature)
+The @set1($dungeon/place,$dungeon/place_S) of the $dungeon/creature 's $artifact/adj-artifact @set1($noun-artifact-abstract,$noun-artifact,$noun-artifact_S)
+The @set1($noun-artifact_S,$dungeon/creature_S,$noun-artifact-abstract) of the $artifact/adj-artifact $dungeon/place

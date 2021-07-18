@@ -2,16 +2,22 @@
 @format ~
 $noun-artifact-abstract
 $noun-artifact
+annals
 attack
 ballad
 battle
 chronicle
 clash
 curse
+cycle
+demise
 destiny
+doom
 enchantment
 enigma
 hex
+hordes
+legacy
 legend
 magic
 mystery
@@ -23,6 +29,7 @@ riddle
 saga
 secret
 song
+story
 tale
 test
 treasure

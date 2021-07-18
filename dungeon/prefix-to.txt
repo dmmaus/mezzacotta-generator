@@ -1,5 +1,6 @@
 # Prefixes expressed as "<this> to"
 @format ~
+$noun-vehicle ride
 campaign
 excursion
 expedition

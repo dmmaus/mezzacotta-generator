@@ -10,3 +10,4 @@ prayer
 sacrifice
 search
 struggle
+war

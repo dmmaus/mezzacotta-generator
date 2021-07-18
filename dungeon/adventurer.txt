@@ -82,8 +82,8 @@ sorceress|sorceresses
 spellbinder
 squire
 swashbuckler
-swordsman/swordsmen
-swordswoman/swordswomen
+swordsman|swordsmen
+swordswoman|swordswomen
 templar
 theurgist
 thief|thieves

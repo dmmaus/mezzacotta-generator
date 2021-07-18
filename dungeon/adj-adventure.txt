@@ -1,18 +1,23 @@
 @format ~
 aerial
 apocalyptic
+blood-curdling
 city-based
 classic
 classic fantasy
 cosmic
+cosmic horror
 dark fantasy
 dungeon
 dungeon-crawl
+enchanted
 epic
+erotic
 exciting
 extraplanar
 fairy tale
 fantasy
+fast-paced
 gothic
 gothic horror
 hex-crawling
@@ -21,12 +26,18 @@ high fantasy
 historical fantasy
 horror
 introductory
+legacy
 low fantasy
+magical
+modern
 multiplanar
 mystery
 mythic
+mythical
+narrative
 new
 noir
+oceanfaring
 occult
 old-school
 outdoor
@@ -34,8 +45,11 @@ overland
 paranormal
 political
 role-playing
+spine-tingling
+steampunk
 subterranean
 swashbuckling
+swords and sandals
 swords and sorcery
 underworld
 urban

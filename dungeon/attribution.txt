@@ -4,4 +4,6 @@ by $name-full-modern
 by $name-full-modern
 by $name-full-modern and $name-full-modern
 by $name-full-modern and $name-full-modern
+by $name-full-modern , with @set1(_,illustrations_by) $name-full-modern
 by $name-forename-modern and $name-forename-modern $name-surname-modern 05$name-compound-surname-modern
+by $dungeon/author-and and *PRONOUN 1$noun-animal>$person-relation , $name-forename-modern
