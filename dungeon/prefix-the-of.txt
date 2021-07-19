@@ -12,11 +12,13 @@ curse
 cycle
 demise
 destiny
+diary
 doom
 enchantment
 enigma
 hex
 hordes
+journal
 legacy
 legend
 magic
@@ -25,6 +27,8 @@ oracle
 omen
 onslaught
 prophecy
+puzzle
+quandary
 riddle
 saga
 secret
