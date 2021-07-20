@@ -70,7 +70,7 @@ sphinx|sphinxes
 spy|spies
 steampunk
 superhero|superheroes
-super-intelligent shade|shades of the colour 5blue>$$adj-color-basic
+super-intelligent shade|shades of the colour 5blue>$$adj-colour-basic
 templar
 thief|thieves
 titan
