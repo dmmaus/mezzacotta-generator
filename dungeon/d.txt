@@ -7,9 +7,11 @@ dactyls
 daggers
 dairies
 daisies
+dampness
 damsels
 dancers
 dandies
+danglers
 darkness
 darkrooms
 dartboards
@@ -30,6 +32,7 @@ debits
 debris
 decor
 decoys
+deerhounds
 deists
 deltas
 deltoids
@@ -49,6 +52,7 @@ details
 detours
 devils
 dicerolls
+diehards
 diesel
 diets
 digging
@@ -64,6 +68,7 @@ diphthongs
 dipoles
 dipsticks
 dirtbags
+dirtbikes
 discord
 discos
 discounts
@@ -75,6 +80,7 @@ dismay
 displays
 disputes
 districts
+distrust
 ditties
 ditzes
 divers
@@ -88,6 +94,7 @@ dodgems
 dodos
 dogecoins
 dogfights
+doggos
 doglegs
 dogmas
 doilies
@@ -110,8 +117,10 @@ dormice
 dotards
 doubloons
 dovecotes
+dovetails
 downfalls
 downpours
+dowries
 dowsers
 doxies
 doyens
@@ -123,6 +132,7 @@ drainpipes
 drakelings
 drama
 draughtsmen
+drawstrings
 dreadlocks
 dreadnoughts
 dreamboats
@@ -133,6 +143,7 @@ drifters
 driftwood
 drive-throughs
 drivers
+drowning
 druids
 drumbeats
 drummers
@@ -147,12 +158,15 @@ duels
 duets
 dugongs
 dukedoms
+dumbbells
 dumplings
 dunces
 dunnies
 duress
+dustbins
 dusters
 dustups
 dutchmen
 duvets
+dwarflings
 dynasts
