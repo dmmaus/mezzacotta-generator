@@ -26,6 +26,7 @@ hamlet
 hive
 house
 isle
+jail
 labyrinth
 lair
 land

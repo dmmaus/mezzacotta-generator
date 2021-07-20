@@ -1,2 +1,2 @@
 @format ~
-Dungeon Module $dungeon/letter + $dungeon/number
+$dungeon/letter + $dungeon/number
