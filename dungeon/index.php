@@ -196,7 +196,7 @@ shuffle($arts);
 $angles = array();
 for ($i = 0; $i < 5; $i++)
 {
-    $angles[] = strval(rand(-20, 20) / 10.0);
+    $angles[] = strval(rand(-50, 50) / 10.0);
 }
 ?>
 
