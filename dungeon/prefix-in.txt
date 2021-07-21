@@ -2,6 +2,7 @@
 @format ~
 $dungeon/creature_S
 $noun-artifact-abstract
+$verb-intransitive_ING
 3$artifact/adj-artifact adventures
 danger
 death

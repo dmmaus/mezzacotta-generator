@@ -3,4 +3,4 @@
 , and the 5$dungeon/adj-person $dungeon/creature
 : $game/title-compound
 @set1(:,and) the 8$artifact/adj-artifact $noun-artifact
-, and all its @set1($dungeon_creature_S,$noun-artifact-abstract)
+, and all its @set1($dungeon/creature_S,$noun-artifact-abstract)

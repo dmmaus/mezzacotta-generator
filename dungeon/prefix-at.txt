@@ -1,6 +1,7 @@
 # Prefixes expressed as "<this> at"
 @format ~
 $noun-artifact-abstract
+$verb-intransitive_ING
 $time-of-day
 adventures
 assault
