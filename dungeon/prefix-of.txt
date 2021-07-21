@@ -6,6 +6,7 @@ day
 denizens
 dwellers
 fall
+in search
 magic
 night
 people
@@ -13,6 +14,7 @@ revenge
 riches
 rise
 runes
+scourge
 season
 stories
 tales

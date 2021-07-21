@@ -5,6 +5,7 @@ $noun-geography-landform|$noun-geography-landform_S
 $noun-geography-structure|$noun-geography-structure_S
 abode
 abyss|abysses
+aerie
 altar
 arena
 burrow
@@ -38,14 +39,17 @@ oubliette
 palace
 passageway
 pit
+quarry
 realm
 ruin
 sewer
 ship
 shrine
+slave pits
 temple
 tomb
 tower
 vault
 village
 tunnel
+undercity|undercities

@@ -5,6 +5,9 @@ $noun-artifact-abstract
 3$artifact/adj-artifact adventures
 danger
 death
+deception
 disaster
+doom
 evil
 madness
+refuge

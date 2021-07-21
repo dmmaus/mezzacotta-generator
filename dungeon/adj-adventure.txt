@@ -1,11 +1,13 @@
 @format ~
 aerial
+airborne
 apocalyptic
 blood-curdling
 chilling
 city-based
 classic
 classic fantasy
+complex
 cosmic
 cosmic horror
 curious
@@ -13,6 +15,7 @@ dark fantasy
 dungeon
 dungeon-crawl
 enchanted
+engrossing
 epic
 erotic
 exciting
@@ -23,16 +26,20 @@ fairy tale
 fantasy
 fast-paced
 ghostly
+globe-trotting
 gothic
 gothic horror
+haunted
 hex-crawling
 heroic fantasy
 high fantasy
 historical fantasy
 horror
+ideal
 introductory
 investigative
 legacy
+literary
 low fantasy
 magical
 modern
@@ -43,6 +50,8 @@ mythic
 mythical
 narrative
 new
+nice
+nightmarish
 noir
 oceanfaring
 occult
@@ -50,6 +59,8 @@ old-school
 outdoor
 overland
 paranormal
+party-splitting
+poetic
 political
 questing
 role-playing
@@ -61,11 +72,14 @@ subterranean
 swashbuckling
 swords and sandals
 swords and sorcery
+terrifying
 tournament
 underworld
 urban
+weird
 whimsical
 wilderness
 world-spanning
+unusual
 $dungeon/adj-person
 $artifact/adj-artifact

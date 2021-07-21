@@ -8,3 +8,5 @@ $noun-monster|$noun-monster_S
 $noun-monster|$noun-monster_S
 $noun-monster|$noun-monster_S
 $noun-monster|$noun-monster_S
+$noun-monster|$noun-monster_S
+$noun-monster|$noun-monster_S

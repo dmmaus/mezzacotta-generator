@@ -1,0 +1,6 @@
+@format ~
+, and @set1(beyond,below,above,more,everything)
+, and the 5$dungeon/adj-person $dungeon/creature
+: $game/title-compound
+@set1(:,and) the 8$artifact/adj-artifact $noun-artifact
+, and all its @set1($dungeon_creature_S,$noun-artifact-abstract)
