@@ -45,7 +45,7 @@ ruin
 sewer
 ship
 shrine
-slave pits
+slave pit
 temple
 tomb
 tower
