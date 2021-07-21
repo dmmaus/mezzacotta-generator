@@ -3,6 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>mezzacotta DM</title>
+<link rel="shortcut icon" href="https://www.mezzacotta.net/wp/wp-content/themes/mezzacotta/favicon.ico" />
 <style type="text/css">
 
 @font-face {
@@ -10,14 +11,15 @@
     src: url('SouvenirEF-Demi.otf');
 }
 
+#page {
+    text-align: center;
+}
+
 .main
 {
-    width: 800px;
-    margin-left: auto;
-    margin-right: auto;
+    display: inline-block;
     text-align: left;
     font-family: Arial;
-    height: 1800px;
 }
 
 .dungeon_book
@@ -27,15 +29,22 @@
     border-spacing: 30px 30px;
 }
 
+.dungeon_book + .dungeon_book
+{
+    margin-top: -480px;
+}
+
 img.dungeon_illustration
 {
     margin-top: 10px;
     margin-bottom: 200px;
     margin-left: 75px;
     margin-right: 75px;
-    border: 5px solid #ffffff;
     width: 750px;
     height: 300px;
+    padding: 5px;
+    background-color: white;
+    will-change: transform;
     object-fit: cover;
 }
 
@@ -135,11 +144,9 @@ p.party
     font-style: normal;
 }
 </style>
-<link rel="shortcut icon" href="https://www.mezzacotta.net/wp/wp-content/themes/mezzacotta/favicon.ico" />
-<link rel="stylesheet" href="https://www.mezzacotta.net/wp/wp-content/themes/mezzacotta/style.css" type="text/css" media="screen" />
 
 <style type="text/css" media="screen">
-	#page { background-image: url('d20_bg.png')}
+	body { background-image: url('d20_bg.png')}
 </style>
 </head>
 
@@ -159,6 +166,7 @@ $codes = explode("\n", rtrim($output));
 $command = escapeshellcmd('/usr/bin/python3 generique.py dungeon/stripe 5');
 $output = shell_exec($command);
 $output = strtoupper($output);
+$output = preg_replace("/ <BR> /", "<BR>", $output);
 $output = preg_replace("/'/", "’", $output);
 $output = preg_replace("/&/", "&amp;", $output);
 $stripes = explode("\n", rtrim($output));
@@ -179,6 +187,8 @@ $authors = explode("\n", rtrim($output));
 $command = escapeshellcmd('/usr/bin/python3 generique.py dungeon/adventure 5');
 $output = shell_exec($command);
 $output = strtoupper($output);
+$output = preg_replace("/<NOBR> /", "<NOBR>", $output);
+$output = preg_replace("/ <\/NOBR>/", "</NOBR>", $output);
 $output = preg_replace("/'/", "’", $output);
 $output = preg_replace("/&/", "&amp;", $output);
 $adventures = explode("\n", rtrim($output));
@@ -200,130 +210,95 @@ for ($i = 0; $i < 5; $i++)
 }
 ?>
 
-<?php echo "<div class=\"dungeon_book\" style=\"background-image: url('" . $papers[0] . "_paper.png'); transform: translate(0px, -0px) rotate(" . $angles[0] . "deg);\">"; ?>
+<?php echo "<div class=\"dungeon_book\" style=\"background-image: url('" . $papers[0] . "_paper.png'); transform: rotate(" . $angles[0] . "deg);\">"; ?>
 
-        <p class="dungeon_corner">
-<?php echo $codes[0]; ?>
-        </p>
-        <p class="dungeon_stripe">
-<?php echo $stripes[0]; ?>
-        </p>
-        <p class="dungeon_code">
-<?php echo "Dungeon Module " . $codes[0]; ?>
-        </p>
-        <p class="dungeon_name">
-<?php echo $modules[0]; ?>
-        </p>
-        <p class="author">
-<?php echo $authors[0]; ?>
-        </p>
-        <p class="party">
-<?php echo $adventures[0]; ?>
-        </p>
-
+<p class="dungeon_corner"><?php echo $codes[0]; ?>
+</p>
+<p class="dungeon_stripe"><?php echo $stripes[0]; ?>
+</p>
+<p class="dungeon_code"><?php echo "Dungeon Module " . $codes[0]; ?>
+</p>
+<p class="dungeon_name"><?php echo $modules[0]; ?>
+</p>
+<p class="author"><?php echo $authors[0]; ?>
+</p>
+<p class="party"><?php echo $adventures[0]; ?>
+</p>
 <?php echo '<img class="dungeon_illustration" src="art_' . strval($arts[0]) . '.png">'; ?>
 
-    </div>
+</div>
 
-<?php echo "<div class=\"dungeon_book\" style=\"background-image: url('" . $papers[1] . "_paper.png'); transform: translate(0px, -480px) rotate(" . $angles[1] . "deg);\">"; ?>
+<?php echo "<div class=\"dungeon_book\" style=\"background-image: url('" . $papers[1] . "_paper.png'); transform: rotate(" . $angles[1] . "deg);\">"; ?>
 
-        <p class="dungeon_corner">
-<?php echo $codes[1]; ?>
-        </p>
-        <p class="dungeon_stripe">
-<?php echo $stripes[1]; ?>
-        </p>
-        <p class="dungeon_code">
-<?php echo "Dungeon Module " . $codes[1]; ?>
-        </p>
-        <p class="dungeon_name">
-<?php echo $modules[1]; ?>
-        </p>
-        <p class="author">
-<?php echo $authors[1]; ?>
-        </p>
-        <p class="party">
-<?php echo $adventures[1]; ?>
-        </p>
-
+<p class="dungeon_corner"><?php echo $codes[1]; ?>
+</p>
+<p class="dungeon_stripe"><?php echo $stripes[1]; ?>
+</p>
+<p class="dungeon_code"><?php echo "Dungeon Module " . $codes[1]; ?>
+</p>
+<p class="dungeon_name"><?php echo $modules[1]; ?>
+</p>
+<p class="author"><?php echo $authors[1]; ?>
+</p>
+<p class="party"><?php echo $adventures[1]; ?>
+</p>
 <?php echo '<img class="dungeon_illustration" src="art_' . strval($arts[1]) . '.png">'; ?>
 
-    </div>
+</div>
 
-<?php echo "<div class=\"dungeon_book\" style=\"background-image: url('" . $papers[2] . "_paper.png'); transform: translate(0px, -960px) rotate(" . $angles[2] . "deg);\">"; ?>
+<?php echo "<div class=\"dungeon_book\" style=\"background-image: url('" . $papers[2] . "_paper.png'); transform: rotate(" . $angles[2] . "deg);\">"; ?>
 
-        <p class="dungeon_corner">
-<?php echo $codes[2]; ?>
-        </p>
-        <p class="dungeon_stripe">
-<?php echo $stripes[2]; ?>
-        </p>
-        <p class="dungeon_code">
-<?php echo "Dungeon Module " . $codes[2]; ?>
-        </p>
-        <p class="dungeon_name">
-<?php echo $modules[2]; ?>
-        </p>
-        <p class="author">
-<?php echo $authors[2]; ?>
-        </p>
-        <p class="party">
-<?php echo $adventures[2]; ?>
-        </p>
-
+<p class="dungeon_corner"><?php echo $codes[2]; ?>
+</p>
+<p class="dungeon_stripe"><?php echo $stripes[2]; ?>
+</p>
+<p class="dungeon_code"><?php echo "Dungeon Module " . $codes[2]; ?>
+</p>
+<p class="dungeon_name"><?php echo $modules[2]; ?>
+</p>
+<p class="author"><?php echo $authors[2]; ?>
+</p>
+<p class="party"><?php echo $adventures[2]; ?>
+</p>
 <?php echo '<img class="dungeon_illustration" src="art_' . strval($arts[2]) . '.png">'; ?>
 
-    </div>
+</div>
 
-<?php echo "<div class=\"dungeon_book\" style=\"background-image: url('" . $papers[3] . "_paper.png'); transform: translate(0px, -1440px) rotate(" . $angles[3] . "deg);\">"; ?>
+<?php echo "<div class=\"dungeon_book\" style=\"background-image: url('" . $papers[3] . "_paper.png'); transform: rotate(" . $angles[3] . "deg);\">"; ?>
 
-        <p class="dungeon_corner">
-<?php echo $codes[3]; ?>
-        </p>
-        <p class="dungeon_stripe">
-<?php echo $stripes[3]; ?>
-        </p>
-        <p class="dungeon_code">
-<?php echo "Dungeon Module " . $codes[3]; ?>
-        </p>
-        <p class="dungeon_name">
-<?php echo $modules[3]; ?>
-        </p>
-        <p class="author">
-<?php echo $authors[3]; ?>
-        </p>
-        <p class="party">
-<?php echo $adventures[3]; ?>
-        </p>
-
+<p class="dungeon_corner"><?php echo $codes[3]; ?>
+</p>
+<p class="dungeon_stripe"><?php echo $stripes[3]; ?>
+</p>
+<p class="dungeon_code"><?php echo "Dungeon Module " . $codes[3]; ?>
+</p>
+<p class="dungeon_name"><?php echo $modules[3]; ?>
+</p>
+<p class="author"><?php echo $authors[3]; ?>
+</p>
+<p class="party"><?php echo $adventures[3]; ?>
+</p>
 <?php echo '<img class="dungeon_illustration" src="art_' . strval($arts[3]) . '.png">'; ?>
 
-    </div>
+</div>
 
-<?php echo "<div class=\"dungeon_book\" style=\"background-image: url('" . $papers[4] . "_paper.png'); transform: translate(0px, -1920px) rotate(" . $angles[4] . "deg);\">"; ?>
+<?php echo "<div class=\"dungeon_book\" style=\"background-image: url('" . $papers[4] . "_paper.png'); transform: rotate(" . $angles[4] . "deg);\">"; ?>
 
-        <p class="dungeon_corner">
-<?php echo $codes[4]; ?>
-        </p>
-        <p class="dungeon_stripe">
-<?php echo $stripes[4]; ?>
-        </p>
-        <p class="dungeon_code">
-<?php echo "Dungeon Module " . $codes[4]; ?>
-        </p>
-        <p class="dungeon_name">
-<?php echo $modules[4]; ?>
-        </p>
-        <p class="author">
-<?php echo $authors[4]; ?>
-        </p>
-        <p class="party">
-<?php echo $adventures[4]; ?>
-        </p>
-
+<p class="dungeon_corner"><?php echo $codes[4]; ?>
+</p>
+<p class="dungeon_stripe"><?php echo $stripes[4]; ?>
+</p>
+<p class="dungeon_code"><?php echo "Dungeon Module " . $codes[4]; ?>
+</p>
+<p class="dungeon_name"><?php echo $modules[4]; ?>
+</p>
+<p class="author"><?php echo $authors[4]; ?>
+</p>
+<p class="party"><?php echo $adventures[4]; ?>
+</p>
 <?php echo '<img class="dungeon_illustration" src="art_' . strval($arts[4]) . '.png" style="margin-bottom: 20px;">'; ?>
 
-    </div>
+</div>
 
 </div> <!-- class=main -->
 
