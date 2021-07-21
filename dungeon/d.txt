@@ -1,5 +1,8 @@
 # 2-syllable noun words starting d, for making parodies of Dungeons & Dragons
 @format ~
+d4s
+d8s
+d10s
 d12s
 DJs
 dachshunds
@@ -9,15 +12,18 @@ daggers
 dairies
 daisies
 daleks
+dampers
 dampness
 damsels
 dancers
 dandies
 dandruff
+dangers
 danglers
 darkness
 darkrooms
 dartboards
+dashes
 dastards
 data
 dauphins
@@ -30,22 +36,26 @@ deadlifts
 deadlines
 deadlocks
 death dogs
+death knells
 death knights
 death's heads
 deathbeds
 debits
 debris
+debtors
 decor
 decoys
 deep ones
 deerhounds
 deists
+delis
 deltas
 deltoids
 delving
 demands
 demons
 dentists
+depots
 derbies
 deserts
 designs
@@ -56,8 +66,10 @@ despair
 desserts
 details
 detours
+deuces
 devas
 devils
+dewars
 dhampirs
 dicerolls
 diehards
@@ -68,6 +80,7 @@ digits
 digraphs
 diggers
 dillweed
+diners
 dingbats
 dinghies
 dingoes
@@ -76,6 +89,7 @@ diphthongs
 dipoles
 dipsticks
 dire wolves
+dirges
 dirtbags
 dirtbikes
 discord
@@ -85,6 +99,7 @@ discourse
 disdain
 disgrace
 dishcloths
+dishes
 dismay
 displays
 disputes
@@ -101,8 +116,11 @@ dockyards
 doctors
 dodgeballs
 dodgems
+dodges
 dodos
+dog-ears
 dogecoins
+doges
 dogfights
 doggos
 doglegs
@@ -124,10 +142,12 @@ doorknobs
 doormats
 doorways
 dormice
+doses
 dotards
 doubloons
 dovecotes
 dovetails
+dozers
 downfalls
 downpours
 dowries
@@ -146,8 +166,10 @@ drawstrings
 dreadlocks
 dreadnoughts
 dreamboats
+dreamers
 dreidls
 dressage
+dresses
 dribblers
 drifters
 driftwood
@@ -155,6 +177,7 @@ drive-throughs
 drivers
 dropbears
 drowning
+drowsers
 druids
 drumbeats
 drummers
@@ -180,4 +203,5 @@ dustups
 dutchmen
 duvets
 dwarflings
+dwellers
 dynasts
