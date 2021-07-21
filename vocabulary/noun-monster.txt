@@ -85,6 +85,7 @@ kuo-toa|kuo-toa
 lamia
 lich|liches
 |lizardfolk
+lurker
 lycanthrope
 magmin
 manticore

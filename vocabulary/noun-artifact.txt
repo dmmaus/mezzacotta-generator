@@ -82,7 +82,7 @@ construct
 cornucopia
 cradle
 crest
-cross
+cross|crosses
 crucible
 crystal
 cylinder
