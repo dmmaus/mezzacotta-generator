@@ -7,7 +7,7 @@ $dungeon/prefix-in in
 $dungeon/prefix-to to
 $dungeon/prefix-at at
 @set1(descent,delve) into
-the @set1(lands,realm,$noun-geography-structure) @set1(of,beyond,past,under,above)
+the @set1(lands,realm,$noun-geography-structure,$noun-geography-landform,$dungeon/place) @set1(of,beyond,past,under,above)
 $verb-transitive_ING
 the $dungeon/adventurer 's 3$artifact/adj-artifact @set1(adventure,quest,expedition) @set1(at,into,beyond,through)
 the $dungeon/adventurer 2$adverb $verb-transitive_S

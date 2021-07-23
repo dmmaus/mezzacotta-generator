@@ -3,7 +3,7 @@ $noun-animal|$noun-animal_S
 $person-profession-medieval|$person-profession-medieval_S
 $game/desc-faction|$game/desc-faction_S
 $insult/thing|$insult/thing_S
-@set1($noun-monster,$noun-animal) - $insult/verber|$insult/verber_S
+@set1($noun-monster,$noun-animal,$person-profession-medieval,$game/desc-faction) - $insult/verber|$insult/verber_S
 $noun-monster|$noun-monster_S
 $noun-monster|$noun-monster_S
 $noun-monster|$noun-monster_S

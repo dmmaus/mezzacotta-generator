@@ -1,21 +1,30 @@
 @format ~
+$game/game-mechanics-tag
+action-packed
 aerial
 airborne
 apocalyptic
 blood-curdling
 chilling
+choose-your-own-
 city-based
 classic
 classic fantasy
 complex
 cosmic
 cosmic horror
+crazy
 curious
+custom
 dark fantasy
+disturbing
 dungeon
 dungeon-crawl
+educational
 enchanted
+enchanting
 engrossing
+enlightening
 epic
 erotic
 exciting
@@ -25,6 +34,7 @@ extraplanar
 fairy tale
 fantasy
 fast-paced
+festive
 ghostly
 globe-trotting
 gothic
@@ -33,16 +43,21 @@ haunted
 hex-crawling
 heroic fantasy
 high fantasy
+high-stakes
 historical fantasy
 horror
 ideal
+insane
 introductory
 investigative
+ironic
+kid-friendly
 legacy
 literary
 low fantasy
 magical
 modern
+modular
 multiplanar
 mysterious
 mystery
@@ -53,15 +68,18 @@ new
 nice
 nightmarish
 noir
+novelty
 oceanfaring
 occult
 old-school
 outdoor
 overland
+paradoxical
 paranormal
 party-splitting
 poetic
 political
+print-and-play
 questing
 role-playing
 seafaring

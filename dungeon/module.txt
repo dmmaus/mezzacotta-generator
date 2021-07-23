@@ -1,4 +1,4 @@
 @format ~
 @titlecase
-7$dungeon/prefix 95$dungeon/dungeon>$artifact/base
+9$dungeon/prefix 95$dungeon/dungeon>$dungeon/non-dungeon
 $dungeon/dungeon 2$dungeon/suffix

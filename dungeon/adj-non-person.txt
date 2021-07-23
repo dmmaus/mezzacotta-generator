@@ -1,0 +1,10 @@
+@format ~
+$artifact/adj-artifact
+$adj-colour-basic
+$adj-material
+$adj-opinion
+$adj-origin
+$adj-shape
+$adj-size
+$adj-state-inanimate
+$adj-state-material
