@@ -25,3 +25,4 @@ and may add it to their own $game/terminology-square for $game/desc-payment
 and 5feeds>sacrifices it to the 8$noun-animal_S>$game/desc-faction_S to get $game/desc-payment
 , but only if they $verb-transitive it first
 and announces what $game/terminology-feature it is
+and may 7keep>$verb-transitive it for $game/desc-payment

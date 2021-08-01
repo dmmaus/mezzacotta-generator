@@ -11,3 +11,5 @@ are|is declared 5a>the $insult/subject
 are|is $verb-transitive_ED by all the other players
 have|has their $game/terminology-card_S $verb-transitive_ED by all the other players
 continue|continues play as a $game/desc-faction
+have|has their best $game/terminology-square_S on the board $verb-transitive_ED by @set1(the_other_players,$game/desc-move-who)
+

@@ -20,3 +20,8 @@ if the board has $number-small $game/terminology-card_S with the same $game/term
 whenever a player feels like it
 at random @set1(moments,times,occasions,intervals) determined by the app
 during the final $game/terminology-round of the game
+whenever a player is @set1(eliminated,$verb-transitive_ED)
+if a player collects all of the @set1($noun,$game/adj) $game/terminology-card_S
+if a player discards all of their @set1($noun,$game/adj) $game/terminology-card_S
+if a player has enough @set1($noun,$game/adj) $game/terminology-card_S to win
+whenever a $game/terminology-card falls out of the $noun tower

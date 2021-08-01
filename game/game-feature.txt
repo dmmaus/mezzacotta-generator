@@ -36,3 +36,9 @@ without any random elements
 with over @random(1,10) +00 unique $game/terminology-card_S
 with a $game/game-mechanic-tag twist
 with a rock-paper-scissors mechanic
+for $person-profession-modern_S
+with over @random(2,9) @set1(hundred,thousand,million,billion) board configurations
+with optional $noun packs (sold separately)
+that was banned in $place
+with optional tournament rules
+(patent pending)

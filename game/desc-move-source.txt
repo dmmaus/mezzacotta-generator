@@ -15,6 +15,7 @@ reveals the $game/terminology-card_S in the $noun tower, chooses one
 puts any number of 4$noun $game/terminology-card_S into the $game/adj $noun-container
 picks up the entire game box
 picks up the board
+picks up the table
 chooses a $game/terminology-square on any player's personal $noun board
 opens the next sealed 5packet>$noun-container of *THING cards
 takes the @set1(whole,entire,remaining) supply of 4$noun $game/terminology-card_S
@@ -28,3 +29,9 @@ turns to page @random(1,120) in the @set1(instruction_manual,rulebook,supplement
 takes the $game/terminology-card depicted on page @random(1,120) of the @set1(instruction_manual,rulebook,supplementary_guide,rules_reference,rules_almanac)
 consults the 5$game/adj>$noun table for an appropriate $game/terminology-card
 selects one of the non- $verb-transitive_ED modular board segments
+@set1(rips,tears) page @random(2,50) from the rule book
+grabs $game/desc-move-who
+takes their own $noun-bodypart-human
+selects a $game/terminology-card from the most $game/adj $game/terminology-square on the board
+chooses a $game/terminology-card from any $game/terminology-square on the board
+finds the $game/terminology-card that was 5most>least recently $verb-transitive_ED

@@ -9,7 +9,8 @@ $noun - $verb-transitive-simple_ING
 $verb-intransitive_ING
 abstract
 action
-betting
+@set1(betting,wagering,gambling)
+bag-building
 bluffing
 campaign
 card
@@ -28,7 +29,6 @@ economic
 exploration
 family
 farming
-gambling
 legacy
 living card
 manual dexterity

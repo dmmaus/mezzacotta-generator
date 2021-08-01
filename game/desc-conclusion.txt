@@ -13,6 +13,7 @@ do you have what it takes to $verb-transitive the *THING ?
 why not serve $noun-food_S while playing?
 it's the most fun since last year's wave of $game/game-mechanic-tag 2$adj-genre $game/game-category games
 teachers, this is a $game/adj educational game for $noun lessons
+teachers, your class will enjoy this after their next field trip to *PLACE
 contains @random(2,5) promo $game/terminology-card_S for $game/title
 it all proves that $noun_S plus *THINGS equals $noun-abstract
 it's the game that's banned in $place for being too $game/adj !
