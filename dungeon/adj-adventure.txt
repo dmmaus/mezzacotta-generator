@@ -1,5 +1,8 @@
 @format ~
-$game/game-mechanics-tag
+$game/game-mechanic-tag
+$dungeon/adj-person
+$artifact/adj-artifact
+$dungeon/place
 action-packed
 aerial
 airborne
@@ -99,5 +102,3 @@ whimsical
 wilderness
 world-spanning
 unusual
-$dungeon/adj-person
-$artifact/adj-artifact
