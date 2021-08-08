@@ -10,10 +10,12 @@ altar
 arena
 burrow
 castle
+cathedral
 cave
 cavern
 chapel
 chasm
+cistern
 @set1(floating,underground,hidden,_) city|cities
 cult
 den
@@ -31,6 +33,7 @@ jail
 labyrinth
 lair
 land
+mansion
 maze
 mausoleum
 mine
@@ -49,7 +52,9 @@ slave pit
 temple
 tomb
 tower
+tunnel
 vault
 village
 tunnel
 undercity|undercities
+warren

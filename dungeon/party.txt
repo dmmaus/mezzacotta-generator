@@ -8,5 +8,6 @@ character levels $dungeon/levels
 $dungeon/adj-person characters of level $dungeon/levels
 $dungeon/numberword-small $dungeon/adventurer_S and a 8$dungeon/adj-person $dungeon/adventurer
 $dungeon/adj-person 2$dungeon/adventurer_S>role-players
-$dungeon/numberword-small $dungeon/adventurer_S and their $person-relation_S
+9$dungeon/numberword-small $dungeon/adventurer_S and their $person-relation_S
 $dungeon/adventurer_S who $verb-transitive $dungeon/creature_S
+9$dungeon/numberword-small $dungeon/adventurer_S and the $person-relation of a @set1($dungeon/adventurer,$dungeon/creature)
