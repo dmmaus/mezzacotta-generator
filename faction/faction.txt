@@ -1,0 +1,5 @@
+@format ~
+@titlecase
+the 1$artifact/adj-artifact $faction/group of 9$artifact/adj-artifact $artifact/quality
+the 1$artifact/adj-artifact $faction/group of the 9$artifact/adj-artifact 8$noun-artifact>$noun-artifact_S
+the 4$adj-personality $person-profession-medieval 's 9$artifact/adj-artifact $faction/group
