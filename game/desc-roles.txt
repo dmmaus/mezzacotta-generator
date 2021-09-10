@@ -10,7 +10,7 @@ players act as a 5band>team of $game/person_S , waging 5war>battle against the *
 a 5adversarial>mastermind player controls a team of the most $game/adj *PERS1 in all of ^ *PLACE , while the others are merely 9$game/person_S>$insult/thing_S
 players become *PERS1 , $game/verb-compete_ING to be $verb-transitive_ED by ^ *PLACE 's most $adj-person *PERS2
 players choose to become a $game/desc-faction , $game/desc-faction or $game/desc-faction , teaming up to 2destroy>$verb-transitive the *PERS1 of ^ *PLACE
-players form one team representing ^ *PLACE , and an opposing team their 1$game/adj 5ancient>arch- enemy: ^ @set1($game/place,*PERS1,$noun-animal_S,*THINGS,$game/desc-faction_S)
+players form one team representing ^ *PLACE , and an opposing team their 1$game/adj 5ancient>arch- enemy: ^ @set1($game/place,*PERS1,$noun-animal_S,*THINGS,$game/desc-faction_S,$faction/faction)
 everyone plays as a character from amongst the game's factions: @set3(*PERS1,$noun-animal_S,$game/place_NS,$game/person_S,$insult/thing_S,$game/desc-faction_S)
 players are $sport coaches, drafting their teams from amongst the @set3(*PERS1,$noun-animal_S,$game/person_S,$game/person_S,$game/person_S,$insult/thing_S,$game/desc-faction_S) of ^ *PLACE
 players adopt roles from the government of ^ *PLACE 's Department of ^ @set1($verb-intransitive_ING,$noun-artifact-abstract,$noun_S,$game/desc-faction_S)
@@ -20,3 +20,6 @@ players 5elect>are_randomly_assigned to join the @set1(team,army,forces,side,squ
 the players are *PERS1 embarking on a race from $game/place to ^ *PLACE $game/desc-in-vehicle ( or, $game/desc-in-vehicle if they @set1(so_choose,prefer,would_rather) )
 players on one team are the $game/desc-faction_S , and must $verb-transitive $game/figure , but the $game/desc-faction team is trying to prevent that
 players begin as 8$game/desc-faction_S>$game/person_S , and during the course of the game may @set1(progress_as,upgrade_to,transform_into) 8$game/desc-faction_S>$game/person_S and @set1(finally,optionally,maybe_even,sometimes,inevitably,usually,literal) 8$game/desc-faction_S>$game/person_S
+players band together to form $faction/faction
+players band together to @set1(oppose,destroy,defeat,$verb-transitive) $faction/faction
+a 5adversarial>mastermind player @set1(acts_as,plays_as,controls) $faction/faction , while the others are in opposition as $game/desc-faction_S
