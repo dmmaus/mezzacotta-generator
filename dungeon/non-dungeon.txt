@@ -4,3 +4,4 @@ $artifact/base
 the $dungeon/creature in the $dungeon/adj-non-person $insult/apparel
 the $dungeon/creature who $verb-transitive_S @set1($dungeon/creature_S,$dungeon/adventurer_S,$noun_S)
 the @set1($dungeon/creature_S,$dungeon/adventurer_S,$noun_S) that $verb-transitive the $dungeon/creature
+$faction/faction

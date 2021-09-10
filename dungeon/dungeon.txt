@@ -7,3 +7,5 @@ The 3$dungeon/adj-person @set1($dungeon/creature,$person-profession-medieval) 's
 The $dungeon/place of the 8$artifact/adj-artifact @set1($noun-artifact,$noun-artifact_S,$person-profession-medieval,$dungeon/creature)
 The @set1($dungeon/place,$dungeon/place_S) of the $dungeon/creature 's $artifact/adj-artifact @set1($noun-artifact-abstract,$noun-artifact,$noun-artifact_S)
 The @set1($noun-artifact_S,$dungeon/creature_S,$noun-artifact-abstract) of the $artifact/adj-artifact $dungeon/place
+The 2$artifact/adj-artifact @set1($dungeon/place,$dungeon/place_S) of $faction/faction
+$faction/faction of the $artifact/adj-artifact $dungeon/place
