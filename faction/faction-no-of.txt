@@ -1,0 +1,2 @@
+@format ~
+the 4$adj-personality $person-profession-medieval 's 9$artifact/adj-artifact $faction/group
