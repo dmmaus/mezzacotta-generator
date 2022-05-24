@@ -1,0 +1,34 @@
+# An item that might appear in release notes for software
+@format ~
+The @set1($noun,$verb-intransitive_ING,$person-profession) emoji has been @set1(added,added,added,removed)
+$releasenote/character characters can no longer $verb-transitive @set1($noun_S,$releasenote/character_S)
+Fixed an issue where the character could appear $adjective while $verb-transitive_ING $noun_S
+Fixed an issue where $releasenote/character_S could become $adjective after getting $verb-transitive_ED by @set1($noun_S,$releasenote/character_S)
+Card balance: The ^ @set1($adjective,$verb-intransitive_ING) ^ $releasenote/character card now costs an additional @random(2,5) @set1($noun-currency_S,mana,gold,health,$noun_S) to play
+Added $artifact/base as a level @random(4,12) @set1(treasure,reward,loot_item,artifact,mythic,card)
+$artifact/base can no longer be equipped by @set1($adjective,$verb-transitive_ING) characters
+@set1($releasenote/character,$adjective) characters will now notice an increased drop rate for $noun-artifact_S
+When selected during character creation, ^ *ADJ characters will now appear @set1(significantly,moderately) @set1(more,more,less) *ADJ $adjective=ADJ
+A special $time-holiday ^ $village/festival-festival event will award $noun_S for those who participate by $verb-transitive_ING $releasenote/character_S
+$noun-monster_S now deal reduced 2$artifact/adj-artifact damage after being $verb-transitive_ED
+The $game/desc-faction @set1(spell,ability,action) , ^ @set1($verb-transitive,$verb-intransitive) , now @set1(heals,deals,prevents,redirects) an additional @random(2,5) ^ 2$artifact/adj-artifact damage
+$artifact/base can now be purchased at the in-game store for @random(10,200) @set1($noun-currency_S,gold,gems)
+Added $figure-all as a playable character
+$releasenote/character_S can now craft the $releasenote/consumable consumable item, which restores @random(5,20) @set1(health,mana,prestige,reputation)
+An all-new @set1(chapter,encounter,adventure,dungeon) awaits: ^ $dungeon/dungeon . Unlock now for @random(10,200) @set1($noun-currency_S,gold,gems)
+Players who attempt the @set1(module,dungeon,adventure,instance) ^ $dungeon/dungeon will no longer require @random(2,15) $noun-artifact_S in their inventory
+Added localisation options for $place
+$alchemy/herb can now be found as a drop from $noun-monster_S
+$alchemy/herb can now be used as a reagent for ^ @set1($noun-artifact-abstract,$verb-transitive_ING) @set1(spells,potions)
+Alchemy merchants will now trade @random(2,10) ^ @set1($alchemy/herb) for @random(2,10) ^ @set1($alchemy/herb,$noun-currency_S,gold,silver)
+Fixed an issue where $figure-all 's @set1($noun-bodypart,$noun-weapon,$noun-animal) appeared more $artifact/adj-artifact than intended
+$releasenote/character_S can now join $faction/faction by completing the quest line ^ $dungeon/dungeon
+Fixed an issue where characters could be $verb-transitive_ED by $faction/faction
+Players may travel in-game to $tavern/base to purchase $releasenote/consumable items
+$place has been added to the in-game map, but beware, you may be $verb-transitive_ED by ^ $noun-monster_S there
+Music from $band/base 's latest album has been added to the game's soundtrack
+The ^ $releasenote/character playable @set1(class,profession) has been added to the game, with specialisations including: ^ @set3($releasenote/nounverber,$artifact/adj-artifact,$faction/faction-of)
+Fixed an issue where $noun-monster_S may become immune to ^ $artifact/quality damage when attacked with $noun-weapon_S
+A new @set1(rare,mythic,legendary,_) mount, $releasenote/mount is now awarded to players who $releasenote/task
+The ^ 5$artifact/adj-artifact ^ $noun-container of ^ $artifact/quality , a @random(4,20) -slot bag, can now be purchased from crafting merchants for @random(10,200) @set1($noun-currency_S,gold,gems)
+_ ^ @set1($noun-animal,$noun-vehicle) type mounts now travel @set1(slightly,significantly,moderately) @set1(slower,faster) in $noun-geography-landform environments

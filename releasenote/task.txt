@@ -1,0 +1,6 @@
+@format ~
+complete $dungeon/dungeon heroic instance
+collect @random(2,2000) $noun-artifact_S
+reach level @random(40,100)
+defeat @random(10,50) $releasenote/character_S in PVP
+gain @random(5,12) levels without $verb-transitive_ING anything

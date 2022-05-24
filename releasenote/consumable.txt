@@ -1,0 +1,4 @@
+@format ~
+@titlecase
+3$dish/food-method $noun-food 3$dish/food-presentation
+$artifact/adj-artifact $noun-artifact

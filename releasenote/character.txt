@@ -1,0 +1,5 @@
+@format ~|S
+@titlecase
+$person-profession-medieval|$person-profession-medieval_S
+$person-profession|$person-profession_S
+9$game/desc-faction>$insult/thing|9$game/desc-faction_S>$insult/thing_S

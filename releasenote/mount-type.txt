@@ -1,0 +1,6 @@
+@format ~
+$noun-animal
+$noun-animal
+$noun-animal
+$noun-vehicle
+$noun-monster

@@ -1,0 +1,2 @@
+@format ~
+@set1($noun-weapon,$noun-animal,$person-profession-medieval) - @set1(keeper,wielder,eater,maker)
