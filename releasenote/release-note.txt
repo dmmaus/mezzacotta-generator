@@ -13,12 +13,12 @@ A special $time-holiday ^ $village/festival-festival event will award $noun_S fo
 $noun-monster_S now deal reduced 2$artifact/adj-artifact damage after being $verb-transitive_ED
 The $game/desc-faction @set1(spell,ability,action) , ^ @set1($verb-transitive,$verb-intransitive) , now @set1(heals,deals,prevents,redirects) an additional @random(2,5) ^ 2$artifact/adj-artifact damage
 $artifact/base can now be purchased at the in-game store for @random(10,200) @set1($noun-currency_S,gold,gems)
-Added $figure-all as a playable character
+Added $figure-all as a playable character, who has a @set1($artifact/adj-artifact,$adjective) @set1($noun-weapon,$noun-bodypart) and a @set1(unique,special,legendary,mythic,rare) @set1($noun-animal,$noun-vehicle) mount that can be $verb-transitive_ED
 $releasenote/character_S can now craft the $releasenote/consumable consumable item, which restores @random(5,20) @set1(health,mana,prestige,reputation)
 An all-new @set1(chapter,encounter,adventure,dungeon) awaits: ^ $dungeon/dungeon . Unlock now for @random(10,200) @set1($noun-currency_S,gold,gems)
 Players who attempt the @set1(module,dungeon,adventure,instance) ^ $dungeon/dungeon will no longer require @random(2,15) $noun-artifact_S in their inventory
 Added localisation options for $place
-$alchemy/herb can now be found as a drop from $noun-monster_S
+$alchemy/herb can now be found as a drop from $noun-monster_S (they keep it in their @set1($noun-clothing_S,$insult/apparel) )
 $alchemy/herb can now be used as a reagent for ^ @set1($noun-artifact-abstract,$verb-transitive_ING) @set1(spells,potions)
 Alchemy merchants will now trade @random(2,10) ^ @set1($alchemy/herb) for @random(2,10) ^ @set1($alchemy/herb,$noun-currency_S,gold,silver)
 Fixed an issue where $figure-all 's @set1($noun-bodypart,$noun-weapon,$noun-animal) appeared more $artifact/adj-artifact than intended
@@ -32,3 +32,6 @@ Fixed an issue where $noun-monster_S may become immune to ^ $artifact/quality da
 A new @set1(rare,mythic,legendary,_) mount, $releasenote/mount is now awarded to players who $releasenote/task
 The ^ 5$artifact/adj-artifact ^ $noun-container of ^ $artifact/quality , a @random(4,20) -slot bag, can now be purchased from crafting merchants for @random(10,200) @set1($noun-currency_S,gold,gems)
 _ ^ @set1($noun-animal,$noun-vehicle) type mounts now travel @set1(slightly,significantly,moderately) @set1(slower,faster) in $noun-geography-landform environments
+$insult/apparel_S now function as a @random(2,8) -slot bag, capable of holding $artifact/adj-artifact items only
+The @set1(_,time-limited,$village/festival-festival,special,in-game) ^ $game/title-compound event has started! Can your @set1(guild,tribe,clan,faction) @set1(collect,$verb-transitive,defeat,craft) enough @set1($alchemy/herb,$noun_S,$noun-artifact-abstract) to @set1(be_awarded,win,claim,destroy,craft,build) $artifact/base ?
+A new player faction, $faction/faction is now available for all PVP modes. Members have enhanced $noun-artifact-abstract and their @set1($insult/apparel_S,$noun-bodypart_S) appear more $adjective
