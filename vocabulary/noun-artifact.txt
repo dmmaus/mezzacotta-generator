@@ -20,6 +20,7 @@ $person-relation|$person-relation_S
 aegis
 altar
 armament
+armour
 apparatus|apparatuses
 arch|arches
 archive
@@ -35,6 +36,7 @@ banner
 beacon
 bell
 bident
+birdcage
 blade
 blob
 bolt
@@ -49,6 +51,7 @@ bough
 bow
 bowl
 box|boxes
+bulb
 bullet
 bulwark
 bush|bushes
@@ -67,6 +70,7 @@ chair
 chamber
 chest
 chunk
+circle
 claw
 cloak
 clock
@@ -105,12 +109,14 @@ fairy|fairies
 falcon
 fan
 fang
+feather
 filigree
 fire
 flame
 flap
 flute
 fragment
+frame
 friend
 frond
 fork
@@ -151,9 +157,12 @@ invocation
 item
 jewel
 journey
+kaleidoscope
 key
 knife|knives
+knot
 labyrinth
+lantern
 lattice
 leaf|leaves
 lion
@@ -165,6 +174,7 @@ loop
 lord
 lotus|lotuses
 lute
+mail
 manifold
 mantle
 map
@@ -176,6 +186,7 @@ mirror
 mist
 monolith
 monument
+mosaic
 muffin
 needle
 nest
@@ -185,6 +196,7 @@ obelisk
 object
 oblong
 ovum|ova
+packet
 page
 palimpsest
 painting
@@ -193,9 +205,11 @@ paragon
 path
 pathogen
 pendulum
+phylactery
 pillar
 pineapple
 pipe
+plume
 poultice
 potion
 powerstone
@@ -208,6 +222,7 @@ pyramid
 pyre
 quantum
 queen
+rainbow
 realm
 regulator
 relic
@@ -224,9 +239,11 @@ sanctum
 scarecrow
 scimitar
 scream
+scripture
 scroll
 scythe
 sea
+seal
 secret
 seed
 sentry
@@ -254,6 +271,7 @@ sphere
 spheroid
 sphinx
 spiral
+spoon
 spore
 spyglass|spyglasses
 square
@@ -309,5 +327,6 @@ whistle
 window
 |wings
 world
+|wrappings
 wreck
 zone
