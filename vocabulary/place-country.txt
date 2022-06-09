@@ -177,7 +177,7 @@ Togo|Togolese|Togolese
 Tonga
 Trinidad_and_Tobago|Trinidadian|Trinidadians
 Tunisia
-Turkey|Turk|Turks
+Türkiye|Turk|Turks
 Turkmenistan|Turkmen|Turkmens
 Tuvalu|Tuvaluan|Tuvaluans
 Uganda
