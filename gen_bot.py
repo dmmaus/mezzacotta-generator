@@ -21,6 +21,8 @@ class GenClient(discord.Client):
         self.register_template('law', 'An obscure law for some part of the world', ['law/base'])
         self.register_template('babble', 'A line of technobabble from sci-fi', ['technobabble/babble'])
         self.register_template('village', 'A quaint village and it\'s famous festival', ['village/base', 'village/festival-base'])
+        self.register_template('band', 'A band name', ['band/base'])
+        self.register_template('wine', 'The name of a wine, and it\'s description', ['dish/wine-name', 'dish/wine-description'])
 
     async def on_ready(self):
         now = datetime.now()

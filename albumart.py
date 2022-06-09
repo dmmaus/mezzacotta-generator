@@ -266,7 +266,7 @@ class AlbumArt():
         else:
             self.cover.paste(cropped, (x_min, y_min))
 
-    def generate(self):
+    def generate(self, debug=False):
         # Random adjustments of the album/band
         if random.randrange(100) < 20:
             self.album_title = self.album_title.lower()
@@ -420,10 +420,12 @@ class AlbumArt():
             commands.append('band')
             commands.append('title')
 
-        print('Filter list with maximum', max_wackiness, 'wackiness:\n  ', end=' ')
+        if debug:
+            print('Filter list with maximum', max_wackiness, 'wackiness:\n  ', end=' ')
 
         for command in commands:
-            print(command, end=' ')
+            if debug:
+                print(command, end=' ')
             if command == 'band':
                 self.drawBand(band_typeface, tuple(band_colour))
             elif command == 'title':
@@ -432,13 +434,16 @@ class AlbumArt():
                 is_full = random.randrange(100) < filter_wackiness[command][1]
                 self.filter(command, is_full)
                 if is_full:
-                    print('(full)', end=' ')
-        print()
+                    if debug:
+                        print('(full)', end=' ')
+        if debug:
+            print()
 
         # Print useful information
-        print('Band: ' + self.band_name.replace('\n', ' ') + ' (' + band_typeface.split('\\')[-1] + ')')
-        print('Album: ' + self.album_title + ' (' + album_typeface.split('\\')[-1] + ')')
-        print('Artwork keyword: ' + matching_keyword)
+        if debug:
+            print('Band: ' + self.band_name.replace('\n', ' ') + ' (' + band_typeface.split('\\')[-1] + ')')
+            print('Album: ' + self.album_title + ' (' + album_typeface.split('\\')[-1] + ')')
+            print('Artwork keyword: ' + matching_keyword)
 
         return self.cover.copy()
 
