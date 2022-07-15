@@ -1,0 +1,7 @@
+@format ~
+Super
+Super
+Super
+$adjective
+Super-duper
+$adj-determiner -super

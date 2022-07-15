@@ -1,0 +1,22 @@
+@format ~
+wolf
+blood
+harvest
+bat
+buck
+snow
+worm
+pink
+flower
+strawberry
+sturgeon
+corn
+hunter's
+beaver
+cold
+blue
+$adjective
+$adjective -ass
+$noun-animal
+$adj-determiner $supermoon/adj
+$supermoon/adj $supermoon/adj

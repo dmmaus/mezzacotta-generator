@@ -1,0 +1,5 @@
+@format ~
+$supermoon/super $supermoon/adj moon
+$supermoon/super $supermoon/adj $supermoon/adj moon
+$supermoon/super $supermoon/adj $supermoon/adj $supermoon/adj moon
+$supermoon/super $supermoon/adj $supermoon/adj $supermoon/adj $supermoon/adj moon
