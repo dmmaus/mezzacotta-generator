@@ -1,0 +1,25 @@
+@format ~
+bat
+beaver
+beetle
+blood
+blue
+buck
+cloud
+cold
+corn
+fire
+flower
+tree
+growing
+harvest
+hay
+iron
+ice
+snow
+spell
+sturgeon
+storm
+tree
+wolf
+worm

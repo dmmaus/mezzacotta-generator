@@ -1,22 +1,17 @@
 @format ~
-wolf
-blood
-harvest
-bat
-buck
-snow
-worm
-pink
-flower
-strawberry
-sturgeon
-corn
-hunter's
-beaver
-cold
-blue
-$adjective
-$adjective -ass
-$noun-animal
+$supermoon/adj-moon
+$supermoon/adj-moon
+$supermoon/adj-moon
+$supermoon/adj-moon
+$supermoon/adj-moon
 $adj-determiner $supermoon/adj
 $supermoon/adj $supermoon/adj
+@set1($adj-colour-basic,$noun-material)
+$adjective 05>-ass
+$dish/ingredient
+$noun-artifact-abstract
+$releasenote/character 's
+$person-profession-medieval 's
+@set1($noun-bodypart,$noun-instrument-musical,$noun-animal)
+@set1($technobabble/adjective,$insult/thing,$alchemy/herb)
+@set1($artifact/adj-artifact,$dish/food-method)
