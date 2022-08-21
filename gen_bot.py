@@ -17,12 +17,14 @@ class GenClient(discord.Client):
         self.register_template('releasenote', 'Release note item for an online RPG', ['releasenote/release-note'])
         self.register_template('game', 'A board and description', ['game/title-full', 'game/desc-paragraph-1', 'game/desc-paragraph-2', 'game/desc-paragraph-3'])
         self.register_template('insult', 'A medieval style insult', ['insult/base'])
+        self.register_template('moon', 'An absurd supermoon', ['supermoon/moon'])
         self.register_template('movie', 'A movie title and synopsis', ['movie/title', 'movie/directed', 'movie/synopsis'])
         self.register_template('law', 'An obscure law for some part of the world', ['law/base'])
         self.register_template('babble', 'A line of technobabble from sci-fi', ['technobabble/babble'])
         self.register_template('village', 'A quaint village and it\'s famous festival', ['village/base', 'village/festival-base'])
         self.register_template('band', 'A band name', ['band/base'])
         self.register_template('wine', 'The name of a wine, and it\'s description', ['dish/wine-name', 'dish/wine-description'])
+
 
     async def on_ready(self):
         now = datetime.now()
