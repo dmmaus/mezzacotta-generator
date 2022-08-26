@@ -1,0 +1,50 @@
+@format ~
+@titlecase
+$tome/liber $tome/latinus_AE
+$tome/liber $tome/latinus_EM
+$tome/liber $tome/latinus_IA
+$tome/liber $tome/latinus_UM
+$tome/liber $tome/latinus_US
+$tome/liber $tome/latinword $tome/latinus_AE
+$tome/liber $tome/latinword $tome/latinus_EM
+$tome/liber $tome/latinword $tome/latinus_IA
+$tome/liber $tome/latinword $tome/latinus_UM
+$tome/liber $tome/latinword $tome/latinus_US
+$tome/latinword $tome/latinus_AE
+$tome/latinword $tome/latinus_EM
+$tome/latinword $tome/latinus_IA
+$tome/latinword $tome/latinus_UM
+$tome/latinword $tome/latinus_US
+5The $tome/book of $adj-state-material $noun_S
+5The $tome/book of $tome/adj-evil $tome/noun-evil
+5The $tome/book of $tome/adj-evil $tome/noun-evil_S
+5The $tome/book_S of $tome/adj-evil $tome/noun-evil
+5The $tome/book_S of $tome/adj-evil $tome/noun-evil_S
+5The $tome/writing_S of $adj-state-material $noun_S
+5The $tome/writing_S of $tome/adj-evil $tome/noun-evil
+5The $tome/writing_S of $tome/adj-evil $tome/noun-evil_S
+5The $tome/adj-evil $tome/book
+5The $tome/adj-evil $tome/writing_S
+5The $tome/adj-evil $tome/book of $tome/noun-evil
+5The $tome/adj-evil $tome/book of $tome/noun-evil_S
+5The $tome/adj-evil $tome/book of $tome/adj-evil $tome/noun-evil
+5The $tome/adj-evil $tome/book of $tome/adj-evil $tome/noun-evil_S
+$name-surname-old 's $tome/book of $adj-state-material $noun_S
+$name-surname-old 's $tome/book of $tome/adj-evil $tome/noun-evil_S
+$name-surname-old 's $tome/writing_S of $adj-state-material $noun_S
+$name-surname-old 's $tome/writing_S of $tome/adj-evil $tome/noun-evil_S
+$figure-fiction-dnd 's $tome/book of $adj-state-material $noun_S
+$figure-fiction-dnd 's $tome/book of $tome/adj-evil $tome/noun-evil_S
+$figure-fiction-dnd 's $tome/book_S of $tome/adj-evil $tome/noun-evil_S
+$figure-fiction-dnd 's $tome/writing_S of $adj-state-material $noun_S
+$figure-fiction-dnd 's $tome/writing_S of $tome/adj-evil $tome/noun-evil_S
+$figure-fiction-dnd 's $tome/adj-evil $tome/noun-evil
+$figure-fiction-dnd 's $tome/adj-evil $tome/noun-evil_S
+$figure-fiction-dnd 's $tome/adj-evil $tome/book of $tome/noun-evil_S
+$figure-fiction-dnd 's $tome/adj-evil $tome/book_S of $tome/noun-evil_S
+$figure-fiction-dnd 's $tome/adj-evil $tome/book of $tome/adj-evil $tome/noun-evil_S
+$figure-fiction-dnd 's $tome/adj-evil $tome/book_S of $tome/adj-evil $tome/noun-evil_S
+6The $tome/adj-evil $tome/writing of $figure-fiction-dnd
+6The $tome/adj-evil $tome/writing_S of $figure-fiction-dnd
+6The $tome/adj-evil $tome/book of $figure-fiction-dnd
+6The $tome/adj-evil $tome/book_S of $figure-fiction-dnd

@@ -1,0 +1,12 @@
+@format ~
+carta
+chartus
+codex
+codex
+codex
+liber
+liber
+liber
+scriptum
+tractatus
+volumen

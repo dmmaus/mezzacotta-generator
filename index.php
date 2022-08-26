@@ -13,6 +13,7 @@ A generic, extensible, customisable random text generator. The code is <a href="
 <ul>
 <li><a href="tavern/">Fantasy tavern names</a></li>
 <li><a href="insult/">Mockery Most Vicious</a> - fantasy insults, perfect for when your <i>D&amp;D</i> bard unleashes Vicious Mockery</li>
+<li><a href="dungeon/">Dungeon Adventure Modules</a> - perfect for your <i>D&amp;D</i> campaign</li>
 <li><a href="dish/">mezzacotta Café version 2</a> - the reincarnation of the original <a href="/mezzacafe/">mezzacotta Café</a> with all-new code.</li>
 <li><a href="movie/">mezzacotta Cinématique version 2</a> - the reincarnation of the original <a href="/cinematique/">mezzacotta Cinématique</a> with all-new code.</li>
 </ul>
@@ -28,6 +29,8 @@ A generic, extensible, customisable random text generator. The code is <a href="
 <li><a href="cereal/">Random breakfast cereals</a></li>
 <li><a href="band/">Random band names</a></li>
 <li><a href="technobabble/">Random technobabble</a></li>
+<li><a href="alchemy/">Random alchemical ingredients</a></li>
+<li><a href="tome/">Random eldritch tomes</a></li>
 </ul>
 </body>
 </html>
