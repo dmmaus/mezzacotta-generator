@@ -11,10 +11,12 @@ $insult/thing -skite
 $noun -fetcher
 $noun -head
 $noun-animal -baiter
-$noun-animal -pie
 $noun-animal dropping
-$noun-animal - $noun-animal|$noun-animal_S
+$noun-animal -pie
 $noun-animal +plop
+$noun-animal -raker
+$noun-animal thief|thieves
+$noun-animal - $noun-animal|$noun-animal_S
 $noun-geography-landform -dweller
 $noun-bodypart -beast
 $noun-bodypart -witch
@@ -53,11 +55,13 @@ clack-dish|clack-dishes
 charlatan
 chimneysweep
 churl
+claker
 clatterfart
 clotpole
 clout
 cockalorum
 codpiece
+cookie wench
 cowplop
 coxcomb
 coxfither
@@ -90,6 +94,7 @@ fustyplug
 5garbage>rubbish - $insult/set|$insult/set_S
 gobermouch|gobermouches
 goon-sack
+grifter
 gudgeon
 haggard
 harlot
@@ -98,8 +103,11 @@ hedge-wizard
 hobby-horse
 hobby- $noun-animal|$noun-animal_S
 hooligan
+huckster
 huff-snuff
 hugger-mugger
+illywhacker
+interloper
 joithead
 jolthead
 knave
@@ -126,6 +134,7 @@ mountebank
 muck-spout
 mugwump
 mumblecrust
+mumper
 mumpsimus|mumpsimuses
 namby-pamby|namby-pambies
 ne'er-do-well
@@ -136,6 +145,7 @@ ninnyhammer
 |no- $noun-bodypart_S
 nutter
 outhouse
+palliard
 pantaloon
 pantywaist
 parasite
@@ -160,6 +170,7 @@ quisby|quisbies
 quockerwodger
 rag-picker
 rakefire
+rapscallion
 rascal
 redolence
 saddle- $noun-animal|$noun-animal_S
@@ -185,11 +196,13 @@ snowberry|snowberries
 son|sons of a $insult/thing
 sot
 sponge
+sponger
 stench|stenches
 stiffrump
 stink
 stool
 strumpet
+swindler
 taffer
 tart
 thief|thieves
