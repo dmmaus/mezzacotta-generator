@@ -9,6 +9,7 @@
 @include adj-size
 @include adj-state-inanimate
 @include adj-state-material
+@include adj-lovecraftian
 $adj-personality
 $adj-personality
 $adj-personality
