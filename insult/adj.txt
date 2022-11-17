@@ -108,6 +108,7 @@ beslubbering
 betwaddled
 blasphemous
 blathering
+blemished
 blighted
 bony
 boorish
@@ -115,6 +116,7 @@ bug-eyed
 bulbous
 cack- $noun-bodypart-human +ed
 callipygian
+cantankerous
 capric
 castrated
 catawumpus
@@ -132,10 +134,13 @@ cozening
 craven
 crooked- $noun-bodypart-human +ed
 crusty
+daft
 dankish
+debased
 debauched
 decrepit
 deformed
+depraved
 diminuitive
 dismal-dreaming
 dissembling
@@ -150,11 +155,13 @@ ever- $verb-intransitive_ING
 feckless
 fen-sucked
 festering
+fetid
 fickle
 flab-waisted
 fleering
 folly-fallen
 fool-borne
+foppish
 formless
 forsaken
 fractious
@@ -162,6 +169,7 @@ frumpish
 froward
 full-gorged
 gangrenous
+ghoulish
 gibbering
 gleeking
 gormless
@@ -172,10 +180,13 @@ hasty-witted
 hell-hated
 hideous
 home-spun
+horrid
+horsey
 ill-nurtured
 impertinent
 incestuous
 incontinent
+indolent
 jarring
 jaundiced
 jelly-boned
@@ -183,6 +194,8 @@ lack-witted
 lecherous
 leprous
 light-blinded
+limping
+limp- $noun-bodypart-human +ed
 loggerheaded
 loppylugged
 lopsided
@@ -193,6 +206,7 @@ malodorous
 mammering
 mangled
 mangy
+miasmic
 miserly
 mongrel
 monstrous
@@ -204,25 +218,32 @@ murky
 naughty
 nefarious
 never- $verb-intransitive_ING
+obnoxious
 odiferous
+odious
 oily
 overripe
 overweening
+pallid
 parasitic
 paunchy
 pediculous
 peevish
 perfidious
 pernicious
+perverted
 pestiferous
 piddling
+plodding
 plume-plucked
 polluted
 pompous
+ponderous
 pottle-deep
 pox-marked
 pribbling
 puke- $insult/apparel +ed
+pungent
 pustulent
 rabid
 rancorous
@@ -239,7 +260,9 @@ scrofulous
 scurvy
 shameless
 shrunken
+sickly
 silly
+sinful
 skittering
 slanderous
 slobbering
@@ -251,37 +274,44 @@ special
 spittle- $insult/apparel +ed
 spleeny
 spoony
-swollen-headed
 star-crossed
+stomach-turning
+swollen-headed
 tallow-faced
 tardy-gaited
 tarred-and-feathered
 tart-tongued
 tickle- $noun-bodypart-human +ed
 toad-spotted
+torpid
 toxic
 threepenny
 thrice- $verb-transitive-simple_ED
 tumescent
 twice- $verb-transitive-simple_ED
+uncouth
 unfavourable
 unlettered
 unlicked
 unmuzzled
 unrighteous
 unsanitary
+unsightly
 useless
 vainglorious
 verminous
 vigorless
 vile
+vinegary
 viperous
 virulent
 vomitorious
+vulgar
 wanton
 warty
 wayward
 weedy
 woebegone
 yeasty
+yellowed
 zero-charisma
