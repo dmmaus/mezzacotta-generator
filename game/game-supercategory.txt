@@ -23,7 +23,9 @@ educational
 fast-paced
 historically accurate
 hot-off-the-presses
+kickstarted
 language-independent
+legacy
 licensed
 limited edition
 luxury edition
@@ -31,6 +33,8 @@ much hyped
 new
 oversized
 pocket-version
+print-and-play
+procedurally-generated
 public domain
 re-released
 recycled

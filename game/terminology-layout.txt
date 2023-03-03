@@ -4,3 +4,7 @@ board
 layout
 map
 tableau|tableaux
+display
+pile
+grid
+network

@@ -1,11 +1,14 @@
 @format ~|S
 age
 cycle
+dynasty
 epoch
 era
+generation
 leg
 round
 turn
 phase
 stage
 step
+year

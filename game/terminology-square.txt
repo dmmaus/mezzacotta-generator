@@ -4,6 +4,7 @@ building
 district
 domain
 enclosure
+farm
 hex|hexes
 land
 locale
@@ -15,6 +16,7 @@ sector
 segment
 space
 square
+system
 territory|territories
 track
 zone

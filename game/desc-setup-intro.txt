@@ -1,0 +1,7 @@
+@format ~
+#Intro to the setup step
+To set up, $game/desc-setup .
+After opening the box, $game/desc-setup .
+The game begins when $game/desc-setup .
+During setup, $game/desc-setup .
+When play begins, $game/desc-setup .

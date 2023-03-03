@@ -11,3 +11,6 @@ rarity|rarities
 shape
 tribe
 type
+cost
+attack value
+defense value

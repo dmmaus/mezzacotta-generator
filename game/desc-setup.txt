@@ -1,2 +1,8 @@
+@format ~
 # Statements about the general setup of the game, putting token/cards on the board, or giving things to players
-the $noun-artifact deck is shuffled and random(2,12) cards dealt to each player
+the $noun-artifact deck is shuffled and @random(2,12) cards dealt to each player
+$game/desc-move-who $game/desc-penalty_S
+players may swap roles by paying $game/desc-payment
+players pack the game away and play $game/title instead
+the players @set1(select,choose) which 2$game/adj $game/terminology-square_S to place their $noun_S on
+randomly select @random(2,5) modular boards, and arrange the most $game/adj ones in a $game/terminology-layout

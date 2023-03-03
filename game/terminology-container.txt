@@ -4,3 +4,7 @@ deck
 packet
 box|boxes
 chest
+pile
+envelope
+bag
+stack

@@ -5,6 +5,7 @@ action selection
 area control
 area-enclosure
 auction-based
+bag-building
 card drafting
 clue-giving
 dice crafting
@@ -44,6 +45,7 @@ rule deduction
 semi-simultaneous
 set collection
 simultaneous action selection
+storytelling
 structure building
 tactical
 tile placement
