@@ -34,6 +34,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 * `album.py` requires the following Python packages:
     * flickrapi
     * Pillow
+    * opencv-python
 
 ## Files
 
