@@ -24,6 +24,7 @@ class GenClient(discord.Client):
         self.register_template('village', 'A quaint village and it\'s famous festival', ['village/base', 'village/festival-base'])
         self.register_template('band', 'A band name', ['band/base'])
         self.register_template('wine', 'The name of a wine, and it\'s description', ['dish/wine-name', 'dish/wine-description'])
+        self.register_template('art', 'The title of an artwork in a posh gallery', ['art/artwork-title'])
 
 
     async def on_ready(self):
